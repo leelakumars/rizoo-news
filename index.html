@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rizoo News Injector</title>
+    <title>Rizoo News Manager</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
@@ -11,247 +11,287 @@
             background: #0a0a0a;
             color: #e0e0e0;
             min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+            padding: 40px 20px;
         }
-        .container {
-            max-width: 520px;
-            width: 100%;
-            padding: 40px 24px;
-        }
-        h1 {
-            font-size: 24px;
-            font-weight: 700;
-            margin-bottom: 8px;
-            color: #c8ff00;
-        }
-        .subtitle {
-            color: #888;
-            font-size: 14px;
-            margin-bottom: 32px;
-        }
-        .form-group {
-            margin-bottom: 20px;
-        }
+        .container { max-width: 600px; margin: 0 auto; }
+        h1 { font-size: 24px; font-weight: 700; color: #c8ff00; margin-bottom: 4px; }
+        h2 { font-size: 18px; font-weight: 600; color: #c8ff00; margin: 32px 0 16px; }
+        .subtitle { color: #888; font-size: 14px; margin-bottom: 24px; }
+        .form-group { margin-bottom: 16px; }
         label {
-            display: block;
-            font-size: 12px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            color: #888;
-            margin-bottom: 6px;
+            display: block; font-size: 11px; font-weight: 600;
+            text-transform: uppercase; letter-spacing: 0.5px;
+            color: #888; margin-bottom: 4px;
         }
         input, textarea {
-            width: 100%;
-            padding: 12px 14px;
-            background: #1a1a1a;
-            border: 1px solid #333;
-            border-radius: 10px;
-            color: #e0e0e0;
-            font-size: 15px;
-            font-family: inherit;
-            outline: none;
-            transition: border-color 0.2s;
+            width: 100%; padding: 10px 12px; background: #1a1a1a;
+            border: 1px solid #333; border-radius: 8px; color: #e0e0e0;
+            font-size: 14px; font-family: inherit; outline: none;
         }
-        input:focus, textarea:focus {
-            border-color: #c8ff00;
-        }
-        textarea { resize: vertical; min-height: 80px; }
+        input:focus, textarea:focus { border-color: #c8ff00; }
+        textarea { resize: vertical; min-height: 60px; }
         .or-divider {
-            text-align: center;
-            color: #555;
-            font-size: 13px;
-            margin: 24px 0;
-            position: relative;
+            text-align: center; color: #555; font-size: 12px;
+            margin: 16px 0; position: relative;
         }
         .or-divider::before, .or-divider::after {
-            content: '';
-            position: absolute;
-            top: 50%;
-            width: 40%;
-            height: 1px;
-            background: #333;
+            content: ''; position: absolute; top: 50%; width: 40%; height: 1px; background: #333;
         }
         .or-divider::before { left: 0; }
         .or-divider::after { right: 0; }
-        button {
-            width: 100%;
-            padding: 14px;
-            background: #c8ff00;
-            color: #0a0a0a;
-            font-size: 16px;
-            font-weight: 700;
-            border: none;
-            border-radius: 12px;
-            cursor: pointer;
+        .btn {
+            padding: 12px 20px; font-size: 14px; font-weight: 700;
+            border: none; border-radius: 10px; cursor: pointer;
             transition: opacity 0.2s;
-            margin-top: 8px;
         }
-        button:hover { opacity: 0.9; }
-        button:disabled {
-            opacity: 0.4;
-            cursor: not-allowed;
-        }
+        .btn:hover { opacity: 0.85; }
+        .btn:disabled { opacity: 0.4; cursor: not-allowed; }
+        .btn-primary { background: #c8ff00; color: #0a0a0a; width: 100%; }
+        .btn-danger { background: #ff4444; color: #fff; font-size: 12px; padding: 6px 12px; }
+        .btn-small { background: #333; color: #ccc; font-size: 12px; padding: 6px 12px; border-radius: 6px; }
         .status {
-            margin-top: 16px;
-            padding: 12px;
-            border-radius: 10px;
-            font-size: 14px;
-            display: none;
+            margin-top: 12px; padding: 10px; border-radius: 8px; font-size: 13px; display: none;
         }
-        .status.success {
-            display: block;
-            background: #1a2e0a;
-            border: 1px solid #3d6b1a;
-            color: #c8ff00;
-        }
-        .status.error {
-            display: block;
-            background: #2e0a0a;
-            border: 1px solid #6b1a1a;
-            color: #ff6b6b;
-        }
-        .status.loading {
-            display: block;
-            background: #1a1a2e;
-            border: 1px solid #333;
-            color: #aaa;
-        }
+        .status.success { display: block; background: #1a2e0a; border: 1px solid #3d6b1a; color: #c8ff00; }
+        .status.error { display: block; background: #2e0a0a; border: 1px solid #6b1a1a; color: #ff6b6b; }
+        .status.loading { display: block; background: #1a1a2e; border: 1px solid #333; color: #aaa; }
         .token-group {
-            margin-bottom: 24px;
-            padding: 16px;
-            background: #111;
-            border-radius: 10px;
-            border: 1px solid #222;
+            margin-bottom: 20px; padding: 14px; background: #111;
+            border-radius: 8px; border: 1px solid #222;
         }
         .token-group label { color: #666; }
         .token-group input { background: #0a0a0a; }
-        .help {
-            font-size: 11px;
-            color: #555;
-            margin-top: 4px;
+        .help { font-size: 11px; color: #555; margin-top: 3px; }
+        .article-card {
+            background: #111; border: 1px solid #222; border-radius: 10px;
+            padding: 14px; margin-bottom: 10px;
         }
+        .article-card .headline { font-weight: 600; font-size: 14px; margin-bottom: 4px; }
+        .article-card .meta { font-size: 12px; color: #666; margin-bottom: 8px; }
+        .article-card .actions { display: flex; gap: 8px; }
+        .loading-articles { color: #666; font-size: 13px; padding: 20px 0; }
+        .section-divider { border-top: 1px solid #222; margin: 32px 0; }
+        .tabs { display: flex; gap: 8px; margin-bottom: 24px; }
+        .tab {
+            padding: 8px 16px; border-radius: 8px; font-size: 13px; font-weight: 600;
+            cursor: pointer; border: 1px solid #333; background: transparent; color: #888;
+        }
+        .tab.active { background: #c8ff00; color: #0a0a0a; border-color: #c8ff00; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Inject News Article</h1>
-        <p class="subtitle">Paste a URL or enter details manually. Rewrites for all 18 industry clusters automatically.</p>
+        <h1>Rizoo News Manager</h1>
+        <p class="subtitle">Inject, edit, or remove articles from the personalized news feed.</p>
 
         <div class="token-group">
-            <label>GitHub Personal Access Token</label>
+            <label>GitHub Token</label>
             <input type="password" id="token" placeholder="ghp_..." />
             <p class="help">Needs workflow dispatch permission on leelakumars/rizoo</p>
         </div>
 
-        <div class="form-group">
-            <label>Article URL</label>
-            <input type="url" id="url" placeholder="https://techcrunch.com/2026/03/..." />
+        <div class="tabs">
+            <button class="tab active" onclick="switchTab('inject')">Inject New</button>
+            <button class="tab" onclick="switchTab('manage')">Manage Feed</button>
         </div>
 
-        <div class="or-divider">or enter manually</div>
+        <!-- INJECT TAB -->
+        <div class="tab-content active" id="tab-inject">
+            <div class="form-group">
+                <label>Article URL</label>
+                <input type="url" id="url" placeholder="https://techcrunch.com/2026/03/..." />
+            </div>
 
-        <div class="form-group">
-            <label>Headline</label>
-            <input type="text" id="headline" placeholder="OpenAI launches new agent framework" />
+            <div class="or-divider">or enter manually</div>
+
+            <div class="form-group">
+                <label>Headline</label>
+                <input type="text" id="headline" placeholder="OpenAI launches new agent framework" />
+            </div>
+            <div class="form-group">
+                <label>Summary</label>
+                <textarea id="summary" placeholder="Brief description of what happened..."></textarea>
+            </div>
+            <div class="form-group">
+                <label>Source</label>
+                <input type="text" id="source" placeholder="TechCrunch" />
+            </div>
+
+            <button class="btn btn-primary" id="submit" onclick="inject()">
+                Inject & Rewrite for 18 Clusters
+            </button>
+            <div class="status" id="inject-status"></div>
         </div>
 
-        <div class="form-group">
-            <label>Summary</label>
-            <textarea id="summary" placeholder="Brief description of what happened..."></textarea>
+        <!-- MANAGE TAB -->
+        <div class="tab-content" id="tab-manage">
+            <p class="loading-articles" id="articles-loading">Loading current feed...</p>
+            <div id="articles-list"></div>
+            <div class="status" id="manage-status"></div>
         </div>
-
-        <div class="form-group">
-            <label>Source</label>
-            <input type="text" id="source" placeholder="TechCrunch" value="" />
-        </div>
-
-        <button id="submit" onclick="inject()">Inject & Rewrite for 18 Clusters</button>
-
-        <div class="status" id="status"></div>
     </div>
 
     <script>
+        const FEED_URL = 'https://raw.githubusercontent.com/leelakumars/rizoo-news/main/feed.json';
+        const DISPATCH_BASE = 'https://api.github.com/repos/leelakumars/rizoo/actions/workflows';
+
+        function switchTab(tab) {
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+            document.querySelector(`#tab-${tab}`).classList.add('active');
+            event.target.classList.add('active');
+            if (tab === 'manage') loadArticles();
+        }
+
+        // --- INJECT ---
         async function inject() {
             const token = document.getElementById('token').value.trim();
             const url = document.getElementById('url').value.trim();
             const headline = document.getElementById('headline').value.trim();
             const summary = document.getElementById('summary').value.trim();
             const source = document.getElementById('source').value.trim();
-            const status = document.getElementById('status');
+            const status = document.getElementById('inject-status');
             const btn = document.getElementById('submit');
 
-            if (!token) {
-                status.className = 'status error';
-                status.textContent = 'GitHub token is required';
-                return;
-            }
-
-            if (!url && !headline) {
-                status.className = 'status error';
-                status.textContent = 'Provide a URL or headline';
-                return;
-            }
+            if (!token) return showStatus(status, 'error', 'GitHub token is required');
+            if (!url && !headline) return showStatus(status, 'error', 'Provide a URL or headline');
 
             btn.disabled = true;
-            status.className = 'status loading';
-            status.textContent = 'Triggering pipeline... This takes ~2 minutes.';
+            showStatus(status, 'loading', 'Triggering pipeline... Takes ~2 minutes.');
 
-            // Build inputs for workflow dispatch
-            const inputs = {};
-            if (url) {
-                inputs.url = url;
-            } else {
-                inputs.headline = headline;
-                inputs.summary = summary;
-                inputs.source = source || 'Manual';
-            }
+            const inputs = url ? { url } : { headline, summary, source: source || 'Manual' };
 
             try {
-                const resp = await fetch(
-                    'https://api.github.com/repos/leelakumars/rizoo/actions/workflows/inject-news.yml/dispatches',
-                    {
-                        method: 'POST',
-                        headers: {
-                            'Authorization': `Bearer ${token}`,
-                            'Accept': 'application/vnd.github.v3+json',
-                            'Content-Type': 'application/json',
-                        },
-                        body: JSON.stringify({
-                            ref: 'main',
-                            inputs: inputs,
-                        }),
-                    }
-                );
+                const resp = await fetch(`${DISPATCH_BASE}/inject-news.yml/dispatches`, {
+                    method: 'POST',
+                    headers: authHeaders(token),
+                    body: JSON.stringify({ ref: 'main', inputs }),
+                });
 
                 if (resp.status === 204) {
-                    status.className = 'status success';
-                    status.textContent = 'Pipeline triggered! Article will appear in the app within ~2 minutes. Check GitHub Actions for progress.';
-                    // Clear form
+                    showStatus(status, 'success', 'Triggered! Article appears in ~2 min.');
                     document.getElementById('url').value = '';
                     document.getElementById('headline').value = '';
                     document.getElementById('summary').value = '';
                 } else {
                     const err = await resp.json();
-                    status.className = 'status error';
-                    status.textContent = `Error: ${err.message || resp.statusText}`;
+                    showStatus(status, 'error', err.message || resp.statusText);
                 }
             } catch (e) {
-                status.className = 'status error';
-                status.textContent = `Network error: ${e.message}`;
+                showStatus(status, 'error', e.message);
             }
-
             btn.disabled = false;
         }
 
-        // Save token to localStorage
+        // --- MANAGE ---
+        async function loadArticles() {
+            const list = document.getElementById('articles-list');
+            const loading = document.getElementById('articles-loading');
+            loading.style.display = 'block';
+            list.innerHTML = '';
+
+            try {
+                const resp = await fetch(FEED_URL + '?t=' + Date.now());
+                const feed = await resp.json();
+
+                loading.style.display = 'none';
+
+                if (!feed.articles || feed.articles.length === 0) {
+                    list.innerHTML = '<p style="color:#666">No articles in feed.</p>';
+                    return;
+                }
+
+                // Show generated time
+                const genDate = new Date(feed.generated_at);
+                list.innerHTML = `<p style="color:#555;font-size:12px;margin-bottom:12px">
+                    Feed generated: ${genDate.toLocaleString()} (${feed.articles.length} articles)
+                </p>`;
+
+                feed.articles.forEach(art => {
+                    const ago = timeAgo(art.published_at);
+                    const card = document.createElement('div');
+                    card.className = 'article-card';
+                    card.innerHTML = `
+                        <div class="headline">${escHtml(art.headline)}</div>
+                        <div class="meta">#${art.index} &middot; ${escHtml(art.source)} &middot; ${ago}</div>
+                        <div style="font-size:12px;color:#888;margin-bottom:8px">${escHtml(art.description).slice(0, 120)}...</div>
+                        <div class="actions">
+                            <button class="btn-danger btn" onclick="removeArticle(${art.index})">Remove</button>
+                        </div>
+                    `;
+                    list.appendChild(card);
+                });
+            } catch (e) {
+                loading.style.display = 'none';
+                list.innerHTML = `<p style="color:#ff6b6b">Failed to load feed: ${e.message}</p>`;
+            }
+        }
+
+        async function removeArticle(index) {
+            const token = document.getElementById('token').value.trim();
+            const status = document.getElementById('manage-status');
+            if (!token) return showStatus(status, 'error', 'GitHub token required');
+            if (!confirm(`Remove article #${index}?`)) return;
+
+            showStatus(status, 'loading', `Removing article #${index}...`);
+
+            try {
+                const resp = await fetch(`${DISPATCH_BASE}/manage-news.yml/dispatches`, {
+                    method: 'POST',
+                    headers: authHeaders(token),
+                    body: JSON.stringify({
+                        ref: 'main',
+                        inputs: { action: 'remove', article_index: String(index) },
+                    }),
+                });
+
+                if (resp.status === 204) {
+                    showStatus(status, 'success', `Article #${index} removal triggered. Feed updates in ~30s.`);
+                    setTimeout(loadArticles, 2000);
+                } else {
+                    const err = await resp.json();
+                    showStatus(status, 'error', err.message || resp.statusText);
+                }
+            } catch (e) {
+                showStatus(status, 'error', e.message);
+            }
+        }
+
+        // --- HELPERS ---
+        function authHeaders(token) {
+            return {
+                'Authorization': `Bearer ${token}`,
+                'Accept': 'application/vnd.github.v3+json',
+                'Content-Type': 'application/json',
+            };
+        }
+
+        function showStatus(el, type, msg) {
+            el.className = `status ${type}`;
+            el.textContent = msg;
+        }
+
+        function escHtml(str) {
+            return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+                .replace(/&#8217;/g, "'").replace(/&#8216;/g, "'");
+        }
+
+        function timeAgo(dateStr) {
+            try {
+                const d = new Date(dateStr);
+                const hrs = Math.floor((Date.now() - d) / 3600000);
+                if (hrs < 1) return 'Just now';
+                if (hrs < 24) return `${hrs}h ago`;
+                return `${Math.floor(hrs / 24)}d ago`;
+            } catch { return ''; }
+        }
+
+        // Persist token
         const tokenInput = document.getElementById('token');
         tokenInput.value = localStorage.getItem('rizoo_token') || '';
-        tokenInput.addEventListener('change', () => {
-            localStorage.setItem('rizoo_token', tokenInput.value);
-        });
+        tokenInput.addEventListener('input', () => localStorage.setItem('rizoo_token', tokenInput.value));
     </script>
 </body>
 </html>
