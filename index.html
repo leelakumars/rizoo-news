@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rizoo News Injector</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            max-width: 520px;
+            width: 100%;
+            padding: 40px 24px;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: #c8ff00;
+        }
+        .subtitle {
+            color: #888;
+            font-size: 14px;
+            margin-bottom: 32px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: #888;
+            margin-bottom: 6px;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 12px 14px;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 10px;
+            color: #e0e0e0;
+            font-size: 15px;
+            font-family: inherit;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        input:focus, textarea:focus {
+            border-color: #c8ff00;
+        }
+        textarea { resize: vertical; min-height: 80px; }
+        .or-divider {
+            text-align: center;
+            color: #555;
+            font-size: 13px;
+            margin: 24px 0;
+            position: relative;
+        }
+        .or-divider::before, .or-divider::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            width: 40%;
+            height: 1px;
+            background: #333;
+        }
+        .or-divider::before { left: 0; }
+        .or-divider::after { right: 0; }
+        button {
+            width: 100%;
+            padding: 14px;
+            background: #c8ff00;
+            color: #0a0a0a;
+            font-size: 16px;
+            font-weight: 700;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: opacity 0.2s;
+            margin-top: 8px;
+        }
+        button:hover { opacity: 0.9; }
+        button:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+        .status {
+            margin-top: 16px;
+            padding: 12px;
+            border-radius: 10px;
+            font-size: 14px;
+            display: none;
+        }
+        .status.success {
+            display: block;
+            background: #1a2e0a;
+            border: 1px solid #3d6b1a;
+            color: #c8ff00;
+        }
+        .status.error {
+            display: block;
+            background: #2e0a0a;
+            border: 1px solid #6b1a1a;
+            color: #ff6b6b;
+        }
+        .status.loading {
+            display: block;
+            background: #1a1a2e;
+            border: 1px solid #333;
+            color: #aaa;
+        }
+        .token-group {
+            margin-bottom: 24px;
+            padding: 16px;
+            background: #111;
+            border-radius: 10px;
+            border: 1px solid #222;
+        }
+        .token-group label { color: #666; }
+        .token-group input { background: #0a0a0a; }
+        .help {
+            font-size: 11px;
+            color: #555;
+            margin-top: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Inject News Article</h1>
+        <p class="subtitle">Paste a URL or enter details manually. Rewrites for all 18 industry clusters automatically.</p>
+
+        <div class="token-group">
+            <label>GitHub Personal Access Token</label>
+            <input type="password" id="token" placeholder="ghp_..." />
+            <p class="help">Needs workflow dispatch permission on leelakumars/rizoo</p>
+        </div>
+
+        <div class="form-group">
+            <label>Article URL</label>
+            <input type="url" id="url" placeholder="https://techcrunch.com/2026/03/..." />
+        </div>
+
+        <div class="or-divider">or enter manually</div>
+
+        <div class="form-group">
+            <label>Headline</label>
+            <input type="text" id="headline" placeholder="OpenAI launches new agent framework" />
+        </div>
+
+        <div class="form-group">
+            <label>Summary</label>
+            <textarea id="summary" placeholder="Brief description of what happened..."></textarea>
+        </div>
+
+        <div class="form-group">
+            <label>Source</label>
+            <input type="text" id="source" placeholder="TechCrunch" value="" />
+        </div>
+
+        <button id="submit" onclick="inject()">Inject & Rewrite for 18 Clusters</button>
+
+        <div class="status" id="status"></div>
+    </div>
+
+    <script>
+        async function inject() {
+            const token = document.getElementById('token').value.trim();
+            const url = document.getElementById('url').value.trim();
+            const headline = document.getElementById('headline').value.trim();
+            const summary = document.getElementById('summary').value.trim();
+            const source = document.getElementById('source').value.trim();
+            const status = document.getElementById('status');
+            const btn = document.getElementById('submit');
+
+            if (!token) {
+                status.className = 'status error';
+                status.textContent = 'GitHub token is required';
+                return;
+            }
+
+            if (!url && !headline) {
+                status.className = 'status error';
+                status.textContent = 'Provide a URL or headline';
+                return;
+            }
+
+            btn.disabled = true;
+            status.className = 'status loading';
+            status.textContent = 'Triggering pipeline... This takes ~2 minutes.';
+
+            // Build inputs for workflow dispatch
+            const inputs = {};
+            if (url) {
+                inputs.url = url;
+            } else {
+                inputs.headline = headline;
+                inputs.summary = summary;
+                inputs.source = source || 'Manual';
+            }
+
+            try {
+                const resp = await fetch(
+                    'https://api.github.com/repos/leelakumars/rizoo/actions/workflows/inject-news.yml/dispatches',
+                    {
+                        method: 'POST',
+                        headers: {
+                            'Authorization': `Bearer ${token}`,
+                            'Accept': 'application/vnd.github.v3+json',
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({
+                            ref: 'main',
+                            inputs: inputs,
+                        }),
+                    }
+                );
+
+                if (resp.status === 204) {
+                    status.className = 'status success';
+                    status.textContent = 'Pipeline triggered! Article will appear in the app within ~2 minutes. Check GitHub Actions for progress.';
+                    // Clear form
+                    document.getElementById('url').value = '';
+                    document.getElementById('headline').value = '';
+                    document.getElementById('summary').value = '';
+                } else {
+                    const err = await resp.json();
+                    status.className = 'status error';
+                    status.textContent = `Error: ${err.message || resp.statusText}`;
+                }
+            } catch (e) {
+                status.className = 'status error';
+                status.textContent = `Network error: ${e.message}`;
+            }
+
+            btn.disabled = false;
+        }
+
+        // Save token to localStorage
+        const tokenInput = document.getElementById('token');
+        tokenInput.value = localStorage.getItem('rizoo_token') || '';
+        tokenInput.addEventListener('change', () => {
+            localStorage.setItem('rizoo_token', tokenInput.value);
+        });
+    </script>
+</body>
+</html>
