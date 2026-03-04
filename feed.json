@@ -1,724 +1,754 @@
 {
   "version": 1,
-  "generated_at": "2026-03-04T13:59:01.590903+00:00",
-  "run_id": "20260304_135736",
+  "generated_at": "2026-03-04T19:37:15.304473+00:00",
+  "run_id": "20260304_193548",
   "articles": [
     {
-      "id": "39de69922c98",
+      "id": "86885294b2f3",
       "index": 0,
+      "headline": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
+      "description": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last.",
+      "link": "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html",
+      "source": "CNBC",
+      "topic": "AI Industry",
+      "published_at": "2026-03-04T19:34:50+00:00"
+    },
+    {
+      "id": "f9891106649a",
+      "index": 1,
+      "headline": "US military uses Anthropic's Claude for AI-driven strike planning in Iran war",
+      "description": "In the war against Iran, the US military is using generative AI at scale for target selection and strike planning for the first time. Of all models, it's the one from the company Washington just banned. The article US military uses Anthropic's Claude for AI-driven strike planning in Iran war appeared first on The Decoder.",
+      "link": "https://the-decoder.com/us-military-uses-anthropics-claude-for-ai-driven-strike-planning-in-iran-war/",
+      "source": "The Decoder",
+      "topic": "AI Tools",
+      "published_at": "2026-03-04T16:14:58+00:00"
+    },
+    {
+      "id": "07fc18f38ef0",
+      "index": 2,
+      "headline": "Google’s AI-powered workspace is now available to more users in Search",
+      "description": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside […]",
+      "link": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+      "source": "The Verge",
+      "topic": "AI Industry",
+      "published_at": "2026-03-04T13:57:01-05:00"
+    },
+    {
+      "id": "39de69922c98",
+      "index": 3,
       "headline": "X to ban users from earning revenue if they post unlabelled AI-generated war videos",
-      "description": "Social media feeds have been flooded with fake battle scenes since start of Iran conflictElon Musk’s X will ban users from making money on the platform if they repeatedly post unlabelled AI-generated war videos, after social media feeds were flooded with fake battle scenes from the Iran conflict.The social media platform, which has about half a billion monthly active users, will suspend people from earning revenue from posts for 90 days if they put up AI-generated videos of an armed conflict without adding a disclosure that it was made with AI. A second infraction will lead to a permanent ban, it said on Tuesday night, after the first days of the conflict in Iran were marked by a torrent of bogus online footage. Continue reading...",
+      "description": "Social media feeds have been flooded with fake battle scenes since start of Iran conflictElon Musk’s X will ban users from making money on the platform if they repeatedly post unlabelled AI-generated war videos, after social media feeds were flooded with fake battle scenes from the Iran conflict.The social media platform, which has about half a billion monthly active users, will suspend people from earning revenue from posts for 90 days if they put up AI-generated videos of an armed conflict without adding a disclosure that it was made with AI. A second infraction wouldlead to a permanent ban, it said on Tuesday night, after the first days of the conflict in Iran were marked by a torrent of bogus online footage. Continue reading...",
       "link": "https://www.theguardian.com/technology/2026/mar/04/x-ban-users-earning-revenue-post-unlabelled-ai-generated-war-videos",
       "source": "The Guardian",
       "topic": "AI Industry",
       "published_at": "2026-03-04T13:34:26+00:00"
     },
     {
-      "id": "8a247e664466",
-      "index": 1,
-      "headline": "Remember Twitter? Elon Musk expected to testify over flip-flop in $44 billion buyout",
-      "description": "Musk is on trial for a case filed by Twitter investors in 2022, the year he purchased the social media company for $44 billion.",
-      "link": "https://www.cnbc.com/2026/03/04/elon-musk-to-testify-securities-fraud-trial-over-twitter-deal-in-sf.html",
-      "source": "CNBC",
-      "topic": "AI Industry",
-      "published_at": "2026-03-04T13:00:01+00:00"
-    },
-    {
-      "id": "f7792f05e8b8",
-      "index": 2,
-      "headline": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
-      "description": "A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.",
-      "link": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
-      "source": "TechCrunch",
-      "topic": "AI Industry",
-      "published_at": "2026-03-03T21:44:09+00:00"
-    },
-    {
-      "id": "5870a2ff3b52",
-      "index": 3,
-      "headline": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
-      "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds over long distances. Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future […]",
-      "link": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-      "source": "The Verge",
-      "topic": "AI Industry",
-      "published_at": "2026-03-02T11:56:49-05:00"
-    },
-    {
-      "id": "7c801ac9eee0",
+      "id": "43c685e39e0c",
       "index": 4,
-      "headline": "Gulf oil trade, Pentagon's AI usage, Gen Z's analog obsession and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "link": "https://www.cnbc.com/2026/03/04/5-things-to-know-before-the-market-opens.html",
+      "headline": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
+      "description": "Anthropic customers that do business with the government are having to make the tough call on whether to abandon Claude.",
+      "link": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html",
       "source": "CNBC",
       "topic": "AI Industry",
-      "published_at": "2026-03-04T13:30:14+00:00"
+      "published_at": "2026-03-04T14:13:48+00:00"
     }
   ],
   "rewrites": {
     "software_engineering": [
       {
         "id": 0,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos, Citing Iran Conflict Fakes",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabeled AI-generated war videos, with a permanent ban for a second offense.",
-        "why_care": "This highlights the growing need for robust content moderation and AI detection tools, which could impact how you develop or integrate AI features in your own applications.",
-        "what_to_do": "Review your current or planned AI content generation pipelines to ensure clear labeling mechanisms are in place for synthetic media."
+        "headline": "Nvidia CEO: OpenAI, Anthropic investments 'might be the last'",
+        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be its final major AI startup investments.",
+        "why_care": "This signals a potential shift in how major hardware providers like Nvidia will engage with AI model developers, possibly impacting future collaboration and funding for new AI projects you might integrate.",
+        "what_to_do": "Evaluate your current and planned AI integrations to understand potential long-term impacts if major AI model funding strategies change.",
+        "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in Twitter Investor Lawsuit Over $44 Billion Buyout",
-        "what_changed": "Elon Musk is expected to testify in a 2022 lawsuit filed by Twitter investors regarding his $44 billion acquisition of the social media company.",
-        "why_care": "This legal proceeding could reveal insights into the due diligence and acquisition processes of major tech companies, which is relevant if you work on M&A integrations or platform migrations.",
-        "what_to_do": "Stay informed on the outcomes of high-profile tech litigation, as they can set precedents for corporate governance and investor relations in the industry."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning in Iran War",
+        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran, marking the first large-scale military application of generative AI for these purposes.",
+        "why_care": "This demonstrates a critical, real-world application of generative AI in high-stakes environments, highlighting the need for robust, ethical, and secure AI system development and deployment in any domain.",
+        "what_to_do": "Research the ethical AI guidelines and security best practices relevant to your projects, considering the implications of AI deployment in sensitive applications.",
+        "source": "The Decoder"
       },
       {
         "id": 2,
-        "headline": "Tech Billionaires Fund $125M PAC to Oppose AI Regulation, Targeting Alex Bores",
-        "what_changed": "A tech billionaire-backed super PAC is spending $125 million to counter candidates, like former tech executive Alex Bores, who advocate for AI regulation.",
-        "why_care": "This significant spending indicates strong industry resistance to AI regulation, which could influence future policy and the compliance requirements for AI systems you develop.",
-        "what_to_do": "Research the current legislative proposals for AI regulation to understand potential future constraints or requirements on your AI development projects."
+        "headline": "Google's AI-Powered Workspace Now Available to More US Search Users",
+        "what_changed": "Google is rolling out its AI-powered 'Canvas' workspace to all US users of AI Mode in Search, providing a dedicated area to organize plans, develop tools, and draft documents.",
+        "why_care": "This integration could streamline your research and planning workflows by offering an AI-assisted environment directly within your search interface, potentially boosting productivity for documentation and project outlining.",
+        "what_to_do": "Experiment with Google's AI Mode in Search and the Canvas feature to see how it can assist your daily planning, documentation, or research tasks.",
+        "source": "The Verge"
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for Data Center Speed and Efficiency",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for data centers.",
-        "why_care": "This investment signals a major push towards improving data transfer speeds and energy efficiency in data centers, directly impacting the performance and cost of cloud infrastructure you utilize.",
-        "what_to_do": "Explore how photonics advancements might affect future cloud service offerings and consider their implications for your application's architecture and performance."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy change emphasizes the growing importance of transparency and ethical considerations in AI-generated content, which could influence how you develop and deploy applications that generate media.",
+        "what_to_do": "Review your content generation pipelines to ensure any AI-generated media is clearly labeled, especially if your applications involve sensitive topics or public dissemination.",
+        "source": "The Guardian"
       },
       {
         "id": 4,
-        "headline": "Morning Squawk Covers Gulf Oil Trade, Pentagon AI, Gen Z Analog Trends",
-        "what_changed": "CNBC's Morning Squawk highlighted five key investor topics, including Gulf oil trade, the Pentagon's AI usage, and Gen Z's interest in analog technology.",
-        "why_care": "While broad, the mention of Pentagon AI usage indicates increasing government adoption of AI, which could lead to new contracting opportunities or security standards for AI development.",
-        "what_to_do": "Consider how broader economic and technological trends, like government AI adoption, might create new demands or opportunities for your software engineering skills."
+        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
+        "what_changed": "Defense technology companies that work with the US government are discontinuing their use of Anthropic's Claude AI model due to the Pentagon's recent blacklist of Anthropic.",
+        "why_care": "This illustrates how geopolitical factors and government policies can directly impact the viability and adoption of specific AI tools, affecting your technology choices and vendor relationships.",
+        "what_to_do": "Assess the supply chain and regulatory compliance of the AI models and tools you use, especially if your projects have government or sensitive industry connections.",
+        "source": "CNBC"
       }
     ],
     "data_ai": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos, Citing Iran Conflict Misinformation",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabeled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This highlights the growing need for robust AI content detection and responsible AI deployment to prevent misuse and maintain platform integrity.",
-        "what_to_do": "Investigate and implement tools for detecting AI-generated media in your projects to ensure ethical use and compliance with evolving platform policies."
+        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
+        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its last in AI rivals.",
+        "why_care": "This signals a potential shift in Nvidia's investment strategy, possibly focusing more on internal development or other types of partnerships rather than direct equity in competing LLM providers.",
+        "what_to_do": "Evaluate your team's reliance on specific LLM providers and consider diversifying your AI model portfolio to mitigate future market shifts.",
+        "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in Twitter Buyout Trial",
-        "what_changed": "Elon Musk is expected to testify in a trial concerning his $44 billion acquisition of Twitter in 2022.",
-        "why_care": "This legal proceeding, while not directly technical, reflects on the leadership and strategic decisions impacting a major data-rich platform, which can influence future data access or policy changes.",
-        "what_to_do": "Stay informed on the outcomes of high-profile tech leadership trials, as they can signal shifts in platform governance or data strategy relevant to your work."
+        "headline": "US Military Uses Anthropic's Claude for AI-Driven Strike Planning",
+        "what_changed": "The US military is using Anthropic's Claude for target selection and strike planning in the war against Iran.",
+        "why_care": "This demonstrates a real-world, high-stakes application of generative AI in defense, highlighting the critical need for robust, ethical, and explainable AI systems in sensitive domains.",
+        "what_to_do": "Research the ethical AI guidelines and explainability frameworks relevant to your industry to ensure your AI deployments meet necessary standards.",
+        "source": "The Decoder"
       },
       {
         "id": 2,
-        "headline": "Super PAC Spends $125 Million Against AI Regulation Advocates",
-        "what_changed": "A tech billionaire-backed super PAC is spending $125 million to oppose candidates, like Alex Bores, who advocate for AI regulation.",
-        "why_care": "This significant spending indicates strong industry resistance to AI regulation, which could impact future policy landscapes for AI development, deployment, and data privacy.",
-        "what_to_do": "Engage with policy discussions and understand the potential implications of AI regulation, or lack thereof, on your current and future AI projects."
+        "headline": "Google AI-Powered Workspace Now Widely Available in Search",
+        "what_changed": "Google's AI-powered Canvas workspace is now available to all US users in AI Mode in Search.",
+        "why_care": "This provides you with a new integrated tool to organize plans, develop tools, and draft documents directly within your search workflow, leveraging the latest information.",
+        "what_to_do": "Experiment with Google's Canvas in AI Mode this week to see how it can streamline your research and documentation tasks.",
+        "source": "The Verge"
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for data centers.",
-        "why_care": "This investment targets critical infrastructure improvements in data transfer speeds, energy efficiency, and bandwidth, which are essential for scaling your AI models and data processing capabilities.",
-        "what_to_do": "Research how advancements in photonics and optical networking could impact your future data center architecture and AI model training strategies."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy change highlights the increasing scrutiny on AI-generated content and the importance of proper labeling, which could impact how you share or consume AI-generated media on platforms.",
+        "what_to_do": "Ensure any AI-generated content you create or share is clearly labeled according to platform guidelines to avoid potential penalties.",
+        "source": "The Guardian"
       },
       {
         "id": 4,
-        "headline": "Pentagon's AI Usage Highlighted in Morning Squawk",
-        "what_changed": "A CNBC Morning Squawk segment mentioned the Pentagon's usage of AI as a key topic for investors.",
-        "why_care": "The Pentagon's AI adoption signifies a growing trend in large-scale, critical applications of AI, potentially driving innovation and demand for specific AI skills and technologies relevant to your field.",
-        "what_to_do": "Explore public reports or discussions on government and defense AI initiatives to identify emerging trends or specialized AI applications that might influence your career path."
+        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
+        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude after the Pentagon blacklisted Anthropic.",
+        "why_care": "This demonstrates how geopolitical and regulatory decisions can directly impact the adoption and viability of specific AI models and providers, even for commercial entities.",
+        "what_to_do": "Assess your current and future AI model dependencies, especially if you work with government contracts or in regulated industries, to ensure compliance and avoid disruptions.",
+        "source": "CNBC"
       }
     ],
     "cybersecurity": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos After Iran Conflict",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabeled AI-generated war videos, with a permanent ban for a second offense.",
-        "why_care": "This policy change impacts the spread of deepfakes and misinformation, which can be leveraged in social engineering attacks or influence operations targeting your organization.",
-        "what_to_do": "Educate your team on identifying AI-generated content and deepfakes to mitigate risks from misinformation campaigns."
+        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Startups",
+        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its final large investments in AI startups.",
+        "why_care": "This signals a potential shift in how major AI infrastructure providers like Nvidia will engage with and fund AI model developers, impacting future AI tool development.",
+        "what_to_do": "Evaluate your organization's reliance on specific AI models and consider the long-term stability of their funding and development pipelines."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "This legal proceeding highlights the financial and operational complexities surrounding major tech acquisitions, which can impact platform stability and security policies you rely on.",
-        "what_to_do": "Monitor news from X for any potential security or policy changes that might arise from ongoing legal and ownership issues."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning in Iran War",
+        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran, marking the first large-scale military application of generative AI for these purposes.",
+        "why_care": "This demonstrates the critical national security implications of AI models and the potential for AI to be weaponized or used in sensitive military operations, which could impact geopolitical stability.",
+        "what_to_do": "Research the ethical guidelines and security implications of using generative AI in military contexts to understand potential future threats and vulnerabilities."
       },
       {
         "id": 2,
-        "headline": "Super PAC Spends $125M to Oppose AI Regulation Candidates",
-        "what_changed": "A tech billionaire-backed super PAC is spending $125 million to undermine candidates, like former tech executive Alex Bores, who advocate for AI regulation.",
-        "why_care": "This significant spending indicates strong industry resistance to AI regulation, which could affect future legal frameworks for AI security, ethics, and data privacy that you will need to navigate.",
-        "what_to_do": "Stay informed on legislative developments related to AI regulation, as future laws could impact your organization's use and security of AI systems."
+        "headline": "Google's AI-Powered Workspace 'Canvas' Now Available to More US Users",
+        "what_changed": "Google has made its AI-powered 'Canvas' workspace available to all users in the US who utilize AI Mode in Search.",
+        "why_care": "This expands the attack surface for AI-driven phishing and social engineering, as more users will be interacting with AI-generated content directly within their search experience.",
+        "what_to_do": "Educate your users on the risks of AI-generated content and reinforce best practices for identifying sophisticated phishing attempts."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for high-speed data transfer in data centers.",
-        "why_care": "This investment signals a push for more efficient and faster data infrastructure, which could lead to new attack surfaces or performance improvements in AI systems you secure.",
-        "what_to_do": "Research emerging photonics technologies to understand potential security implications for future data center architectures and AI deployments."
+        "headline": "X to Ban Revenue for Unlabeled AI War Videos Amid Iran Conflict",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This highlights the growing challenge of deepfakes and AI-generated disinformation, which can be used in influence operations and create confusion during real-world events.",
+        "what_to_do": "Develop internal guidelines for identifying and reporting AI-generated disinformation that could impact your organization's reputation or security posture."
       },
       {
         "id": 4,
-        "headline": "Pentagon's AI Usage Highlighted in Morning Squawk Report",
-        "what_changed": "A Morning Squawk report mentioned the Pentagon's usage of AI as one of five key things investors need to know.",
-        "why_care": "The Pentagon's AI adoption signifies the increasing integration of AI into critical national infrastructure, which can drive advancements and security challenges relevant to your work.",
-        "what_to_do": "Review public reports or whitepapers on government AI initiatives to understand evolving AI security best practices and threats."
+        "headline": "Defense Tech Firms Drop Claude After Pentagon's Anthropic Blacklist",
+        "what_changed": "Defense technology companies are ceasing their use of Anthropic's Claude AI model due to the Pentagon's recent blacklisting of Anthropic.",
+        "why_care": "This demonstrates how government policy and security concerns can directly impact the adoption and viability of specific AI technologies within critical sectors, affecting your supply chain.",
+        "what_to_do": "Review your organization's AI tool dependencies and assess the geopolitical and regulatory risks associated with your chosen AI vendors."
       }
     ],
     "design_ux": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos, Impacts Designers",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabeled AI-generated war videos, with a permanent ban for a second offense.",
-        "why_care": "This policy highlights the growing need for designers to understand and implement clear AI disclosure practices when creating and sharing visual content on platforms like X.",
-        "what_to_do": "Review your content creation workflows to ensure all AI-generated visuals are clearly labeled before posting them on social media platforms."
+        "headline": "Nvidia CEO Hints at Halting Major AI Investments After OpenAI, Anthropic",
+        "what_changed": "Nvidia CEO Jensen Huang suggested the company's $30 billion investment in OpenAI and $10 billion in Anthropic might be its last major AI investments.",
+        "why_care": "This could signal a shift in how major tech players fund AI development, potentially impacting the tools and platforms you use.",
+        "what_to_do": "Research how current AI tools you use are funded and if their development might be affected by changing investment strategies.",
+        "article_id": 0
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in Twitter Buyout Case, $44 Billion Deal",
-        "what_changed": "Elon Musk is expected to testify in a trial regarding the $44 billion acquisition of Twitter in 2022.",
-        "why_care": "This ongoing legal scrutiny of a major social media platform's ownership can influence its future direction and impact your design work on the platform.",
-        "what_to_do": "Stay aware of major platform changes and legal developments that could affect your design strategies for social media content."
+        "headline": "US Military Uses Anthropic's Claude for AI Strike Planning",
+        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the war against Iran.",
+        "why_care": "This shows how AI, even from companies facing bans, is being deployed in high-stakes situations, raising ethical considerations for all AI practitioners.",
+        "what_to_do": "Reflect on the ethical implications of AI deployment in sensitive areas and how your design work might contribute to or mitigate such issues.",
+        "article_id": 1
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions Against AI Regulation Candidate",
-        "what_changed": "A super PAC backed by tech billionaires is spending $125 million to oppose candidates, like Alex Bores, who advocate for AI regulation.",
-        "why_care": "The debate over AI regulation directly impacts the ethical guidelines and future capabilities of AI tools you might use in your design process.",
-        "what_to_do": "Familiarize yourself with the current discussions around AI ethics and regulation to anticipate how future policies might affect your design work."
+        "headline": "Google's AI Workspace, Canvas, Now Widely Available in Search",
+        "what_changed": "Google's AI-powered Canvas workspace is now available to all US users in AI Mode within Search.",
+        "why_care": "This new feature provides a dedicated workspace to organize plans and draft documents using the latest search information, directly impacting your design workflow.",
+        "what_to_do": "Experiment with Google Canvas this week to see how its AI-powered planning and drafting features can enhance your project organization.",
+        "article_id": 2
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Advancement",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for data centers.",
-        "why_care": "These investments aim to improve data transfer speeds and energy efficiency, which could lead to faster, more powerful AI tools and cloud services for your design work.",
-        "what_to_do": "Explore how advancements in AI infrastructure might enable new design tools or workflows in the coming year."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing need for transparency in AI-generated content, a critical consideration for designers creating or using AI visuals.",
+        "what_to_do": "Ensure all AI-generated content you create or share on social platforms is clearly labeled to comply with evolving platform policies.",
+        "article_id": 3
       },
       {
         "id": 4,
-        "headline": "Morning Squawk: Pentagon AI, Gen Z Analog Trends, and More",
-        "what_changed": "This article provides a summary of five key things investors need to know to start the trading day, including topics like the Pentagon's AI usage and Gen Z's analog obsession.",
-        "why_care": "Understanding broader tech trends, like AI adoption by the Pentagon or Gen Z's preferences, can inform your design decisions and help you anticipate future user behaviors.",
-        "what_to_do": "Consider how the increasing use of AI in various sectors and evolving generational preferences might influence your design projects."
+        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
+        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
+        "why_care": "This demonstrates how government policies can quickly impact the adoption and availability of AI tools, affecting the ecosystem you operate within.",
+        "what_to_do": "Stay informed about government regulations and blacklists concerning AI tools, as they can influence your access to and use of specific platforms.",
+        "article_id": 4
       }
     ],
     "product_project": [
       {
         "id": 0,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos, Citing Iran Conflict",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a permanent ban for a second infraction.",
-        "why_care": "You need to be aware of platform policies regarding AI-generated content, especially when using social media for product launches, marketing, or community engagement.",
-        "what_to_do": "Review your content creation guidelines to ensure all AI-generated visuals are properly labeled before publishing on platforms like X."
+        "headline": "Nvidia CEO Hints at End of Major AI Investments After OpenAI, Anthropic Deals",
+        "what_changed": "Nvidia's CEO stated that its $30 billion investment in OpenAI and $10 billion in Anthropic might be its last major AI investments.",
+        "why_care": "This signals a potential shift in how major tech companies will fund and partner with AI developers, impacting future tool development and market dynamics.",
+        "what_to_do": "Evaluate your current and planned AI tool stack, considering how a change in major investor funding might affect the long-term viability or direction of your chosen AI partners."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in Twitter Investor Lawsuit Over $44 Billion Buyout",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "This ongoing legal scrutiny highlights the complexities and risks involved in large-scale corporate acquisitions and their impact on stakeholders, which can affect your project's external environment.",
-        "what_to_do": "Monitor news related to major tech company acquisitions to understand potential market shifts or regulatory impacts on your projects."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning in Iran Conflict",
+        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the Iran conflict.",
+        "why_care": "This demonstrates the increasing real-world application of generative AI in critical, high-stakes operations, highlighting the need for robust ethical guidelines and validation processes for AI tools you might integrate.",
+        "what_to_do": "Review your team's current AI usage policies and ensure clear ethical guidelines are in place for any AI tools used in decision-making processes."
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions to Oppose Congressional AI Regulation",
-        "what_changed": "A super PAC, backed by a tech billionaire, is spending $125 million to undermine candidates, like New York's Alex Bores, who advocate for AI regulation.",
-        "why_care": "The significant financial investment against AI regulation indicates a strong industry pushback that could influence future policy, impacting your product's compliance and ethical considerations.",
-        "what_to_do": "Discuss potential future AI regulations with your legal and compliance teams to assess how they might affect your product roadmap and development."
+        "headline": "Google's AI Workspace, Canvas, Now Widely Available in US Search",
+        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all users in the US using AI Mode in Search.",
+        "why_care": "This provides you with a new, integrated tool within Google Search to organize plans, develop tools, and draft documents using the latest information.",
+        "what_to_do": "Experiment with Google Canvas this week to see how its AI-powered planning and drafting features can streamline your project documentation and information synthesis."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Center Technology",
-        "what_changed": "Nvidia announced a $4 billion investment, split between Lumentum and Coherent, to advance photonics technology for data centers, focusing on optical transceivers and circuit switches.",
-        "why_care": "This investment signals a future shift in data center infrastructure, potentially impacting the performance, cost, and energy efficiency of the AI tools and cloud services your products rely on.",
-        "what_to_do": "Research how advancements in photonics could affect the infrastructure costs and performance of your current or future AI-powered products and services."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This highlights the growing importance of transparency and ethical content labeling for AI-generated media, which could impact how you manage and communicate about AI-assisted content creation in your projects.",
+        "what_to_do": "Establish clear guidelines for your team on labeling AI-generated content, especially for public-facing communications, to ensure transparency and avoid misinformation."
       },
       {
         "id": 4,
-        "headline": "Morning Squawk Covers Pentagon AI Usage and Gen Z Tech Trends",
-        "what_changed": "A Morning Squawk segment highlighted key investor topics, including the Pentagon's use of AI and Gen Z's increasing interest in analog technology.",
-        "why_care": "Understanding diverse trends, from government AI adoption to consumer preferences for analog, helps you identify new market opportunities or potential shifts in user behavior for your products.",
-        "what_to_do": "Consider how broader technological trends, like government AI adoption or shifts in consumer tech preferences, might create new requirements or opportunities for your product."
+        "headline": "Defense Tech Companies Drop Anthropic's Claude After Pentagon Blacklist",
+        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude after the Pentagon blacklisted Anthropic.",
+        "why_care": "This illustrates how government policies and blacklists can rapidly impact the viability and adoption of AI tools, requiring you to stay informed about regulatory changes affecting your technology stack.",
+        "what_to_do": "Assess your current and future AI tool selections for any potential regulatory or government-related risks that could disrupt your projects."
       }
     ],
     "marketing": [
       {
         "id": 0,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos",
-        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post unlabeled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "Your content strategy on X must now include strict labeling for AI-generated visuals, especially for sensitive topics, to avoid losing monetization opportunities.",
-        "what_to_do": "Review your content creation guidelines to ensure all AI-generated video content on X is clearly labeled before publishing."
+        "headline": "Nvidia CEO: OpenAI and Anthropic Investments Might Be the Last",
+        "what_changed": "Nvidia CEO Jensen Huang indicated that the company's $30 billion investment in OpenAI and $10 billion in Anthropic might be its final large AI investments.",
+        "why_care": "This signals a potential shift in major AI funding, which could impact the development and accessibility of AI tools you use.",
+        "what_to_do": "Evaluate your current AI tool stack and consider diversifying your reliance on specific platforms, anticipating potential shifts in the AI landscape."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in X (Twitter) Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his $44 billion acquisition of the social media company in 2022.",
-        "why_care": "This legal development could impact the platform's stability and future direction, potentially affecting your social media marketing strategies and ad spend on X.",
-        "what_to_do": "Monitor news regarding the lawsuit's outcome and its potential implications for X's platform policies and advertising environment."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning",
+        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran.",
+        "why_care": "This demonstrates advanced, real-world applications of generative AI, highlighting its increasing sophistication and potential for complex tasks, which could inspire new marketing strategies.",
+        "what_to_do": "Research how other industries are applying advanced AI models to complex problems and brainstorm how similar approaches could be adapted for your marketing campaigns or content creation workflows."
       },
       {
         "id": 2,
-        "headline": "AI Companies Fund Millions to Oppose AI Regulation Candidates",
-        "what_changed": "A super PAC backed by tech billionaires is spending $125 million to campaign against candidates, like former tech executive Alex Bores, who advocate for AI regulation.",
-        "why_care": "The significant financial push against AI regulation could influence future legislation, impacting how you use AI tools and data in your marketing campaigns.",
-        "what_to_do": "Stay informed about the ongoing debate around AI regulation and its potential effects on data privacy and AI tool usage in marketing."
+        "headline": "Google AI Workspace Now Available to More US Search Users",
+        "what_changed": "Google's AI-powered Canvas workspace is now available to all US users in AI Mode within Search, offering a dedicated space to organize plans, develop tools, and draft documents.",
+        "why_care": "This new feature integrates AI directly into your search workflow, providing powerful tools for content ideation, planning, and drafting directly within Google.",
+        "what_to_do": "Experiment with Google's Canvas in AI Mode this week to see how it can streamline your content planning, research, and initial drafting processes."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Advancement",
-        "what_changed": "Nvidia is investing $4 billion into Lumentum and Coherent, companies developing photonics technology to improve data transfer speeds and energy efficiency for data centers.",
-        "why_care": "These advancements in data processing infrastructure could lead to faster, more powerful AI tools and services, enhancing your ability to leverage AI for analytics and content creation.",
-        "what_to_do": "Research how improved AI infrastructure might lead to new marketing tools or capabilities in the next 12-24 months."
+        "headline": "X to Ban Revenue for Unlabeled AI War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy change emphasizes the growing importance of transparency and ethical AI use on social media, directly impacting your content strategy and compliance on X.",
+        "what_to_do": "Review your content creation guidelines for X to ensure all AI-generated video content is clearly labeled to avoid penalties and maintain brand trust."
       },
       {
         "id": 4,
-        "headline": "Morning Squawk: Key Investor News Includes Pentagon's AI Usage",
-        "what_changed": "A morning news brief for investors highlighted the Pentagon's usage of AI as one of five key things to know for the trading day.",
-        "why_care": "While not directly marketing-related, the mention of AI in a broad economic overview signals its growing importance across sectors, which could indirectly influence public perception and future tech trends relevant to your industry.",
-        "what_to_do": "Consider how the increasing mainstream discussion of AI, even in non-marketing contexts, might shape consumer attitudes towards AI-powered products or content."
+        "headline": "Defense Tech Companies Drop Claude After Pentagon Blacklist",
+        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
+        "why_care": "This illustrates how government actions and ethical concerns can quickly impact the viability and adoption of AI tools, potentially affecting your access to or the reputation of certain AI platforms.",
+        "what_to_do": "Stay informed about regulatory changes and ethical discussions surrounding AI tools you use, and consider having backup solutions if a primary tool faces similar issues."
       }
     ],
     "sales": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos, Citing Iran Conflict Fakes",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a permanent ban for a second offense.",
-        "why_care": "This change means you need to be careful about the content you share on X, especially if it's AI-generated, to maintain your professional reputation and avoid platform penalties.",
-        "what_to_do": "Review your social media content strategy to ensure all AI-generated visuals are clearly labeled, especially if they relate to sensitive topics."
+        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
+        "what_changed": "Nvidia's CEO stated that their $30 billion investment in OpenAI and $10 billion in Anthropic will likely be their final investments in those companies.",
+        "why_care": "This signals a potential shift in how major tech players like Nvidia will support AI development, impacting future partnerships and product integrations you might leverage.",
+        "what_to_do": "Research if your current or prospective clients use OpenAI or Anthropic products, and understand how this news might affect their long-term AI strategies.",
+        "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the company for $44 billion.",
-        "why_care": "This ongoing legal scrutiny of a major social media platform's acquisition highlights the importance of transparency and due diligence in large business deals, which can impact your sales strategies.",
-        "what_to_do": "Stay informed on major tech company news, as leadership changes and legal battles can influence market sentiment and your prospects' priorities."
+        "headline": "US Military Uses Anthropic's Claude for AI Strike Planning in Iran War",
+        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the war against Iran, marking the first large-scale use of generative AI for this purpose.",
+        "why_care": "This demonstrates a significant, real-world application of AI in high-stakes environments, which can influence how your defense or government clients view and adopt AI solutions.",
+        "what_to_do": "Identify defense or government accounts in your pipeline and research their current AI adoption, preparing to discuss the implications of this news.",
+        "source": "The Decoder"
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions to Oppose AI Regulation Candidates",
-        "what_changed": "A super PAC backed by a tech billionaire is spending $125 million to counter candidates, like New York's Alex Bores, who advocate for AI regulation.",
-        "why_care": "The significant spending against AI regulation shows that the future of AI policy is a major battleground, which could impact the tools you use and how you sell them.",
-        "what_to_do": "Research the stance of your local political candidates on AI regulation, as future policies could affect your industry and sales processes."
+        "headline": "Google's AI Workspace Now Widely Available in Search for US Users",
+        "what_changed": "Google has made its AI-powered Canvas workspace available to all US users in AI Mode within Search, allowing for plan organization and document drafting.",
+        "why_care": "This new tool can streamline your research and planning by organizing information directly within Google Search, saving you time on prospecting and proposal creation.",
+        "what_to_do": "Experiment with Google's Canvas in AI Mode this week to see how it can help you organize client research or draft sales outreach materials more efficiently.",
+        "source": "The Verge"
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia announced a $4 billion investment, split between Lumentum and Coherent, to advance photonics technology for data centers, improving data transfer and energy efficiency.",
-        "why_care": "Nvidia's investment signals a major leap in AI infrastructure, meaning the tools and platforms you use for sales could become faster and more powerful, enhancing your productivity.",
-        "what_to_do": "Explore how advancements in AI infrastructure, like faster data transfer, could improve your CRM or sales intelligence tools in the next 12-18 months."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflict, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing concern over AI-generated misinformation, which could impact how your clients perceive and trust AI content, including marketing or sales materials.",
+        "what_to_do": "Review your social media content strategy to ensure any AI-generated visuals or videos you use for prospecting or client engagement are clearly labeled and compliant with platform policies.",
+        "source": "The Guardian"
       },
       {
         "id": 4,
-        "headline": "Morning Squawk Covers Gulf Oil, Pentagon AI, Gen Z Trends",
-        "what_changed": "CNBC's Morning Squawk highlighted key investor topics including Gulf oil trade, the Pentagon's AI usage, and Gen Z's analog obsession.",
-        "why_care": "Understanding diverse market trends, from defense AI to consumer behavior, helps you anticipate client needs and tailor your sales pitches more effectively.",
-        "what_to_do": "Dedicate 15 minutes each morning to review broad market news to identify potential talking points or emerging needs for your prospects."
+        "headline": "Defense Tech Companies Drop Anthropic's Claude After Pentagon Blacklist",
+        "what_changed": "Defense tech companies that work with the US government are discontinuing their use of Anthropic's Claude AI following a Pentagon blacklist.",
+        "why_care": "This creates a significant challenge for defense contractors, potentially opening doors for you to offer alternative AI solutions if your clients are impacted by this change.",
+        "what_to_do": "Reach out to your defense industry clients and prospects to understand if they are affected by the Anthropic blacklist and how you might support their transition to other AI platforms.",
+        "source": "CNBC"
       }
     ],
     "customer_support": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos After Iran Conflict",
-        "what_changed": "X will suspend users from earning revenue for 90 days if they post AI-generated war videos without a disclosure, with a second offense leading to a permanent ban.",
-        "why_care": "This highlights the growing need for you to verify information and be cautious about the content you share or reference, as misinformation can impact customer trust.",
-        "what_to_do": "Review your internal guidelines on using and sharing external media to ensure they address AI-generated content and misinformation risks."
+        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
+        "what_changed": "Nvidia's CEO stated that their $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be their final ones in these companies.",
+        "why_care": "This signals a shift in how major AI players are funded, which could impact the development of AI tools you use for customer support.",
+        "what_to_do": "Research the current capabilities of your existing AI tools and identify any emerging alternatives that might receive future investment."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "This ongoing legal scrutiny of major tech leaders reminds you that company decisions, even at the top, can face significant public and legal challenges.",
-        "what_to_do": "Stay informed about the stability and leadership of the platforms and tools your customers use, as changes can impact their experience and your support needs."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning",
+        "what_changed": "The US military is using Anthropic's Claude, a generative AI model, for target selection and strike planning in the war against Iran.",
+        "why_care": "This shows how advanced AI models like Claude are being deployed in critical, real-world scenarios, highlighting their growing power and potential for complex tasks in customer support.",
+        "what_to_do": "Explore how your team could use AI to analyze complex customer data or predict support needs, similar to how Claude is used for planning."
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions to Oppose AI Regulation Advocates",
-        "what_changed": "A super PAC backed by tech billionaires is spending $125 million to campaign against candidates, like New York's Alex Bores, who support AI regulation.",
-        "why_care": "This shows the significant financial power being used to influence the future of AI regulation, which could affect the tools and policies you use.",
-        "what_to_do": "Discuss with your team how potential AI regulations might impact your current support tools and processes, and identify any areas for future adaptation."
+        "headline": "Google's AI Workspace Now Available to More US Search Users",
+        "what_changed": "Google is making its AI-powered 'Canvas' workspace available to all US users of AI Mode in Search.",
+        "why_care": "This new feature allows you to organize plans, develop tools, and draft documents directly within Google Search, potentially streamlining your workflow for customer interactions.",
+        "what_to_do": "Try using Google's AI Canvas to draft customer responses, organize support resources, or plan your daily tasks this week."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for faster and more energy-efficient data centers.",
-        "why_care": "This investment signals a future with even more powerful and efficient AI, which could lead to more sophisticated customer support tools and faster data access for you.",
-        "what_to_do": "Research upcoming AI-powered support tools that leverage advanced data processing to understand how they might improve your team's efficiency and customer experience."
+        "headline": "X to Ban Revenue for Unlabeled AI War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This highlights the growing importance of transparency and ethical use of AI-generated content, which is crucial when communicating with customers to maintain trust.",
+        "what_to_do": "Review your team's guidelines for using AI-generated content in customer communications to ensure all AI-created materials are clearly identified."
       },
       {
         "id": 4,
-        "headline": "Morning Squawk: Key Investor News Includes Pentagon's AI Usage",
-        "what_changed": "A daily market summary for investors included a mention of the Pentagon's usage of AI as one of five key things to know.",
-        "why_care": "The Pentagon's use of AI highlights how deeply integrated AI is becoming across all sectors, including those that might influence your customers or the tools you use.",
-        "what_to_do": "Consider how AI is being adopted in your customers' industries to anticipate their evolving needs and potential support inquiries related to new technologies."
+        "headline": "Defense Firms Drop Claude After Pentagon's Anthropic Blacklist",
+        "what_changed": "Defense technology companies are stopping their use of Anthropic's Claude due to the Pentagon's recent blacklist of Anthropic.",
+        "why_care": "This demonstrates how external factors, like government policies, can quickly impact the availability and use of specific AI tools, which could affect your support operations.",
+        "what_to_do": "Identify alternative AI tools or platforms that your team could pivot to if your current AI provider faces unexpected restrictions or issues."
       }
     ],
     "finance": [
       {
         "id": 0,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos Amid Iran Conflict",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a permanent ban for a second infraction.",
-        "why_care": "This policy highlights the growing risk of misinformation and fraud, which can impact market stability and investor confidence.",
-        "what_to_do": "Review your firm's social media policies to ensure they address the responsible use and identification of AI-generated content."
+        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
+        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be its final major investments in these AI rivals.",
+        "why_care": "This signals a potential shift in Nvidia's investment strategy, which could impact the competitive landscape and funding for key AI players you might analyze or invest in.",
+        "what_to_do": "Review your investment theses for AI companies, considering how reduced external funding might affect their growth and valuation.",
+        "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his $44 billion acquisition of the social media company in 2022.",
-        "why_care": "This testimony could reveal details about high-stakes M&A transactions and corporate governance, which are critical for your financial analysis and auditing work.",
-        "what_to_do": "Follow the trial proceedings to understand the legal and financial implications of large-scale corporate buyouts."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning Despite Ban",
+        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran, even though Washington recently banned the company.",
+        "why_care": "This highlights the complex relationship between government policy, national security, and the rapid adoption of AI tools, which could create unforeseen risks or opportunities for defense contractors and technology firms you follow.",
+        "what_to_do": "Assess the ethical and regulatory implications of AI use in sensitive sectors for any companies in your portfolio that develop or deploy AI.",
+        "source": "The Decoder"
       },
       {
         "id": 2,
-        "headline": "AI Companies Fund $125M PAC to Oppose AI Regulation Candidates",
-        "what_changed": "A super PAC, backed by a tech billionaire, is spending $125 million to counter political candidates, like New York's Alex Bores, who advocate for AI regulation.",
-        "why_care": "This significant spending indicates the intense industry pushback against AI regulation, which could affect future compliance costs and market dynamics for your clients.",
-        "what_to_do": "Monitor legislative developments related to AI regulation to anticipate potential impacts on your firm's operations and investment strategies."
+        "headline": "Google's AI Workspace, Canvas, Now Widely Available in Search",
+        "what_changed": "Google has made its AI-powered workspace, Canvas, available to all users in the US who use AI Mode in Search.",
+        "why_care": "This tool can help you organize plans, develop tools, and draft documents more efficiently, potentially streamlining your financial analysis and reporting workflows.",
+        "what_to_do": "Explore Google's Canvas feature in Search to see how it can enhance your daily tasks like research, planning, and document drafting.",
+        "source": "The Verge"
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia announced a $4 billion investment, split between Lumentum and Coherent, to advance photonics technology for improved data center energy efficiency and speed.",
-        "why_care": "This investment signals a critical technological shift in data infrastructure, which could impact the valuation and growth prospects of tech companies in your portfolio.",
-        "what_to_do": "Research the long-term financial implications of photonics technology on data center infrastructure and related industries."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflict, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy change reflects growing concerns about misinformation and could impact the platform's content moderation costs, user engagement, and advertising revenue, which are important for your financial analysis of social media companies.",
+        "what_to_do": "Monitor how social media platforms are addressing AI-generated content and consider the financial implications of these policies for companies in your investment universe.",
+        "source": "The Guardian"
       },
       {
         "id": 4,
-        "headline": "Morning Squawk: Gulf Oil Trade, Pentagon AI, Gen Z Trends",
-        "what_changed": "CNBC's Morning Squawk highlighted key investor topics including Gulf oil trade, the Pentagon's AI usage, and Gen Z's analog obsession.",
-        "why_care": "These diverse topics cover geopolitical risks, technological advancements, and consumer behavior, all of which are vital for your comprehensive market analysis and investment decisions.",
-        "what_to_do": "Integrate these broad market indicators into your daily financial news review to maintain a holistic view of economic influences."
+        "headline": "Defense Firms Drop Anthropic's Claude After Pentagon Blacklist",
+        "what_changed": "Defense technology companies that do business with the government are discontinuing their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
+        "why_care": "This demonstrates how government policies and blacklists can directly impact technology adoption and revenue streams for AI companies and their partners, affecting your financial models and risk assessments.",
+        "what_to_do": "Evaluate the regulatory compliance and government contract exposure of AI companies in your portfolio to identify potential risks from future blacklists or policy changes.",
+        "source": "CNBC"
       }
     ],
     "legal": [
       {
         "id": 0,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos, Citing Iran Conflict",
-        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post AI-generated war videos without disclosure, with a second offense leading to a permanent ban.",
-        "why_care": "This policy change impacts your firm's social media compliance, content moderation, and potential liability when using or sharing AI-generated media.",
-        "what_to_do": "Review your firm's social media guidelines to ensure all AI-generated content, especially videos, is clearly labeled before posting on platforms like X."
+        "headline": "Nvidia CEO: OpenAI and Anthropic Investments May Be Last for AI Rivals",
+        "what_changed": "Nvidia CEO Jensen Huang indicated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its final major investments in AI rivals.",
+        "why_care": "This signals a potential shift in how major tech players like Nvidia will fund and partner with leading AI developers, impacting future AI tool development and availability for legal tech.",
+        "what_to_do": "Assess your firm's current and projected reliance on AI tools from OpenAI and Anthropic, considering potential future funding shifts.",
+        "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Elon Musk Expected to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "This high-profile testimony offers insights into executive decision-making, M&A litigation, and the legal implications of public statements during major transactions.",
-        "what_to_do": "Follow the trial developments to understand how executive communications and deal terms are scrutinized in large-scale corporate litigation."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning, Despite Ban",
+        "what_changed": "The US military is using Anthropic's Claude for target selection and strike planning in the war against Iran, despite Washington having banned the company.",
+        "why_care": "This highlights the complex legal and ethical challenges surrounding AI deployment, especially when government entities use tools from companies facing restrictions.",
+        "what_to_do": "Review your firm's policies on AI tool usage, especially concerning compliance with government regulations and potential conflicts of interest.",
+        "source": "The Decoder"
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions to Oppose AI Regulation in Congressional Races",
-        "what_changed": "A tech billionaire-backed super PAC is spending $125 million to campaign against candidates, like Alex Bores, who advocate for AI regulation.",
-        "why_care": "This significant spending highlights the intense lobbying efforts against AI regulation, which could influence future legislation impacting your firm's use of AI tools and data.",
-        "what_to_do": "Monitor legislative proposals related to AI regulation and consider how potential laws could affect your firm's technology adoption and compliance strategies."
+        "headline": "Google's AI-Powered Workspace, Canvas, Now Widely Available in Search",
+        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all US users of AI Mode in Search, offering a dedicated space to organize plans and draft documents.",
+        "why_care": "This new feature could streamline your legal research, document drafting, and case planning directly within Google Search, enhancing productivity.",
+        "what_to_do": "Experiment with Google Canvas in AI Mode Search this week to see how it can assist with legal research organization and document outlining.",
+        "source": "The Verge"
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for Advanced AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for data centers, improving energy efficiency and data transfer.",
-        "why_care": "These investments signal future advancements in AI infrastructure, which will impact the speed, cost, and capabilities of AI tools your firm might use for legal research and operations.",
-        "what_to_do": "Research how improved data center technology could enhance the performance and accessibility of AI legal tech solutions relevant to your practice."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy change underscores the growing legal and ethical imperative for transparency regarding AI-generated content, especially in sensitive contexts like conflict reporting.",
+        "what_to_do": "Ensure your firm's social media policies explicitly address the labeling of AI-generated content to avoid misrepresentation and compliance issues.",
+        "source": "The Guardian"
       },
       {
         "id": 4,
-        "headline": "Pentagon's AI Usage Highlighted in Morning Squawk Report",
-        "what_changed": "A CNBC Morning Squawk report mentioned the Pentagon's usage of AI as one of five key things investors need to know.",
-        "why_care": "The Pentagon's adoption of AI signals broader government and industry trends in AI integration, which could influence regulatory frameworks and ethical guidelines for AI use in all sectors, including legal.",
-        "what_to_do": "Consider how government AI initiatives might shape future data security, privacy, and ethical AI standards that could apply to your legal practice."
+        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
+        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude due to the Pentagon's blacklist of Anthropic.",
+        "why_care": "This demonstrates how government blacklists or restrictions on AI providers can directly impact your firm's ability to use certain AI tools, especially if you work with government clients or regulated industries.",
+        "what_to_do": "Evaluate your firm's AI vendor contracts for clauses related to government blacklists or compliance changes that could force a switch in AI tools.",
+        "source": "CNBC"
       }
     ],
     "hr": [
       {
         "id": 0,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos, Impacting Content Policies",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabeled AI-generated war videos, with a permanent ban for a second offense.",
-        "why_care": "This highlights the growing need for clear content policies and ethical AI use, which you may need to address in your organization's social media guidelines or employee training.",
-        "what_to_do": "Review your company's social media policy to ensure it addresses the responsible use and labeling of AI-generated content by employees."
+        "headline": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
+        "what_changed": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion X Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his $44 billion acquisition of the social media company in 2022.",
-        "why_care": "High-profile legal cases involving major company acquisitions can offer insights into leadership accountability and corporate governance, which are relevant to your understanding of executive roles.",
-        "what_to_do": "Consider how executive communication and transparency during major organizational changes impact employee trust and retention."
+        "headline": "US military uses Anthropic's Claude for AI-driven strike planning in Iran war",
+        "what_changed": "In the war against Iran, the US military is using generative AI at scale for target selection and strike planning for the first time. Of all models, it's the one from the company Washington just banned. The article US military uses Anthropic's Claude for AI-driven strike planning in Iran war appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions Against AI Regulation Candidates",
-        "what_changed": "A tech billionaire-backed super PAC is spending $125 million to oppose candidates, like Alex Bores, who advocate for AI regulation.",
-        "why_care": "The significant spending against AI regulation shows the intense debate around AI's future, which will directly influence the tools and ethical frameworks you use in HR.",
-        "what_to_do": "Research the current legislative proposals around AI to understand potential future compliance requirements for HR technology and data privacy."
+        "headline": "Google’s AI-powered workspace is now available to more users in Search",
+        "what_changed": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside […]",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for more efficient AI data centers.",
-        "why_care": "This investment signals a major technological leap in AI infrastructure, which will enable more powerful AI tools that could transform your HR operations and analytics.",
-        "what_to_do": "Explore how advancements in AI infrastructure could lead to new HR software capabilities and plan for potential future technology adoption in your department."
+        "headline": "X to ban users from earning revenue if they post unlabelled AI-generated war videos",
+        "what_changed": "Social media feeds have been flooded with fake battle scenes since start of Iran conflictElon Musk’s X will ban users from making money on the platform if they repeatedly post unlabelled AI-generated war videos, after social media feeds were flooded with fake battle scenes from the Iran conflict.The social media platform, which has about half a billion monthly active users, will suspend people from earning revenue from posts for 90 days if they put up AI-generated videos of an armed conflict without adding a disclosure that it was made with AI. A second infraction wouldlead to a permanent ban, it said on Tuesday night, after the first days of the conflict in Iran were marked by a torrent of bogus online footage. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 4,
-        "headline": "Pentagon's AI Usage and Gen Z Trends Highlighted in Morning Squawk",
-        "what_changed": "A Morning Squawk report covered key investor topics, including the Pentagon's use of AI and Gen Z's preference for analog products.",
-        "why_care": "Understanding trends like government AI adoption and generational preferences helps you anticipate future workforce needs and adapt your recruitment and engagement strategies.",
-        "what_to_do": "Reflect on how Gen Z's preferences might influence your recruitment messaging and workplace technology choices for new hires."
+        "headline": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
+        "what_changed": "Anthropic customers that do business with the government are having to make the tough call on whether to abandon Claude.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       }
     ],
     "healthcare": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos, Impacts Information Trust",
-        "what_changed": "X will ban users from earning revenue for 90 days if they post unlabelled AI-generated war videos, with a permanent ban for a second offense.",
-        "why_care": "This change helps you identify credible information online, which is crucial for staying informed about global events that could impact public health or your patients.",
-        "what_to_do": "When viewing news or medical information on social media, always verify the source and look for AI disclosure labels, especially for sensitive content."
+        "headline": "Nvidia CEO Hints at Halting Major AI Investments After OpenAI, Anthropic",
+        "what_changed": "Nvidia's CEO, Jensen Huang, suggested that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its last major AI investments.",
+        "why_care": "This could impact the future availability and cost of advanced AI tools that your healthcare organization might consider for clinical decision support or administrative tasks.",
+        "what_to_do": "Evaluate your current and future AI needs to understand how potential shifts in AI investment could affect your technology roadmap."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "This legal proceeding highlights the complexities of major tech acquisitions, which can indirectly influence the platforms you use for professional networking and information sharing.",
-        "what_to_do": "Review your professional social media usage policies and ensure you understand how platform changes might affect your ability to access or share information."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning Despite Ban",
+        "what_changed": "The US military is using Anthropic's Claude, a generative AI model, for target selection and strike planning in the war against Iran, even though the company was recently banned by Washington.",
+        "why_care": "This shows that powerful AI tools are being adopted for critical, high-stakes decisions, highlighting the need for you to understand AI's capabilities and ethical implications in healthcare.",
+        "what_to_do": "Research the ethical guidelines and potential biases of AI tools currently used or considered for use in your clinical or administrative workflows."
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions to Oppose AI Regulation Advocates in Congress",
-        "what_changed": "A super PAC backed by a tech billionaire is spending $125 million to counter candidates, like Alex Bores, who advocate for AI regulation.",
-        "why_care": "The debate over AI regulation directly impacts the future development and ethical use of AI tools that you might use in clinical diagnostics, patient management, or administrative tasks.",
-        "what_to_do": "Familiarize yourself with current discussions around AI ethics and regulation, considering how these policies could shape the AI tools available in healthcare."
+        "headline": "Google's AI Workspace 'Canvas' Now Widely Available in Search",
+        "what_changed": "Google has made its AI-powered workspace, Canvas, available to all users in the US who use AI Mode in Search.",
+        "why_care": "This tool could help you organize patient care plans, draft medical reports, or develop educational materials more efficiently by using the latest information from search.",
+        "what_to_do": "Explore Google's Canvas feature in AI Mode to see how it can streamline your daily planning and document drafting tasks."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for Advanced AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to develop photonics technology for faster and more energy-efficient data centers.",
-        "why_care": "This investment in advanced data processing infrastructure will eventually support more powerful AI applications, potentially improving the speed and accuracy of AI tools you use for patient care and data analysis.",
-        "what_to_do": "Stay updated on advancements in AI processing capabilities, as these improvements will lead to more sophisticated and reliable AI tools for your clinical practice."
+        "headline": "X to Ban Revenue for Unlabeled AI War Videos Amid Iran Conflict",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post AI-generated war videos without proper disclosure, with a second offense leading to a permanent ban.",
+        "why_care": "This policy highlights the growing concern over misinformation and deepfakes, which could also impact the credibility of health information shared online and your ability to discern accurate medical content.",
+        "what_to_do": "Verify the source and authenticity of any AI-generated content, especially medical or scientific information, before sharing or relying on it for professional use."
       },
       {
         "id": 4,
-        "headline": "Pentagon's AI Usage and Other Key Market News in Morning Squawk",
-        "what_changed": "A morning news brief highlighted five key things for investors, including the Pentagon's use of AI.",
-        "why_care": "The Pentagon's adoption of AI signals a broader trend of AI integration across critical sectors, which could influence the security and infrastructure supporting healthcare AI systems.",
-        "what_to_do": "Consider how AI adoption in other high-stakes industries might inform best practices and security standards for AI implementation within healthcare."
+        "headline": "Defense Companies Drop Anthropic's Claude After Pentagon Blacklist",
+        "what_changed": "Defense technology companies that work with the government are stopping their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
+        "why_care": "This demonstrates how government policies and regulations can quickly impact the availability and use of specific AI technologies, which could affect AI tools you use in healthcare if similar policies emerge.",
+        "what_to_do": "Stay informed about government regulations and industry standards related to AI in healthcare to anticipate potential changes in tool availability or compliance requirements."
       }
     ],
     "education": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos, Citing Iran Conflict Misinformation",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a permanent ban for a second offense.",
-        "why_care": "This policy helps you understand the platform's stance on AI-generated content and the importance of media literacy when using social media for educational purposes.",
-        "what_to_do": "Review your school or institution's guidelines on using social media and AI-generated content, ensuring you understand disclosure requirements for any AI content you share or use."
+        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
+        "what_changed": "Nvidia's CEO stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its last in these AI competitors.",
+        "why_care": "This signals a potential shift in how major tech companies fund and partner with leading AI model developers, which could impact the tools and resources available for education.",
+        "what_to_do": "Research alternative AI tools and platforms beyond those from OpenAI and Anthropic to diversify your understanding of the AI landscape."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "This ongoing legal case highlights the complexities of major tech acquisitions and their potential impact on platforms you might use for communication or learning.",
-        "what_to_do": "Stay informed about the general stability and ownership changes of major social media platforms you integrate into your teaching or professional development."
+        "headline": "US Military Uses Anthropic's Claude for AI-Driven Strike Planning",
+        "what_changed": "The US military is using Anthropic's Claude for target selection and strike planning in the war against Iran, marking the first time generative AI is used at scale for this purpose.",
+        "why_care": "This demonstrates a real-world, high-stakes application of generative AI, highlighting the importance of understanding AI's capabilities and ethical implications in various contexts.",
+        "what_to_do": "Lead a discussion with your students or colleagues about the ethical considerations of AI use in sensitive applications like military planning."
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions to Oppose AI Regulation Advocates",
-        "what_changed": "A super PAC backed by tech billionaires is spending $125 million to undermine candidates, like Alex Bores, who advocate for AI regulation.",
-        "why_care": "This spending shows the significant financial and political efforts being made to influence AI policy, which will directly affect the tools and ethical guidelines you encounter in education.",
-        "what_to_do": "Familiarize yourself with current discussions and proposed legislation around AI regulation, understanding how it might shape the future of educational technology."
+        "headline": "Google's AI-Powered Workspace 'Canvas' Now Widely Available in Search",
+        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all US users in AI Mode in Search, allowing for organization, tool development, and document drafting.",
+        "why_care": "This provides you with an integrated AI tool directly within Google Search that can help streamline planning, content creation, and research for educational tasks.",
+        "what_to_do": "Experiment with Google Canvas in AI Mode in Search to organize your lesson plans or draft educational materials this week."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for Advanced AI Data Centers",
-        "what_changed": "Nvidia is investing $4 billion into Lumentum and Coherent to develop photonics technology, which will improve energy efficiency and data transfer speeds in future AI data centers.",
-        "why_care": "This investment signals a major advancement in the underlying infrastructure that powers AI, which could lead to faster, more powerful, and more energy-efficient AI tools for your classroom or training programs.",
-        "what_to_do": "Explore how improvements in AI infrastructure might enable new educational applications and prepare to integrate more sophisticated AI tools into your teaching practices."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy change directly addresses the spread of AI-generated misinformation, which is crucial for you to teach digital literacy and critical evaluation of online content.",
+        "what_to_do": "Educate your students on the importance of identifying AI-generated content and the ethical implications of sharing unverified information on social media."
       },
       {
         "id": 4,
-        "headline": "Morning Squawk: Pentagon's AI Usage and Gen Z's Analog Obsession",
-        "what_changed": "A daily financial news brief mentioned the Pentagon's use of AI and Gen Z's increasing interest in analog technologies.",
-        "why_care": "This snippet offers a brief look into broader trends, showing both the expanding role of AI in critical sectors and a counter-trend towards analog, which could inform your understanding of student preferences and future tech integration.",
-        "what_to_do": "Consider how the balance between digital AI tools and analog learning methods might be effectively integrated into your curriculum to engage diverse learners."
+        "headline": "Defense Companies Drop Anthropic's Claude After Pentagon Blacklist",
+        "what_changed": "Defense technology companies that do business with the government are dropping Anthropic's Claude after the Pentagon blacklisted the company.",
+        "why_care": "This illustrates how government policies and ethical concerns can quickly impact the adoption and availability of specific AI tools, affecting future educational partnerships or resources.",
+        "what_to_do": "Stay informed about government regulations and ethical guidelines concerning AI tools, as these can influence which technologies are deemed appropriate for educational use."
       }
     ],
     "media_content": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos After Iran Conflict Surge",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy directly impacts your ability to monetize content on X and underscores the platform's stance on AI-generated misinformation, especially concerning sensitive topics.",
-        "what_to_do": "Always label AI-generated video content, especially concerning conflict, before posting it on X to avoid revenue suspension."
+        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
+        "what_changed": "Nvidia's CEO stated that its $30 billion investment in OpenAI and $10 billion in Anthropic might be its final investments in AI rivals.",
+        "why_care": "This signals a potential shift in major AI funding, which could impact the development and accessibility of tools you use.",
+        "what_to_do": "Evaluate your current reliance on tools from OpenAI and Anthropic and research emerging AI platforms."
       },
       {
         "id": 1,
-        "headline": "Elon Musk Expected to Testify in $44 Billion Twitter Buyout Case",
-        "what_changed": "Elon Musk is expected to testify in a trial related to the $44 billion acquisition of Twitter, filed by investors in 2022.",
-        "why_care": "This ongoing legal scrutiny of X's acquisition and management could influence the platform's future stability and content policies, affecting your distribution strategies.",
-        "what_to_do": "Monitor news about the trial's outcome, as it may signal shifts in X's operational priorities or leadership, impacting your content planning."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning in Iran War",
+        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the war against Iran.",
+        "why_care": "This demonstrates a significant, real-world application of generative AI in sensitive contexts, highlighting the need for accuracy and ethical considerations in your own AI use.",
+        "what_to_do": "Investigate how AI models like Claude are trained and the potential for bias or misinformation, informing your reporting on such applications."
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions to Oppose AI Regulation Candidates",
-        "what_changed": "A super PAC backed by a tech billionaire is spending $125 million to undermine candidates, like New York's Alex Bores, who advocate for AI regulation.",
-        "why_care": "The significant financial push against AI regulation could shape future laws impacting content creation, copyright, and the ethical use of AI in your industry.",
-        "what_to_do": "Research your local candidates' stances on AI regulation and consider how their policies might affect your work as a media professional."
+        "headline": "Google AI Workspace Now Widely Available in Search for US Users",
+        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all US users in AI Mode in Search.",
+        "why_care": "This new feature allows you to organize plans, develop tools, and draft documents directly within Google Search, streamlining your research and content creation workflows.",
+        "what_to_do": "Experiment with Google Canvas in AI Mode this week to see how it can assist with outlining articles, planning podcasts, or drafting scripts."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for data centers.",
-        "why_care": "These investments aim to improve data transfer speeds and energy efficiency, which could lead to faster, more powerful AI tools and services you might use for content creation.",
-        "what_to_do": "Keep an eye on advancements in AI infrastructure, as improved processing power could soon enable more sophisticated AI tools for your content workflows."
+        "headline": "X to Ban Revenue for Unlabelled AI War Videos After Iran Conflict",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy directly impacts your ability to monetize content on X and underscores the critical importance of transparently labeling AI-generated media to maintain trust and avoid penalties.",
+        "what_to_do": "Review your content creation and posting guidelines for X to ensure all AI-generated video content, especially sensitive material, is clearly labeled."
       },
       {
         "id": 4,
-        "headline": "Pentagon's AI Usage Highlighted in Morning Squawk Report",
-        "what_changed": "A Morning Squawk report mentioned the Pentagon's usage of AI as one of five key things investors need to know.",
-        "why_care": "The increasing integration of AI in government and defense sectors signals a broader societal adoption that could influence public perception and ethical discussions around AI in media.",
-        "what_to_do": "Consider how the ethical implications of AI's expanding use, including in military contexts, might become a relevant topic for your reporting or content creation."
+        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Ban",
+        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude after the Pentagon blacklisted Anthropic.",
+        "why_care": "This shows how government actions can quickly impact the viability and adoption of AI tools, potentially affecting your access to or the reliability of certain AI technologies.",
+        "what_to_do": "Diversify your AI toolset and stay informed about government policies and blacklists that could affect the AI platforms you use."
       }
     ],
     "creative_entertainment": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos After Iran Conflict Flood",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This impacts your potential to monetize content on X, requiring clear disclosure for any AI-generated conflict footage you create or share.",
-        "what_to_do": "Always label any AI-generated video content, especially conflict-related, with clear disclosures before posting on X."
+        "headline": "Nvidia CEO Hints at End to Major AI Investments After OpenAI, Anthropic Deals",
+        "what_changed": "Nvidia's CEO suggested their $30 billion OpenAI and $10 billion Anthropic investments might be their last large AI company stakes.",
+        "why_care": "This could impact future AI tool development and partnerships that benefit your creative software and workflows.",
+        "what_to_do": "Research how Nvidia's current AI investments are already integrated into your preferred creative tools and platforms."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "This legal proceeding could influence the future stability and direction of X, a platform many creative professionals use for promotion and community.",
-        "what_to_do": "Monitor news about X's legal and financial stability to understand potential impacts on your content strategy there."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning Amidst Iran Conflict",
+        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the war against Iran.",
+        "why_care": "This demonstrates advanced AI's real-world application in sensitive areas, highlighting the need for ethical considerations in your own AI content creation.",
+        "what_to_do": "Review your studio's guidelines for ethical AI use, especially when generating realistic or sensitive content."
       },
       {
         "id": 2,
-        "headline": "AI Regulation Opponents Spend Millions Against Congressional Candidate",
-        "what_changed": "A super PAC backed by a tech billionaire is spending $125 million to oppose candidates, like New York's Alex Bores, who advocate for AI regulation.",
-        "why_care": "The outcome of these political battles could shape future AI regulations, directly affecting the tools you use and how you can legally apply AI in your creative work.",
-        "what_to_do": "Research the stances of your local political candidates on AI regulation to understand potential future impacts on your industry."
+        "headline": "Google's AI Workspace 'Canvas' Now Widely Available in Search for US Users",
+        "what_changed": "Google's AI-powered Canvas workspace is now available to all US users in AI Mode within Search.",
+        "why_care": "This tool can help you organize projects, develop concepts, and draft documents more efficiently, streamlining your pre-production and planning phases.",
+        "what_to_do": "Experiment with Google Canvas in Search to see how it can assist with your project planning and content outlining this week."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia is investing $4 billion into Lumentum and Coherent, companies developing photonics technology to improve data transfer speeds and energy efficiency in data centers.",
-        "why_care": "These investments will lead to faster, more efficient data centers, potentially improving the performance and accessibility of cloud-based AI tools and rendering services you rely on.",
-        "what_to_do": "Keep an eye on advancements in cloud computing and AI infrastructure, as these improvements could enhance your workflow efficiency."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos After Iran Conflict Surge",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This directly impacts your ability to monetize content on X and emphasizes the critical importance of transparently labeling all AI-generated media, especially sensitive or realistic footage.",
+        "what_to_do": "Ensure all AI-generated video content you post on X, particularly realistic or news-like footage, is clearly labeled as AI-generated to avoid monetization penalties."
       },
       {
         "id": 4,
-        "headline": "Morning Squawk Covers Gulf Oil, Pentagon AI, Gen Z Analog Trends",
-        "what_changed": "CNBC's Morning Squawk highlighted five key investor topics, including Gulf oil trade, the Pentagon's AI usage, and Gen Z's interest in analog technologies.",
-        "why_care": "While broad, the mention of Pentagon AI usage and Gen Z's analog obsession indicates evolving tech and cultural trends that might influence future creative projects or client demands.",
-        "what_to_do": "Consider how trends like Gen Z's interest in analog might open new creative avenues or niche markets for your skills."
+        "headline": "Defense Contractors Drop Anthropic's Claude After Pentagon Blacklist",
+        "what_changed": "Defense tech companies are stopping their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
+        "why_care": "This highlights the volatile nature of AI partnerships and potential supply chain disruptions, which could indirectly affect tools or services you rely on if their providers have government contracts.",
+        "what_to_do": "Stay informed about major AI company blacklists or policy changes that could impact the stability or availability of AI tools you use."
       }
     ],
     "operations_supply": [
       {
         "id": 0,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos After Iran Conflict",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabeled AI-generated war videos, with a permanent ban for a second offense.",
-        "why_care": "You need to be aware of the source and authenticity of visual information, especially regarding global events that could impact supply chains or logistics.",
-        "what_to_do": "Verify the source and AI disclosure of any critical video content you encounter on social media before making operational decisions based on it."
+        "headline": "Nvidia CEO: $30B OpenAI, $10B Anthropic investments likely last",
+        "what_changed": "Nvidia's CEO stated that their $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be their final major investments in these AI companies.",
+        "why_care": "This signals a potential shift in how major AI infrastructure providers like Nvidia will allocate resources, impacting the long-term stability and development of AI tools you might consider for your operations.",
+        "what_to_do": "Evaluate your current or planned AI tool usage to understand their reliance on these specific AI models and their underlying infrastructure."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "This legal proceeding highlights the complexities and financial implications of major corporate transactions, which can indirectly affect market stability and resource allocation.",
-        "what_to_do": "Monitor major corporate legal developments, as they can signal broader economic trends that might influence your operational planning."
+        "headline": "US Military Uses Anthropic's Claude for AI Strike Planning in Iran War",
+        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran.",
+        "why_care": "This demonstrates how advanced AI, even from companies facing government scrutiny, is being deployed for critical, real-time decision-making, which could eventually influence AI applications in complex supply chain scenarios.",
+        "what_to_do": "Research the capabilities of generative AI models like Claude to understand their potential for optimizing complex logistical decisions or resource allocation in your operations."
       },
       {
         "id": 2,
-        "headline": "AI Companies Fund $125M PAC to Oppose AI Regulation Candidates",
-        "what_changed": "A super PAC backed by tech billionaires is spending $125 million to counter political candidates, like Alex Bores, who advocate for AI regulation.",
-        "why_care": "The debate around AI regulation could impact the future development and deployment of AI tools you might use in your operations, affecting compliance and innovation.",
-        "what_to_do": "Stay informed about proposed AI regulations and their potential impact on the tools and technologies you use in your supply chain and manufacturing processes."
+        "headline": "Google's AI Workspace Now Available to More US Search Users",
+        "what_changed": "Google has made its AI-powered Canvas workspace available to all US users of AI Mode in Search.",
+        "why_care": "This tool allows you to organize plans, develop tools, and draft documents using the latest search information, which can streamline your planning and documentation processes.",
+        "what_to_do": "Experiment with Google's Canvas workspace to see how it can help you organize operational plans or draft standard operating procedures more efficiently."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for data centers.",
-        "why_care": "This investment aims to improve energy efficiency, data transfer speeds, and bandwidth in data centers, which directly impacts the performance and cost of cloud-based supply chain software and analytics.",
-        "what_to_do": "Evaluate how these advancements in data center technology could improve the speed and efficiency of your current or future supply chain management systems."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This highlights the growing concern over misinformation generated by AI, which could impact the reliability of visual information you might encounter regarding global events affecting your supply chain.",
+        "what_to_do": "Implement a verification step for any critical visual information you receive from social media platforms, especially concerning geopolitical events that could disrupt your supply chain."
       },
       {
         "id": 4,
-        "headline": "Morning Squawk: Gulf Oil Trade, Pentagon AI, Gen Z Trends",
-        "what_changed": "CNBC's Morning Squawk highlighted key investor topics including Gulf oil trade, the Pentagon's AI usage, and Gen Z's analog obsession.",
-        "why_care": "These diverse topics reflect market dynamics and technological shifts that could influence energy costs, defense logistics, and future workforce preferences, all relevant to your operations.",
-        "what_to_do": "Review daily market summaries to identify trends in energy, technology, and labor that could affect your operational costs or workforce strategies."
+        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
+        "what_changed": "Defense technology companies are discontinuing their use of Anthropic's Claude AI model due to the Pentagon's blacklist of Anthropic.",
+        "why_care": "This shows how government policies and blacklists can quickly impact the availability and viability of specific AI tools, which could affect your access to certain AI solutions if your company has government contracts or relies on similar vendors.",
+        "what_to_do": "Review your current and planned AI tool stack to identify any dependencies on vendors that might be susceptible to government blacklists or policy changes."
       }
     ],
     "real_estate_construction": [
       {
         "id": 0,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabeled AI-generated videos of armed conflicts, with a second offense leading to a permanent ban.",
-        "why_care": "This policy highlights the growing need for transparency in digital content, which impacts how you verify and present visual information for property listings or project updates.",
-        "what_to_do": "Review your content creation processes to ensure all AI-generated visuals are clearly labeled, especially if used for marketing or client communications."
+        "headline": "Nvidia CEO: OpenAI and Anthropic Investments May Be Last",
+        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be its last major AI investments.",
+        "why_care": "This signals a potential shift in how major tech companies are funding AI development, which could impact the availability and cost of AI tools you might use.",
+        "what_to_do": "Evaluate your current and future AI tool subscriptions to understand their reliance on these major AI developers."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "High-profile legal disputes involving major tech figures can influence market sentiment and the regulatory landscape for digital platforms you use for marketing and networking.",
-        "what_to_do": "Stay informed on the outcomes of significant tech-related legal cases, as they may set precedents for digital content ownership and platform reliability."
+        "headline": "US Military Uses Anthropic's Claude for Strike Planning",
+        "what_changed": "The US military is using Anthropic's Claude, a generative AI model, for target selection and strike planning in the war against Iran.",
+        "why_care": "This demonstrates a significant, real-world application of AI for complex decision-making, which could inspire new uses for AI in your project planning and risk assessment.",
+        "what_to_do": "Research how generative AI is being used in other industries for complex planning to identify potential applications for your projects."
       },
       {
         "id": 2,
-        "headline": "AI Companies Spend Millions to Oppose AI Regulation Candidate",
-        "what_changed": "A super PAC, backed by tech billionaires, is spending $125 million to counter candidates like New York's Alex Bores, who advocate for AI regulation.",
-        "why_care": "The debate over AI regulation will shape the future development and ethical use of AI tools, directly affecting the software and data analytics you rely on for property valuation or construction planning.",
-        "what_to_do": "Research the stances of your local political candidates on AI regulation to understand potential future impacts on your industry's technology use."
+        "headline": "Google's AI Workspace Now Widely Available in Search",
+        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all US users in AI Mode in Search, allowing you to organize plans and draft documents.",
+        "why_care": "This new tool can streamline your research, planning, and document creation processes directly within Google Search, saving you time on project development.",
+        "what_to_do": "Experiment with Google's Canvas feature this week to see how it can help you organize project plans or draft property descriptions."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for faster and more energy-efficient data centers.",
-        "why_care": "Improvements in data center technology will enhance the speed and efficiency of cloud-based AI tools and platforms you use for design, project management, and property analysis.",
-        "what_to_do": "Explore how these advancements in data processing could improve the performance of your current AI-powered design or analytical software and plan for future upgrades."
+        "headline": "X to Ban Revenue for Unlabeled AI War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing concern over AI-generated misinformation, reminding you to verify visual content, especially for property marketing or site assessments.",
+        "what_to_do": "Review your social media content creation process to ensure all AI-generated visuals are clearly labeled, especially for property listings or project updates."
       },
       {
         "id": 4,
-        "headline": "Morning Squawk: Pentagon AI, Gen Z Trends, and Market Insights",
-        "what_changed": "CNBC's Morning Squawk highlighted key investor topics including the Pentagon's AI usage and Gen Z's preference for analog products.",
-        "why_care": "Understanding broad market trends, like government AI adoption and generational consumer preferences, can inform your strategies for property development, marketing, and client engagement.",
-        "what_to_do": "Consider how Gen Z's preferences might influence future property design or marketing strategies, and evaluate the security implications of AI use in government for your data."
+        "headline": "Defense Firms Drop Anthropic's Claude After Pentagon Blacklist",
+        "what_changed": "Defense technology companies are discontinuing their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
+        "why_care": "This shows that government policies and partnerships can quickly impact the availability and viability of AI tools, which might affect your own software choices.",
+        "what_to_do": "Assess your current AI tool providers to understand their government affiliations or potential regulatory risks that could impact your operations."
       }
     ],
     "science_research": [
       {
         "id": 0,
-        "headline": "X Bans Revenue for Unlabeled AI War Videos After Iran Conflict Disinformation",
-        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post AI-generated war videos without disclosure, with a second offense leading to a permanent ban.",
-        "why_care": "This policy change impacts how you can share and consume visual information related to conflicts, requiring careful verification of AI-generated content.",
-        "what_to_do": "When sharing or citing visual content from social media, always verify its authenticity and look for AI disclosures, especially for sensitive topics like conflicts."
+        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
+        "what_changed": "Nvidia's CEO stated that their $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be their final investments in these AI companies.",
+        "why_care": "This signals a potential shift in how major tech companies like Nvidia will fund and collaborate with leading AI research labs, impacting future resource availability for AI development.",
+        "what_to_do": "Evaluate how your research or projects might be affected if major AI model developers receive less direct investment from key hardware providers like Nvidia."
       },
       {
         "id": 1,
-        "headline": "Elon Musk to Testify in $44 Billion Twitter Buyout Lawsuit",
-        "what_changed": "Elon Musk is expected to testify in a lawsuit filed by Twitter investors regarding his 2022 acquisition of the social media company for $44 billion.",
-        "why_care": "This legal proceeding could reveal details about corporate governance and decision-making processes in major tech acquisitions, which might influence future funding and platform stability for research communication.",
-        "what_to_do": "Monitor news from the trial for insights into how large tech companies operate and how these events might affect platforms you use for professional networking or data sharing."
+        "headline": "US Military Uses Anthropic's Claude for AI Strike Planning in Iran",
+        "what_changed": "The US military is now using Anthropic's Claude AI model for target selection and strike planning in the conflict with Iran.",
+        "why_care": "This demonstrates a real-world application of generative AI in high-stakes decision-making, raising ethical and safety considerations for AI deployment in critical systems.",
+        "what_to_do": "Consider the ethical implications and potential biases of using large language models in sensitive applications within your own research or operational contexts."
       },
       {
         "id": 2,
-        "headline": "Super PAC Spends $125 Million to Oppose AI Regulation Candidates",
-        "what_changed": "A tech billionaire-backed super PAC is spending $125 million to campaign against candidates, like former tech executive Alex Bores, who advocate for AI regulation.",
-        "why_care": "This significant spending highlights the intense political lobbying against AI regulation, which could impact future policies on AI safety, ethics, and research funding that directly affect your work.",
-        "what_to_do": "Engage with your elected officials to share your perspective on AI regulation, emphasizing the importance of responsible AI development and deployment in scientific contexts."
+        "headline": "Google's AI Workspace Now Widely Available in Search for US Users",
+        "what_changed": "Google has made its AI-powered 'Canvas' workspace available to all US users in AI Mode within Google Search.",
+        "why_care": "This tool can help you organize research plans, develop experimental protocols, and draft documents more efficiently by leveraging the latest information directly from search results.",
+        "what_to_do": "Experiment with Google's 'Canvas' feature in AI Mode Search to see if it can streamline your research planning or document drafting processes this week."
       },
       {
         "id": 3,
-        "headline": "Nvidia Invests $4 Billion in Photonics for AI Data Centers",
-        "what_changed": "Nvidia is investing $2 billion each into Lumentum and Coherent, totaling $4 billion, to advance photonics technology for data centers, focusing on optical transceivers, circuit switches, and lasers.",
-        "why_care": "These investments aim to improve energy efficiency, data transfer speeds, and bandwidth in data centers, which could significantly enhance the performance and sustainability of AI models and computational research you rely on.",
-        "what_to_do": "Explore how these advancements in data center technology could impact your computational workflows and consider how more efficient AI infrastructure might enable new research possibilities."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a permanent ban for a second offense.",
+        "why_care": "This policy aims to combat the spread of misinformation and deepfakes, which is crucial for maintaining data integrity and trust in scientific communication and public understanding of events.",
+        "what_to_do": "Ensure that any AI-generated content you share on social media platforms, especially related to sensitive topics, is clearly and accurately labeled to comply with platform policies and ethical guidelines."
       },
       {
         "id": 4,
-        "headline": "Pentagon's AI Usage Among Top Investor News",
-        "what_changed": "A morning news brief for investors included the Pentagon's AI usage as one of five key things to know for the trading day.",
-        "why_care": "The inclusion of the Pentagon's AI usage in investor news indicates the growing economic and strategic importance of AI in defense, which can influence government funding and ethical considerations for AI research.",
-        "what_to_do": "Stay informed about government and defense sector AI strategies, as these developments can signal future research priorities and funding opportunities in AI safety and application."
+        "headline": "Defense Tech Companies Drop Anthropic's Claude After Pentagon Blacklist",
+        "what_changed": "Defense technology companies that work with the US government are discontinuing their use of Anthropic's Claude AI model.",
+        "why_care": "This highlights how government policies and security concerns can quickly impact the availability and adoption of specific AI tools, affecting your access to certain models for research or application.",
+        "what_to_do": "Assess your reliance on specific AI models and consider diversifying your toolset or having contingency plans if a preferred AI service becomes unavailable due to policy changes."
       }
     ]
   }
