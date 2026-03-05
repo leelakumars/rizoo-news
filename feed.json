@@ -1,724 +1,729 @@
 {
   "version": 1,
-  "generated_at": "2026-03-05T07:47:02.437919+00:00",
-  "run_id": "20260305_074545",
+  "generated_at": "2026-03-05T14:02:29.040513+00:00",
+  "run_id": "20260305_140106",
   "articles": [
     {
-      "id": "011a3fd44105",
+      "id": "01e264dcbd08",
       "index": 0,
+      "headline": "Checking your ex’s socials or overusing Find My Friends? Welcome to the age of interpersonal surveillance | Tatum Hunter",
+      "description": "Invasive behaviour that would have shocked us a decade ago now barely registers. And that includes the way we digitally track and monitor each otherA TikTok comedian recently launched a fake ICE tip line and received dozens of calls – including one from a teacher suggesting agents look into a kindergartener in her class. Governments and companies are the architects of surveillance culture, but civilians are increasingly keen to play a part. And it’s not just our perceived political enemies we’re willing to watch. It’s our friends, neighbours, partners and children.As corporations and governments tunnel further into our digital lives – hoarding information about where we shop, who we know and what we believe – we’ve grown increasingly comfortable demanding the same access in our personal lives. While multiple apps log our location throughout the day, we demand that our friends also share their real-time movements through Apple’s Find My feature. While OpenAI uses our chat logs to train its models, we peek into the text messages of our partners. And while Palantir analyses social media data to help ICE identify its targets, we record strangers in public without their consent.Tatum Hunter is a technology journalist based in Brooklyn. She writes on Substack at Bytatumhunter Continue reading...",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/05/surveillance-age-technology-digital-track-monitor",
+      "source": "The Guardian",
+      "topic": "AI Industry",
+      "published_at": "2026-03-05T10:00:02+00:00"
+    },
+    {
+      "id": "70a9843969db",
+      "index": 1,
+      "headline": "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement",
+      "description": "AI procurement startup Lio announced a $30 million Series A in a round led by Andreessen Horowitz.",
+      "link": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+      "source": "TechCrunch",
+      "topic": "AI Industry",
+      "published_at": "2026-03-05T13:00:00+00:00"
+    },
+    {
+      "id": "6b1df0715c4b",
+      "index": 2,
+      "headline": "Broadcom earnings, AI's PR problem, Musk takes the stand and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "link": "https://www.cnbc.com/2026/03/05/5-things-to-know-before-the-market-opens.html",
+      "source": "CNBC",
+      "topic": "AI Industry",
+      "published_at": "2026-03-05T13:26:19+00:00"
+    },
+    {
+      "id": "dcaea8834a88",
+      "index": 3,
+      "headline": "AI tools can unmask anonymous accounts",
+      "description": "Do you have a Reddit alt, secret X, finsta, or Glassdoor account you trash your boss with? AI might have just made it a lot easier to unmask you. That's the conclusion of a recently published study, which hints at some uncomfortable consequences for staying private online - even if it's not quite time to […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
+      "source": "The Verge",
+      "topic": "AI Industry",
+      "published_at": "2026-03-05T08:30:00-05:00"
+    },
+    {
+      "id": "011a3fd44105",
+      "index": 4,
       "headline": "As bond investors fret over an AI bubble, what to know — and how to find an opportunity",
       "description": "For the first time, investors said an AI bubble was their biggest worry, according to a recent Bank of America survey. What the pros are saying.",
       "link": "https://www.cnbc.com/2026/03/04/as-bond-investors-fret-over-an-ai-bubble-what-investors-need-to-know.html",
       "source": "CNBC",
       "topic": "AI Industry",
       "published_at": "2026-03-04T21:15:34+00:00"
-    },
-    {
-      "id": "c14100ccab0a",
-      "index": 1,
-      "headline": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
-      "description": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro […]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
-      "source": "The Verge",
-      "topic": "AI Industry",
-      "published_at": "2026-03-04T15:32:42-05:00"
-    },
-    {
-      "id": "39de69922c98",
-      "index": 2,
-      "headline": "X to ban users from earning revenue if they post unlabelled AI-generated war videos",
-      "description": "Social media feeds have been flooded with fake battle scenes since start of Iran conflictElon Musk’s X will ban users from making money on the platform if they repeatedly post unlabelled AI-generated war videos, after social media feeds were flooded with fake battle scenes from the Iran conflict.The social media platform, which has about half a billion monthly active users, will suspend people from earning revenue from posts for 90 days if they put up AI-generated videos of an armed conflict without adding a disclosure that it was made with AI. A second infraction wouldlead to a permanent ban, it said on Tuesday night, after the first days of the conflict in Iran were marked by a torrent of bogus online footage. Continue reading...",
-      "link": "https://www.theguardian.com/technology/2026/mar/04/x-ban-users-earning-revenue-post-unlabelled-ai-generated-war-videos",
-      "source": "The Guardian",
-      "topic": "AI Industry",
-      "published_at": "2026-03-04T13:34:26+00:00"
-    },
-    {
-      "id": "0dac5b0f3a81",
-      "index": 3,
-      "headline": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency",
-      "description": "How can a trillion-parameter Large Language Model achieve state-of-the-art enterprise performance while simultaneously cutting its total parameter count by 33.3% and boosting pre-training efficiency by 49%? Yuan Lab AI releases Yuan3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model featuring 1T total parameters and 68.8B activated parameters. The model architecture is designed to optimize performance […] The post YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency appeared first on MarkTechPost.",
-      "link": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/",
-      "source": "MarkTechPost",
-      "topic": "AI Research",
-      "published_at": "2026-03-05T05:55:02+00:00"
-    },
-    {
-      "id": "3791cca623e5",
-      "index": 4,
-      "headline": "How to Build an EverMem-Style Persistent AI Agent OS with Hierarchical Memory, FAISS Vector Retrieval, SQLite Storage, and Automated Memory Consolidation",
-      "description": "In this tutorial, we build an EverMem-style persistent agent OS. We combine short-term conversational context (STM) with long-term vector memory using FAISS so the agent can recall relevant past information before generating each response. Alongside semantic memory, we also store structured records in SQLite to persist metadata like timestamps, importance scores, and memory signals (preference, […] The post How to Build an EverMem-Style Persistent AI Agent OS with Hierarchical Memory, FAISS Vector Retrieval, SQLite Storage, and Automated Memory Consolidation appeared first on MarkTechPost.",
-      "link": "https://www.marktechpost.com/2026/03/04/how-to-build-an-evermem-style-persistent-ai-agent-os-with-hierarchical-memory-faiss-vector-retrieval-sqlite-storage-and-automated-memory-consolidation/",
-      "source": "MarkTechPost",
-      "topic": "AI Research",
-      "published_at": "2026-03-04T23:50:20+00:00"
     }
   ],
   "rewrites": {
     "software_engineering": [
       {
         "id": 0,
-        "headline": "AI Bubble Worries Rise Among Investors, Bank of America Survey Shows",
-        "what_changed": "A recent Bank of America survey indicates that investors now consider an AI bubble their biggest concern.",
-        "why_care": "Understanding market sentiment around AI can inform your career planning and investment in AI-related skills or projects.",
-        "what_to_do": "Research the current valuation metrics of major AI companies and compare them to traditional tech companies this week."
+        "headline": "Interpersonal Digital Surveillance Normalizes Invasive Behavior",
+        "what_changed": "The article highlights how digital tracking and monitoring of individuals, once shocking, is now commonplace, extending from governments and corporations to personal relationships.",
+        "why_care": "This trend impacts your understanding of privacy expectations, data handling, and the ethical implications of tools you develop or use.",
+        "what_to_do": "Review your personal and project privacy settings and data access permissions this week."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Overviews from Research",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading from previous narrated slideshows.",
-        "why_care": "This feature could streamline your documentation, presentation, or knowledge-sharing processes by automating video content creation from technical notes.",
-        "what_to_do": "Experiment with NotebookLM to convert a technical document or project summary into a video overview this week."
+        "headline": "Lio Secures $30M from Andreessen Horowitz to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio announced it raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "This investment signals growing AI adoption in enterprise operations, potentially impacting how your teams interact with procurement systems and data.",
+        "what_to_do": "Investigate how AI is currently used in your company's procurement processes and identify potential integration points for your projects."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post AI-generated war videos without disclosure, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing importance of AI content provenance and ethical AI use, which impacts your development of AI-powered content generation tools.",
-        "what_to_do": "Review your current or planned AI content generation workflows to ensure they include clear disclosure mechanisms for synthetic media this week."
+        "headline": "Broadcom Earnings, AI's PR Problem, Musk Takes Stand in Morning Squawk",
+        "what_changed": "CNBC's Morning Squawk covered Broadcom earnings, AI's public relations challenges, and Elon Musk's court appearance.",
+        "why_care": "This article mentions 'AI's PR problem,' which could influence public perception and regulatory scrutiny of AI tools you develop or deploy.",
+        "what_to_do": "Familiarize yourself with common public concerns about AI and consider how to address them in your project communications."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) model with 1T total parameters and 68.8B activated parameters, boasting improved efficiency.",
-        "why_care": "This new model offers a more efficient approach to large language models, which could influence your architectural decisions for deploying or integrating AI solutions.",
-        "what_to_do": "Explore the Yuan 3.0 Ultra documentation and consider its potential applications for your enterprise projects this week."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Finds",
+        "what_changed": "A new study suggests AI tools can make it significantly easier to de-anonymize users on platforms like Reddit, X, and Glassdoor.",
+        "why_care": "This research directly impacts your understanding of online privacy, data security, and the potential for re-identification in systems you build or maintain.",
+        "what_to_do": "Review the privacy implications of user data in your current projects and explore enhanced anonymization techniques this week."
       },
       {
         "id": 4,
-        "headline": "Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory and FAISS",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
-        "why_care": "This guide provides practical steps for you to implement advanced memory management in AI agents, enhancing their ability to recall and use past information.",
-        "what_to_do": "Follow the tutorial to set up a basic persistent AI agent with hierarchical memory on your local machine this week."
+        "headline": "Bond Investors Worry About AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey revealed that an AI bubble is now the top concern for bond investors.",
+        "why_care": "While financial, this sentiment could influence investment in AI projects and the overall tech market, potentially affecting your company's resources and priorities.",
+        "what_to_do": "Stay informed on broader tech market trends and how they might impact your project's funding or strategic direction."
       }
     ],
     "data_ai": [
       {
         "id": 0,
-        "headline": "AI Bubble Fears Rise Among Investors: What Data & AI Pros Need to Know",
-        "what_changed": "A Bank of America survey shows investors now consider an AI bubble their biggest worry.",
-        "why_care": "Your projects and company's funding could be impacted if investor sentiment shifts negatively towards AI.",
-        "what_to_do": "Review your project's ROI and long-term value proposition to prepare for potential funding scrutiny."
+        "headline": "Interpersonal Surveillance: How AI and Digital Tracking Normalize Invasive Behavior",
+        "what_changed": "The widespread use of digital tracking and AI-powered data collection has normalized interpersonal surveillance among individuals.",
+        "why_care": "Your work in AI contributes to the tools and data practices that enable this surveillance, raising ethical considerations for your projects.",
+        "what_to_do": "Review your current AI projects to identify and mitigate potential misuse cases related to personal data and surveillance.",
+        "source": "The Guardian"
       },
       {
         "id": 1,
-        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
-        "what_changed": "Google's NotebookLM can now generate fully animated, 'cinematic' video overviews from your research and notes.",
-        "why_care": "This new feature offers a powerful way to visualize and present complex data and research findings, potentially streamlining your communication.",
-        "what_to_do": "Experiment with NotebookLM's new video overview feature to see how it can enhance your project presentations or knowledge sharing."
+        "headline": "Lio Secures $30M Series A to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "This investment signals growing demand for AI solutions in enterprise operations, creating new opportunities for your AI skills in business process automation.",
+        "what_to_do": "Investigate AI applications in procurement and supply chain management to understand potential new project areas.",
+        "source": "TechCrunch"
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Undisclosed AI-Generated War Videos",
-        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This highlights the growing ethical and platform-specific regulations around AI-generated content, impacting how you might share or use such media.",
-        "what_to_do": "Ensure any AI-generated visual content you create or share on platforms like X is clearly labeled to comply with evolving content policies."
+        "headline": "Morning Squawk: Broadcom Earnings, AI's PR Problem, Musk Takes Stand",
+        "what_changed": "This article summarizes key market news, including Broadcom's earnings, AI's public relations challenges, and Elon Musk's court appearance.",
+        "why_care": "Understanding the broader market perception and PR issues surrounding AI can help you better communicate the value and risks of your AI projects.",
+        "what_to_do": "Research recent public perception issues related to AI to better frame your project communications and ethical considerations.",
+        "source": "CNBC"
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Multimodal MoE Model with 1T Parameters",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) foundation model with 1 trillion total parameters and 68.8 billion activated parameters.",
-        "why_care": "This new model offers a powerful, efficient option for your large-scale AI projects, potentially reducing computational costs while maintaining high performance.",
-        "what_to_do": "Investigate Yuan 3.0 Ultra's capabilities and consider if its MoE architecture could benefit your current or future model development efforts."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Shows",
+        "what_changed": "A new study indicates that AI tools can significantly increase the ease of unmasking anonymous online accounts.",
+        "why_care": "Your work with AI models could inadvertently contribute to de-anonymization risks, impacting user privacy and data security.",
+        "what_to_do": "Assess your AI models for potential de-anonymization capabilities and implement privacy-preserving techniques where appropriate.",
+        "source": "The Verge"
       },
       {
         "id": 4,
-        "headline": "Tutorial: Build Persistent AI Agent OS with Hierarchical Memory and FAISS",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
-        "why_care": "This provides a practical guide for you to implement advanced memory management in your AI agents, improving their ability to recall and learn from past interactions.",
-        "what_to_do": "Follow the tutorial to experiment with building a persistent AI agent, integrating hierarchical memory and vector retrieval into your own projects."
+        "headline": "Bond Investors Fret Over AI Bubble: What Data Professionals Should Know",
+        "what_changed": "A Bank of America survey revealed that bond investors now consider an AI bubble their biggest concern.",
+        "why_care": "Understanding investor sentiment around AI helps you contextualize funding trends and manage expectations for AI project investments.",
+        "what_to_do": "Stay informed on market trends and investor sentiment regarding AI to better understand the economic landscape for your projects.",
+        "source": "CNBC"
       }
     ],
     "cybersecurity": [
       {
         "id": 0,
-        "headline": "Bank of America Survey: AI Bubble is Top Investor Concern",
-        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their primary worry.",
-        "why_care": "This indicates a growing market concern that could impact funding and strategic priorities for AI-driven security solutions.",
-        "what_to_do": "Evaluate your organization's reliance on AI vendors and consider the financial stability of key partners this week."
+        "headline": "Interpersonal Surveillance: How Digital Tracking Normalizes Privacy Invasion",
+        "what_changed": "The widespread use of digital tracking tools and AI has normalized interpersonal surveillance among individuals, mirroring government and corporate data collection.",
+        "why_care": "This trend highlights a societal erosion of privacy expectations, which can desensitize users to surveillance and make them less vigilant about their own digital footprints and data security.",
+        "what_to_do": "Educate your organization and personal network on the privacy implications of common apps and digital behaviors this week."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading from its previous narrated slideshow feature.",
-        "why_care": "This advancement in AI-generated content creation could be exploited for more sophisticated deepfakes and misinformation campaigns, impacting your threat intelligence efforts.",
-        "what_to_do": "Review your organization's media verification protocols and train your team on identifying advanced AI-generated video content this week."
+        "headline": "Lio Secures $30M from Andreessen Horowitz to Automate Enterprise Procurement",
+        "what_changed": "AI procurement startup Lio announced it raised $30 million in a Series A funding round led by Andreessen Horowitz.",
+        "why_care": "Increased AI adoption in procurement means more automated systems handling sensitive financial and vendor data, expanding your attack surface.",
+        "what_to_do": "Review your organization's third-party risk management framework to ensure it addresses AI-driven vendor solutions this week."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabelled AI-Generated War Videos",
-        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy change highlights the increasing prevalence and danger of AI-generated disinformation, which you must account for in your threat analysis and incident response planning.",
-        "what_to_do": "Educate your team on X's new policy and the risks of unlabelled AI-generated content to improve your organization's social media intelligence gathering this week."
+        "headline": "Broadcom Earnings, AI's PR Problem, Musk Takes Stand in Morning Squawk",
+        "what_changed": "CNBC's Morning Squawk highlighted key investor information, including Broadcom's earnings and discussions around AI's public relations challenges.",
+        "why_care": "Understanding market sentiment and public perception of AI can inform your organization's risk communication strategies and investment in AI security tools.",
+        "what_to_do": "Stay informed on broader market trends affecting AI development and adoption to anticipate future security challenges this week."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, designed for improved efficiency and performance.",
-        "why_care": "The release of more efficient and powerful open-source AI models like Yuan 3.0 Ultra means threat actors will have access to more sophisticated tools for generating malicious content and automating attacks.",
-        "what_to_do": "Investigate the capabilities of new open-source LLMs like Yuan 3.0 Ultra to understand potential misuse cases and update your threat models accordingly this week."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Finds",
+        "what_changed": "A new study indicates that AI tools are becoming highly effective at deanonymizing users across various online platforms, even those using 'alt' accounts.",
+        "why_care": "This capability poses a significant risk to your personal and professional anonymity, potentially exposing sensitive information or opinions you intended to keep private.",
+        "what_to_do": "Assume all your online activities can be linked to your real identity and adjust your privacy practices accordingly this week."
       },
       {
         "id": 4,
-        "headline": "Tutorial: Build Persistent AI Agent OS with Hierarchical Memory and SQLite",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system using hierarchical memory, FAISS vector retrieval, and SQLite storage for enhanced recall and structured data persistence.",
-        "why_care": "Understanding the architecture of persistent AI agents, which can retain and consolidate information, is crucial for anticipating how advanced AI malware or autonomous agents might operate and evade detection.",
-        "what_to_do": "Review the technical details of this persistent AI agent architecture to identify potential attack vectors or defensive countermeasures for your systems this week."
+        "headline": "Bond Investors Fret Over AI Bubble: What Cybersecurity Pros Should Know",
+        "what_changed": "A Bank of America survey revealed that investors are now most concerned about an AI bubble, indicating market volatility around AI investments.",
+        "why_care": "Market instability in the AI sector could impact funding for AI security initiatives and the long-term viability of AI-powered security tools you rely on.",
+        "what_to_do": "Evaluate the financial stability and long-term prospects of your AI security vendors to mitigate potential disruptions this week."
       }
     ],
     "design_ux": [
       {
         "id": 0,
-        "headline": "AI Bubble Worries: What Designers Need to Know About Investor Concerns",
-        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their biggest worry.",
-        "why_care": "Understanding investor sentiment around AI can help you anticipate future funding and tool development in design technology.",
-        "what_to_do": "Research how current economic trends might impact investment in AI design tools and platforms this quarter."
+        "headline": "Digital Surveillance: How AI Normalizes Tracking in Personal Lives",
+        "what_changed": "The widespread use of AI and tracking technologies by companies and governments has made personal digital surveillance more common and accepted.",
+        "why_care": "Your designs for apps and platforms must consider the ethical implications of data collection and location sharing, as users are increasingly comfortable with invasive features.",
+        "what_to_do": "Review your current design projects to identify any features that could be perceived as enabling interpersonal surveillance and propose more privacy-respecting alternatives."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Your Notes",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading its previous narrated slideshow feature.",
-        "why_care": "This new capability allows you to quickly generate engaging visual summaries of your design research, user feedback, or project briefs.",
-        "what_to_do": "Experiment with NotebookLM this week to create a 'cinematic' video summary for a current design project or research topic."
+        "headline": "Lio Secures $30M from Andreessen Horowitz for AI Procurement Automation",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "As AI automates more enterprise functions like procurement, your design work for business tools will need to integrate seamlessly with these intelligent systems.",
+        "what_to_do": "Research how AI is being applied in enterprise resource planning (ERP) and procurement software to anticipate future design requirements for such platforms."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Undisclosed AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing importance of transparent AI disclosure, a principle that also applies to your use of AI in design work and presentations.",
-        "what_to_do": "Review your social media posting guidelines to ensure you always clearly label any AI-generated content you share, especially for client work or public portfolios."
+        "headline": "Broadcom Earnings and AI's Public Relations Challenges",
+        "what_changed": "CNBC's Morning Squawk highlighted Broadcom's earnings and discussed the public relations challenges facing AI.",
+        "why_care": "Public perception of AI impacts user trust and adoption, directly influencing how you design AI-powered features and communicate their benefits.",
+        "what_to_do": "Familiarize yourself with common public concerns about AI, such as bias and privacy, to better inform your design decisions and user communication strategies."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal AI Model",
-        "what_changed": "Yuan Lab AI released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) foundation model with 1T total parameters, designed for stronger intelligence and efficiency.",
-        "why_care": "More efficient and powerful multimodal AI models like this could lead to advancements in AI tools you use for generating images, text, and other design assets.",
-        "what_to_do": "Keep an eye on how new open-source multimodal AI models are integrated into design tools, as they may offer new creative possibilities for your workflows."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts",
+        "what_changed": "A new study suggests AI can make it much easier to identify individuals behind anonymous online accounts like Reddit alts or finstas.",
+        "why_care": "This development means your designs for online platforms must prioritize user privacy and anonymity more rigorously, as AI can undermine existing safeguards.",
+        "what_to_do": "Evaluate the privacy settings and anonymity features in your current or upcoming projects and explore ways to strengthen them against AI-driven identification."
       },
       {
         "id": 4,
-        "headline": "Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS that combines short-term conversational context with long-term vector memory using FAISS and SQLite.",
-        "why_care": "Understanding how AI agents manage and recall information can inform your design of user interfaces for AI-powered tools, making them more intuitive and effective.",
-        "what_to_do": "Read the tutorial to grasp the concepts of hierarchical memory in AI agents, which can inspire new ways to design interactive experiences with AI."
+        "headline": "Bond Investors Worry About an AI Bubble",
+        "what_changed": "A Bank of America survey revealed that bond investors now consider an AI bubble their biggest concern.",
+        "why_care": "While not directly impacting your daily design tasks, investor sentiment about AI can influence funding for AI-driven projects and tools you might use or design for.",
+        "what_to_do": "Stay aware of broader economic trends and investor confidence in AI, as it may affect the long-term viability and resources for AI-focused design initiatives."
       }
     ],
     "product_project": [
       {
         "id": 0,
-        "headline": "AI Bubble Fears Rise Among Investors, Bank of America Survey Shows",
-        "what_changed": "A recent Bank of America survey shows that investors now consider an AI bubble their biggest worry.",
-        "why_care": "This shift in investor sentiment could impact funding and resource allocation for your AI-related projects.",
-        "what_to_do": "Review your project's AI dependencies and potential financial risks, preparing to articulate their value clearly."
+        "headline": "Digital Tracking Normalizes Interpersonal Surveillance, Raising Privacy Concerns",
+        "what_changed": "The widespread use of digital tracking and monitoring tools has made interpersonal surveillance increasingly common and accepted.",
+        "why_care": "This trend highlights growing user comfort with data sharing, which impacts how you design privacy features and manage user trust in your products.",
+        "what_to_do": "Review your product's privacy settings and data sharing defaults to ensure they align with user expectations and ethical guidelines."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' video overviews.",
-        "why_care": "This new feature can help you quickly create engaging summaries of complex information for stakeholders or team members.",
-        "what_to_do": "Experiment with NotebookLM this week to summarize a project brief or research document into a video overview."
+        "headline": "Lio Secures $30M from Andreessen Horowitz to Automate Enterprise Procurement",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz, to advance its automation solutions.",
+        "why_care": "This investment signals a growing market for AI-driven process automation, which could impact your project's resource allocation and vendor selection strategies.",
+        "what_to_do": "Investigate how AI-powered procurement tools like Lio could streamline your project's purchasing processes and reduce administrative overhead."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing importance of transparency and ethical AI use, which you should consider in your own product development and communication strategies.",
-        "what_to_do": "Review your team's guidelines for AI-generated content, ensuring clear labeling and ethical considerations are in place."
+        "headline": "Broadcom Earnings and AI's PR Problem Among Top Investor Concerns",
+        "what_changed": "Broadcom's earnings report and the public perception challenges of AI are key topics for investors today.",
+        "why_care": "Understanding investor sentiment around AI and major tech companies helps you anticipate market trends that might affect your product's funding or strategic direction.",
+        "what_to_do": "Stay informed on broader market news and investor sentiment regarding AI to better position your projects and products."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1T total parameters, designed for stronger intelligence and efficiency.",
-        "why_care": "This new model demonstrates how advanced AI can achieve high performance with improved efficiency, potentially impacting your resource planning for AI initiatives.",
-        "what_to_do": "Investigate how MoE models like Yuan 3.0 Ultra could offer more efficient solutions for your team's AI-driven features or products."
+        "headline": "New AI Tools Can Unmask Anonymous Online Accounts, Study Finds",
+        "what_changed": "A recent study indicates that AI tools can now make it significantly easier to identify individuals behind anonymous online accounts.",
+        "why_care": "This development impacts user privacy and could influence how you design features for anonymity or manage user data in your products.",
+        "what_to_do": "Assess the privacy implications for your product's users and consider how this AI capability might affect your data handling policies."
       },
       {
         "id": 4,
-        "headline": "Tutorial Shows How to Build Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
-        "why_care": "Understanding persistent AI agent architectures can help you design more robust and context-aware AI features for your products.",
-        "what_to_do": "Discuss with your technical leads how hierarchical memory concepts could enhance the intelligence and user experience of your current or future AI agents."
+        "headline": "Bond Investors Worry About AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey shows that bond investors now consider an AI bubble their biggest concern, while also looking for investment opportunities.",
+        "why_care": "Investor concerns about an AI bubble could influence funding availability and strategic priorities for AI-related projects you manage.",
+        "what_to_do": "Evaluate the long-term viability and market demand for your AI initiatives, preparing for potential shifts in investor confidence."
       }
     ],
     "marketing": [
       {
         "id": 0,
-        "headline": "AI Bubble Fears Rise Among Investors: What Marketers Need to Know",
-        "what_changed": "A recent Bank of America survey shows that investors now consider an AI bubble their biggest concern.",
-        "why_care": "Your marketing strategies and budget allocations could be impacted if investor sentiment shifts away from AI-driven ventures.",
-        "what_to_do": "Research how potential economic shifts might affect your marketing technology investments and future campaign planning."
+        "headline": "Digital Surveillance: How Our Comfort with Tracking Affects Everyone",
+        "what_changed": "People are increasingly comfortable with digital tracking and monitoring in their personal lives, mirroring corporate and government surveillance.",
+        "why_care": "This shift impacts consumer privacy expectations and how your brand can ethically collect and use customer data.",
+        "what_to_do": "Review your data collection practices to ensure transparency and build trust with your audience."
       },
       {
         "id": 1,
-        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Notes",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, powered by AI models like Gemini 3 and Nano Banana Pro.",
-        "why_care": "This new feature allows you to quickly generate engaging video content from your research, saving time and resources for content creation.",
-        "what_to_do": "Experiment with NotebookLM to convert your existing content outlines or research into short, shareable video summaries for social media or internal presentations."
+        "headline": "AI Procurement Startup Lio Secures $30M from Andreessen Horowitz",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding led by Andreessen Horowitz.",
+        "why_care": "This investment signals growing confidence in AI solutions for business operations, potentially freeing up budgets for marketing technology.",
+        "what_to_do": "Explore how AI tools could automate your internal marketing processes to improve efficiency."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post AI-generated war videos without proper disclosure, with a second infraction leading to a permanent ban.",
-        "why_care": "Your brand's reputation and content strategy on X could be severely impacted if your team inadvertently shares or creates undisclosed AI-generated content, especially sensitive material.",
-        "what_to_do": "Review your social media content guidelines to ensure all AI-generated visuals, particularly those depicting sensitive events, are clearly labeled before posting on X."
+        "headline": "Morning Squawk: Broadcom Earnings, AI's PR Problem, Musk on Stand",
+        "what_changed": "CNBC's Morning Squawk highlighted Broadcom earnings, AI's public relations challenges, and Elon Musk's court appearance.",
+        "why_care": "AI's 'PR problem' means your brand needs to carefully craft messages about AI use to avoid negative public perception.",
+        "what_to_do": "Develop a clear communication strategy for how your brand uses AI, emphasizing benefits and ethical considerations."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal AI Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, designed for stronger intelligence and efficiency.",
-        "why_care": "This new model offers enhanced performance and efficiency, which could lead to more sophisticated and cost-effective AI tools for content generation, personalization, and data analysis in your marketing stack.",
-        "what_to_do": "Investigate how open-source multimodal models like Yuan 3.0 Ultra could be integrated into your current marketing workflows to improve content creation or customer interaction."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Finds",
+        "what_changed": "A recent study suggests AI tools can make it easier to identify individuals behind anonymous online accounts.",
+        "why_care": "This development impacts how you manage brand reputation and engage with anonymous feedback or reviews online.",
+        "what_to_do": "Re-evaluate your strategy for monitoring and responding to anonymous online conversations about your brand."
       },
       {
         "id": 4,
-        "headline": "New Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system that combines short-term conversational context with long-term vector memory using FAISS and SQLite.",
-        "why_care": "Understanding this architecture can help you develop more intelligent and context-aware AI agents for customer service, content personalization, or lead nurturing, improving user experience and efficiency.",
-        "what_to_do": "Explore the tutorial to understand how persistent memory can enhance your AI chatbots or virtual assistants, then consider implementing similar features in your own tools."
+        "headline": "Bond Investors Worry About AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey revealed that bond investors are most concerned about an AI bubble.",
+        "why_care": "Investor sentiment around AI can influence funding for AI-powered marketing tools and platforms you rely on.",
+        "what_to_do": "Stay informed about the financial health of the AI companies whose tools you use or plan to adopt."
       }
     ],
     "sales": [
       {
         "id": 0,
-        "headline": "AI Bubble Fears Rise Among Investors: What Sales Pros Need to Know",
-        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
-        "why_care": "Your clients may be hesitant to invest in new AI solutions if they fear a market downturn.",
-        "what_to_do": "Prepare to address client concerns about AI investment risks by highlighting tangible ROI and proven use cases."
+        "headline": "Digital Tracking: How Personal Surveillance is Becoming the New Normal",
+        "what_changed": "People are increasingly comfortable with digital tracking and monitoring each other, mirroring how companies and governments collect our data.",
+        "why_care": "Understanding this trend helps you recognize evolving customer privacy expectations and potential ethical considerations in your sales outreach.",
+        "what_to_do": "Review your sales tools and practices to ensure they align with current privacy norms and avoid any perceived invasiveness."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Your Notes",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos.",
-        "why_care": "You can use this tool to quickly create engaging video summaries of complex product information or client research for internal team alignment or pre-call planning.",
-        "what_to_do": "Experiment with NotebookLM this week to turn your sales notes or product updates into a short, shareable video for your team."
+        "headline": "Lio Secures $30M to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "This investment signals a growing trend of AI automating procurement, which could impact how your prospects make purchasing decisions.",
+        "what_to_do": "Research how AI procurement tools like Lio might change your target accounts' buying processes and adapt your sales strategy accordingly."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second offense leading to a permanent ban.",
-        "why_care": "This highlights the growing importance of transparency and ethical AI use, which can impact your company's reputation and how you use AI in your sales content.",
-        "what_to_do": "Review your social media content strategy to ensure any AI-generated visuals or videos are clearly labeled and comply with platform guidelines."
+        "headline": "Morning Squawk: Broadcom Earnings, AI's PR Problem, Musk's Testimony",
+        "what_changed": "This article covers key market news including Broadcom's earnings, AI's public relations challenges, and Elon Musk's court testimony.",
+        "why_care": "Staying informed on broad market trends and AI's public perception helps you understand the economic climate and potential customer sentiment.",
+        "what_to_do": "Quickly scan daily market summaries to stay aware of major business news that could influence your prospects' priorities."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Faster, More Efficient Multimodal AI Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal AI model that is more efficient and powerful despite having fewer total parameters.",
-        "why_care": "This advancement means future AI tools you use could be faster and more cost-effective, improving your sales operations without increasing your budget.",
-        "what_to_do": "Stay informed about new open-source AI models like Yuan 3.0 Ultra that could power your sales tools, and ask your current vendors about their AI model updates."
+        "headline": "AI Tools Can Now Unmask Anonymous Online Accounts",
+        "what_changed": "New research suggests AI tools can make it much easier to identify individuals behind anonymous online accounts.",
+        "why_care": "This development highlights increasing transparency online, which could impact how prospects share information and how you gather insights.",
+        "what_to_do": "Be mindful that online anonymity is decreasing and ensure your prospecting methods respect privacy, focusing on publicly available professional data."
       },
       {
         "id": 4,
-        "headline": "New Guide: Build Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial details how to build an AI agent operating system with persistent, hierarchical memory, allowing it to recall past conversations and structured data.",
-        "why_care": "This technology could lead to more intelligent sales AI assistants that remember your client interactions and preferences, providing better support and insights.",
-        "what_to_do": "Discuss with your sales operations or IT team how persistent memory AI agents could enhance your CRM or sales enablement tools in the future."
+        "headline": "Bond Investors Worry About AI Bubble: What Sales Pros Need to Know",
+        "what_changed": "A Bank of America survey shows that an AI bubble is now the top concern for bond investors.",
+        "why_care": "This indicates potential market volatility or skepticism around AI investments, which could affect your prospects' budgets and willingness to adopt new AI solutions.",
+        "what_to_do": "Prepare to address potential concerns about AI investment value or market stability when discussing AI-powered solutions with your clients."
       }
     ],
     "customer_support": [
       {
         "id": 0,
-        "headline": "AI Bubble Worries Rise Among Investors, What It Means for Your Company",
-        "what_changed": "A Bank of America survey shows investors are now most concerned about an AI bubble.",
-        "why_care": "Your company's investment in AI tools could be impacted if the market shifts, potentially affecting your budget for support technology.",
-        "what_to_do": "Review your current AI tool subscriptions and usage to ensure they provide clear, measurable value to your support operations."
+        "headline": "Digital Tracking and Surveillance: What it Means for Customer Support",
+        "what_changed": "People are increasingly comfortable digitally tracking others, including friends and family, mirroring how companies and governments collect data.",
+        "why_care": "Your customers' comfort with digital tracking might influence their expectations for how you handle their data and privacy.",
+        "what_to_do": "Review your company's data privacy policies and be prepared to clearly explain them to customers."
       },
       {
         "id": 1,
-        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Notes",
-        "what_changed": "Google's NotebookLM can now turn your research and notes into fully animated 'cinematic' videos, not just narrated slideshows.",
-        "why_care": "This could help you quickly create engaging training materials or explain complex product features to customers in a more dynamic visual format.",
-        "what_to_do": "Explore NotebookLM's new video feature to see if it can simplify creating visual guides for common customer issues or internal training."
+        "headline": "Lio Secures $30M to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "While not directly customer-facing, advancements in AI for internal processes like procurement could free up resources that might eventually benefit customer support operations.",
+        "what_to_do": "Stay aware of how AI is being adopted in other departments, as similar tools might eventually be adapted for customer support."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabelled AI War Videos, Impacting Content Sharing",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second offense leading to a permanent ban.",
-        "why_care": "This highlights the growing importance of transparency with AI-generated content, which is crucial for maintaining trust when communicating with customers.",
-        "what_to_do": "Ensure any AI-generated content you use for customer communication or internal training is clearly labeled as AI-generated to avoid misinformation."
+        "headline": "Morning Squawk: Broadcom Earnings, AI's PR Problem, Musk Takes Stand",
+        "what_changed": "This article summarizes key financial news, including Broadcom's earnings and discussions about AI's public relations challenges.",
+        "why_care": "Public perception and 'PR problems' with AI could impact customer trust in AI-powered support tools you might use.",
+        "what_to_do": "Be prepared to address customer concerns or skepticism about AI tools your company uses, focusing on their benefits and security."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a More Efficient Multimodal AI Model",
-        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source multimodal AI model with 1 trillion total parameters that is more efficient and powerful.",
-        "why_care": "More efficient and powerful AI models could lead to faster, more accurate AI tools for your support team, improving response times and resolution rates.",
-        "what_to_do": "Research how new, efficient AI models like Yuan 3.0 Ultra might be integrated into future customer support platforms you use."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Finds",
+        "what_changed": "A new study suggests AI tools can make it much easier to identify individuals behind anonymous online accounts.",
+        "why_care": "This highlights growing concerns about online privacy, which could make customers more cautious about sharing personal information, even with support teams.",
+        "what_to_do": "Reassure customers about the security and confidentiality of their data when they interact with your support channels."
       },
       {
         "id": 4,
-        "headline": "New Guide on Building Persistent AI Agents with Memory for Better Interactions",
-        "what_changed": "A new tutorial explains how to build an 'EverMem-style' persistent AI agent operating system that combines short-term and long-term memory.",
-        "why_care": "AI agents with better memory can provide more consistent and personalized support by remembering past customer interactions and preferences.",
-        "what_to_do": "Discuss with your team or IT department how AI agents with improved memory could enhance your customer interaction quality and efficiency."
+        "headline": "Bond Investors Worry About AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey shows that investors now consider an 'AI bubble' their biggest worry.",
+        "why_care": "Concerns about an 'AI bubble' could lead to more scrutiny of AI investments, potentially affecting the funding or development of AI tools for customer support.",
+        "what_to_do": "Understand the core value and practical applications of any AI tools you use, so you can advocate for their continued use and development."
       }
     ],
     "finance": [
       {
         "id": 0,
-        "headline": "Bank of America Survey: AI Bubble is Top Investor Concern",
-        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their biggest worry.",
-        "why_care": "This indicates a shift in market sentiment that could impact your investment strategies and portfolio valuations.",
-        "what_to_do": "Review your portfolio's exposure to AI-related assets and assess potential risks this week."
+        "headline": "Digital Surveillance: How AI and Apps Track Everyone, Including Your Clients",
+        "what_changed": "The widespread use of AI and apps has normalized digital tracking and monitoring in personal lives, extending beyond government and corporate use.",
+        "why_care": "This trend increases privacy risks for client data and financial information, potentially impacting compliance and trust.",
+        "what_to_do": "Review your firm's data privacy policies and ensure they address the implications of pervasive digital surveillance on client information this week."
       },
       {
         "id": 1,
-        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
-        "what_changed": "Google's NotebookLM can now transform your research notes into fully animated 'cinematic' videos, an upgrade from its previous narrated slideshows.",
-        "why_care": "This new feature could significantly enhance how you present complex financial research and analysis to stakeholders.",
-        "what_to_do": "Experiment with NotebookLM this week to see how it can visualize your financial reports or market analyses."
+        "headline": "Lio Secures $30M to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio announced it raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "This investment signals growing automation in procurement, which can streamline your company's expense management and vendor relationships.",
+        "what_to_do": "Research AI-driven procurement solutions to understand their potential impact on your organization's purchasing processes this week."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post AI-generated war videos without proper disclosure, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing concern over AI-generated misinformation, which can impact public trust and market stability.",
-        "what_to_do": "Advise your organization on the importance of verifying information sources, especially those from social media, to mitigate reputational and financial risks."
+        "headline": "Broadcom Earnings and AI's Public Relations Challenges in Focus",
+        "what_changed": "CNBC's Morning Squawk highlighted Broadcom's earnings and the ongoing public relations issues facing AI as key investor concerns.",
+        "why_care": "These topics directly influence market sentiment and investment strategies, affecting your portfolio and financial analysis.",
+        "what_to_do": "Analyze Broadcom's latest earnings report and assess the broader market's perception of AI's risks and opportunities this week."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, designed for stronger intelligence and improved efficiency.",
-        "why_care": "This new model could offer more efficient and powerful AI capabilities for financial data analysis, forecasting, and automated reporting.",
-        "what_to_do": "Research how advanced MoE models like Yuan 3.0 Ultra could be integrated into your firm's existing analytical tools or processes."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Finds",
+        "what_changed": "A new study suggests AI tools can now make it significantly easier to identify individuals behind anonymous online accounts.",
+        "why_care": "This development poses a risk to your personal and professional online privacy, potentially exposing sensitive opinions or information.",
+        "what_to_do": "Evaluate your online presence and consider the implications of AI's ability to de-anonymize accounts for your professional reputation this week."
       },
       {
         "id": 4,
-        "headline": "Tutorial: Building a Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial demonstrates how to build an EverMem-style persistent AI agent OS that combines short-term conversational context with long-term vector memory using FAISS and SQLite.",
-        "why_care": "This approach to AI memory management could lead to more sophisticated and context-aware AI tools for financial modeling, auditing, and client interaction.",
-        "what_to_do": "Explore how hierarchical memory systems could enhance the intelligence and reliability of AI agents used in your financial operations."
+        "headline": "Bond Investors Concerned About AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey revealed that bond investors now view an AI bubble as their biggest concern.",
+        "why_care": "This sentiment indicates potential volatility in tech-related investments and shifts in capital allocation, impacting your investment strategies.",
+        "what_to_do": "Assess your bond portfolio for exposure to AI-related risks and identify potential opportunities in other sectors this week."
       }
     ],
     "legal": [
       {
         "id": 0,
-        "headline": "AI Bubble Concerns Rise Among Bond Investors, Survey Shows",
-        "what_changed": "A Bank of America survey revealed that investors now view an AI bubble as their top concern for the first time.",
-        "why_care": "Your firm's investment strategies and client advice may need to account for increasing market volatility and investor sentiment around AI.",
-        "what_to_do": "Review your firm's current investment guidelines and risk assessments related to AI-driven companies this week."
+        "headline": "Interpersonal Digital Surveillance: A Growing Concern for Privacy and Ethics",
+        "what_changed": "The normalization of digital tracking and monitoring among individuals raises new privacy and ethical concerns.",
+        "why_care": "Your clients and employees are increasingly engaging in digital surveillance, creating new legal risks related to privacy, harassment, and data misuse.",
+        "what_to_do": "Review and update your firm's privacy policies and employee conduct guidelines to address the implications of interpersonal digital surveillance."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
-        "what_changed": "Google's NotebookLM can now transform your research notes into fully animated 'cinematic' video overviews, upgrading from narrated slideshows.",
-        "why_care": "This feature could streamline your case brief summaries, deposition preparation, or client presentation creation by quickly visualizing complex information.",
-        "what_to_do": "Experiment with NotebookLM's new video overview feature using a recent research brief or case summary this week."
+        "headline": "Lio Secures $30M to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "This investment signals a growing trend towards AI-driven automation in procurement, which will impact contract negotiations and vendor management processes.",
+        "what_to_do": "Investigate how AI procurement tools like Lio could streamline your firm's vendor contract review and management workflows."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post AI-generated war videos without proper disclosure, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing legal and ethical implications of AI-generated content, impacting your firm's social media policies and potential litigation involving misinformation.",
-        "what_to_do": "Review your firm's social media guidelines and client communication policies regarding the use and disclosure of AI-generated content this week."
+        "headline": "Broadcom Earnings and AI's Public Relations Challenges in Morning Squawk",
+        "what_changed": "CNBC's Morning Squawk highlighted Broadcom earnings and discussed AI's public relations issues.",
+        "why_care": "The public perception and ethical considerations of AI are becoming critical, influencing regulatory discussions and client trust in AI-powered legal tools.",
+        "what_to_do": "Stay informed on the broader public discourse around AI ethics, as it may impact future legal tech adoption and regulatory frameworks."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a More Efficient Multimodal AI Model",
-        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) foundation model that significantly boosts pre-training efficiency while reducing total parameters.",
-        "why_care": "This development could lead to more powerful and cost-effective AI tools for legal research, contract analysis, and e-discovery, improving your firm's operational efficiency.",
-        "what_to_do": "Research how open-source multimodal AI models like Yuan 3.0 Ultra could be integrated into your firm's existing legal tech stack this week."
+        "headline": "AI Tools Can Now Unmask Anonymous Online Accounts, Study Finds",
+        "what_changed": "A new study indicates that AI tools are making it significantly easier to de-anonymize individuals behind online accounts.",
+        "why_care": "This development has major implications for client confidentiality, employee privacy, and the discoverability of online communications in litigation.",
+        "what_to_do": "Advise clients and internal teams on the reduced expectation of anonymity online and the potential for AI to link anonymous accounts to real identities."
       },
       {
         "id": 4,
-        "headline": "Tutorial Shows How to Build Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system that combines short-term conversational context with long-term memory using FAISS and SQLite.",
-        "why_care": "Understanding persistent AI agent architectures can inform your firm's development or procurement of AI tools that offer more reliable and context-aware support for legal tasks.",
-        "what_to_do": "Explore the concepts of hierarchical memory and persistent AI agents to assess their potential application in your firm's knowledge management systems this week."
+        "headline": "Bond Investors Concerned About Potential AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey revealed that bond investors now view an AI bubble as their biggest concern.",
+        "why_care": "While not directly legal, this market sentiment reflects the high stakes and potential volatility surrounding AI investments, which could affect legal tech funding and innovation.",
+        "what_to_do": "Monitor the broader economic and investment trends related to AI, as they may indirectly influence the legal technology market and your firm's strategic planning."
       }
     ],
     "hr": [
       {
         "id": 0,
-        "headline": "AI Bubble Concerns Rise Among Investors, What HR Needs to Know",
-        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
-        "why_care": "Your organization's investment in AI tools and training could be impacted by market shifts or a potential downturn.",
-        "what_to_do": "Review your current and planned AI technology investments to understand their long-term viability and potential risks."
+        "headline": "Digital Surveillance Normalizes, Raising Workplace Privacy Concerns",
+        "what_changed": "People are increasingly comfortable with digital tracking and monitoring each other, driven by government and corporate surveillance practices.",
+        "why_care": "This trend can normalize invasive behaviors, potentially impacting employee privacy expectations and company culture regarding monitoring.",
+        "what_to_do": "Review your company's digital monitoring policies and communicate them clearly to employees, ensuring they align with privacy expectations."
       },
       {
         "id": 1,
-        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
-        "what_changed": "Google's NotebookLM can now transform your research notes into fully animated 'cinematic' video overviews, upgrading from narrated slideshows.",
-        "why_care": "This tool could significantly enhance how you create engaging learning content or summarize complex HR research for stakeholders.",
-        "what_to_do": "Explore NotebookLM to see if its new video summary feature can streamline your content creation for training or presentations."
+        "headline": "Lio Secures $30M to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "Automated procurement can streamline purchasing processes, potentially freeing up HR resources currently involved in vendor management or budget approvals.",
+        "what_to_do": "Investigate how AI procurement tools like Lio could integrate with your HR tech stack to optimize purchasing for HR-related services or tools."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second offense leading to a permanent ban.",
-        "why_care": "This highlights the growing need for clear AI disclosure policies, which you may need to consider for your internal communications or employee social media guidelines.",
-        "what_to_do": "Review your company's social media and AI usage policies to ensure they address the ethical use and disclosure of AI-generated content."
+        "headline": "Broadcom Earnings and AI's Public Relations Challenges Noted",
+        "what_changed": "A financial news brief highlighted Broadcom's earnings and discussed AI's public relations issues.",
+        "why_care": "While not directly HR-focused, understanding broader market sentiment around AI, including its challenges, can inform your strategic planning for AI adoption.",
+        "what_to_do": "Stay generally aware of major tech news and AI's public perception to anticipate potential employee concerns or opportunities related to AI in your workplace."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a Powerful and Efficient Multimodal AI Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal AI model that offers strong performance with fewer parameters and improved pre-training efficiency.",
-        "why_care": "This new model could lead to more efficient and powerful AI tools becoming available, potentially impacting your HR tech stack and data analysis capabilities.",
-        "what_to_do": "Stay aware of advancements in open-source AI models like Yuan 3.0 Ultra, as they may influence future HR technology solutions."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Shows",
+        "what_changed": "A new study suggests AI tools can make it significantly easier to identify individuals behind anonymous online accounts, like those on Glassdoor.",
+        "why_care": "This development could impact how employees feel about expressing candid feedback anonymously, potentially affecting your feedback mechanisms and culture.",
+        "what_to_do": "Reassure employees about the security and anonymity of your internal feedback channels, and review your policies on external anonymous employee commentary."
       },
       {
         "id": 4,
-        "headline": "New Tutorial Shows How to Build Persistent AI Agents with Memory",
-        "what_changed": "A new tutorial details how to build an AI agent operating system that combines short-term conversational context with long-term memory, using tools like FAISS and SQLite.",
-        "why_care": "AI agents with persistent memory could revolutionize how you interact with HR systems, providing more personalized and context-aware support for employees or candidates.",
-        "what_to_do": "Consider how AI agents with long-term memory could improve your HR service delivery, such as for onboarding or employee support chatbots."
+        "headline": "AI Bubble Concerns Rise Among Bond Investors, Survey Finds",
+        "what_changed": "A Bank of America survey revealed that bond investors now consider an 'AI bubble' their biggest worry.",
+        "why_care": "Market anxieties about an AI bubble could influence investment in AI technologies, potentially affecting the availability and cost of AI tools for HR.",
+        "what_to_do": "Monitor economic indicators and tech investment trends to inform your long-term budgeting and strategic planning for AI-driven HR solutions."
       }
     ],
     "healthcare": [
       {
         "id": 0,
-        "headline": "AI Bubble Fears Rise Among Investors: What Healthcare Professionals Should Know",
-        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their top concern.",
-        "why_care": "Understanding market sentiment around AI can help you anticipate future investments and technological shifts in healthcare.",
-        "what_to_do": "Review your organization's current AI adoption plans and assess their long-term sustainability and value."
+        "headline": "Digital Surveillance: How AI and Apps Track Our Personal Lives",
+        "what_changed": "The widespread use of AI and apps has made digital tracking and monitoring of individuals increasingly common and accepted.",
+        "why_care": "Your patients' privacy and your own professional boundaries are at greater risk due to increased digital surveillance capabilities.",
+        "what_to_do": "Review your organization's privacy policies and your personal digital footprint to ensure patient data and your professional image are protected."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries of Research",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading from narrated slideshows.",
-        "why_care": "This tool could help you quickly synthesize and present complex medical research or patient case studies in an engaging visual format.",
-        "what_to_do": "Explore NotebookLM's new video overview feature to see how it can simplify your research summaries this week."
+        "headline": "AI Procurement Startup Lio Secures $30M to Automate Enterprise Purchasing",
+        "what_changed": "AI procurement startup Lio raised $30 million in a Series A funding round led by Andreessen Horowitz.",
+        "why_care": "This investment signals a growing trend towards AI automating purchasing processes, which could streamline how your healthcare facility acquires supplies and services.",
+        "what_to_do": "Investigate how AI-driven procurement solutions could improve efficiency and cost-effectiveness in your department's supply chain management."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabelled AI-Generated War Videos",
-        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing concern over misinformation and deepfakes, which can impact public health messaging and patient trust.",
-        "what_to_do": "Verify the authenticity of any visual information you encounter on social media, especially regarding health-related news or crises, before sharing."
+        "headline": "Morning Squawk: Broadcom Earnings and AI's Public Relations Challenges",
+        "what_changed": "A financial report highlighted Broadcom's earnings and discussed the public relations issues facing AI.",
+        "why_care": "Understanding public perception and financial trends related to AI can help you anticipate future technology adoption and patient acceptance of AI tools in healthcare.",
+        "what_to_do": "Stay informed about general AI news and public sentiment to better communicate the benefits and limitations of AI tools to your patients and colleagues."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model that reduces total parameters by 33.3% while boosting pre-training efficiency by 49%.",
-        "why_care": "More efficient and powerful AI models like this could lead to faster development of healthcare applications, from diagnostics to administrative tasks.",
-        "what_to_do": "Stay informed about new open-source AI models that could potentially be integrated into future healthcare technology solutions."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Raising Privacy Concerns",
+        "what_changed": "A new study indicates that AI tools can now more easily unmask individuals behind anonymous online accounts.",
+        "why_care": "Your professional and personal online privacy is increasingly vulnerable, which could impact your reputation and patient trust.",
+        "what_to_do": "Evaluate your online presence and consider the implications of AI's ability to de-anonymize accounts, especially when discussing work-related topics."
       },
       {
         "id": 4,
-        "headline": "Tutorial: Building Persistent AI Agents with Hierarchical Memory and SQLite Storage",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
-        "why_care": "This advancement in AI agent memory and persistence could lead to more reliable and context-aware AI tools for clinical decision support or patient interaction.",
-        "what_to_do": "Discuss with your IT or innovation team how persistent AI agents could improve workflow or patient care within your department."
+        "headline": "Bond Investors Concerned About Potential AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey revealed that bond investors now view an AI bubble as their biggest worry.",
+        "why_care": "Economic concerns about an 'AI bubble' could affect funding and investment in new AI technologies for healthcare, potentially slowing innovation or adoption.",
+        "what_to_do": "Monitor economic trends related to AI investment to understand potential impacts on the availability and cost of AI-powered healthcare solutions."
       }
     ],
     "education": [
       {
         "id": 0,
-        "headline": "AI Bubble Worries Rise Among Investors, Bank of America Survey Finds",
-        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their primary concern.",
-        "why_care": "Understanding market sentiment around AI helps you evaluate the long-term stability and funding for educational AI tools and initiatives.",
-        "what_to_do": "Research the financial health and investment backing of the AI education platforms you currently use or are considering."
+        "headline": "Digital Surveillance Normalizes Tracking, Raises Privacy Concerns for Educators",
+        "what_changed": "The widespread use of digital tracking and monitoring tools has made interpersonal surveillance a common, often unnoticed, behavior.",
+        "why_care": "This trend impacts student and staff privacy, shapes digital citizenship discussions, and influences how you manage data in your educational setting.",
+        "what_to_do": "Review your institution's privacy policies and discuss digital ethics with your students this week."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' video overviews, upgrading from narrated slideshows.",
-        "why_care": "This feature offers a new way to create engaging, multimedia summaries of complex topics for your students or professional development materials.",
-        "what_to_do": "Experiment with NotebookLM's new video overview feature to summarize a lesson plan or research paper this week."
+        "headline": "AI Procurement Startup Lio Secures $30M from Andreessen Horowitz",
+        "what_changed": "AI procurement startup Lio announced it raised $30 million in a Series A funding round led by Andreessen Horowitz.",
+        "why_care": "This investment signals growing confidence in AI's ability to automate administrative tasks, which could streamline purchasing processes for your school or district.",
+        "what_to_do": "Research AI-driven procurement solutions to understand their potential benefits for your institution's budget and efficiency."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing need to teach your students about media literacy, AI ethics, and the responsible use of AI-generated content.",
-        "what_to_do": "Integrate a discussion on AI-generated content, deepfakes, and media verification into your curriculum or training materials this month."
+        "headline": "Morning Squawk: Broadcom Earnings, AI's PR Problem, Musk Takes Stand",
+        "what_changed": "CNBC's Morning Squawk highlighted key investor news, including Broadcom earnings, AI's public relations challenges, and Elon Musk's court appearance.",
+        "why_care": "Understanding the broader perception and financial landscape of AI helps you contextualize its adoption and address concerns within your educational community.",
+        "what_to_do": "Consider how you communicate the benefits and limitations of AI tools to your students and colleagues to build trust and understanding."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a Multimodal MoE Foundation Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, designed for stronger intelligence and efficiency.",
-        "why_care": "New, more efficient AI models like Yuan 3.0 Ultra could lead to more powerful and accessible AI tools for educational applications in the future.",
-        "what_to_do": "Stay informed about the capabilities of new open-source AI models and consider how they might be integrated into educational technology."
+        "headline": "New AI Tools Can Unmask Anonymous Online Accounts",
+        "what_changed": "A recent study indicates that AI tools can now make it significantly easier to identify individuals behind anonymous online accounts.",
+        "why_care": "This development has major implications for student and staff privacy, online safety, and the integrity of anonymous feedback channels in education.",
+        "what_to_do": "Educate your students and colleagues about the diminishing anonymity online and the importance of responsible digital footprints."
       },
       {
         "id": 4,
-        "headline": "Tutorial Shows How to Build Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial demonstrates how to build an EverMem-style persistent AI agent operating system that combines short-term and long-term memory for more consistent recall.",
-        "why_care": "Agents with enhanced memory capabilities could revolutionize personalized learning by remembering individual student progress and preferences over time.",
-        "what_to_do": "Explore resources on AI agent development to understand how persistent memory could improve future educational AI tools."
+        "headline": "Bond Investors Worry About AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey revealed that investors now consider an 'AI bubble' their biggest concern.",
+        "why_care": "This financial sentiment can influence funding for educational technology and the long-term stability of AI tool providers you might rely on.",
+        "what_to_do": "Stay informed about the financial health of EdTech companies and diversify your digital toolset to mitigate potential risks."
       }
     ],
     "media_content": [
       {
         "id": 0,
-        "headline": "AI Bubble Fears Rise Among Investors, Bank of America Survey Shows",
-        "what_changed": "A recent Bank of America survey found that investors now consider an AI bubble their biggest concern.",
-        "why_care": "This sentiment could impact funding and investment in AI tools and platforms you rely on or plan to use.",
-        "what_to_do": "Research the financial stability of the AI tools and platforms you currently use or are considering for your work."
+        "headline": "Personal Digital Surveillance Normalizes, Raising Ethical Questions for Content",
+        "what_changed": "The widespread use of digital tracking and monitoring in personal relationships has normalized invasive behavior that was once shocking.",
+        "why_care": "This trend impacts how you portray privacy, consent, and digital ethics in your stories, scripts, and reporting.",
+        "what_to_do": "Review your current projects to ensure they reflect the evolving societal norms and ethical dilemmas around personal digital surveillance."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Your Research",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' video overviews, upgrading from narrated slideshows.",
-        "why_care": "This new feature offers a powerful way to quickly visualize and present complex information, saving you time in content creation and pitching.",
-        "what_to_do": "Experiment with NotebookLM's new cinematic video feature to summarize your current research or story ideas for a fresh perspective."
+        "headline": "AI Procurement Startup Lio Secures $30M from Andreessen Horowitz",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "This investment signals growing confidence in AI solutions for automating business operations, which could impact your industry's back-office functions.",
+        "what_to_do": "Research Lio and similar AI procurement tools to understand how they might streamline administrative tasks in your media organization."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos, Citing Fake Content Flood",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy directly impacts your ability to monetize content on X and underscores the critical importance of transparently labeling AI-generated media to maintain trust.",
-        "what_to_do": "Always label any AI-generated video content you post on X, especially if it depicts sensitive topics like armed conflict, to avoid revenue suspension."
+        "headline": "Morning Squawk: Broadcom Earnings, AI's PR Problem, Musk on Stand",
+        "what_changed": "CNBC's Morning Squawk highlighted Broadcom earnings, AI's public relations challenges, and Elon Musk's court appearance as key investor news.",
+        "why_care": "AI's 'PR problem' indicates a growing public skepticism or misunderstanding that you, as a content professional, might need to address or explore in your work.",
+        "what_to_do": "Brainstorm story ideas or content angles that delve into the public perception and ethical concerns surrounding AI."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a More Efficient Multimodal AI Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) foundation model with 1 trillion total parameters, designed for stronger intelligence and improved efficiency.",
-        "why_care": "This new model could lead to more powerful and accessible AI tools for content generation, research, and analysis, potentially improving your workflow efficiency.",
-        "what_to_do": "Keep an eye on new AI applications and tools that integrate Yuan 3.0 Ultra, as they may offer enhanced capabilities for your content creation tasks."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Finds",
+        "what_changed": "A new study suggests AI tools can significantly improve the ability to unmask anonymous online accounts, like Reddit alts or finstas.",
+        "why_care": "This development has major implications for source protection, privacy, and the ethical considerations of reporting on anonymous online activity.",
+        "what_to_do": "Re-evaluate your protocols for protecting anonymous sources and consider the implications for your own online privacy this week."
       },
       {
         "id": 4,
-        "headline": "New Tutorial Shows How to Build Persistent AI Agent OS with Memory",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system that combines short-term conversational context with long-term memory using FAISS and SQLite.",
-        "why_care": "Understanding how these advanced AI memory systems work can help you better leverage AI for research, fact-checking, and developing more sophisticated interactive content.",
-        "what_to_do": "Explore the concepts of hierarchical memory in AI agents to understand how future tools might retain and recall information more effectively for your projects."
+        "headline": "Bond Investors Worry About AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey revealed that an AI bubble is now the top concern for bond investors.",
+        "why_care": "This financial concern indicates a potential shift in the AI narrative, moving from pure hype to cautious scrutiny, which could influence your reporting.",
+        "what_to_do": "Monitor financial news and expert opinions on the AI market to inform your understanding of the technology's broader economic context."
       }
     ],
     "creative_entertainment": [
       {
         "id": 0,
-        "headline": "AI Bubble Fears Rise Among Investors, What It Means for Your Creative Business",
-        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
-        "why_care": "This could impact funding and investment in AI tools and companies you rely on or work with.",
-        "what_to_do": "Evaluate your current AI tool subscriptions and future investment plans for potential market shifts."
+        "headline": "Digital Tracking: How Personal Surveillance is Becoming the New Normal",
+        "what_changed": "The widespread use of digital tracking and monitoring tools has normalized interpersonal surveillance among individuals.",
+        "why_care": "Your work often involves public-facing content and digital interactions, making you susceptible to increased scrutiny and potential misuse of your personal data.",
+        "what_to_do": "Review your privacy settings on all social media and communication apps this week, limiting location sharing and data access where possible."
       },
       {
         "id": 1,
-        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Overviews from Your Research",
-        "what_changed": "Google's NotebookLM can now generate fully animated 'cinematic' videos from your research and notes, upgrading from narrated slideshows.",
-        "why_care": "You can quickly transform your research into engaging video content, saving time on initial storyboarding or concept visualization.",
-        "what_to_do": "Experiment with NotebookLM's new cinematic video feature to see how it can streamline your pre-production or pitch processes."
+        "headline": "Lio Secures $30M from Andreessen Horowitz to Automate Enterprise Procurement",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "This funding indicates growing investment in AI tools that could streamline backend operations, potentially impacting how your creative projects are budgeted and resourced.",
+        "what_to_do": "Research new AI-powered project management or resource allocation tools that could benefit your production workflows."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "You must clearly label all AI-generated content, especially sensitive or news-related visuals, to avoid penalties and maintain platform monetization.",
-        "what_to_do": "Review X's updated content policies and ensure all your AI-generated video posts are explicitly labeled to comply with new rules."
+        "headline": "Morning Squawk: Broadcom Earnings, AI's PR Problem, Musk Takes the Stand",
+        "what_changed": "CNBC's Morning Squawk highlighted Broadcom earnings, AI's public relations challenges, and Elon Musk's court appearance.",
+        "why_care": "While this news is primarily financial, the mention of 'AI's PR problem' suggests a growing public skepticism that could influence how you present AI-assisted work.",
+        "what_to_do": "Consider how you communicate your use of AI tools in projects, focusing on transparency and ethical applications."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: A Powerful, Efficient Multimodal Model",
-        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) model with 1T total parameters, designed for stronger intelligence and efficiency.",
-        "why_care": "This new model could lead to more powerful and efficient AI tools for content generation, editing, and automation in your workflows.",
-        "what_to_do": "Keep an eye on upcoming AI tools and plugins that integrate Yuan 3.0 Ultra, as they may offer significant performance improvements."
+        "headline": "AI Tools Can Now Unmask Anonymous Online Accounts",
+        "what_changed": "A new study suggests AI tools can make it significantly easier to identify individuals behind anonymous online accounts.",
+        "why_care": "If you use anonymous accounts for industry discussions or feedback, your privacy could be compromised, potentially affecting your professional reputation.",
+        "what_to_do": "Audit your anonymous online accounts this week, removing any personally identifiable information or content that could link back to you."
       },
       {
         "id": 4,
-        "headline": "Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS using hierarchical memory, FAISS, and SQLite.",
-        "why_care": "Understanding persistent AI agent design can help you develop more sophisticated custom tools or integrate smarter AI assistants into your production pipelines.",
-        "what_to_do": "Explore the tutorial to grasp how hierarchical memory systems work, which could inspire new ways to manage complex project data with AI."
+        "headline": "Bond Investors Worry About AI Bubble: What You Need to Know",
+        "what_changed": "A Bank of America survey revealed that an AI bubble is now investors' biggest concern.",
+        "why_care": "Concerns about an AI bubble could impact investment in AI-driven creative tools and platforms, potentially affecting your access to future technologies.",
+        "what_to_do": "Stay informed about the financial stability of AI companies whose tools you rely on, and explore alternative solutions."
       }
     ],
     "operations_supply": [
       {
         "id": 0,
-        "headline": "AI Bubble Worries Rise Among Investors, What It Means for Your Operations",
-        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
-        "why_care": "Your budget for new AI tools could be impacted if investment in AI slows or shifts.",
-        "what_to_do": "Evaluate your current AI projects for clear ROI and prepare to justify future investments."
+        "headline": "Digital Surveillance Normalizes Tracking in Personal and Professional Lives",
+        "what_changed": "The widespread use of digital tracking in personal lives, like location sharing, reflects a growing comfort with surveillance that extends to professional settings.",
+        "why_care": "This trend highlights how easily digital monitoring can become normalized, impacting privacy expectations and data handling within your supply chain and operations.",
+        "what_to_do": "Review your company's data privacy policies and employee monitoring practices to ensure they are clear, ethical, and compliant with regulations."
       },
       {
         "id": 1,
-        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Your Research",
-        "what_changed": "Google's NotebookLM can now turn your research notes into fully animated 'cinematic' video overviews, using AI models like Gemini 3.",
-        "why_care": "You can quickly create engaging visual summaries of complex operational reports or training materials, improving communication and understanding.",
-        "what_to_do": "Experiment with NotebookLM to convert a recent supply chain analysis or process document into a video summary to see its potential."
+        "headline": "Lio Secures $30M to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio raised $30 million in Series A funding, led by Andreessen Horowitz, to advance its automation solutions.",
+        "why_care": "This investment signals a growing focus on AI to streamline procurement processes, which can significantly impact your supply chain efficiency and cost management.",
+        "what_to_do": "Research AI-driven procurement tools like Lio to understand how they could automate your purchasing, supplier management, and contract negotiations."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos, Impacting Content Sharing",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "Your team needs to be aware of content authenticity rules if you use X for industry news or sharing operational updates, to avoid penalties.",
-        "what_to_do": "Remind your team to always verify the authenticity of visual content and properly label any AI-generated media before sharing it on X or other platforms."
+        "headline": "Morning Squawk: Broadcom Earnings, AI's PR Problem, Musk Takes Stand",
+        "what_changed": "This article summarizes key financial news, including Broadcom earnings and discussions around AI's public relations challenges.",
+        "why_care": "While not directly operational, understanding broader market sentiment and AI's public perception can inform your strategic planning for technology adoption and stakeholder communication.",
+        "what_to_do": "Stay informed on general business and technology news to anticipate market shifts that could affect your operational strategies and technology investments."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a More Efficient Multimodal AI Model",
-        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, offering stronger intelligence and 49% better pre-training efficiency.",
-        "why_care": "This new model could lead to more powerful and cost-effective AI tools for optimizing your logistics, forecasting, and manufacturing processes.",
-        "what_to_do": "Research how open-source MoE models like Yuan 3.0 Ultra could be integrated into your existing operational software or data analysis workflows."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Finds",
+        "what_changed": "A new study indicates that AI tools can make it significantly easier to identify individuals behind anonymous online accounts.",
+        "why_care": "This development raises concerns about data privacy and the potential for sensitive information, even from anonymous sources, to be linked to individuals within your organization or supply chain.",
+        "what_to_do": "Educate your team on the risks of sharing sensitive company information, even anonymously, and reinforce secure communication practices."
       },
       {
         "id": 4,
-        "headline": "New Tutorial Shows How to Build Persistent AI Agents with Hierarchical Memory",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
-        "why_care": "You can develop AI agents that 'remember' past interactions and data, leading to more consistent and effective support for your operational decision-making and problem-solving.",
-        "what_to_do": "Explore how persistent AI agents could manage recurring tasks or provide historical context for your warehouse management or inventory control systems."
+        "headline": "Bond Investors Worry About AI Bubble, Seek Opportunities",
+        "what_changed": "A Bank of America survey shows that bond investors now consider an AI bubble their biggest concern, while also looking for investment opportunities.",
+        "why_care": "This financial sentiment indicates potential volatility in the tech market, which could affect the cost and availability of AI technologies you might consider for your operations.",
+        "what_to_do": "Monitor financial market trends related to AI investments to better assess the long-term stability and cost implications of adopting AI solutions in your operations."
       }
     ],
     "real_estate_construction": [
       {
         "id": 0,
-        "headline": "AI Bubble Worries Rise Among Investors: What Real Estate Pros Need to Know",
-        "what_changed": "A recent Bank of America survey shows investors now see an AI bubble as their top concern.",
-        "why_care": "Your investment strategies and access to capital for projects could be impacted by broader market sentiment around AI.",
-        "what_to_do": "Review your current investment portfolio for any overexposure to AI-dependent companies this week."
+        "headline": "Digital Tracking and Surveillance: What It Means for Your Property Business",
+        "what_changed": "The widespread use of digital tracking and monitoring, by both companies and individuals, has become a normalized part of daily life.",
+        "why_care": "Your clients and employees are increasingly comfortable with digital surveillance, which impacts privacy expectations for property showings, site monitoring, and data collection.",
+        "what_to_do": "Review your company's privacy policies and data collection practices to ensure they align with current digital tracking norms and legal requirements."
       },
       {
         "id": 1,
-        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Your Notes",
-        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading from narrated slideshows.",
-        "why_care": "You can quickly create engaging video presentations of project proposals, market analyses, or property walkthroughs from your existing notes.",
-        "what_to_do": "Experiment with NotebookLM this week to turn a recent project brief or client presentation into a 'cinematic' video overview."
+        "headline": "Lio Secures $30M to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio announced it raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "Automated procurement solutions like Lio can streamline your purchasing processes for materials, services, and equipment, potentially reducing costs and improving efficiency on your projects.",
+        "what_to_do": "Investigate AI-powered procurement platforms to see how they could optimize your supply chain and purchasing workflows for upcoming projects."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second offense leading to a permanent ban.",
-        "why_care": "Your marketing and communication strategies on X must ensure all AI-generated visual content, especially sensitive material, is clearly labeled to maintain platform access and credibility.",
-        "what_to_do": "Review your social media content creation guidelines this week to ensure all AI-generated visuals are properly disclosed before posting on X."
+        "headline": "Morning Squawk: Broadcom Earnings, AI's PR Problem, Musk Takes Stand",
+        "what_changed": "CNBC's Morning Squawk highlighted key investor information, including Broadcom's earnings, AI's public relations challenges, and Elon Musk's court appearance.",
+        "why_care": "Understanding the broader market sentiment around AI, including its PR issues, helps you assess the stability and public perception of AI tools you might integrate into your real estate or construction operations.",
+        "what_to_do": "Stay informed on general AI news and market trends to anticipate potential public or regulatory shifts that could impact your use of AI technologies."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: More Powerful, More Efficient AI Model",
-        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, a new open-source multimodal AI model with 1 trillion total parameters that is more efficient and powerful.",
-        "why_care": "This new model could lead to more sophisticated and efficient AI tools for tasks like architectural design, construction planning, and property management.",
-        "what_to_do": "Research how multimodal AI models like Yuan 3.0 Ultra could be integrated into your existing design or project management software this week."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts",
+        "what_changed": "A new study suggests that AI tools can now make it significantly easier to identify individuals behind anonymous online accounts.",
+        "why_care": "This development means that previously anonymous online feedback or discussions, such as those on Glassdoor or industry forums, could be traced back to individuals, impacting how you manage online reputation and employee feedback.",
+        "what_to_do": "Advise your team to be mindful of their online presence, even on seemingly anonymous platforms, as AI can increasingly link digital identities."
       },
       {
         "id": 4,
-        "headline": "How to Build a Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial details how to build an AI agent operating system with persistent, hierarchical memory, combining short-term and long-term recall.",
-        "why_care": "This technology could enable AI assistants to remember project specifics, client preferences, and past decisions over long periods, making them more effective for your ongoing work.",
-        "what_to_do": "Explore the potential of persistent AI agents to manage long-term client relationships or complex construction projects this week."
+        "headline": "Bond Investors Worry About AI Bubble: What You Need to Know",
+        "what_changed": "A Bank of America survey revealed that bond investors now consider an AI bubble their biggest concern.",
+        "why_care": "Investor concerns about an AI bubble could signal potential volatility in the tech sector, which might affect the availability and cost of AI-driven solutions you plan to adopt for your property or construction business.",
+        "what_to_do": "Evaluate the financial stability and long-term viability of AI solution providers you are considering, given the current investor sentiment around an AI bubble."
       }
     ],
     "science_research": [
       {
         "id": 0,
-        "headline": "AI Bubble Fears Rise Among Investors: What Science & Research Professionals Need to Know",
-        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
-        "why_care": "Your research funding and institutional investments could be impacted by shifts in the AI market.",
-        "what_to_do": "Review your institution's investment portfolio for AI-related exposure this week."
+        "headline": "Interpersonal Surveillance: How Digital Tracking Becomes Normalized in Daily Life",
+        "what_changed": "The article highlights how digital tracking and monitoring, once shocking, are now common in personal interactions, mirroring corporate and government surveillance.",
+        "why_care": "This trend impacts your privacy expectations and data handling practices, especially when collaborating or sharing information in research settings.",
+        "what_to_do": "Review your personal and professional digital privacy settings this week, ensuring you understand what data you are sharing and with whom."
       },
       {
         "id": 1,
-        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries of Research",
-        "what_changed": "Google's NotebookLM can now transform your research notes into fully animated 'cinematic' video overviews, powered by models like Gemini 3.",
-        "why_care": "This tool can significantly enhance how you present complex research findings and literature reviews to peers or the public.",
-        "what_to_do": "Experiment with NotebookLM's new video overview feature using your recent research notes this week."
+        "headline": "Lio Secures $30M from Andreessen Horowitz to Automate Enterprise Procurement with AI",
+        "what_changed": "AI procurement startup Lio announced it raised $30 million in Series A funding, led by Andreessen Horowitz.",
+        "why_care": "This investment signals growing AI integration into operational processes, which could streamline your lab's purchasing and supply chain management.",
+        "what_to_do": "Investigate AI-powered procurement solutions this week to see if they can optimize your lab's purchasing workflows."
       },
       {
         "id": 2,
-        "headline": "X to Ban Revenue for Undisclosed AI-Generated War Videos",
-        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a permanent ban for a second offense.",
-        "why_care": "As a scientist, maintaining the integrity of your online communications and avoiding the spread of misinformation is crucial for your professional reputation.",
-        "what_to_do": "Ensure any AI-generated content you share on X is clearly labeled to comply with new platform rules this week."
+        "headline": "Broadcom Earnings, AI's Public Relations, and Musk's Court Appearance in Morning Squawk",
+        "what_changed": "CNBC's Morning Squawk summarized key financial news, including Broadcom's earnings and discussions around AI's public relations challenges.",
+        "why_care": "Understanding AI's public perception is crucial for you, as it influences funding, ethical considerations, and public acceptance of your AI-driven research.",
+        "what_to_do": "Read a recent article on AI ethics this week to better understand current public concerns and how they might impact your work."
       },
       {
         "id": 3,
-        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
-        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) large language model with 1T total parameters, boasting improved efficiency and performance.",
-        "why_care": "This new open-source model offers a powerful and efficient tool for your AI research and application development, potentially reducing computational costs.",
-        "what_to_do": "Investigate Yuan 3.0 Ultra's capabilities and consider how it could be integrated into your current AI projects this week."
+        "headline": "AI Tools Can Unmask Anonymous Online Accounts, Study Shows",
+        "what_changed": "A new study indicates that AI tools can significantly increase the ease of identifying individuals behind anonymous online accounts.",
+        "why_care": "This development has major implications for your online privacy, data security, and the anonymity of peer reviews or sensitive discussions.",
+        "what_to_do": "Re-evaluate your online privacy practices this week, especially for professional or sensitive discussions, assuming less anonymity than before."
       },
       {
         "id": 4,
-        "headline": "Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory",
-        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system using hierarchical memory, FAISS, and SQLite.",
-        "why_care": "This guide provides a practical framework for developing more robust and context-aware AI agents for your scientific simulations or data analysis tasks.",
-        "what_to_do": "Explore the tutorial to understand how to implement hierarchical memory in your AI agent designs this week."
+        "headline": "Bond Investors Worry About AI Bubble: What You Need to Know",
+        "what_changed": "A Bank of America survey revealed that bond investors now consider an 'AI bubble' their biggest concern.",
+        "why_care": "This investor sentiment could impact funding availability and the valuation of AI-related projects and startups relevant to your research.",
+        "what_to_do": "Monitor financial news this week for trends in AI investment to understand potential shifts in research funding landscapes."
       }
     ]
   }
