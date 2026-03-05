@@ -1,41 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-03-04T19:37:15.304473+00:00",
-  "run_id": "20260304_193548",
+  "generated_at": "2026-03-05T07:47:02.437919+00:00",
+  "run_id": "20260305_074545",
   "articles": [
     {
-      "id": "86885294b2f3",
+      "id": "011a3fd44105",
       "index": 0,
-      "headline": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
-      "description": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last.",
-      "link": "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html",
+      "headline": "As bond investors fret over an AI bubble, what to know — and how to find an opportunity",
+      "description": "For the first time, investors said an AI bubble was their biggest worry, according to a recent Bank of America survey. What the pros are saying.",
+      "link": "https://www.cnbc.com/2026/03/04/as-bond-investors-fret-over-an-ai-bubble-what-investors-need-to-know.html",
       "source": "CNBC",
       "topic": "AI Industry",
-      "published_at": "2026-03-04T19:34:50+00:00"
+      "published_at": "2026-03-04T21:15:34+00:00"
     },
     {
-      "id": "f9891106649a",
+      "id": "c14100ccab0a",
       "index": 1,
-      "headline": "US military uses Anthropic's Claude for AI-driven strike planning in Iran war",
-      "description": "In the war against Iran, the US military is using generative AI at scale for target selection and strike planning for the first time. Of all models, it's the one from the company Washington just banned. The article US military uses Anthropic's Claude for AI-driven strike planning in Iran war appeared first on The Decoder.",
-      "link": "https://the-decoder.com/us-military-uses-anthropics-claude-for-ai-driven-strike-planning-in-iran-war/",
-      "source": "The Decoder",
-      "topic": "AI Tools",
-      "published_at": "2026-03-04T16:14:58+00:00"
-    },
-    {
-      "id": "07fc18f38ef0",
-      "index": 2,
-      "headline": "Google’s AI-powered workspace is now available to more users in Search",
-      "description": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside […]",
-      "link": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+      "headline": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
+      "description": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
       "source": "The Verge",
       "topic": "AI Industry",
-      "published_at": "2026-03-04T13:57:01-05:00"
+      "published_at": "2026-03-04T15:32:42-05:00"
     },
     {
       "id": "39de69922c98",
-      "index": 3,
+      "index": 2,
       "headline": "X to ban users from earning revenue if they post unlabelled AI-generated war videos",
       "description": "Social media feeds have been flooded with fake battle scenes since start of Iran conflictElon Musk’s X will ban users from making money on the platform if they repeatedly post unlabelled AI-generated war videos, after social media feeds were flooded with fake battle scenes from the Iran conflict.The social media platform, which has about half a billion monthly active users, will suspend people from earning revenue from posts for 90 days if they put up AI-generated videos of an armed conflict without adding a disclosure that it was made with AI. A second infraction wouldlead to a permanent ban, it said on Tuesday night, after the first days of the conflict in Iran were marked by a torrent of bogus online footage. Continue reading...",
       "link": "https://www.theguardian.com/technology/2026/mar/04/x-ban-users-earning-revenue-post-unlabelled-ai-generated-war-videos",
@@ -44,711 +34,691 @@
       "published_at": "2026-03-04T13:34:26+00:00"
     },
     {
-      "id": "43c685e39e0c",
+      "id": "0dac5b0f3a81",
+      "index": 3,
+      "headline": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency",
+      "description": "How can a trillion-parameter Large Language Model achieve state-of-the-art enterprise performance while simultaneously cutting its total parameter count by 33.3% and boosting pre-training efficiency by 49%? Yuan Lab AI releases Yuan3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model featuring 1T total parameters and 68.8B activated parameters. The model architecture is designed to optimize performance […] The post YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency appeared first on MarkTechPost.",
+      "link": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/",
+      "source": "MarkTechPost",
+      "topic": "AI Research",
+      "published_at": "2026-03-05T05:55:02+00:00"
+    },
+    {
+      "id": "3791cca623e5",
       "index": 4,
-      "headline": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
-      "description": "Anthropic customers that do business with the government are having to make the tough call on whether to abandon Claude.",
-      "link": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html",
-      "source": "CNBC",
-      "topic": "AI Industry",
-      "published_at": "2026-03-04T14:13:48+00:00"
+      "headline": "How to Build an EverMem-Style Persistent AI Agent OS with Hierarchical Memory, FAISS Vector Retrieval, SQLite Storage, and Automated Memory Consolidation",
+      "description": "In this tutorial, we build an EverMem-style persistent agent OS. We combine short-term conversational context (STM) with long-term vector memory using FAISS so the agent can recall relevant past information before generating each response. Alongside semantic memory, we also store structured records in SQLite to persist metadata like timestamps, importance scores, and memory signals (preference, […] The post How to Build an EverMem-Style Persistent AI Agent OS with Hierarchical Memory, FAISS Vector Retrieval, SQLite Storage, and Automated Memory Consolidation appeared first on MarkTechPost.",
+      "link": "https://www.marktechpost.com/2026/03/04/how-to-build-an-evermem-style-persistent-ai-agent-os-with-hierarchical-memory-faiss-vector-retrieval-sqlite-storage-and-automated-memory-consolidation/",
+      "source": "MarkTechPost",
+      "topic": "AI Research",
+      "published_at": "2026-03-04T23:50:20+00:00"
     }
   ],
   "rewrites": {
     "software_engineering": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI, Anthropic investments 'might be the last'",
-        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be its final major AI startup investments.",
-        "why_care": "This signals a potential shift in how major hardware providers like Nvidia will engage with AI model developers, possibly impacting future collaboration and funding for new AI projects you might integrate.",
-        "what_to_do": "Evaluate your current and planned AI integrations to understand potential long-term impacts if major AI model funding strategies change.",
-        "source": "CNBC"
+        "headline": "AI Bubble Worries Rise Among Investors, Bank of America Survey Shows",
+        "what_changed": "A recent Bank of America survey indicates that investors now consider an AI bubble their biggest concern.",
+        "why_care": "Understanding market sentiment around AI can inform your career planning and investment in AI-related skills or projects.",
+        "what_to_do": "Research the current valuation metrics of major AI companies and compare them to traditional tech companies this week."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning in Iran War",
-        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran, marking the first large-scale military application of generative AI for these purposes.",
-        "why_care": "This demonstrates a critical, real-world application of generative AI in high-stakes environments, highlighting the need for robust, ethical, and secure AI system development and deployment in any domain.",
-        "what_to_do": "Research the ethical AI guidelines and security best practices relevant to your projects, considering the implications of AI deployment in sensitive applications.",
-        "source": "The Decoder"
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Overviews from Research",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading from previous narrated slideshows.",
+        "why_care": "This feature could streamline your documentation, presentation, or knowledge-sharing processes by automating video content creation from technical notes.",
+        "what_to_do": "Experiment with NotebookLM to convert a technical document or project summary into a video overview this week."
       },
       {
         "id": 2,
-        "headline": "Google's AI-Powered Workspace Now Available to More US Search Users",
-        "what_changed": "Google is rolling out its AI-powered 'Canvas' workspace to all US users of AI Mode in Search, providing a dedicated area to organize plans, develop tools, and draft documents.",
-        "why_care": "This integration could streamline your research and planning workflows by offering an AI-assisted environment directly within your search interface, potentially boosting productivity for documentation and project outlining.",
-        "what_to_do": "Experiment with Google's AI Mode in Search and the Canvas feature to see how it can assist your daily planning, documentation, or research tasks.",
-        "source": "The Verge"
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post AI-generated war videos without disclosure, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing importance of AI content provenance and ethical AI use, which impacts your development of AI-powered content generation tools.",
+        "what_to_do": "Review your current or planned AI content generation workflows to ensure they include clear disclosure mechanisms for synthetic media this week."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy change emphasizes the growing importance of transparency and ethical considerations in AI-generated content, which could influence how you develop and deploy applications that generate media.",
-        "what_to_do": "Review your content generation pipelines to ensure any AI-generated media is clearly labeled, especially if your applications involve sensitive topics or public dissemination.",
-        "source": "The Guardian"
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) model with 1T total parameters and 68.8B activated parameters, boasting improved efficiency.",
+        "why_care": "This new model offers a more efficient approach to large language models, which could influence your architectural decisions for deploying or integrating AI solutions.",
+        "what_to_do": "Explore the Yuan 3.0 Ultra documentation and consider its potential applications for your enterprise projects this week."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
-        "what_changed": "Defense technology companies that work with the US government are discontinuing their use of Anthropic's Claude AI model due to the Pentagon's recent blacklist of Anthropic.",
-        "why_care": "This illustrates how geopolitical factors and government policies can directly impact the viability and adoption of specific AI tools, affecting your technology choices and vendor relationships.",
-        "what_to_do": "Assess the supply chain and regulatory compliance of the AI models and tools you use, especially if your projects have government or sensitive industry connections.",
-        "source": "CNBC"
+        "headline": "Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory and FAISS",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
+        "why_care": "This guide provides practical steps for you to implement advanced memory management in AI agents, enhancing their ability to recall and use past information.",
+        "what_to_do": "Follow the tutorial to set up a basic persistent AI agent with hierarchical memory on your local machine this week."
       }
     ],
     "data_ai": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
-        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its last in AI rivals.",
-        "why_care": "This signals a potential shift in Nvidia's investment strategy, possibly focusing more on internal development or other types of partnerships rather than direct equity in competing LLM providers.",
-        "what_to_do": "Evaluate your team's reliance on specific LLM providers and consider diversifying your AI model portfolio to mitigate future market shifts.",
-        "source": "CNBC"
+        "headline": "AI Bubble Fears Rise Among Investors: What Data & AI Pros Need to Know",
+        "what_changed": "A Bank of America survey shows investors now consider an AI bubble their biggest worry.",
+        "why_care": "Your projects and company's funding could be impacted if investor sentiment shifts negatively towards AI.",
+        "what_to_do": "Review your project's ROI and long-term value proposition to prepare for potential funding scrutiny."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for AI-Driven Strike Planning",
-        "what_changed": "The US military is using Anthropic's Claude for target selection and strike planning in the war against Iran.",
-        "why_care": "This demonstrates a real-world, high-stakes application of generative AI in defense, highlighting the critical need for robust, ethical, and explainable AI systems in sensitive domains.",
-        "what_to_do": "Research the ethical AI guidelines and explainability frameworks relevant to your industry to ensure your AI deployments meet necessary standards.",
-        "source": "The Decoder"
+        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
+        "what_changed": "Google's NotebookLM can now generate fully animated, 'cinematic' video overviews from your research and notes.",
+        "why_care": "This new feature offers a powerful way to visualize and present complex data and research findings, potentially streamlining your communication.",
+        "what_to_do": "Experiment with NotebookLM's new video overview feature to see how it can enhance your project presentations or knowledge sharing."
       },
       {
         "id": 2,
-        "headline": "Google AI-Powered Workspace Now Widely Available in Search",
-        "what_changed": "Google's AI-powered Canvas workspace is now available to all US users in AI Mode in Search.",
-        "why_care": "This provides you with a new integrated tool to organize plans, develop tools, and draft documents directly within your search workflow, leveraging the latest information.",
-        "what_to_do": "Experiment with Google's Canvas in AI Mode this week to see how it can streamline your research and documentation tasks.",
-        "source": "The Verge"
+        "headline": "X to Ban Revenue for Undisclosed AI-Generated War Videos",
+        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This highlights the growing ethical and platform-specific regulations around AI-generated content, impacting how you might share or use such media.",
+        "what_to_do": "Ensure any AI-generated visual content you create or share on platforms like X is clearly labeled to comply with evolving content policies."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy change highlights the increasing scrutiny on AI-generated content and the importance of proper labeling, which could impact how you share or consume AI-generated media on platforms.",
-        "what_to_do": "Ensure any AI-generated content you create or share is clearly labeled according to platform guidelines to avoid potential penalties.",
-        "source": "The Guardian"
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Multimodal MoE Model with 1T Parameters",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) foundation model with 1 trillion total parameters and 68.8 billion activated parameters.",
+        "why_care": "This new model offers a powerful, efficient option for your large-scale AI projects, potentially reducing computational costs while maintaining high performance.",
+        "what_to_do": "Investigate Yuan 3.0 Ultra's capabilities and consider if its MoE architecture could benefit your current or future model development efforts."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
-        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude after the Pentagon blacklisted Anthropic.",
-        "why_care": "This demonstrates how geopolitical and regulatory decisions can directly impact the adoption and viability of specific AI models and providers, even for commercial entities.",
-        "what_to_do": "Assess your current and future AI model dependencies, especially if you work with government contracts or in regulated industries, to ensure compliance and avoid disruptions.",
-        "source": "CNBC"
+        "headline": "Tutorial: Build Persistent AI Agent OS with Hierarchical Memory and FAISS",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
+        "why_care": "This provides a practical guide for you to implement advanced memory management in your AI agents, improving their ability to recall and learn from past interactions.",
+        "what_to_do": "Follow the tutorial to experiment with building a persistent AI agent, integrating hierarchical memory and vector retrieval into your own projects."
       }
     ],
     "cybersecurity": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Startups",
-        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its final large investments in AI startups.",
-        "why_care": "This signals a potential shift in how major AI infrastructure providers like Nvidia will engage with and fund AI model developers, impacting future AI tool development.",
-        "what_to_do": "Evaluate your organization's reliance on specific AI models and consider the long-term stability of their funding and development pipelines."
+        "headline": "Bank of America Survey: AI Bubble is Top Investor Concern",
+        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their primary worry.",
+        "why_care": "This indicates a growing market concern that could impact funding and strategic priorities for AI-driven security solutions.",
+        "what_to_do": "Evaluate your organization's reliance on AI vendors and consider the financial stability of key partners this week."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning in Iran War",
-        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran, marking the first large-scale military application of generative AI for these purposes.",
-        "why_care": "This demonstrates the critical national security implications of AI models and the potential for AI to be weaponized or used in sensitive military operations, which could impact geopolitical stability.",
-        "what_to_do": "Research the ethical guidelines and security implications of using generative AI in military contexts to understand potential future threats and vulnerabilities."
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading from its previous narrated slideshow feature.",
+        "why_care": "This advancement in AI-generated content creation could be exploited for more sophisticated deepfakes and misinformation campaigns, impacting your threat intelligence efforts.",
+        "what_to_do": "Review your organization's media verification protocols and train your team on identifying advanced AI-generated video content this week."
       },
       {
         "id": 2,
-        "headline": "Google's AI-Powered Workspace 'Canvas' Now Available to More US Users",
-        "what_changed": "Google has made its AI-powered 'Canvas' workspace available to all users in the US who utilize AI Mode in Search.",
-        "why_care": "This expands the attack surface for AI-driven phishing and social engineering, as more users will be interacting with AI-generated content directly within their search experience.",
-        "what_to_do": "Educate your users on the risks of AI-generated content and reinforce best practices for identifying sophisticated phishing attempts."
+        "headline": "X to Ban Revenue for Unlabelled AI-Generated War Videos",
+        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy change highlights the increasing prevalence and danger of AI-generated disinformation, which you must account for in your threat analysis and incident response planning.",
+        "what_to_do": "Educate your team on X's new policy and the risks of unlabelled AI-generated content to improve your organization's social media intelligence gathering this week."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos Amid Iran Conflict",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This highlights the growing challenge of deepfakes and AI-generated disinformation, which can be used in influence operations and create confusion during real-world events.",
-        "what_to_do": "Develop internal guidelines for identifying and reporting AI-generated disinformation that could impact your organization's reputation or security posture."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, designed for improved efficiency and performance.",
+        "why_care": "The release of more efficient and powerful open-source AI models like Yuan 3.0 Ultra means threat actors will have access to more sophisticated tools for generating malicious content and automating attacks.",
+        "what_to_do": "Investigate the capabilities of new open-source LLMs like Yuan 3.0 Ultra to understand potential misuse cases and update your threat models accordingly this week."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Firms Drop Claude After Pentagon's Anthropic Blacklist",
-        "what_changed": "Defense technology companies are ceasing their use of Anthropic's Claude AI model due to the Pentagon's recent blacklisting of Anthropic.",
-        "why_care": "This demonstrates how government policy and security concerns can directly impact the adoption and viability of specific AI technologies within critical sectors, affecting your supply chain.",
-        "what_to_do": "Review your organization's AI tool dependencies and assess the geopolitical and regulatory risks associated with your chosen AI vendors."
+        "headline": "Tutorial: Build Persistent AI Agent OS with Hierarchical Memory and SQLite",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system using hierarchical memory, FAISS vector retrieval, and SQLite storage for enhanced recall and structured data persistence.",
+        "why_care": "Understanding the architecture of persistent AI agents, which can retain and consolidate information, is crucial for anticipating how advanced AI malware or autonomous agents might operate and evade detection.",
+        "what_to_do": "Review the technical details of this persistent AI agent architecture to identify potential attack vectors or defensive countermeasures for your systems this week."
       }
     ],
     "design_ux": [
       {
         "id": 0,
-        "headline": "Nvidia CEO Hints at Halting Major AI Investments After OpenAI, Anthropic",
-        "what_changed": "Nvidia CEO Jensen Huang suggested the company's $30 billion investment in OpenAI and $10 billion in Anthropic might be its last major AI investments.",
-        "why_care": "This could signal a shift in how major tech players fund AI development, potentially impacting the tools and platforms you use.",
-        "what_to_do": "Research how current AI tools you use are funded and if their development might be affected by changing investment strategies.",
-        "article_id": 0
+        "headline": "AI Bubble Worries: What Designers Need to Know About Investor Concerns",
+        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their biggest worry.",
+        "why_care": "Understanding investor sentiment around AI can help you anticipate future funding and tool development in design technology.",
+        "what_to_do": "Research how current economic trends might impact investment in AI design tools and platforms this quarter."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for AI Strike Planning",
-        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the war against Iran.",
-        "why_care": "This shows how AI, even from companies facing bans, is being deployed in high-stakes situations, raising ethical considerations for all AI practitioners.",
-        "what_to_do": "Reflect on the ethical implications of AI deployment in sensitive areas and how your design work might contribute to or mitigate such issues.",
-        "article_id": 1
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Your Notes",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading its previous narrated slideshow feature.",
+        "why_care": "This new capability allows you to quickly generate engaging visual summaries of your design research, user feedback, or project briefs.",
+        "what_to_do": "Experiment with NotebookLM this week to create a 'cinematic' video summary for a current design project or research topic."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace, Canvas, Now Widely Available in Search",
-        "what_changed": "Google's AI-powered Canvas workspace is now available to all US users in AI Mode within Search.",
-        "why_care": "This new feature provides a dedicated workspace to organize plans and draft documents using the latest search information, directly impacting your design workflow.",
-        "what_to_do": "Experiment with Google Canvas this week to see how its AI-powered planning and drafting features can enhance your project organization.",
-        "article_id": 2
+        "headline": "X to Ban Revenue for Undisclosed AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing importance of transparent AI disclosure, a principle that also applies to your use of AI in design work and presentations.",
+        "what_to_do": "Review your social media posting guidelines to ensure you always clearly label any AI-generated content you share, especially for client work or public portfolios."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing need for transparency in AI-generated content, a critical consideration for designers creating or using AI visuals.",
-        "what_to_do": "Ensure all AI-generated content you create or share on social platforms is clearly labeled to comply with evolving platform policies.",
-        "article_id": 3
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal AI Model",
+        "what_changed": "Yuan Lab AI released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) foundation model with 1T total parameters, designed for stronger intelligence and efficiency.",
+        "why_care": "More efficient and powerful multimodal AI models like this could lead to advancements in AI tools you use for generating images, text, and other design assets.",
+        "what_to_do": "Keep an eye on how new open-source multimodal AI models are integrated into design tools, as they may offer new creative possibilities for your workflows."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
-        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
-        "why_care": "This demonstrates how government policies can quickly impact the adoption and availability of AI tools, affecting the ecosystem you operate within.",
-        "what_to_do": "Stay informed about government regulations and blacklists concerning AI tools, as they can influence your access to and use of specific platforms.",
-        "article_id": 4
+        "headline": "Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS that combines short-term conversational context with long-term vector memory using FAISS and SQLite.",
+        "why_care": "Understanding how AI agents manage and recall information can inform your design of user interfaces for AI-powered tools, making them more intuitive and effective.",
+        "what_to_do": "Read the tutorial to grasp the concepts of hierarchical memory in AI agents, which can inspire new ways to design interactive experiences with AI."
       }
     ],
     "product_project": [
       {
         "id": 0,
-        "headline": "Nvidia CEO Hints at End of Major AI Investments After OpenAI, Anthropic Deals",
-        "what_changed": "Nvidia's CEO stated that its $30 billion investment in OpenAI and $10 billion in Anthropic might be its last major AI investments.",
-        "why_care": "This signals a potential shift in how major tech companies will fund and partner with AI developers, impacting future tool development and market dynamics.",
-        "what_to_do": "Evaluate your current and planned AI tool stack, considering how a change in major investor funding might affect the long-term viability or direction of your chosen AI partners."
+        "headline": "AI Bubble Fears Rise Among Investors, Bank of America Survey Shows",
+        "what_changed": "A recent Bank of America survey shows that investors now consider an AI bubble their biggest worry.",
+        "why_care": "This shift in investor sentiment could impact funding and resource allocation for your AI-related projects.",
+        "what_to_do": "Review your project's AI dependencies and potential financial risks, preparing to articulate their value clearly."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning in Iran Conflict",
-        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the Iran conflict.",
-        "why_care": "This demonstrates the increasing real-world application of generative AI in critical, high-stakes operations, highlighting the need for robust ethical guidelines and validation processes for AI tools you might integrate.",
-        "what_to_do": "Review your team's current AI usage policies and ensure clear ethical guidelines are in place for any AI tools used in decision-making processes."
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' video overviews.",
+        "why_care": "This new feature can help you quickly create engaging summaries of complex information for stakeholders or team members.",
+        "what_to_do": "Experiment with NotebookLM this week to summarize a project brief or research document into a video overview."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace, Canvas, Now Widely Available in US Search",
-        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all users in the US using AI Mode in Search.",
-        "why_care": "This provides you with a new, integrated tool within Google Search to organize plans, develop tools, and draft documents using the latest information.",
-        "what_to_do": "Experiment with Google Canvas this week to see how its AI-powered planning and drafting features can streamline your project documentation and information synthesis."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing importance of transparency and ethical AI use, which you should consider in your own product development and communication strategies.",
+        "what_to_do": "Review your team's guidelines for AI-generated content, ensuring clear labeling and ethical considerations are in place."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This highlights the growing importance of transparency and ethical content labeling for AI-generated media, which could impact how you manage and communicate about AI-assisted content creation in your projects.",
-        "what_to_do": "Establish clear guidelines for your team on labeling AI-generated content, especially for public-facing communications, to ensure transparency and avoid misinformation."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1T total parameters, designed for stronger intelligence and efficiency.",
+        "why_care": "This new model demonstrates how advanced AI can achieve high performance with improved efficiency, potentially impacting your resource planning for AI initiatives.",
+        "what_to_do": "Investigate how MoE models like Yuan 3.0 Ultra could offer more efficient solutions for your team's AI-driven features or products."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Anthropic's Claude After Pentagon Blacklist",
-        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude after the Pentagon blacklisted Anthropic.",
-        "why_care": "This illustrates how government policies and blacklists can rapidly impact the viability and adoption of AI tools, requiring you to stay informed about regulatory changes affecting your technology stack.",
-        "what_to_do": "Assess your current and future AI tool selections for any potential regulatory or government-related risks that could disrupt your projects."
+        "headline": "Tutorial Shows How to Build Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
+        "why_care": "Understanding persistent AI agent architectures can help you design more robust and context-aware AI features for your products.",
+        "what_to_do": "Discuss with your technical leads how hierarchical memory concepts could enhance the intelligence and user experience of your current or future AI agents."
       }
     ],
     "marketing": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI and Anthropic Investments Might Be the Last",
-        "what_changed": "Nvidia CEO Jensen Huang indicated that the company's $30 billion investment in OpenAI and $10 billion in Anthropic might be its final large AI investments.",
-        "why_care": "This signals a potential shift in major AI funding, which could impact the development and accessibility of AI tools you use.",
-        "what_to_do": "Evaluate your current AI tool stack and consider diversifying your reliance on specific platforms, anticipating potential shifts in the AI landscape."
+        "headline": "AI Bubble Fears Rise Among Investors: What Marketers Need to Know",
+        "what_changed": "A recent Bank of America survey shows that investors now consider an AI bubble their biggest concern.",
+        "why_care": "Your marketing strategies and budget allocations could be impacted if investor sentiment shifts away from AI-driven ventures.",
+        "what_to_do": "Research how potential economic shifts might affect your marketing technology investments and future campaign planning."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning",
-        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran.",
-        "why_care": "This demonstrates advanced, real-world applications of generative AI, highlighting its increasing sophistication and potential for complex tasks, which could inspire new marketing strategies.",
-        "what_to_do": "Research how other industries are applying advanced AI models to complex problems and brainstorm how similar approaches could be adapted for your marketing campaigns or content creation workflows."
+        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Notes",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, powered by AI models like Gemini 3 and Nano Banana Pro.",
+        "why_care": "This new feature allows you to quickly generate engaging video content from your research, saving time and resources for content creation.",
+        "what_to_do": "Experiment with NotebookLM to convert your existing content outlines or research into short, shareable video summaries for social media or internal presentations."
       },
       {
         "id": 2,
-        "headline": "Google AI Workspace Now Available to More US Search Users",
-        "what_changed": "Google's AI-powered Canvas workspace is now available to all US users in AI Mode within Search, offering a dedicated space to organize plans, develop tools, and draft documents.",
-        "why_care": "This new feature integrates AI directly into your search workflow, providing powerful tools for content ideation, planning, and drafting directly within Google.",
-        "what_to_do": "Experiment with Google's Canvas in AI Mode this week to see how it can streamline your content planning, research, and initial drafting processes."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post AI-generated war videos without proper disclosure, with a second infraction leading to a permanent ban.",
+        "why_care": "Your brand's reputation and content strategy on X could be severely impacted if your team inadvertently shares or creates undisclosed AI-generated content, especially sensitive material.",
+        "what_to_do": "Review your social media content guidelines to ensure all AI-generated visuals, particularly those depicting sensitive events, are clearly labeled before posting on X."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy change emphasizes the growing importance of transparency and ethical AI use on social media, directly impacting your content strategy and compliance on X.",
-        "what_to_do": "Review your content creation guidelines for X to ensure all AI-generated video content is clearly labeled to avoid penalties and maintain brand trust."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal AI Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, designed for stronger intelligence and efficiency.",
+        "why_care": "This new model offers enhanced performance and efficiency, which could lead to more sophisticated and cost-effective AI tools for content generation, personalization, and data analysis in your marketing stack.",
+        "what_to_do": "Investigate how open-source multimodal models like Yuan 3.0 Ultra could be integrated into your current marketing workflows to improve content creation or customer interaction."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Claude After Pentagon Blacklist",
-        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
-        "why_care": "This illustrates how government actions and ethical concerns can quickly impact the viability and adoption of AI tools, potentially affecting your access to or the reputation of certain AI platforms.",
-        "what_to_do": "Stay informed about regulatory changes and ethical discussions surrounding AI tools you use, and consider having backup solutions if a primary tool faces similar issues."
+        "headline": "New Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system that combines short-term conversational context with long-term vector memory using FAISS and SQLite.",
+        "why_care": "Understanding this architecture can help you develop more intelligent and context-aware AI agents for customer service, content personalization, or lead nurturing, improving user experience and efficiency.",
+        "what_to_do": "Explore the tutorial to understand how persistent memory can enhance your AI chatbots or virtual assistants, then consider implementing similar features in your own tools."
       }
     ],
     "sales": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
-        "what_changed": "Nvidia's CEO stated that their $30 billion investment in OpenAI and $10 billion in Anthropic will likely be their final investments in those companies.",
-        "why_care": "This signals a potential shift in how major tech players like Nvidia will support AI development, impacting future partnerships and product integrations you might leverage.",
-        "what_to_do": "Research if your current or prospective clients use OpenAI or Anthropic products, and understand how this news might affect their long-term AI strategies.",
-        "source": "CNBC"
+        "headline": "AI Bubble Fears Rise Among Investors: What Sales Pros Need to Know",
+        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
+        "why_care": "Your clients may be hesitant to invest in new AI solutions if they fear a market downturn.",
+        "what_to_do": "Prepare to address client concerns about AI investment risks by highlighting tangible ROI and proven use cases."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for AI Strike Planning in Iran War",
-        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the war against Iran, marking the first large-scale use of generative AI for this purpose.",
-        "why_care": "This demonstrates a significant, real-world application of AI in high-stakes environments, which can influence how your defense or government clients view and adopt AI solutions.",
-        "what_to_do": "Identify defense or government accounts in your pipeline and research their current AI adoption, preparing to discuss the implications of this news.",
-        "source": "The Decoder"
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Your Notes",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos.",
+        "why_care": "You can use this tool to quickly create engaging video summaries of complex product information or client research for internal team alignment or pre-call planning.",
+        "what_to_do": "Experiment with NotebookLM this week to turn your sales notes or product updates into a short, shareable video for your team."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace Now Widely Available in Search for US Users",
-        "what_changed": "Google has made its AI-powered Canvas workspace available to all US users in AI Mode within Search, allowing for plan organization and document drafting.",
-        "why_care": "This new tool can streamline your research and planning by organizing information directly within Google Search, saving you time on prospecting and proposal creation.",
-        "what_to_do": "Experiment with Google's Canvas in AI Mode this week to see how it can help you organize client research or draft sales outreach materials more efficiently.",
-        "source": "The Verge"
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second offense leading to a permanent ban.",
+        "why_care": "This highlights the growing importance of transparency and ethical AI use, which can impact your company's reputation and how you use AI in your sales content.",
+        "what_to_do": "Review your social media content strategy to ensure any AI-generated visuals or videos are clearly labeled and comply with platform guidelines."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflict, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing concern over AI-generated misinformation, which could impact how your clients perceive and trust AI content, including marketing or sales materials.",
-        "what_to_do": "Review your social media content strategy to ensure any AI-generated visuals or videos you use for prospecting or client engagement are clearly labeled and compliant with platform policies.",
-        "source": "The Guardian"
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Faster, More Efficient Multimodal AI Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal AI model that is more efficient and powerful despite having fewer total parameters.",
+        "why_care": "This advancement means future AI tools you use could be faster and more cost-effective, improving your sales operations without increasing your budget.",
+        "what_to_do": "Stay informed about new open-source AI models like Yuan 3.0 Ultra that could power your sales tools, and ask your current vendors about their AI model updates."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Anthropic's Claude After Pentagon Blacklist",
-        "what_changed": "Defense tech companies that work with the US government are discontinuing their use of Anthropic's Claude AI following a Pentagon blacklist.",
-        "why_care": "This creates a significant challenge for defense contractors, potentially opening doors for you to offer alternative AI solutions if your clients are impacted by this change.",
-        "what_to_do": "Reach out to your defense industry clients and prospects to understand if they are affected by the Anthropic blacklist and how you might support their transition to other AI platforms.",
-        "source": "CNBC"
+        "headline": "New Guide: Build Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial details how to build an AI agent operating system with persistent, hierarchical memory, allowing it to recall past conversations and structured data.",
+        "why_care": "This technology could lead to more intelligent sales AI assistants that remember your client interactions and preferences, providing better support and insights.",
+        "what_to_do": "Discuss with your sales operations or IT team how persistent memory AI agents could enhance your CRM or sales enablement tools in the future."
       }
     ],
     "customer_support": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
-        "what_changed": "Nvidia's CEO stated that their $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be their final ones in these companies.",
-        "why_care": "This signals a shift in how major AI players are funded, which could impact the development of AI tools you use for customer support.",
-        "what_to_do": "Research the current capabilities of your existing AI tools and identify any emerging alternatives that might receive future investment."
+        "headline": "AI Bubble Worries Rise Among Investors, What It Means for Your Company",
+        "what_changed": "A Bank of America survey shows investors are now most concerned about an AI bubble.",
+        "why_care": "Your company's investment in AI tools could be impacted if the market shifts, potentially affecting your budget for support technology.",
+        "what_to_do": "Review your current AI tool subscriptions and usage to ensure they provide clear, measurable value to your support operations."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning",
-        "what_changed": "The US military is using Anthropic's Claude, a generative AI model, for target selection and strike planning in the war against Iran.",
-        "why_care": "This shows how advanced AI models like Claude are being deployed in critical, real-world scenarios, highlighting their growing power and potential for complex tasks in customer support.",
-        "what_to_do": "Explore how your team could use AI to analyze complex customer data or predict support needs, similar to how Claude is used for planning."
+        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Notes",
+        "what_changed": "Google's NotebookLM can now turn your research and notes into fully animated 'cinematic' videos, not just narrated slideshows.",
+        "why_care": "This could help you quickly create engaging training materials or explain complex product features to customers in a more dynamic visual format.",
+        "what_to_do": "Explore NotebookLM's new video feature to see if it can simplify creating visual guides for common customer issues or internal training."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace Now Available to More US Search Users",
-        "what_changed": "Google is making its AI-powered 'Canvas' workspace available to all US users of AI Mode in Search.",
-        "why_care": "This new feature allows you to organize plans, develop tools, and draft documents directly within Google Search, potentially streamlining your workflow for customer interactions.",
-        "what_to_do": "Try using Google's AI Canvas to draft customer responses, organize support resources, or plan your daily tasks this week."
+        "headline": "X to Ban Revenue for Unlabelled AI War Videos, Impacting Content Sharing",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second offense leading to a permanent ban.",
+        "why_care": "This highlights the growing importance of transparency with AI-generated content, which is crucial for maintaining trust when communicating with customers.",
+        "what_to_do": "Ensure any AI-generated content you use for customer communication or internal training is clearly labeled as AI-generated to avoid misinformation."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This highlights the growing importance of transparency and ethical use of AI-generated content, which is crucial when communicating with customers to maintain trust.",
-        "what_to_do": "Review your team's guidelines for using AI-generated content in customer communications to ensure all AI-created materials are clearly identified."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a More Efficient Multimodal AI Model",
+        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source multimodal AI model with 1 trillion total parameters that is more efficient and powerful.",
+        "why_care": "More efficient and powerful AI models could lead to faster, more accurate AI tools for your support team, improving response times and resolution rates.",
+        "what_to_do": "Research how new, efficient AI models like Yuan 3.0 Ultra might be integrated into future customer support platforms you use."
       },
       {
         "id": 4,
-        "headline": "Defense Firms Drop Claude After Pentagon's Anthropic Blacklist",
-        "what_changed": "Defense technology companies are stopping their use of Anthropic's Claude due to the Pentagon's recent blacklist of Anthropic.",
-        "why_care": "This demonstrates how external factors, like government policies, can quickly impact the availability and use of specific AI tools, which could affect your support operations.",
-        "what_to_do": "Identify alternative AI tools or platforms that your team could pivot to if your current AI provider faces unexpected restrictions or issues."
+        "headline": "New Guide on Building Persistent AI Agents with Memory for Better Interactions",
+        "what_changed": "A new tutorial explains how to build an 'EverMem-style' persistent AI agent operating system that combines short-term and long-term memory.",
+        "why_care": "AI agents with better memory can provide more consistent and personalized support by remembering past customer interactions and preferences.",
+        "what_to_do": "Discuss with your team or IT department how AI agents with improved memory could enhance your customer interaction quality and efficiency."
       }
     ],
     "finance": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
-        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be its final major investments in these AI rivals.",
-        "why_care": "This signals a potential shift in Nvidia's investment strategy, which could impact the competitive landscape and funding for key AI players you might analyze or invest in.",
-        "what_to_do": "Review your investment theses for AI companies, considering how reduced external funding might affect their growth and valuation.",
-        "source": "CNBC"
+        "headline": "Bank of America Survey: AI Bubble is Top Investor Concern",
+        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their biggest worry.",
+        "why_care": "This indicates a shift in market sentiment that could impact your investment strategies and portfolio valuations.",
+        "what_to_do": "Review your portfolio's exposure to AI-related assets and assess potential risks this week."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning Despite Ban",
-        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran, even though Washington recently banned the company.",
-        "why_care": "This highlights the complex relationship between government policy, national security, and the rapid adoption of AI tools, which could create unforeseen risks or opportunities for defense contractors and technology firms you follow.",
-        "what_to_do": "Assess the ethical and regulatory implications of AI use in sensitive sectors for any companies in your portfolio that develop or deploy AI.",
-        "source": "The Decoder"
+        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
+        "what_changed": "Google's NotebookLM can now transform your research notes into fully animated 'cinematic' videos, an upgrade from its previous narrated slideshows.",
+        "why_care": "This new feature could significantly enhance how you present complex financial research and analysis to stakeholders.",
+        "what_to_do": "Experiment with NotebookLM this week to see how it can visualize your financial reports or market analyses."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace, Canvas, Now Widely Available in Search",
-        "what_changed": "Google has made its AI-powered workspace, Canvas, available to all users in the US who use AI Mode in Search.",
-        "why_care": "This tool can help you organize plans, develop tools, and draft documents more efficiently, potentially streamlining your financial analysis and reporting workflows.",
-        "what_to_do": "Explore Google's Canvas feature in Search to see how it can enhance your daily tasks like research, planning, and document drafting.",
-        "source": "The Verge"
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post AI-generated war videos without proper disclosure, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing concern over AI-generated misinformation, which can impact public trust and market stability.",
+        "what_to_do": "Advise your organization on the importance of verifying information sources, especially those from social media, to mitigate reputational and financial risks."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflict, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy change reflects growing concerns about misinformation and could impact the platform's content moderation costs, user engagement, and advertising revenue, which are important for your financial analysis of social media companies.",
-        "what_to_do": "Monitor how social media platforms are addressing AI-generated content and consider the financial implications of these policies for companies in your investment universe.",
-        "source": "The Guardian"
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, designed for stronger intelligence and improved efficiency.",
+        "why_care": "This new model could offer more efficient and powerful AI capabilities for financial data analysis, forecasting, and automated reporting.",
+        "what_to_do": "Research how advanced MoE models like Yuan 3.0 Ultra could be integrated into your firm's existing analytical tools or processes."
       },
       {
         "id": 4,
-        "headline": "Defense Firms Drop Anthropic's Claude After Pentagon Blacklist",
-        "what_changed": "Defense technology companies that do business with the government are discontinuing their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
-        "why_care": "This demonstrates how government policies and blacklists can directly impact technology adoption and revenue streams for AI companies and their partners, affecting your financial models and risk assessments.",
-        "what_to_do": "Evaluate the regulatory compliance and government contract exposure of AI companies in your portfolio to identify potential risks from future blacklists or policy changes.",
-        "source": "CNBC"
+        "headline": "Tutorial: Building a Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial demonstrates how to build an EverMem-style persistent AI agent OS that combines short-term conversational context with long-term vector memory using FAISS and SQLite.",
+        "why_care": "This approach to AI memory management could lead to more sophisticated and context-aware AI tools for financial modeling, auditing, and client interaction.",
+        "what_to_do": "Explore how hierarchical memory systems could enhance the intelligence and reliability of AI agents used in your financial operations."
       }
     ],
     "legal": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI and Anthropic Investments May Be Last for AI Rivals",
-        "what_changed": "Nvidia CEO Jensen Huang indicated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its final major investments in AI rivals.",
-        "why_care": "This signals a potential shift in how major tech players like Nvidia will fund and partner with leading AI developers, impacting future AI tool development and availability for legal tech.",
-        "what_to_do": "Assess your firm's current and projected reliance on AI tools from OpenAI and Anthropic, considering potential future funding shifts.",
-        "source": "CNBC"
+        "headline": "AI Bubble Concerns Rise Among Bond Investors, Survey Shows",
+        "what_changed": "A Bank of America survey revealed that investors now view an AI bubble as their top concern for the first time.",
+        "why_care": "Your firm's investment strategies and client advice may need to account for increasing market volatility and investor sentiment around AI.",
+        "what_to_do": "Review your firm's current investment guidelines and risk assessments related to AI-driven companies this week."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning, Despite Ban",
-        "what_changed": "The US military is using Anthropic's Claude for target selection and strike planning in the war against Iran, despite Washington having banned the company.",
-        "why_care": "This highlights the complex legal and ethical challenges surrounding AI deployment, especially when government entities use tools from companies facing restrictions.",
-        "what_to_do": "Review your firm's policies on AI tool usage, especially concerning compliance with government regulations and potential conflicts of interest.",
-        "source": "The Decoder"
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
+        "what_changed": "Google's NotebookLM can now transform your research notes into fully animated 'cinematic' video overviews, upgrading from narrated slideshows.",
+        "why_care": "This feature could streamline your case brief summaries, deposition preparation, or client presentation creation by quickly visualizing complex information.",
+        "what_to_do": "Experiment with NotebookLM's new video overview feature using a recent research brief or case summary this week."
       },
       {
         "id": 2,
-        "headline": "Google's AI-Powered Workspace, Canvas, Now Widely Available in Search",
-        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all US users of AI Mode in Search, offering a dedicated space to organize plans and draft documents.",
-        "why_care": "This new feature could streamline your legal research, document drafting, and case planning directly within Google Search, enhancing productivity.",
-        "what_to_do": "Experiment with Google Canvas in AI Mode Search this week to see how it can assist with legal research organization and document outlining.",
-        "source": "The Verge"
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post AI-generated war videos without proper disclosure, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing legal and ethical implications of AI-generated content, impacting your firm's social media policies and potential litigation involving misinformation.",
+        "what_to_do": "Review your firm's social media guidelines and client communication policies regarding the use and disclosure of AI-generated content this week."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy change underscores the growing legal and ethical imperative for transparency regarding AI-generated content, especially in sensitive contexts like conflict reporting.",
-        "what_to_do": "Ensure your firm's social media policies explicitly address the labeling of AI-generated content to avoid misrepresentation and compliance issues.",
-        "source": "The Guardian"
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a More Efficient Multimodal AI Model",
+        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) foundation model that significantly boosts pre-training efficiency while reducing total parameters.",
+        "why_care": "This development could lead to more powerful and cost-effective AI tools for legal research, contract analysis, and e-discovery, improving your firm's operational efficiency.",
+        "what_to_do": "Research how open-source multimodal AI models like Yuan 3.0 Ultra could be integrated into your firm's existing legal tech stack this week."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
-        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude due to the Pentagon's blacklist of Anthropic.",
-        "why_care": "This demonstrates how government blacklists or restrictions on AI providers can directly impact your firm's ability to use certain AI tools, especially if you work with government clients or regulated industries.",
-        "what_to_do": "Evaluate your firm's AI vendor contracts for clauses related to government blacklists or compliance changes that could force a switch in AI tools.",
-        "source": "CNBC"
+        "headline": "Tutorial Shows How to Build Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system that combines short-term conversational context with long-term memory using FAISS and SQLite.",
+        "why_care": "Understanding persistent AI agent architectures can inform your firm's development or procurement of AI tools that offer more reliable and context-aware support for legal tasks.",
+        "what_to_do": "Explore the concepts of hierarchical memory and persistent AI agents to assess their potential application in your firm's knowledge management systems this week."
       }
     ],
     "hr": [
       {
         "id": 0,
-        "headline": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
-        "what_changed": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "AI Bubble Concerns Rise Among Investors, What HR Needs to Know",
+        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
+        "why_care": "Your organization's investment in AI tools and training could be impacted by market shifts or a potential downturn.",
+        "what_to_do": "Review your current and planned AI technology investments to understand their long-term viability and potential risks."
       },
       {
         "id": 1,
-        "headline": "US military uses Anthropic's Claude for AI-driven strike planning in Iran war",
-        "what_changed": "In the war against Iran, the US military is using generative AI at scale for target selection and strike planning for the first time. Of all models, it's the one from the company Washington just banned. The article US military uses Anthropic's Claude for AI-driven strike planning in Iran war appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
+        "what_changed": "Google's NotebookLM can now transform your research notes into fully animated 'cinematic' video overviews, upgrading from narrated slideshows.",
+        "why_care": "This tool could significantly enhance how you create engaging learning content or summarize complex HR research for stakeholders.",
+        "what_to_do": "Explore NotebookLM to see if its new video summary feature can streamline your content creation for training or presentations."
       },
       {
         "id": 2,
-        "headline": "Google’s AI-powered workspace is now available to more users in Search",
-        "what_changed": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside […]",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second offense leading to a permanent ban.",
+        "why_care": "This highlights the growing need for clear AI disclosure policies, which you may need to consider for your internal communications or employee social media guidelines.",
+        "what_to_do": "Review your company's social media and AI usage policies to ensure they address the ethical use and disclosure of AI-generated content."
       },
       {
         "id": 3,
-        "headline": "X to ban users from earning revenue if they post unlabelled AI-generated war videos",
-        "what_changed": "Social media feeds have been flooded with fake battle scenes since start of Iran conflictElon Musk’s X will ban users from making money on the platform if they repeatedly post unlabelled AI-generated war videos, after social media feeds were flooded with fake battle scenes from the Iran conflict.The social media platform, which has about half a billion monthly active users, will suspend people from earning revenue from posts for 90 days if they put up AI-generated videos of an armed conflict without adding a disclosure that it was made with AI. A second infraction wouldlead to a permanent ban, it said on Tuesday night, after the first days of the conflict in Iran were marked by a torrent of bogus online footage. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a Powerful and Efficient Multimodal AI Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal AI model that offers strong performance with fewer parameters and improved pre-training efficiency.",
+        "why_care": "This new model could lead to more efficient and powerful AI tools becoming available, potentially impacting your HR tech stack and data analysis capabilities.",
+        "what_to_do": "Stay aware of advancements in open-source AI models like Yuan 3.0 Ultra, as they may influence future HR technology solutions."
       },
       {
         "id": 4,
-        "headline": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
-        "what_changed": "Anthropic customers that do business with the government are having to make the tough call on whether to abandon Claude.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "New Tutorial Shows How to Build Persistent AI Agents with Memory",
+        "what_changed": "A new tutorial details how to build an AI agent operating system that combines short-term conversational context with long-term memory, using tools like FAISS and SQLite.",
+        "why_care": "AI agents with persistent memory could revolutionize how you interact with HR systems, providing more personalized and context-aware support for employees or candidates.",
+        "what_to_do": "Consider how AI agents with long-term memory could improve your HR service delivery, such as for onboarding or employee support chatbots."
       }
     ],
     "healthcare": [
       {
         "id": 0,
-        "headline": "Nvidia CEO Hints at Halting Major AI Investments After OpenAI, Anthropic",
-        "what_changed": "Nvidia's CEO, Jensen Huang, suggested that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its last major AI investments.",
-        "why_care": "This could impact the future availability and cost of advanced AI tools that your healthcare organization might consider for clinical decision support or administrative tasks.",
-        "what_to_do": "Evaluate your current and future AI needs to understand how potential shifts in AI investment could affect your technology roadmap."
+        "headline": "AI Bubble Fears Rise Among Investors: What Healthcare Professionals Should Know",
+        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their top concern.",
+        "why_care": "Understanding market sentiment around AI can help you anticipate future investments and technological shifts in healthcare.",
+        "what_to_do": "Review your organization's current AI adoption plans and assess their long-term sustainability and value."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning Despite Ban",
-        "what_changed": "The US military is using Anthropic's Claude, a generative AI model, for target selection and strike planning in the war against Iran, even though the company was recently banned by Washington.",
-        "why_care": "This shows that powerful AI tools are being adopted for critical, high-stakes decisions, highlighting the need for you to understand AI's capabilities and ethical implications in healthcare.",
-        "what_to_do": "Research the ethical guidelines and potential biases of AI tools currently used or considered for use in your clinical or administrative workflows."
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries of Research",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading from narrated slideshows.",
+        "why_care": "This tool could help you quickly synthesize and present complex medical research or patient case studies in an engaging visual format.",
+        "what_to_do": "Explore NotebookLM's new video overview feature to see how it can simplify your research summaries this week."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace 'Canvas' Now Widely Available in Search",
-        "what_changed": "Google has made its AI-powered workspace, Canvas, available to all users in the US who use AI Mode in Search.",
-        "why_care": "This tool could help you organize patient care plans, draft medical reports, or develop educational materials more efficiently by using the latest information from search.",
-        "what_to_do": "Explore Google's Canvas feature in AI Mode to see how it can streamline your daily planning and document drafting tasks."
+        "headline": "X to Ban Revenue for Unlabelled AI-Generated War Videos",
+        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing concern over misinformation and deepfakes, which can impact public health messaging and patient trust.",
+        "what_to_do": "Verify the authenticity of any visual information you encounter on social media, especially regarding health-related news or crises, before sharing."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos Amid Iran Conflict",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post AI-generated war videos without proper disclosure, with a second offense leading to a permanent ban.",
-        "why_care": "This policy highlights the growing concern over misinformation and deepfakes, which could also impact the credibility of health information shared online and your ability to discern accurate medical content.",
-        "what_to_do": "Verify the source and authenticity of any AI-generated content, especially medical or scientific information, before sharing or relying on it for professional use."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model that reduces total parameters by 33.3% while boosting pre-training efficiency by 49%.",
+        "why_care": "More efficient and powerful AI models like this could lead to faster development of healthcare applications, from diagnostics to administrative tasks.",
+        "what_to_do": "Stay informed about new open-source AI models that could potentially be integrated into future healthcare technology solutions."
       },
       {
         "id": 4,
-        "headline": "Defense Companies Drop Anthropic's Claude After Pentagon Blacklist",
-        "what_changed": "Defense technology companies that work with the government are stopping their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
-        "why_care": "This demonstrates how government policies and regulations can quickly impact the availability and use of specific AI technologies, which could affect AI tools you use in healthcare if similar policies emerge.",
-        "what_to_do": "Stay informed about government regulations and industry standards related to AI in healthcare to anticipate potential changes in tool availability or compliance requirements."
+        "headline": "Tutorial: Building Persistent AI Agents with Hierarchical Memory and SQLite Storage",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
+        "why_care": "This advancement in AI agent memory and persistence could lead to more reliable and context-aware AI tools for clinical decision support or patient interaction.",
+        "what_to_do": "Discuss with your IT or innovation team how persistent AI agents could improve workflow or patient care within your department."
       }
     ],
     "education": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
-        "what_changed": "Nvidia's CEO stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic might be its last in these AI competitors.",
-        "why_care": "This signals a potential shift in how major tech companies fund and partner with leading AI model developers, which could impact the tools and resources available for education.",
-        "what_to_do": "Research alternative AI tools and platforms beyond those from OpenAI and Anthropic to diversify your understanding of the AI landscape."
+        "headline": "AI Bubble Worries Rise Among Investors, Bank of America Survey Finds",
+        "what_changed": "For the first time, investors surveyed by Bank of America identified an AI bubble as their primary concern.",
+        "why_care": "Understanding market sentiment around AI helps you evaluate the long-term stability and funding for educational AI tools and initiatives.",
+        "what_to_do": "Research the financial health and investment backing of the AI education platforms you currently use or are considering."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for AI-Driven Strike Planning",
-        "what_changed": "The US military is using Anthropic's Claude for target selection and strike planning in the war against Iran, marking the first time generative AI is used at scale for this purpose.",
-        "why_care": "This demonstrates a real-world, high-stakes application of generative AI, highlighting the importance of understanding AI's capabilities and ethical implications in various contexts.",
-        "what_to_do": "Lead a discussion with your students or colleagues about the ethical considerations of AI use in sensitive applications like military planning."
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Research",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' video overviews, upgrading from narrated slideshows.",
+        "why_care": "This feature offers a new way to create engaging, multimedia summaries of complex topics for your students or professional development materials.",
+        "what_to_do": "Experiment with NotebookLM's new video overview feature to summarize a lesson plan or research paper this week."
       },
       {
         "id": 2,
-        "headline": "Google's AI-Powered Workspace 'Canvas' Now Widely Available in Search",
-        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all US users in AI Mode in Search, allowing for organization, tool development, and document drafting.",
-        "why_care": "This provides you with an integrated AI tool directly within Google Search that can help streamline planning, content creation, and research for educational tasks.",
-        "what_to_do": "Experiment with Google Canvas in AI Mode in Search to organize your lesson plans or draft educational materials this week."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy highlights the growing need to teach your students about media literacy, AI ethics, and the responsible use of AI-generated content.",
+        "what_to_do": "Integrate a discussion on AI-generated content, deepfakes, and media verification into your curriculum or training materials this month."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy change directly addresses the spread of AI-generated misinformation, which is crucial for you to teach digital literacy and critical evaluation of online content.",
-        "what_to_do": "Educate your students on the importance of identifying AI-generated content and the ethical implications of sharing unverified information on social media."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a Multimodal MoE Foundation Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, designed for stronger intelligence and efficiency.",
+        "why_care": "New, more efficient AI models like Yuan 3.0 Ultra could lead to more powerful and accessible AI tools for educational applications in the future.",
+        "what_to_do": "Stay informed about the capabilities of new open-source AI models and consider how they might be integrated into educational technology."
       },
       {
         "id": 4,
-        "headline": "Defense Companies Drop Anthropic's Claude After Pentagon Blacklist",
-        "what_changed": "Defense technology companies that do business with the government are dropping Anthropic's Claude after the Pentagon blacklisted the company.",
-        "why_care": "This illustrates how government policies and ethical concerns can quickly impact the adoption and availability of specific AI tools, affecting future educational partnerships or resources.",
-        "what_to_do": "Stay informed about government regulations and ethical guidelines concerning AI tools, as these can influence which technologies are deemed appropriate for educational use."
+        "headline": "Tutorial Shows How to Build Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial demonstrates how to build an EverMem-style persistent AI agent operating system that combines short-term and long-term memory for more consistent recall.",
+        "why_care": "Agents with enhanced memory capabilities could revolutionize personalized learning by remembering individual student progress and preferences over time.",
+        "what_to_do": "Explore resources on AI agent development to understand how persistent memory could improve future educational AI tools."
       }
     ],
     "media_content": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
-        "what_changed": "Nvidia's CEO stated that its $30 billion investment in OpenAI and $10 billion in Anthropic might be its final investments in AI rivals.",
-        "why_care": "This signals a potential shift in major AI funding, which could impact the development and accessibility of tools you use.",
-        "what_to_do": "Evaluate your current reliance on tools from OpenAI and Anthropic and research emerging AI platforms."
+        "headline": "AI Bubble Fears Rise Among Investors, Bank of America Survey Shows",
+        "what_changed": "A recent Bank of America survey found that investors now consider an AI bubble their biggest concern.",
+        "why_care": "This sentiment could impact funding and investment in AI tools and platforms you rely on or plan to use.",
+        "what_to_do": "Research the financial stability of the AI tools and platforms you currently use or are considering for your work."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning in Iran War",
-        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the war against Iran.",
-        "why_care": "This demonstrates a significant, real-world application of generative AI in sensitive contexts, highlighting the need for accuracy and ethical considerations in your own AI use.",
-        "what_to_do": "Investigate how AI models like Claude are trained and the potential for bias or misinformation, informing your reporting on such applications."
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Summaries from Your Research",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' video overviews, upgrading from narrated slideshows.",
+        "why_care": "This new feature offers a powerful way to quickly visualize and present complex information, saving you time in content creation and pitching.",
+        "what_to_do": "Experiment with NotebookLM's new cinematic video feature to summarize your current research or story ideas for a fresh perspective."
       },
       {
         "id": 2,
-        "headline": "Google AI Workspace Now Widely Available in Search for US Users",
-        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all US users in AI Mode in Search.",
-        "why_care": "This new feature allows you to organize plans, develop tools, and draft documents directly within Google Search, streamlining your research and content creation workflows.",
-        "what_to_do": "Experiment with Google Canvas in AI Mode this week to see how it can assist with outlining articles, planning podcasts, or drafting scripts."
+        "headline": "X to Ban Revenue for Unlabeled AI War Videos, Citing Fake Content Flood",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a second infraction leading to a permanent ban.",
+        "why_care": "This policy directly impacts your ability to monetize content on X and underscores the critical importance of transparently labeling AI-generated media to maintain trust.",
+        "what_to_do": "Always label any AI-generated video content you post on X, especially if it depicts sensitive topics like armed conflict, to avoid revenue suspension."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabelled AI War Videos After Iran Conflict",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy directly impacts your ability to monetize content on X and underscores the critical importance of transparently labeling AI-generated media to maintain trust and avoid penalties.",
-        "what_to_do": "Review your content creation and posting guidelines for X to ensure all AI-generated video content, especially sensitive material, is clearly labeled."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a More Efficient Multimodal AI Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) foundation model with 1 trillion total parameters, designed for stronger intelligence and improved efficiency.",
+        "why_care": "This new model could lead to more powerful and accessible AI tools for content generation, research, and analysis, potentially improving your workflow efficiency.",
+        "what_to_do": "Keep an eye on new AI applications and tools that integrate Yuan 3.0 Ultra, as they may offer enhanced capabilities for your content creation tasks."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Ban",
-        "what_changed": "Defense tech companies are discontinuing their use of Anthropic's Claude after the Pentagon blacklisted Anthropic.",
-        "why_care": "This shows how government actions can quickly impact the viability and adoption of AI tools, potentially affecting your access to or the reliability of certain AI technologies.",
-        "what_to_do": "Diversify your AI toolset and stay informed about government policies and blacklists that could affect the AI platforms you use."
+        "headline": "New Tutorial Shows How to Build Persistent AI Agent OS with Memory",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system that combines short-term conversational context with long-term memory using FAISS and SQLite.",
+        "why_care": "Understanding how these advanced AI memory systems work can help you better leverage AI for research, fact-checking, and developing more sophisticated interactive content.",
+        "what_to_do": "Explore the concepts of hierarchical memory in AI agents to understand how future tools might retain and recall information more effectively for your projects."
       }
     ],
     "creative_entertainment": [
       {
         "id": 0,
-        "headline": "Nvidia CEO Hints at End to Major AI Investments After OpenAI, Anthropic Deals",
-        "what_changed": "Nvidia's CEO suggested their $30 billion OpenAI and $10 billion Anthropic investments might be their last large AI company stakes.",
-        "why_care": "This could impact future AI tool development and partnerships that benefit your creative software and workflows.",
-        "what_to_do": "Research how Nvidia's current AI investments are already integrated into your preferred creative tools and platforms."
+        "headline": "AI Bubble Fears Rise Among Investors, What It Means for Your Creative Business",
+        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
+        "why_care": "This could impact funding and investment in AI tools and companies you rely on or work with.",
+        "what_to_do": "Evaluate your current AI tool subscriptions and future investment plans for potential market shifts."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning Amidst Iran Conflict",
-        "what_changed": "The US military is using Anthropic's Claude AI for target selection and strike planning in the war against Iran.",
-        "why_care": "This demonstrates advanced AI's real-world application in sensitive areas, highlighting the need for ethical considerations in your own AI content creation.",
-        "what_to_do": "Review your studio's guidelines for ethical AI use, especially when generating realistic or sensitive content."
+        "headline": "Google NotebookLM Now Creates 'Cinematic' Video Overviews from Your Research",
+        "what_changed": "Google's NotebookLM can now generate fully animated 'cinematic' videos from your research and notes, upgrading from narrated slideshows.",
+        "why_care": "You can quickly transform your research into engaging video content, saving time on initial storyboarding or concept visualization.",
+        "what_to_do": "Experiment with NotebookLM's new cinematic video feature to see how it can streamline your pre-production or pitch processes."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace 'Canvas' Now Widely Available in Search for US Users",
-        "what_changed": "Google's AI-powered Canvas workspace is now available to all US users in AI Mode within Search.",
-        "why_care": "This tool can help you organize projects, develop concepts, and draft documents more efficiently, streamlining your pre-production and planning phases.",
-        "what_to_do": "Experiment with Google Canvas in Search to see how it can assist with your project planning and content outlining this week."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "You must clearly label all AI-generated content, especially sensitive or news-related visuals, to avoid penalties and maintain platform monetization.",
+        "what_to_do": "Review X's updated content policies and ensure all your AI-generated video posts are explicitly labeled to comply with new rules."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos After Iran Conflict Surge",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This directly impacts your ability to monetize content on X and emphasizes the critical importance of transparently labeling all AI-generated media, especially sensitive or realistic footage.",
-        "what_to_do": "Ensure all AI-generated video content you post on X, particularly realistic or news-like footage, is clearly labeled as AI-generated to avoid monetization penalties."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: A Powerful, Efficient Multimodal Model",
+        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) model with 1T total parameters, designed for stronger intelligence and efficiency.",
+        "why_care": "This new model could lead to more powerful and efficient AI tools for content generation, editing, and automation in your workflows.",
+        "what_to_do": "Keep an eye on upcoming AI tools and plugins that integrate Yuan 3.0 Ultra, as they may offer significant performance improvements."
       },
       {
         "id": 4,
-        "headline": "Defense Contractors Drop Anthropic's Claude After Pentagon Blacklist",
-        "what_changed": "Defense tech companies are stopping their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
-        "why_care": "This highlights the volatile nature of AI partnerships and potential supply chain disruptions, which could indirectly affect tools or services you rely on if their providers have government contracts.",
-        "what_to_do": "Stay informed about major AI company blacklists or policy changes that could impact the stability or availability of AI tools you use."
+        "headline": "Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent OS using hierarchical memory, FAISS, and SQLite.",
+        "why_care": "Understanding persistent AI agent design can help you develop more sophisticated custom tools or integrate smarter AI assistants into your production pipelines.",
+        "what_to_do": "Explore the tutorial to grasp how hierarchical memory systems work, which could inspire new ways to manage complex project data with AI."
       }
     ],
     "operations_supply": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: $30B OpenAI, $10B Anthropic investments likely last",
-        "what_changed": "Nvidia's CEO stated that their $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be their final major investments in these AI companies.",
-        "why_care": "This signals a potential shift in how major AI infrastructure providers like Nvidia will allocate resources, impacting the long-term stability and development of AI tools you might consider for your operations.",
-        "what_to_do": "Evaluate your current or planned AI tool usage to understand their reliance on these specific AI models and their underlying infrastructure."
+        "headline": "AI Bubble Worries Rise Among Investors, What It Means for Your Operations",
+        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
+        "why_care": "Your budget for new AI tools could be impacted if investment in AI slows or shifts.",
+        "what_to_do": "Evaluate your current AI projects for clear ROI and prepare to justify future investments."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for AI Strike Planning in Iran War",
-        "what_changed": "The US military is using Anthropic's Claude AI model for target selection and strike planning in the war against Iran.",
-        "why_care": "This demonstrates how advanced AI, even from companies facing government scrutiny, is being deployed for critical, real-time decision-making, which could eventually influence AI applications in complex supply chain scenarios.",
-        "what_to_do": "Research the capabilities of generative AI models like Claude to understand their potential for optimizing complex logistical decisions or resource allocation in your operations."
+        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Your Research",
+        "what_changed": "Google's NotebookLM can now turn your research notes into fully animated 'cinematic' video overviews, using AI models like Gemini 3.",
+        "why_care": "You can quickly create engaging visual summaries of complex operational reports or training materials, improving communication and understanding.",
+        "what_to_do": "Experiment with NotebookLM to convert a recent supply chain analysis or process document into a video summary to see its potential."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace Now Available to More US Search Users",
-        "what_changed": "Google has made its AI-powered Canvas workspace available to all US users of AI Mode in Search.",
-        "why_care": "This tool allows you to organize plans, develop tools, and draft documents using the latest search information, which can streamline your planning and documentation processes.",
-        "what_to_do": "Experiment with Google's Canvas workspace to see how it can help you organize operational plans or draft standard operating procedures more efficiently."
+        "headline": "X to Ban Revenue for Unlabeled AI War Videos, Impacting Content Sharing",
+        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
+        "why_care": "Your team needs to be aware of content authenticity rules if you use X for industry news or sharing operational updates, to avoid penalties.",
+        "what_to_do": "Remind your team to always verify the authenticity of visual content and properly label any AI-generated media before sharing it on X or other platforms."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This highlights the growing concern over misinformation generated by AI, which could impact the reliability of visual information you might encounter regarding global events affecting your supply chain.",
-        "what_to_do": "Implement a verification step for any critical visual information you receive from social media platforms, especially concerning geopolitical events that could disrupt your supply chain."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra, a More Efficient Multimodal AI Model",
+        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model with 1 trillion total parameters, offering stronger intelligence and 49% better pre-training efficiency.",
+        "why_care": "This new model could lead to more powerful and cost-effective AI tools for optimizing your logistics, forecasting, and manufacturing processes.",
+        "what_to_do": "Research how open-source MoE models like Yuan 3.0 Ultra could be integrated into your existing operational software or data analysis workflows."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Claude After Pentagon's Anthropic Blacklist",
-        "what_changed": "Defense technology companies are discontinuing their use of Anthropic's Claude AI model due to the Pentagon's blacklist of Anthropic.",
-        "why_care": "This shows how government policies and blacklists can quickly impact the availability and viability of specific AI tools, which could affect your access to certain AI solutions if your company has government contracts or relies on similar vendors.",
-        "what_to_do": "Review your current and planned AI tool stack to identify any dependencies on vendors that might be susceptible to government blacklists or policy changes."
+        "headline": "New Tutorial Shows How to Build Persistent AI Agents with Hierarchical Memory",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system using hierarchical memory, FAISS vector retrieval, and SQLite storage.",
+        "why_care": "You can develop AI agents that 'remember' past interactions and data, leading to more consistent and effective support for your operational decision-making and problem-solving.",
+        "what_to_do": "Explore how persistent AI agents could manage recurring tasks or provide historical context for your warehouse management or inventory control systems."
       }
     ],
     "real_estate_construction": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI and Anthropic Investments May Be Last",
-        "what_changed": "Nvidia CEO Jensen Huang stated that the company's $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be its last major AI investments.",
-        "why_care": "This signals a potential shift in how major tech companies are funding AI development, which could impact the availability and cost of AI tools you might use.",
-        "what_to_do": "Evaluate your current and future AI tool subscriptions to understand their reliance on these major AI developers."
+        "headline": "AI Bubble Worries Rise Among Investors: What Real Estate Pros Need to Know",
+        "what_changed": "A recent Bank of America survey shows investors now see an AI bubble as their top concern.",
+        "why_care": "Your investment strategies and access to capital for projects could be impacted by broader market sentiment around AI.",
+        "what_to_do": "Review your current investment portfolio for any overexposure to AI-dependent companies this week."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for Strike Planning",
-        "what_changed": "The US military is using Anthropic's Claude, a generative AI model, for target selection and strike planning in the war against Iran.",
-        "why_care": "This demonstrates a significant, real-world application of AI for complex decision-making, which could inspire new uses for AI in your project planning and risk assessment.",
-        "what_to_do": "Research how generative AI is being used in other industries for complex planning to identify potential applications for your projects."
+        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries from Your Notes",
+        "what_changed": "Google's NotebookLM can now transform your research and notes into fully animated 'cinematic' videos, upgrading from narrated slideshows.",
+        "why_care": "You can quickly create engaging video presentations of project proposals, market analyses, or property walkthroughs from your existing notes.",
+        "what_to_do": "Experiment with NotebookLM this week to turn a recent project brief or client presentation into a 'cinematic' video overview."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace Now Widely Available in Search",
-        "what_changed": "Google's AI-powered workspace, Canvas, is now available to all US users in AI Mode in Search, allowing you to organize plans and draft documents.",
-        "why_care": "This new tool can streamline your research, planning, and document creation processes directly within Google Search, saving you time on project development.",
-        "what_to_do": "Experiment with Google's Canvas feature this week to see how it can help you organize project plans or draft property descriptions."
+        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
+        "what_changed": "X will now ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second offense leading to a permanent ban.",
+        "why_care": "Your marketing and communication strategies on X must ensure all AI-generated visual content, especially sensitive material, is clearly labeled to maintain platform access and credibility.",
+        "what_to_do": "Review your social media content creation guidelines this week to ensure all AI-generated visuals are properly disclosed before posting on X."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated war videos, with a second infraction leading to a permanent ban.",
-        "why_care": "This policy highlights the growing concern over AI-generated misinformation, reminding you to verify visual content, especially for property marketing or site assessments.",
-        "what_to_do": "Review your social media content creation process to ensure all AI-generated visuals are clearly labeled, especially for property listings or project updates."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: More Powerful, More Efficient AI Model",
+        "what_changed": "YuanLab AI has released Yuan 3.0 Ultra, a new open-source multimodal AI model with 1 trillion total parameters that is more efficient and powerful.",
+        "why_care": "This new model could lead to more sophisticated and efficient AI tools for tasks like architectural design, construction planning, and property management.",
+        "what_to_do": "Research how multimodal AI models like Yuan 3.0 Ultra could be integrated into your existing design or project management software this week."
       },
       {
         "id": 4,
-        "headline": "Defense Firms Drop Anthropic's Claude After Pentagon Blacklist",
-        "what_changed": "Defense technology companies are discontinuing their use of Anthropic's Claude AI after the Pentagon blacklisted Anthropic.",
-        "why_care": "This shows that government policies and partnerships can quickly impact the availability and viability of AI tools, which might affect your own software choices.",
-        "what_to_do": "Assess your current AI tool providers to understand their government affiliations or potential regulatory risks that could impact your operations."
+        "headline": "How to Build a Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial details how to build an AI agent operating system with persistent, hierarchical memory, combining short-term and long-term recall.",
+        "why_care": "This technology could enable AI assistants to remember project specifics, client preferences, and past decisions over long periods, making them more effective for your ongoing work.",
+        "what_to_do": "Explore the potential of persistent AI agents to manage long-term client relationships or complex construction projects this week."
       }
     ],
     "science_research": [
       {
         "id": 0,
-        "headline": "Nvidia CEO: OpenAI, Anthropic Investments May Be Last for AI Rivals",
-        "what_changed": "Nvidia's CEO stated that their $30 billion investment in OpenAI and $10 billion investment in Anthropic will likely be their final investments in these AI companies.",
-        "why_care": "This signals a potential shift in how major tech companies like Nvidia will fund and collaborate with leading AI research labs, impacting future resource availability for AI development.",
-        "what_to_do": "Evaluate how your research or projects might be affected if major AI model developers receive less direct investment from key hardware providers like Nvidia."
+        "headline": "AI Bubble Fears Rise Among Investors: What Science & Research Professionals Need to Know",
+        "what_changed": "A Bank of America survey shows investors now worry most about an AI bubble.",
+        "why_care": "Your research funding and institutional investments could be impacted by shifts in the AI market.",
+        "what_to_do": "Review your institution's investment portfolio for AI-related exposure this week."
       },
       {
         "id": 1,
-        "headline": "US Military Uses Anthropic's Claude for AI Strike Planning in Iran",
-        "what_changed": "The US military is now using Anthropic's Claude AI model for target selection and strike planning in the conflict with Iran.",
-        "why_care": "This demonstrates a real-world application of generative AI in high-stakes decision-making, raising ethical and safety considerations for AI deployment in critical systems.",
-        "what_to_do": "Consider the ethical implications and potential biases of using large language models in sensitive applications within your own research or operational contexts."
+        "headline": "Google's NotebookLM Now Creates 'Cinematic' Video Summaries of Research",
+        "what_changed": "Google's NotebookLM can now transform your research notes into fully animated 'cinematic' video overviews, powered by models like Gemini 3.",
+        "why_care": "This tool can significantly enhance how you present complex research findings and literature reviews to peers or the public.",
+        "what_to_do": "Experiment with NotebookLM's new video overview feature using your recent research notes this week."
       },
       {
         "id": 2,
-        "headline": "Google's AI Workspace Now Widely Available in Search for US Users",
-        "what_changed": "Google has made its AI-powered 'Canvas' workspace available to all US users in AI Mode within Google Search.",
-        "why_care": "This tool can help you organize research plans, develop experimental protocols, and draft documents more efficiently by leveraging the latest information directly from search results.",
-        "what_to_do": "Experiment with Google's 'Canvas' feature in AI Mode Search to see if it can streamline your research planning or document drafting processes this week."
+        "headline": "X to Ban Revenue for Undisclosed AI-Generated War Videos",
+        "what_changed": "X will suspend users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a permanent ban for a second offense.",
+        "why_care": "As a scientist, maintaining the integrity of your online communications and avoiding the spread of misinformation is crucial for your professional reputation.",
+        "what_to_do": "Ensure any AI-generated content you share on X is clearly labeled to comply with new platform rules this week."
       },
       {
         "id": 3,
-        "headline": "X to Ban Revenue for Unlabeled AI-Generated War Videos",
-        "what_changed": "X will ban users from earning revenue for 90 days if they repeatedly post unlabelled AI-generated videos of armed conflicts, with a permanent ban for a second offense.",
-        "why_care": "This policy aims to combat the spread of misinformation and deepfakes, which is crucial for maintaining data integrity and trust in scientific communication and public understanding of events.",
-        "what_to_do": "Ensure that any AI-generated content you share on social media platforms, especially related to sensitive topics, is clearly and accurately labeled to comply with platform policies and ethical guidelines."
+        "headline": "YuanLab AI Releases Yuan 3.0 Ultra: Efficient Multimodal MoE Foundation Model",
+        "what_changed": "YuanLab AI released Yuan 3.0 Ultra, an open-source multimodal Mixture-of-Experts (MoE) large language model with 1T total parameters, boasting improved efficiency and performance.",
+        "why_care": "This new open-source model offers a powerful and efficient tool for your AI research and application development, potentially reducing computational costs.",
+        "what_to_do": "Investigate Yuan 3.0 Ultra's capabilities and consider how it could be integrated into your current AI projects this week."
       },
       {
         "id": 4,
-        "headline": "Defense Tech Companies Drop Anthropic's Claude After Pentagon Blacklist",
-        "what_changed": "Defense technology companies that work with the US government are discontinuing their use of Anthropic's Claude AI model.",
-        "why_care": "This highlights how government policies and security concerns can quickly impact the availability and adoption of specific AI tools, affecting your access to certain models for research or application.",
-        "what_to_do": "Assess your reliance on specific AI models and consider diversifying your toolset or having contingency plans if a preferred AI service becomes unavailable due to policy changes."
+        "headline": "Tutorial: Build a Persistent AI Agent OS with Hierarchical Memory",
+        "what_changed": "A new tutorial details how to build an EverMem-style persistent AI agent operating system using hierarchical memory, FAISS, and SQLite.",
+        "why_care": "This guide provides a practical framework for developing more robust and context-aware AI agents for your scientific simulations or data analysis tasks.",
+        "what_to_do": "Explore the tutorial to understand how to implement hierarchical memory in your AI agent designs this week."
       }
     ]
   }
