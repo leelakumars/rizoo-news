@@ -1,724 +1,729 @@
 {
   "version": 1,
-  "generated_at": "2026-03-05T19:51:24.184424+00:00",
-  "run_id": "20260305_194958",
+  "generated_at": "2026-03-06T07:42:45.287470+00:00",
+  "run_id": "20260306_074123",
   "articles": [
     {
-      "id": "67c7205e28ea",
+      "id": "b9295b34d740",
       "index": 0,
-      "headline": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
-      "description": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
-      "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
-      "source": "TechCrunch",
-      "topic": "AI Industry",
-      "published_at": "2026-03-05T18:11:36+00:00"
-    },
-    {
-      "id": "02060e19881f",
-      "index": 1,
-      "headline": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
-      "description": "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications. The new […]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
-      "source": "The Verge",
-      "topic": "AI Industry",
-      "published_at": "2026-03-05T13:00:00-05:00"
-    },
-    {
-      "id": "03f73fa1206c",
-      "index": 2,
-      "headline": "OpenAI Releases Symphony: An Open Source Agentic Framework for Orchestrating Autonomous AI Agents through Structured, Scalable Implementation Runs",
-      "description": "OpenAI has released Symphony, an open-source framework designed to manage autonomous AI coding agents through structured ‘implementation runs.’ The project provides a system for automating software development tasks by connecting issue trackers to LLM-based agents. System Architecture: Elixir and the BEAM Symphony is built using Elixir and the Erlang/BEAM runtime. The choice of stack focuses […] The post OpenAI Releases Symphony: An Open Source Agentic Framework for Orchestrating Autonomous AI Agents through Structured, Scalable Implementation Runs appeared first on MarkTechPost.",
-      "link": "https://www.marktechpost.com/2026/03/05/openai-releases-symphony-an-open-source-agentic-framework-for-orchestrating-autonomous-ai-agents-through-structured-scalable-implementation-runs/",
+      "headline": "Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP)",
+      "description": "Liquid AI has released LFM2-24B-A2B, a model optimized for local, low-latency tool dispatch, alongside LocalCowork, an open-source desktop agent application available in their Liquid4All GitHub Cookbook. The release provides a deployable architecture for running enterprise workflows entirely on-device, eliminating API calls and data egress for privacy-sensitive environments. Architecture and Serving Configuration To achieve low-latency execution […] The post Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP) appeared first on MarkTechPost.",
+      "link": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/",
       "source": "MarkTechPost",
       "topic": "AI Research",
-      "published_at": "2026-03-05T17:37:15+00:00"
+      "published_at": "2026-03-06T05:45:50+00:00"
     },
     {
-      "id": "e5bd331dc17f",
-      "index": 3,
-      "headline": "Yann LeCun wants to replace the AGI concept with \"Superhuman Adaptable Intelligence\"",
-      "description": "A new paper by researchers at Columbia University and NYU, including Yann LeCun, argues that AGI is a flawed concept. Human intelligence is not general, they say, but specialized. Instead, they propose the term \"Superhuman Adaptable Intelligence\". The article Yann LeCun wants to replace the AGI concept with \"Superhuman Adaptable Intelligence\" appeared first on The Decoder.",
-      "link": "https://the-decoder.com/yann-lecun-wants-to-replace-the-agi-concept-with-superhuman-adaptable-intelligence/",
-      "source": "The Decoder",
-      "topic": "AI Tools",
-      "published_at": "2026-03-05T14:31:14+00:00"
-    },
-    {
-      "id": "01e264dcbd08",
-      "index": 4,
-      "headline": "Checking your ex’s socials or overusing Find My Friends? Welcome to the age of interpersonal surveillance | Tatum Hunter",
-      "description": "Invasive behaviour that would have shocked us a decade ago now barely registers. And that includes the way we digitally track and monitor each otherA TikTok comedian recently launched a fake ICE tip line and received dozens of calls – including one from a teacher suggesting agents look into a kindergartener in her class. Governments and companies are the architects of surveillance culture, but civilians are increasingly keen to play a part. And it’s not just our perceived political enemies we’re willing to watch. It’s our friends, neighbours, partners and children.As corporations and governments tunnel further into our digital lives – hoarding information about where we shop, who we know and what we believe – we’ve grown increasingly comfortable demanding the same access in our personal lives. While multiple apps log our location throughout the day, we demand that our friends also share their real-time movements through Apple’s Find My feature. While OpenAI uses our chat logs to train its models, we peek into the text messages of our partners. And while Palantir analyses social media data to help ICE identify its targets, we record strangers in public without their consent.Tatum Hunter is a technology journalist based in Brooklyn. She writes on Substack at Bytatumhunter Continue reading...",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/05/surveillance-age-technology-digital-track-monitor",
+      "id": "b08db49ab907",
+      "index": 1,
+      "headline": "UK arts must not be sacrificed for speculative AI gains, peers say",
+      "description": "Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permissionThe UK’s creative industries must not be sacrificed in the pursuit of speculative gains in AI technology, a House of Lords committee has warned, as the government prepares to reveal the economic cost of proposals to change copyright rules.A report by peers has urged ministers to develop a licensing regime for the use of creative works in AI products and abandon proposals to let tech firms use the work of novelists, artists, writers and journalists without permission. Continue reading...",
+      "link": "https://www.theguardian.com/technology/2026/mar/06/uk-arts-must-not-be-sacrificed-for-speculative-ai-gains-peers-say",
       "source": "The Guardian",
       "topic": "AI Industry",
-      "published_at": "2026-03-05T10:00:02+00:00"
+      "published_at": "2026-03-06T06:00:13+00:00"
+    },
+    {
+      "id": "571bd417ce1b",
+      "index": 2,
+      "headline": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
+      "description": "Microsoft is the first major company to say it will keep using Anthropic models in its products.",
+      "link": "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html",
+      "source": "CNBC",
+      "topic": "AI Industry",
+      "published_at": "2026-03-06T01:49:28+00:00"
+    },
+    {
+      "id": "fd2bf1aad341",
+      "index": 3,
+      "headline": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
+      "description": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
+      "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+      "source": "Ars Technica",
+      "topic": "AI Industry",
+      "published_at": "2026-03-05T23:36:04+00:00"
+    },
+    {
+      "id": "c3598988ab36",
+      "index": 4,
+      "headline": "Morgan Stanley's top tech banker: It's 'wartime, not peacetime' for software",
+      "description": "AI is delivering a reality check to Wall Street — and it’s clear from the vibe shift at the Morgan Stanley Tech, Media and Telecom conference.",
+      "link": "https://www.cnbc.com/2026/03/05/morgan-stanleys-david-chen-its-wartime-not-peacetime-for-software.html",
+      "source": "CNBC",
+      "topic": "AI Industry",
+      "published_at": "2026-03-05T23:17:52+00:00"
     }
   ],
   "rewrites": {
     "software_engineering": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, powered by its new 'Unified Intelligence' models, to coordinate multiple AI systems for end-to-end creative work across various media.",
-        "why_care": "This development indicates a shift towards more integrated AI systems that could automate complex creative tasks, potentially impacting how you approach front-end development, content generation, and media processing pipelines.",
-        "what_to_do": "Investigate Luma's 'Unified Intelligence' model architecture to understand its integration capabilities and potential APIs for future projects."
+        "headline": "Liquid AI Releases LocalCowork with LFM2-24B-A2B for On-Device AI Workflows",
+        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent for privacy-first, on-device AI workflows.",
+        "why_care": "This allows you to build and deploy AI agents that process sensitive data locally, eliminating external API calls and improving data privacy and security.",
+        "what_to_do": "Explore the Liquid4All GitHub Cookbook to understand how to implement these local AI agent architectures in your projects."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Towards Autonomous Agents with Native Computer Use",
-        "what_changed": "OpenAI launched GPT-5.4, an updated AI model with improved reasoning and coding, and its first model capable of natively operating a computer to complete tasks across applications.",
-        "why_care": "Your workflows could be significantly impacted as this model can automate tasks directly on your behalf, potentially streamlining development, testing, and operational processes.",
-        "what_to_do": "Explore the new native computer use capabilities of GPT-5.4 to identify specific automation opportunities within your current development or DevOps tasks."
+        "headline": "UK Peers Urge Licensing for AI Use of Creative Works, Rejecting Unrestricted Access",
+        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI use of creative works, opposing government plans for tech firms to use content without permission.",
+        "why_care": "Potential changes to copyright law could impact the data available for training AI models you use or develop, affecting model capabilities and legal compliance.",
+        "what_to_do": "Monitor UK intellectual property law developments, especially regarding AI and copyright, to understand future data sourcing implications for your AI projects."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony: Open-Source Framework for Orchestrating AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework built with Elixir and Erlang/BEAM, designed to manage autonomous AI coding agents through structured 'implementation runs' by connecting issue trackers to LLM-based agents.",
-        "why_care": "This framework offers a new way to automate software development tasks, potentially integrating directly into your CI/CD pipelines and issue tracking systems.",
-        "what_to_do": "Review the Symphony framework's documentation and consider how its agentic architecture could be integrated into your team's existing software development lifecycle."
+        "headline": "Microsoft Confirms Continued Use of Anthropic Products Despite Pentagon Blacklist",
+        "what_changed": "Microsoft stated it will continue to offer Anthropic's AI products to its customers, despite the Pentagon blacklisting Anthropic.",
+        "why_care": "This confirms that Anthropic's models remain available within Microsoft's ecosystem, ensuring continuity for your projects that rely on these integrations.",
+        "what_to_do": "Assess your current or planned use of Anthropic models through Microsoft services to ensure alignment with your organization's compliance and vendor policies."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI Concept",
-        "what_changed": "Yann LeCun and other researchers proposed replacing the term 'AGI' with 'Superhuman Adaptable Intelligence,' arguing that human intelligence is specialized, not general.",
-        "why_care": "This shift in terminology reflects a more nuanced understanding of AI capabilities, which could influence how you design and evaluate AI systems for specific, real-world problems.",
-        "what_to_do": "Reflect on how your current AI project designs align with the concept of 'adaptable intelligence' versus 'general intelligence' and adjust your approach if needed."
+        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses Footage",
+        "what_changed": "Workers reported viewing footage from Ray-Ban Meta smart glasses showing people in private settings, raising concerns about user privacy.",
+        "why_care": "This highlights critical privacy and data governance challenges in consumer tech, which are important considerations when you design or integrate systems involving user-generated content or IoT devices.",
+        "what_to_do": "Review your current or planned projects involving data collection from user devices to ensure robust privacy safeguards and clear consent mechanisms are in place."
       },
       {
         "id": 4,
-        "headline": "Interpersonal Surveillance Rises with Increased Digital Tracking and Monitoring",
-        "what_changed": "The article highlights a growing societal comfort with digital tracking and monitoring, extending from governments and corporations to personal relationships through apps like Find My Friends and AI data usage.",
-        "why_care": "As a software engineer, you are at the forefront of building these systems, and understanding the ethical implications of data collection and privacy is crucial for responsible development.",
-        "what_to_do": "Review your current projects for any features that could be misused for interpersonal surveillance and advocate for privacy-by-design principles in your development practices."
+        "headline": "Morgan Stanley Banker Declares 'Wartime' for Software Amid AI Shift",
+        "what_changed": "Morgan Stanley's top tech banker described the current environment for software as 'wartime,' signaling a significant shift driven by AI.",
+        "why_care": "This indicates a heightened competitive landscape and accelerated innovation in the software industry due to AI, requiring you to adapt quickly and integrate AI into your development strategies.",
+        "what_to_do": "Evaluate how AI can enhance your current software projects and identify new opportunities for AI-driven development within your team this quarter."
       }
     ],
     "data_ai": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, powered by its new 'Unified Intelligence' models, to coordinate multiple AI systems for end-to-end creative work.",
-        "why_care": "This development shows a move towards more integrated and autonomous AI systems that can handle complex creative tasks across various modalities, impacting your workflow for content generation.",
-        "what_to_do": "Investigate Luma Agents' capabilities to see how they could automate or enhance your creative content generation pipelines."
+        "headline": "Liquid AI Releases LFM2-24B-A2B Model and LocalCowork for On-Device AI Agents",
+        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent application.",
+        "why_care": "This allows you to build and deploy AI agent workflows that run entirely on-device, enhancing data privacy and reducing latency for sensitive applications.",
+        "what_to_do": "Explore the Liquid4All GitHub Cookbook this week to understand how to implement these privacy-first agent architectures."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Towards Autonomous Agents with Native Computer Use",
-        "what_changed": "OpenAI launched GPT-5.4, an updated AI model with enhanced reasoning, coding, and professional work capabilities, now featuring native computer use.",
-        "why_care": "This model can operate a computer and complete tasks across applications, directly impacting how you might automate complex workflows and integrate AI into your daily operational tasks.",
-        "what_to_do": "Explore GPT-5.4's new capabilities to identify specific tasks in your data pipelines or development workflows that could be automated."
+        "headline": "UK Peers Urge Licensing for AI Training Data, Rejecting Copyright Exemptions",
+        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI use of creative works, opposing proposals to let tech firms use content without permission.",
+        "why_care": "This impacts the future availability and cost of diverse datasets for training your AI models, especially for models trained on copyrighted material.",
+        "what_to_do": "Monitor UK policy developments on AI and copyright this month, as these decisions could influence global data sourcing strategies."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, an Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework built with Elixir and Erlang/BEAM, designed to manage autonomous AI coding agents through structured implementation runs.",
-        "why_care": "This framework provides a structured way to automate software development tasks using LLM-based agents, which could significantly streamline your MLOps and development processes.",
-        "what_to_do": "Review the Symphony framework's documentation to assess its potential for automating your team's software development and MLOps tasks."
+        "headline": "Microsoft Confirms Continued Anthropic Model Access Despite Pentagon Blacklist",
+        "what_changed": "Microsoft stated that Anthropic's products remain available to its customers, despite the Pentagon blacklisting Anthropic.",
+        "why_care": "This ensures your access to Anthropic's models through Microsoft's platforms is unaffected, maintaining continuity for your projects relying on these models.",
+        "what_to_do": "Review your current and planned use of Anthropic models via Microsoft to ensure alignment with any internal or client-specific compliance requirements."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI Concept",
-        "what_changed": "Yann LeCun and other researchers proposed replacing the term AGI with 'Superhuman Adaptable Intelligence,' arguing that human intelligence is specialized, not general.",
-        "why_care": "This redefinition challenges the fundamental concepts guiding AI research, influencing how you frame your long-term AI goals and design your models.",
-        "what_to_do": "Read the paper by LeCun and his colleagues to understand the proposed shift in AI terminology and its implications for your research."
+        "headline": "Ray-Ban Meta Smart Glasses Raise Privacy Concerns Over Bathroom Footage",
+        "what_changed": "Workers reported viewing footage from Ray-Ban Meta smart glasses showing people using the bathroom, raising privacy concerns.",
+        "why_care": "This highlights critical ethical and privacy challenges in deploying AI-enabled wearable devices, which you must consider in your own product development.",
+        "what_to_do": "Re-evaluate the privacy implications and ethical guidelines for any AI products you are developing that involve data collection from personal devices."
       },
       {
         "id": 4,
-        "headline": "Interpersonal Surveillance Normalization Raises Ethical Concerns for AI Professionals",
-        "what_changed": "The article highlights the increasing normalization of interpersonal digital surveillance, where individuals track others using technology, mirroring corporate and government data collection.",
-        "why_care": "This trend underscores the growing societal acceptance of data monitoring, which directly impacts your work on data privacy, ethical AI development, and responsible data usage.",
-        "what_to_do": "Re-evaluate your current data handling practices and AI model designs to ensure they align with evolving ethical standards and privacy expectations."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
+        "what_changed": "Morgan Stanley's top tech banker described the current software industry environment as 'wartime, not peacetime' due to the impact of AI.",
+        "why_care": "This signals a significant shift in investment and strategic priorities within the tech sector, directly impacting funding and demand for your AI projects and skills.",
+        "what_to_do": "Assess how your current AI projects align with aggressive, innovation-focused 'wartime' strategies to ensure their continued relevance and funding."
       }
     ],
     "cybersecurity": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, powered by its new 'Unified Intelligence' models, to coordinate multiple AI systems for end-to-end creative work.",
-        "why_care": "This development indicates a trend toward more integrated and autonomous AI systems that could be leveraged in future social engineering or content generation attacks.",
-        "what_to_do": "Review your organization's policies on AI-generated content and deepfakes to ensure they address evolving creative AI capabilities."
+        "headline": "Liquid AI Releases LocalCowork with LFM2-24B-A2B for On-Device AI Workflows",
+        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent for on-device enterprise AI workflows.",
+        "why_care": "This allows you to run privacy-sensitive AI tasks locally without sending data to external APIs, reducing data egress risks.",
+        "what_to_do": "Investigate LocalCowork from Liquid AI's GitHub Cookbook to see if it can secure your internal AI-driven processes this week.",
+        "source": "MarkTechPost"
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Autonomous Agents with Native Computer Use",
-        "what_changed": "OpenAI launched GPT-5.4, its latest AI model with improved reasoning and coding, and the first to natively operate a computer to complete tasks across applications.",
-        "why_care": "This model's ability to autonomously interact with computer systems significantly increases the potential for sophisticated automated attacks, from reconnaissance to exploitation.",
-        "what_to_do": "Evaluate your current security controls for automated access and API interactions, considering how an AI agent might bypass them."
+        "headline": "UK Lords Committee Urges Licensing for AI Use of Creative Works",
+        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI use of creative works and opposed plans to allow tech firms to use them without permission.",
+        "why_care": "Changes in copyright law for AI could impact the legality and ethical considerations of data sources used to train AI models you might deploy or analyze.",
+        "what_to_do": "Monitor UK legislative developments on AI and copyright to understand potential future legal risks for AI model training data.",
+        "source": "The Guardian"
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony: Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework built with Elixir and Erlang/BEAM, designed to orchestrate autonomous AI coding agents for software development tasks.",
-        "why_care": "This framework could accelerate the development of AI-driven tools for both offensive and defensive security operations, potentially automating vulnerability discovery or exploit generation.",
-        "what_to_do": "Investigate Symphony's capabilities to understand how it could be used by adversaries to automate software development and identify potential new attack vectors."
+        "headline": "Microsoft Continues Anthropic Product Availability Despite Pentagon Blacklist",
+        "what_changed": "Microsoft confirmed that Anthropic's products remain available to its customers, despite the Pentagon blacklisting Anthropic.",
+        "why_care": "This indicates that some major tech providers may continue to offer services from vendors deemed high-risk by government entities, which could affect your supply chain security assessments.",
+        "what_to_do": "Review your organization's vendor risk management policies to ensure they account for discrepancies between government advisories and vendor offerings.",
+        "source": "CNBC"
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI",
-        "what_changed": "Researchers, including Yann LeCun, published a paper suggesting 'Superhuman Adaptable Intelligence' as a replacement for the 'AGI' concept, arguing human intelligence is specialized, not general.",
-        "why_care": "This redefinition shifts the focus to AI's ability to adapt and specialize, which is critical for understanding how future AI systems might be trained for highly specific cybersecurity tasks, both good and bad.",
-        "what_to_do": "Stay informed on evolving AI terminology and research, as it shapes the capabilities and limitations of AI tools you may encounter or use."
+        "headline": "Workers Report Viewing Private Footage from Ray-Ban Meta Smart Glasses",
+        "what_changed": "Workers have reported viewing footage, including sensitive content, recorded by Ray-Ban Meta smart glasses.",
+        "why_care": "This highlights significant privacy vulnerabilities and potential data misuse risks associated with smart devices that can record and transmit personal data.",
+        "what_to_do": "Educate your organization about the privacy risks of smart glasses and similar wearable devices in the workplace and enforce clear usage policies.",
+        "source": "Ars Technica"
       },
       {
         "id": 4,
-        "headline": "Interpersonal Surveillance Rises as Digital Tracking Becomes Normalized",
-        "what_changed": "A Guardian article highlights the increasing normalization of interpersonal digital surveillance, where individuals use apps like Find My Friends and social media to track others.",
-        "why_care": "This trend increases the digital footprint and potential attack surface for individuals, making them more vulnerable to social engineering, doxxing, and targeted attacks based on personal data.",
-        "what_to_do": "Educate your team and organization about the risks of oversharing personal location and activity data, emphasizing the potential for exploitation by malicious actors."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
+        "what_changed": "A top Morgan Stanley tech banker described the current software industry environment as 'wartime' due to the impact of AI.",
+        "why_care": "This shift indicates rapid, disruptive changes in the software landscape, which means you will see new tools and attack surfaces emerge quickly.",
+        "what_to_do": "Prioritize continuous learning about new AI-driven software developments and their potential security implications for your systems.",
+        "source": "CNBC"
       }
     ],
     "design_ux": [
       {
         "id": 0,
-        "headline": "Luma AI Launches Creative Agents for End-to-End Design Work",
-        "what_changed": "Luma introduced Luma Agents, powered by new 'Unified Intelligence' models, to generate creative work across text, images, video, and audio.",
-        "why_care": "This means you could soon automate entire creative workflows, from concept to final output, impacting how you approach design projects.",
-        "what_to_do": "Explore Luma's website to understand the current capabilities of these new creative AI agents."
+        "headline": "Liquid AI Launches LocalCowork for Privacy-First AI Agent Workflows",
+        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent application.",
+        "why_care": "This allows you to design and test AI-powered workflows that run entirely on-device, protecting user data and privacy.",
+        "what_to_do": "Explore the Liquid4All GitHub Cookbook to understand how to build privacy-focused AI agent experiences."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Can Now Operate Your Computer for Design Tasks",
-        "what_changed": "OpenAI launched GPT-5.4, its latest AI model, which can now operate a computer on your behalf and complete tasks across different applications.",
-        "why_care": "This could automate routine design tasks, like organizing files or generating presentation slides, freeing you for more creative work.",
-        "what_to_do": "Consider how an AI agent operating your computer could streamline your current design workflow this week."
+        "headline": "UK Peers Warn Against Sacrificing Arts for AI Gains, Urge Licensing",
+        "what_changed": "A UK House of Lords committee urged the government to create a licensing regime for AI use of creative works, opposing free use.",
+        "why_care": "This directly impacts how your creative work, designs, and visual assets might be used or protected in AI training.",
+        "what_to_do": "Familiarize yourself with current copyright laws and advocate for fair compensation and attribution for your creative output."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony: Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework designed to manage autonomous AI coding agents for automating software development tasks.",
-        "why_care": "While focused on coding, this framework hints at future tools that could automate UI component generation or design system maintenance.",
-        "what_to_do": "Keep an eye on how open-source AI frameworks evolve, as they may soon offer tools directly applicable to design automation."
+        "headline": "Microsoft Confirms Continued Use of Anthropic AI Products",
+        "what_changed": "Microsoft stated it will continue to use Anthropic models in its products, despite a Pentagon blacklist.",
+        "why_care": "This signals Microsoft's ongoing commitment to integrating Anthropic's AI capabilities into tools you might use.",
+        "what_to_do": "Monitor updates from Microsoft regarding new AI features powered by Anthropic that could impact your design workflows."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI",
-        "what_changed": "Yann LeCun and researchers propose replacing the concept of AGI with 'Superhuman Adaptable Intelligence,' arguing human intelligence is specialized, not general.",
-        "why_care": "This shift in thinking suggests AI will likely excel in specific, adaptable design tasks rather than becoming a single, all-encompassing creative entity.",
-        "what_to_do": "Reflect on how specialized AI tools, rather than general ones, could enhance your specific design skills and workflows."
+        "headline": "Ray-Ban Meta Smart Glasses Raise Privacy Concerns Over Footage",
+        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses showing people in private settings, raising privacy concerns.",
+        "why_care": "This highlights critical ethical and privacy considerations you must address when designing products that capture user data or content.",
+        "what_to_do": "Review your design processes to ensure robust privacy-by-design principles are integrated into any product involving user data capture."
       },
       {
         "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance and Its Design Implications",
-        "what_changed": "The article highlights how digital tracking and monitoring, once shocking, are now common in personal relationships, mirroring corporate and government surveillance.",
-        "why_care": "This trend impacts user trust and privacy expectations, requiring you to design interfaces that clearly communicate data usage and user control.",
-        "what_to_do": "Review your current design projects to ensure they prioritize user privacy and transparency in data collection and sharing."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
+        "what_changed": "Morgan Stanley's top tech banker described the current software industry climate as 'wartime' due to AI's impact.",
+        "why_care": "This indicates a rapid, competitive shift in the software industry, meaning your design skills will be crucial for innovation and adaptation.",
+        "what_to_do": "Assess how AI tools can enhance your design efficiency and explore new design paradigms driven by AI capabilities."
       }
     ],
     "product_project": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, powered by its new 'Unified Intelligence' models, to coordinate multiple AI systems for end-to-end creative work across text, images, video, and audio.",
-        "why_care": "This could streamline content creation workflows, reducing manual effort in generating marketing materials, product demos, or internal communications.",
-        "what_to_do": "Explore how Luma Agents could automate content generation for your next project's marketing or communication needs."
+        "headline": "Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP)",
+        "what_changed": "Liquid AI has released LFM2-24B-A2B, a model optimized for local, low-latency tool dispatch, alongside LocalCowork, an open-source desktop agent application available in their Liquid4All GitHub Cookbook. The release provides a deployable architecture for running enterprise workflows entirely on-device, eliminating API calls and data egress for privacy-sensitive environments. Architecture and Serving Configuration To achieve low-latency execution […] The post Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP) appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous Agents with Native Computer Use",
-        "what_changed": "OpenAI launched GPT-5.4, its latest AI model, which combines advancements in reasoning, coding, and professional work, and is its first model with native computer use capabilities.",
-        "why_care": "This means future AI tools could directly interact with your existing software, automating tasks across spreadsheets, documents, and presentations without manual intervention.",
-        "what_to_do": "Identify a repetitive digital task in your workflow that an AI agent could potentially automate and begin researching how GPT-5.4's capabilities might apply."
+        "headline": "UK arts must not be sacrificed for speculative AI gains, peers say",
+        "what_changed": "Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permissionThe UK’s creative industries must not be sacrificed in the pursuit of speculative gains in AI technology, a House of Lords committee has warned, as the government prepares to reveal the economic cost of proposals to change copyright rules.A report by peers has urged ministers to develop a licensing regime for the use of creative works in AI products and abandon proposals to let tech firms use the work of novelists, artists, writers and journalists without permission. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony: Open-Source Framework for Orchestrating AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework built with Elixir and Erlang/BEAM, designed to manage autonomous AI coding agents through structured 'implementation runs' for automating software development tasks.",
-        "why_care": "This framework could help your teams automate parts of the software development lifecycle, from issue tracking to code generation, potentially speeding up project delivery.",
-        "what_to_do": "Investigate Symphony's documentation to understand how it could integrate with your team's existing issue trackers and development workflows."
+        "headline": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
+        "what_changed": "Microsoft is the first major company to say it will keep using Anthropic models in its products.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI Concept",
-        "what_changed": "Researchers, including Yann LeCun, proposed replacing the concept of AGI with 'Superhuman Adaptable Intelligence,' arguing that human intelligence is specialized, not general.",
-        "why_care": "This shift in terminology could influence how AI capabilities are developed and marketed, impacting your expectations for future AI tools and their practical applications.",
-        "what_to_do": "Discuss with your team how this new perspective on AI intelligence might affect your long-term product strategy or project planning for AI integration."
+        "headline": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
+        "what_changed": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance: How We Track Each Other Digitally",
-        "what_changed": "The article highlights how digital tracking and monitoring, once shocking, are now common in personal lives, with individuals increasingly using apps like Find My Friends and even peeking into text messages.",
-        "why_care": "This trend raises significant ethical and privacy concerns for any product or project involving user data, requiring careful consideration of consent, data security, and user trust.",
-        "what_to_do": "Review your current project's data privacy policies and user consent mechanisms to ensure they address evolving societal norms around digital surveillance and data sharing."
+        "headline": "Morgan Stanley's top tech banker: It's 'wartime, not peacetime' for software",
+        "what_changed": "AI is delivering a reality check to Wall Street — and it’s clear from the vibe shift at the Morgan Stanley Tech, Media and Telecom conference.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       }
     ],
     "marketing": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents for End-to-End Content Generation",
-        "what_changed": "Luma introduced Luma Agents, powered by its new \"Unified Intelligence\" models, to create full marketing content across text, images, video, and audio.",
-        "why_care": "This means you can potentially automate the creation of entire campaigns or content pieces, saving significant time and resources.",
-        "what_to_do": "Explore Luma Agents to see how they can generate complete creative assets for your next marketing campaign."
+        "headline": "Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP)",
+        "what_changed": "Liquid AI has released LFM2-24B-A2B, a model optimized for local, low-latency tool dispatch, alongside LocalCowork, an open-source desktop agent application available in their Liquid4All GitHub Cookbook. The release provides a deployable architecture for running enterprise workflows entirely on-device, eliminating API calls and data egress for privacy-sensitive environments. Architecture and Serving Configuration To achieve low-latency execution […] The post Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP) appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents",
-        "what_changed": "OpenAI is launching GPT-5.4, an updated AI model with improved reasoning, coding, and professional work capabilities, including native computer use.",
-        "why_care": "This model can operate your computer to complete tasks across applications, potentially automating complex workflows like data analysis for reporting or content scheduling.",
-        "what_to_do": "Research GPT-5.4's capabilities to identify specific, repetitive tasks in your marketing workflow that could be automated by an AI agent."
+        "headline": "UK arts must not be sacrificed for speculative AI gains, peers say",
+        "what_changed": "Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permissionThe UK’s creative industries must not be sacrificed in the pursuit of speculative gains in AI technology, a House of Lords committee has warned, as the government prepares to reveal the economic cost of proposals to change copyright rules.A report by peers has urged ministers to develop a licensing regime for the use of creative works in AI products and abandon proposals to let tech firms use the work of novelists, artists, writers and journalists without permission. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony: Open Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI has released Symphony, an open-source framework designed to manage autonomous AI coding agents for automating software development tasks.",
-        "why_care": "While focused on coding, this framework hints at future tools that could automate complex, multi-step marketing tech integrations or custom analytics setups.",
-        "what_to_do": "Stay informed about open-source AI agent frameworks, as they may soon offer solutions for automating custom marketing tool development or integration."
+        "headline": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
+        "what_changed": "Microsoft is the first major company to say it will keep using Anthropic models in its products.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI",
-        "what_changed": "Yann LeCun and other researchers propose replacing the concept of Artificial General Intelligence (AGI) with 'Superhuman Adaptable Intelligence,' arguing human intelligence is specialized, not general.",
-        "why_care": "This shift in terminology suggests future AI development might focus on highly specialized, adaptable tools, which could lead to more effective, niche marketing AI solutions.",
-        "what_to_do": "Consider how specialized AI tools, rather than general ones, could better serve your specific marketing needs, such as hyper-targeted ad creative or niche content generation."
+        "headline": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
+        "what_changed": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
         "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance and Digital Tracking",
-        "what_changed": "The article highlights how digital tracking and monitoring, once shocking, are now commonplace in personal lives, driven by both companies and individuals.",
-        "why_care": "This trend underscores the increasing importance of data privacy and ethical data use in your marketing strategies, as consumer awareness and concern grow.",
-        "what_to_do": "Review your data collection and usage practices to ensure they are transparent, ethical, and compliant with privacy regulations, building trust with your audience."
+        "headline": "Morgan Stanley's top tech banker: It's 'wartime, not peacetime' for software",
+        "what_changed": "AI is delivering a reality check to Wall Street — and it’s clear from the vibe shift at the Morgan Stanley Tech, Media and Telecom conference.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
       }
     ],
     "sales": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, which use new 'Unified Intelligence' models to create full creative work across text, images, video, and audio.",
-        "why_care": "This means AI can now handle more complex creative tasks, potentially speeding up your content creation for sales materials and campaigns.",
-        "what_to_do": "Explore how Luma Agents or similar tools could automate or enhance your team's marketing and sales content generation this week."
+        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI tasks directly on your device.",
+        "why_care": "This allows your prospects in highly regulated industries to use AI tools without their sensitive data leaving their systems, addressing a major privacy concern.",
+        "what_to_do": "Research which of your target accounts have strict data privacy needs and how this technology could solve their compliance issues."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents",
-        "what_changed": "OpenAI launched GPT-5.4, its newest AI model, which can now operate a computer and complete tasks across different applications on your behalf.",
-        "why_care": "This model can automate complex tasks like updating CRM records, drafting emails, or analyzing sales data, freeing up your time for direct selling.",
-        "what_to_do": "Identify one repetitive administrative task you do daily and research how AI agents could automate it in the next month."
+        "headline": "UK Lords Committee Urges AI Copyright Protection for Creative Works",
+        "what_changed": "A UK House of Lords committee recommended that the government require licensing for creative works used in AI, rather than allowing free use.",
+        "why_care": "This could impact how AI tools are developed and priced, potentially affecting the features and costs of sales enablement tools you use.",
+        "what_to_do": "Monitor news on AI copyright laws, especially if your company uses AI-powered content generation tools, to understand future compliance needs."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony: Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework designed to manage autonomous AI coding agents for automating software development tasks.",
-        "why_care": "While focused on coding, this framework shows how AI can manage complex projects, which could translate to automating sales process workflows or custom solution development for clients.",
-        "what_to_do": "Discuss with your sales operations or IT team how an agentic framework could streamline your internal sales tech stack or custom client integrations."
+        "headline": "Microsoft Continues Using Anthropic AI Despite Pentagon Blacklist",
+        "what_changed": "Microsoft confirmed it will continue to offer Anthropic's AI products to its customers, even after the Pentagon blacklisted the company.",
+        "why_care": "This shows that major tech partners are committed to their AI integrations, providing stability for sales tools built on these platforms.",
+        "what_to_do": "Review your current tech stack to see if any of your sales tools rely on Anthropic models and understand their continued availability."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI",
-        "what_changed": "Researchers, including Yann LeCun, suggest replacing the term AGI with 'Superhuman Adaptable Intelligence,' arguing human intelligence is specialized, not general.",
-        "why_care": "This shift in thinking highlights that AI will likely excel in specialized, adaptable tasks relevant to sales, rather than a single 'general' intelligence.",
-        "what_to_do": "Focus on how AI can enhance specific sales functions, like lead qualification or personalized outreach, rather than waiting for a 'one-size-fits-all' AI solution."
+        "headline": "Ray-Ban Meta Smart Glasses Raise Privacy Concerns Over Footage Misuse",
+        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses showing people in private settings, raising serious privacy questions.",
+        "why_care": "This highlights growing privacy concerns around wearable tech, which could make your prospects hesitant to adopt new tools that involve recording or data collection.",
+        "what_to_do": "Be prepared to address privacy and data security questions from prospects when discussing any sales tools that involve data capture or recording."
       },
       {
         "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance: What It Means for You",
-        "what_changed": "The article discusses how digital tracking and monitoring, once shocking, are now common in personal lives, mirroring corporate and government surveillance.",
-        "why_care": "This trend increases privacy concerns among your prospects and clients, making trust and data security even more critical in your sales conversations.",
-        "what_to_do": "Review your company's data privacy policies and be prepared to clearly articulate how your solutions protect client data during sales calls this week."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
+        "what_changed": "Morgan Stanley's top tech banker stated that AI is creating a 'wartime' environment for the software industry, indicating significant disruption.",
+        "why_care": "This means your software prospects are likely facing intense pressure to adapt, creating both urgency and potential budget shifts for new solutions.",
+        "what_to_do": "Research how AI is impacting your key accounts' industries and tailor your sales pitch to address their specific challenges and opportunities related to AI."
       }
     ],
     "customer_support": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, which use new 'Unified Intelligence' models to coordinate multiple AI systems and create full creative projects across text, images, video, and audio.",
-        "why_care": "This technology could eventually help you automate the creation of support content, like video tutorials or personalized email responses, saving you time.",
-        "what_to_do": "Look for new AI tools that can help you automate content creation for customer support, like drafting email templates or generating quick how-to videos."
+        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Support Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop application, and LFM2-24B-A2B, a new AI model, that allow AI agent workflows to run entirely on your computer.",
+        "why_care": "This means your customer data can stay private and secure on your device, avoiding external servers and protecting sensitive customer information.",
+        "what_to_do": "Research LocalCowork to understand how on-device AI could enhance privacy in your support operations."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents",
-        "what_changed": "OpenAI launched GPT-5.4, its newest AI model, which has improved reasoning, coding, and professional work capabilities, and can now operate a computer to complete tasks across different applications.",
-        "why_care": "This means future AI tools could directly handle complex customer requests or update customer records across multiple systems without your direct input, freeing you for more complex issues.",
-        "what_to_do": "Research how AI agents are being used in customer support to understand their potential impact on your daily tasks."
+        "headline": "UK Lords Warn Against Sacrificing Arts for AI Gains, Urge Licensing",
+        "what_changed": "A UK House of Lords committee urged the government to create a licensing system for AI companies to use creative works, rather than allowing free use.",
+        "why_care": "This discussion impacts how AI tools you might use are trained, potentially affecting the quality and ethical sourcing of their content generation.",
+        "what_to_do": "Stay informed about copyright and AI regulations, as they may influence the tools and content you use in customer interactions."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, an Open-Source Framework for AI Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework designed to manage autonomous AI coding agents by automating software development tasks and connecting issue trackers to AI models.",
-        "why_care": "While focused on coding, this framework shows how AI agents can be coordinated to automate complex workflows, which could eventually be applied to streamline your support processes.",
-        "what_to_do": "Consider how structured AI frameworks could potentially automate repetitive tasks in your customer support workflow, like ticket routing or information retrieval."
+        "headline": "Microsoft Confirms Continued Use of Anthropic AI Despite Pentagon Blacklist",
+        "what_changed": "Microsoft stated it will continue to offer Anthropic's AI products to its customers, even after the Pentagon blacklisted Anthropic.",
+        "why_care": "This shows that major tech partners are committed to specific AI providers, which could impact the stability and features of AI tools you use through Microsoft products.",
+        "what_to_do": "If you use Microsoft products with integrated AI, monitor announcements about Anthropic's future availability and features."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI",
-        "what_changed": "Researchers, including Yann LeCun, suggest replacing the concept of AGI, or Artificial General Intelligence, with 'Superhuman Adaptable Intelligence,' arguing that human intelligence is specialized, not general.",
-        "why_care": "This shift in thinking means AI development might focus more on specialized, highly effective tools for specific tasks, which could lead to more precise and helpful AI for your support role.",
-        "what_to_do": "Focus on understanding how specialized AI tools can enhance specific aspects of your customer support work, rather than waiting for a single 'general' AI solution."
+        "headline": "Workers Report Privacy Concerns with Ray-Ban Meta Smart Glasses Footage",
+        "what_changed": "Reports surfaced that workers viewed footage from Ray-Ban Meta smart glasses, including sensitive private moments, raising privacy concerns.",
+        "why_care": "This highlights the critical importance of customer privacy and data handling, especially when using new technologies that capture personal information.",
+        "what_to_do": "Review your company's privacy policies and ensure all team members understand the ethical implications of using recording devices in customer-facing roles."
       },
       {
         "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance in the Digital Age",
-        "what_changed": "The article highlights how digital tracking and monitoring, once shocking, are now common in personal lives, with people increasingly comfortable using apps to track friends, partners, and even strangers.",
-        "why_care": "This trend underscores the growing importance of data privacy and ethical considerations in all digital interactions, including how you handle customer data and use monitoring tools.",
-        "what_to_do": "Review your company's data privacy policies and ensure you are always handling customer information ethically and securely."
+        "headline": "Morgan Stanley Banker Says AI Creates 'Wartime' for Software Industry",
+        "what_changed": "A top Morgan Stanley tech banker described the current software industry climate as 'wartime' due to the disruptive impact of AI.",
+        "why_care": "This indicates a rapid shift in the software landscape, meaning the tools and platforms you use for customer support will likely evolve quickly with new AI capabilities.",
+        "what_to_do": "Actively explore new AI-powered customer support tools and features to understand how they can improve your efficiency and customer experience."
       }
     ],
     "finance": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, which use new 'Unified Intelligence' models to coordinate multiple AI systems for creative work across text, images, video, and audio.",
-        "why_care": "This development could streamline content creation for financial reports, marketing materials, and internal communications, improving efficiency and consistency.",
-        "what_to_do": "Explore how Luma Agents or similar tools could automate aspects of your firm's content generation processes."
+        "headline": "Liquid AI Launches LocalCowork for Privacy-First AI Agent Workflows",
+        "what_changed": "Liquid AI released LFM2-24B-A2B and LocalCowork, enabling AI agent workflows to run entirely on your device without sending data externally.",
+        "why_care": "This allows you to use AI tools for sensitive financial data analysis and automation while maintaining strict data privacy and compliance.",
+        "what_to_do": "Investigate how LocalCowork could be integrated into your firm's secure data environments for internal financial analysis this week."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents for Professional Work",
-        "what_changed": "OpenAI launched GPT-5.4, an updated AI model with improved reasoning, coding, and native computer use capabilities for tasks in spreadsheets, documents, and presentations.",
-        "why_care": "This model could automate complex financial analysis, report generation, and data entry across various applications, significantly boosting your productivity.",
-        "what_to_do": "Research GPT-5.4's specific features to understand how it could integrate with your daily financial software and workflows."
+        "headline": "UK Lords Committee Warns Against Sacrificing Arts for AI Gains, Urges Licensing",
+        "what_changed": "A UK House of Lords committee recommended against allowing AI firms to use creative works without permission, urging a new licensing regime instead.",
+        "why_care": "This debate impacts the valuation of intellectual property and could influence future regulations on data usage for AI models, affecting your firm's investment strategies and risk assessments.",
+        "what_to_do": "Monitor upcoming UK government announcements on AI copyright rules to understand potential impacts on your firm's digital asset valuations and investment portfolios."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework built with Elixir and BEAM, designed to manage autonomous AI coding agents for automating software development tasks.",
-        "why_care": "This framework could enable your firm to automate the development of custom financial tools, integrate systems, and enhance data management without extensive manual coding.",
-        "what_to_do": "Consult with your IT department to assess if Symphony could be leveraged to automate internal software development or system integration projects."
+        "headline": "Microsoft Confirms Continued Use of Anthropic Products Despite Pentagon Blacklist",
+        "what_changed": "Microsoft stated it will continue to make Anthropic's AI products available to its customers, despite a recent Pentagon blacklist.",
+        "why_care": "This indicates Microsoft's commitment to its AI partnerships, which could influence your firm's technology stack decisions and vendor risk assessments.",
+        "what_to_do": "Review your firm's current or planned use of Microsoft and Anthropic AI services to understand any potential implications of this decision on your operations."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI Concept",
-        "what_changed": "Researchers, including Yann LeCun, published a paper suggesting 'Superhuman Adaptable Intelligence' as a more accurate concept than AGI, arguing human intelligence is specialized, not general.",
-        "why_care": "This shift in understanding AI's potential clarifies that future AI tools will likely be highly specialized, requiring you to focus on AI solutions tailored to specific financial tasks.",
-        "what_to_do": "Evaluate AI tools based on their specialized capabilities for finance, rather than expecting a single AI to solve all problems."
+        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses Footage",
+        "what_changed": "Reports surfaced that workers viewed private footage, including people using bathrooms, captured by Ray-Ban Meta smart glasses.",
+        "why_care": "This highlights significant privacy and data security risks associated with wearable AI devices, which could impact your firm's employee privacy policies and data governance frameworks.",
+        "what_to_do": "Re-evaluate your firm's policies on wearable technology in the workplace to ensure compliance with privacy regulations and protect sensitive information this week."
       },
       {
         "id": 4,
-        "headline": "Interpersonal Surveillance: The Growing Comfort with Digital Tracking",
-        "what_changed": "The article highlights a growing societal comfort with digital tracking and monitoring, extending from governments and corporations to personal relationships.",
-        "why_care": "This trend underscores increasing data privacy risks and the importance of robust data governance policies within your financial organization to protect sensitive client information.",
-        "what_to_do": "Review your firm's data privacy policies and employee training on digital ethics and data security to ensure compliance and mitigate risks."
+        "headline": "Morgan Stanley Banker Declares 'Wartime' for Software Amid AI Shift",
+        "what_changed": "Morgan Stanley's top tech banker described the current software landscape as 'wartime,' signaling a major shift driven by AI.",
+        "why_care": "This reflects a significant re-evaluation of software company valuations and investment strategies, directly impacting your firm's technology sector investments and financial models.",
+        "what_to_do": "Assess your firm's technology investment portfolio for companies that may be vulnerable or poised for growth in this AI-driven 'wartime' environment."
       }
     ],
     "legal": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, powered by new 'Unified Intelligence' models, to generate end-to-end creative work across text, images, video, and audio.",
-        "why_care": "This development could impact how you manage intellectual property for AI-generated content and the tools available for legal marketing or presentations.",
-        "what_to_do": "Review your firm's policies on AI-generated content ownership and usage, especially for marketing materials."
+        "headline": "Liquid AI Launches LocalCowork for Privacy-First AI Agent Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI workflows entirely on your device without external API calls.",
+        "why_care": "This allows you to use AI tools for sensitive legal work, like contract review or case analysis, while keeping all data private and on-premise, addressing major data security and compliance concerns.",
+        "what_to_do": "Investigate how LocalCowork's on-device processing could be integrated into your firm's secure legal tech stack for privacy-sensitive tasks."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents for Professional Tasks",
-        "what_changed": "OpenAI launched GPT-5.4, an AI model with improved reasoning, coding, and native computer use capabilities for tasks across applications.",
-        "why_care": "This model could automate complex legal tasks involving document review, spreadsheet analysis, and presentation creation, significantly impacting your workflow efficiency.",
-        "what_to_do": "Research how autonomous AI agents might integrate with your existing legal tech stack and identify potential pilot projects for automation."
+        "headline": "UK Lords Urge Licensing for AI Use of Creative Works, Rejecting Unrestricted Access",
+        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI to use creative works and urged ministers to abandon plans allowing tech firms to use such works without permission.",
+        "why_care": "This directly impacts copyright law and intellectual property rights, shaping how AI models are trained and how you advise clients on protecting their creative assets or using AI ethically.",
+        "what_to_do": "Review your firm's current IP protection strategies and prepare to advise clients on potential new licensing requirements for AI-generated content or AI training data."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, an Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework designed to manage autonomous AI coding agents through structured 'implementation runs' for software development.",
-        "why_care": "This framework could streamline the development of custom legal tech solutions and automate coding tasks for your firm's internal applications.",
-        "what_to_do": "Consult with your IT department or legal tech team to assess how open-source AI frameworks like Symphony could enhance your firm's software development capabilities."
+        "headline": "Microsoft Continues Using Anthropic AI Products Despite Pentagon Blacklist",
+        "what_changed": "Microsoft confirmed it will continue to make Anthropic's AI products available to its customers, even after the Pentagon blacklisted Anthropic.",
+        "why_care": "This highlights the complex and sometimes conflicting regulatory landscape surrounding AI vendors, which could affect your firm's technology choices and compliance obligations.",
+        "what_to_do": "Assess your firm's AI vendor contracts and internal policies to ensure they account for potential supply chain risks or regulatory actions against AI providers."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI Concept",
-        "what_changed": "Researchers, including Yann LeCun, propose replacing the concept of AGI with 'Superhuman Adaptable Intelligence,' arguing human intelligence is specialized, not general.",
-        "why_care": "This shift in AI terminology may influence future regulatory discussions and ethical guidelines surrounding AI capabilities and limitations in legal applications.",
-        "what_to_do": "Stay informed on evolving AI terminology and its implications for legal and ethical frameworks by following reputable AI research and policy discussions."
+        "headline": "Meta Accused of Concealing Privacy Risks of Ray-Ban Smart Glasses",
+        "what_changed": "Workers reported viewing footage from Ray-Ban Meta smart glasses showing people in private settings, leading to accusations that Meta is concealing user privacy facts.",
+        "why_care": "This raises significant privacy and surveillance concerns, impacting your advice on data protection, consent, and the responsible use of wearable technology in professional or public settings.",
+        "what_to_do": "Advise clients on the legal implications of recording and data collection by smart devices, emphasizing consent and privacy policies for their employees and customers."
       },
       {
-        "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance and Digital Tracking",
-        "what_changed": "The article highlights an increasing societal comfort with digital tracking and monitoring of individuals, extending from governments and corporations to personal relationships.",
-        "why_care": "This trend raises significant privacy concerns and could impact your work in data privacy, e-discovery, and client confidentiality, especially regarding personal data collection.",
-        "what_to_do": "Review your firm's data privacy policies and client communication protocols to ensure they address the growing prevalence of interpersonal digital surveillance."
+        "id_": 4,
+        "headline": "Morgan Stanley Banker Declares 'Wartime' for Software Amid AI Shift",
+        "what_changed": "Morgan Stanley's top tech banker stated that the software industry is in a 'wartime, not peacetime' phase due to the disruptive impact of AI.",
+        "why_care": "This signifies a rapid, fundamental shift in the tech industry, meaning your legal tech vendors and clients will face intense pressure to innovate or adapt, affecting their legal needs and your service offerings.",
+        "what_to_do": "Evaluate how AI disruption might impact your firm's software vendors and legal tech investments, preparing for potential shifts in product offerings or company stability."
       }
     ],
     "hr": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, powered by its new 'Unified Intelligence' models, which can coordinate multiple AI systems to create full creative work across text, images, video, and audio.",
-        "why_care": "This development means you could soon use AI to automate the creation of training materials, marketing content for recruitment, or internal communications, saving significant time and resources.",
-        "what_to_do": "Research Luma Agents to understand their capabilities and consider how they might streamline content creation for your learning and development or recruitment teams."
+        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and the LFM2-24B-A2B model, enabling AI workflows to run entirely on your device without sending data externally.",
+        "why_care": "This technology allows your organization to use AI for sensitive HR tasks, like reviewing performance data or compensation plans, while maintaining strict data privacy and compliance.",
+        "what_to_do": "Investigate how LocalCowork could be piloted for secure, on-device processing of confidential HR documents or data within your organization this week."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents for Professional Tasks",
-        "what_changed": "OpenAI launched GPT-5.4, its latest AI model, which improves reasoning, coding, and professional tasks like spreadsheets and presentations, and can now operate a computer to complete tasks across applications.",
-        "why_care": "This model could automate complex administrative tasks, data analysis, or even parts of your HRIS management, significantly boosting productivity for your team.",
-        "what_to_do": "Explore how GPT-5.4's new capabilities could automate repetitive tasks in your HR operations, such as report generation or data entry, and plan a pilot project."
+        "headline": "UK Lords Warn Against Sacrificing Arts for AI, Urge Licensing",
+        "what_changed": "A UK House of Lords committee urged the government to create a licensing system for using creative works in AI, opposing plans to let tech firms use content without permission.",
+        "why_care": "This debate impacts how your organization sources and uses content for AI training, especially for learning and development materials or internal communications, affecting copyright compliance and costs.",
+        "what_to_do": "Review your current content acquisition policies for AI training and development to ensure they align with potential future copyright regulations this week."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, an Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework designed to manage autonomous AI coding agents, automating software development tasks by connecting issue trackers to LLM-based agents.",
-        "why_care": "While focused on coding, this framework signals a future where AI agents can automate complex, multi-step processes, potentially impacting how you manage HR tech integrations or custom tool development.",
-        "what_to_do": "Discuss with your IT or HRIS team how open-source agent frameworks like Symphony might eventually automate or streamline your HR technology development and integration projects."
+        "headline": "Microsoft Continues Using Anthropic Models Despite Pentagon Blacklist",
+        "what_changed": "Microsoft confirmed it will continue to use Anthropic's AI models in its products, despite the Pentagon blacklisting Anthropic.",
+        "why_care": "This decision by a major tech provider like Microsoft signals confidence in Anthropic's technology, which could influence your organization's AI tool selection and vendor risk assessments.",
+        "what_to_do": "Assess your organization's vendor risk management framework to ensure it accounts for evolving government blacklists or endorsements of AI providers this week."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI Concept",
-        "what_changed": "Researchers, including Yann LeCun, published a paper suggesting the term 'Superhuman Adaptable Intelligence' replace 'AGI,' arguing that human intelligence is specialized, not general.",
-        "why_care": "This shift in terminology helps you understand that AI will likely excel in specific, adaptable ways rather than becoming a single, all-encompassing 'general intelligence,' guiding your expectations for AI tools.",
-        "what_to_do": "Consider how your team can leverage AI for specialized, adaptable tasks within HR, focusing on specific problems AI can solve rather than expecting a single AI to do everything."
+        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses",
+        "what_changed": "Workers reported instances of people using Ray-Ban Meta smart glasses to record others in private spaces, raising concerns about user privacy.",
+        "why_care": "This highlights the growing privacy risks associated with wearable tech in the workplace, which could lead to employee discomfort, legal issues, and a need for clear policy updates.",
+        "what_to_do": "Draft an updated workplace policy on the use of smart glasses and other recording devices to address privacy concerns and employee expectations this week."
       },
       {
         "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance and Digital Tracking",
-        "what_changed": "The article highlights how digital tracking and monitoring, once shocking, are now common in personal lives, with people increasingly comfortable with interpersonal surveillance through apps and social media.",
-        "why_care": "This trend raises critical questions about employee privacy, digital ethics, and the boundaries of monitoring in the workplace, which directly impacts your HR policies and employee relations.",
-        "what_to_do": "Review your company's privacy policies and employee monitoring guidelines to ensure they address the growing prevalence of digital tracking and clearly communicate expectations to your workforce."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
+        "what_changed": "A top Morgan Stanley tech banker stated that the software industry is in 'wartime, not peacetime' due to the impact of AI.",
+        "why_care": "This shift indicates rapid changes in the tech landscape, requiring your HR team to adapt talent strategies, skill development, and workforce planning to support evolving software needs.",
+        "what_to_do": "Begin an internal audit of your current software development and IT teams' AI skill gaps and future training needs this week."
       }
     ],
     "healthcare": [
       {
         "id": 0,
-        "headline": "Luma Launches AI Agents for Creative Work, Powered by New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, which use new 'Unified Intelligence' models to coordinate multiple AI systems for creative tasks like text, images, video, and audio.",
-        "why_care": "This could streamline the creation of patient education materials, marketing content for your practice, or visual aids for presentations.",
-        "what_to_do": "Explore Luma's website to see examples of how these AI agents create content and consider if it could benefit your department's communication needs."
+        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI tasks directly on your device.",
+        "why_care": "This technology allows you to use AI tools for sensitive patient data or administrative tasks without sending information outside your secure network, protecting patient privacy.",
+        "what_to_do": "Investigate if LocalCowork can be integrated into your facility's existing IT infrastructure for secure, on-device AI applications."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents for Professional Tasks",
-        "what_changed": "OpenAI released GPT-5.4, an updated AI model with improved reasoning, coding, and professional work capabilities, including native computer use to complete tasks across applications.",
-        "why_care": "This could automate administrative tasks like updating patient records, generating reports, or managing your schedule, freeing up time for direct patient care.",
-        "what_to_do": "Research how autonomous AI agents are being piloted in healthcare administration to understand potential future applications in your role."
+        "headline": "UK Peers Warn Against Sacrificing Arts for AI Gains, Urge Licensing",
+        "what_changed": "A UK House of Lords committee advised the government to create a licensing system for AI to use creative works, rather than allowing free use.",
+        "why_care": "This discussion impacts how AI models are trained, which could affect the quality and ethical sourcing of information used in AI tools you might rely on for clinical research or education.",
+        "what_to_do": "Review your institution's policies on AI tool usage to ensure they align with ethical data sourcing and intellectual property considerations."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, an Open-Source Framework for Managing AI Coding Agents",
-        "what_changed": "OpenAI launched Symphony, an open-source framework built with Elixir and Erlang/BEAM, designed to manage autonomous AI coding agents for automating software development tasks.",
-        "why_care": "This framework could help develop custom AI tools faster for clinical data analysis, electronic health record system integrations, or medical coding automation.",
-        "what_to_do": "Discuss with your IT or health informatics department how open-source AI frameworks might be used to develop custom solutions for your facility."
+        "headline": "Microsoft Confirms Continued Use of Anthropic AI Models After Pentagon Blacklist",
+        "what_changed": "Microsoft stated it will continue to use Anthropic's AI models in its products, despite the Pentagon blacklisting the company.",
+        "why_care": "This means that AI tools you use through Microsoft platforms will still have access to Anthropic's capabilities, potentially impacting the features and performance of those tools.",
+        "what_to_do": "Stay informed about the specific AI models powering the Microsoft tools you use to understand their capabilities and any associated policy changes."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI Concept",
-        "what_changed": "Researchers, including Yann LeCun, suggest replacing the term 'AGI' with 'Superhuman Adaptable Intelligence,' arguing that human intelligence is specialized, not general.",
-        "why_care": "This shift in understanding AI's capabilities helps you focus on developing specialized AI tools that excel in specific healthcare tasks, like diagnostics or treatment planning.",
-        "what_to_do": "Consider how specialized AI applications, rather than general ones, could best support your daily clinical or administrative workflows."
+        "headline": "Workers Report Viewing Private Footage from Ray-Ban Meta Smart Glasses",
+        "what_changed": "Workers have reported seeing footage recorded by Ray-Ban Meta smart glasses, including sensitive private moments, raising concerns about user privacy.",
+        "why_care": "This highlights significant privacy risks with wearable recording devices in healthcare settings, where patient confidentiality is paramount.",
+        "what_to_do": "Ensure your facility has clear, enforced policies prohibiting the use of personal recording devices like smart glasses in patient care areas."
       },
       {
         "id": 4,
-        "headline": "Interpersonal Surveillance: The Growing Comfort with Digital Tracking and Monitoring",
-        "what_changed": "The article highlights a growing societal comfort with digital tracking and monitoring, where individuals increasingly engage in interpersonal surveillance using apps and data.",
-        "why_care": "This trend underscores the critical importance of protecting patient privacy and understanding data security risks in your professional and personal digital interactions.",
-        "what_to_do": "Review your facility's privacy policies and best practices for secure communication, and ensure you are not inadvertently sharing sensitive information."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' Environment for Software Industry",
+        "what_changed": "A top Morgan Stanley tech banker described the current software industry climate as 'wartime' due to the rapid advancements and impact of AI.",
+        "why_care": "This signals that software companies are intensely focused on integrating AI, meaning you can expect rapid changes and new AI-powered features in the healthcare software you use.",
+        "what_to_do": "Actively participate in training and updates for your clinical and administrative software to leverage new AI features as they become available."
       }
     ],
     "education": [
       {
         "id": 0,
-        "headline": "Luma AI Launches Creative Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, which use new 'Unified Intelligence' models to coordinate multiple AI systems for creative work across text, images, video, and audio.",
-        "why_care": "This technology could help you automate the creation of diverse educational content, from lesson plans to multimedia presentations.",
-        "what_to_do": "Explore Luma's website to see examples of content generated by these agents and consider how they might assist your content creation workflows."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First AI Workflows on Your Device",
+        "what_changed": "Liquid AI released LFM2-24B-A2B, a new model, and LocalCowork, an open-source desktop agent, enabling AI workflows to run entirely on your local device.",
+        "why_care": "This allows you to use AI tools with sensitive student data or proprietary curriculum without worrying about data leaving your institution's control.",
+        "what_to_do": "Investigate how LocalCowork could be used for secure, on-device AI assistance in your instructional design or administrative tasks."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents",
-        "what_changed": "OpenAI launched GPT-5.4, its latest AI model, which improves reasoning, coding, and professional tasks, and can now operate a computer to complete tasks across applications.",
-        "why_care": "This model could eventually automate administrative tasks, assist with complex research, or even personalize learning paths by interacting with various educational software on your behalf.",
-        "what_to_do": "Research OpenAI's latest announcements to understand the specific capabilities of GPT-5.4 and how its computer interaction features might evolve."
+        "headline": "UK Peers Urge Protection for Arts in AI Copyright Debate",
+        "what_changed": "A UK House of Lords committee recommended that ministers create a licensing system for AI to use creative works, opposing plans to allow free use without permission.",
+        "why_care": "This debate directly impacts how AI tools you use might access and potentially plagiarize copyrighted educational materials, textbooks, and artistic works.",
+        "what_to_do": "Review your institution's policies on AI tool usage to ensure they address copyright and intellectual property, especially when generating content."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, an Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework that helps manage autonomous AI coding agents to automate software development tasks by connecting issue trackers to LLM-based agents.",
-        "why_care": "While focused on coding, this framework demonstrates how AI can automate complex, multi-step processes, which could inspire new ways to streamline educational technology development or curriculum management.",
-        "what_to_do": "Consider how the principles of orchestrating autonomous agents could be applied to automate repetitive tasks in your educational setting, even if not directly coding."
+        "headline": "Microsoft Continues Using Anthropic AI After Pentagon Blacklist",
+        "what_changed": "Microsoft confirmed it will continue to offer and use Anthropic's AI models in its products, despite the Pentagon blacklisting the company.",
+        "why_care": "This decision shows that major tech partners may continue using specific AI models even when other government entities raise concerns, impacting the tools you rely on.",
+        "what_to_do": "Stay informed about the specific AI models powering the educational tools you use and any controversies surrounding their developers or data practices."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI Concept",
-        "what_changed": "Researchers, including Yann LeCun, argue that the concept of AGI is flawed and propose 'Superhuman Adaptable Intelligence' as a more accurate term for advanced AI.",
-        "why_care": "This shift in terminology helps you understand the nuanced capabilities and limitations of AI, emphasizing specialized adaptability rather than a broad, human-like generality.",
-        "what_to_do": "Discuss with colleagues how this redefined understanding of AI might influence your expectations and integration strategies for AI tools in education."
+        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses",
+        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses showing people in private settings, raising serious privacy concerns.",
+        "why_care": "This highlights the significant privacy risks associated with wearable recording devices in educational environments, impacting student and staff safety.",
+        "what_to_do": "Communicate clear guidelines to students and staff about the prohibition of recording devices like smart glasses in classrooms and private campus spaces."
       },
       {
         "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance and Digital Tracking",
-        "what_changed": "The article highlights how digital tracking and monitoring, once shocking, are now commonplace in personal lives, with individuals increasingly using apps and data to surveil others.",
-        "why_care": "This trend raises critical ethical and privacy concerns for you regarding student data, digital citizenship, and the responsible use of technology in educational settings.",
-        "what_to_do": "Review your institution's privacy policies and discuss with students the ethical implications of digital tracking and data sharing."
+        "headline": "Morgan Stanley Banker Declares 'Wartime' for Software Due to AI",
+        "what_changed": "Morgan Stanley's top tech banker stated that the software industry is in a 'wartime' phase, indicating a rapid and disruptive shift driven by AI.",
+        "why_care": "This signals that the educational software and technology you use will undergo significant, fast-paced changes, requiring you to adapt quickly.",
+        "what_to_do": "Prioritize professional development opportunities that focus on integrating new AI-powered educational software and understanding its implications for your role."
       }
     ],
     "media_content": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents for End-to-End Content Generation",
-        "what_changed": "Luma introduced Luma Agents, powered by new 'Unified Intelligence' models, to generate complete creative work across text, images, video, and audio.",
-        "why_care": "This tool could automate significant portions of your content creation workflow, from initial drafts to final multimedia assets.",
-        "what_to_do": "Investigate Luma Agents to see if they can streamline your production of text, image, video, or audio content."
+        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI tasks entirely on your device.",
+        "why_care": "This allows you to use AI tools for sensitive content creation or fact-checking without your data leaving your computer, enhancing privacy.",
+        "what_to_do": "Explore Liquid AI's GitHub Cookbook for LocalCowork to see how you can run AI agents locally for private projects."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Towards Autonomous AI Agents",
-        "what_changed": "OpenAI launched GPT-5.4, its latest AI model with enhanced reasoning, coding, and native computer use capabilities.",
-        "why_care": "This model could soon operate your computer to complete tasks across various applications, automating research, writing, and content organization.",
-        "what_to_do": "Explore how GPT-5.4's new capabilities might automate routine digital tasks in your daily workflow."
+        "headline": "UK Peers Urge Protection for Creators Against Unlicensed AI Use",
+        "what_changed": "A UK House of Lords committee urged the government to abandon plans allowing tech firms to use creative works without permission for AI training.",
+        "why_care": "This directly impacts your copyright and ability to control how your articles, scripts, or podcasts are used by AI systems.",
+        "what_to_do": "Monitor UK copyright law developments and consider joining industry groups advocating for fair licensing of creative works for AI."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony: Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework designed to manage autonomous AI coding agents for software development tasks.",
-        "why_care": "While focused on coding, this framework signals a future where AI agents could automate complex, multi-step content production or fact-checking processes.",
-        "what_to_do": "Monitor developments in open-source agent frameworks for potential applications in automating your content workflows beyond coding."
+        "headline": "Microsoft Continues Using Anthropic AI Despite Pentagon Blacklist",
+        "what_changed": "Microsoft confirmed it will continue to offer and use Anthropic's AI models in its products, despite a Pentagon blacklist.",
+        "why_care": "This shows major tech companies are committed to specific AI partners, which could affect the tools and features available to you.",
+        "what_to_do": "Assess if your current or planned AI tools rely on Anthropic models via Microsoft and understand potential implications for your workflows."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI",
-        "what_changed": "Researchers, including Yann LeCun, propose replacing the concept of AGI with 'Superhuman Adaptable Intelligence,' arguing human intelligence is specialized.",
-        "why_care": "This shift in terminology highlights that future AI will likely excel in specific, adaptable tasks rather than general human-like intelligence, impacting how you use AI tools.",
-        "what_to_do": "Consider how specialized AI tools, rather than general ones, can best enhance your specific journalistic or creative tasks."
+        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses",
+        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses showing people in private moments, raising serious privacy concerns.",
+        "why_care": "This highlights the ethical and privacy issues surrounding wearable recording devices, which you might encounter in public or professional settings.",
+        "what_to_do": "Be aware of the recording capabilities of smart glasses in public and consider how you would report or address privacy violations if you witnessed them."
       },
       {
         "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance in the Digital Age",
-        "what_changed": "The article highlights how digital tracking and monitoring, once shocking, are now common in personal relationships, mirroring corporate and government surveillance.",
-        "why_care": "This trend impacts privacy expectations for your sources, subjects, and audience, and influences how you gather and protect sensitive information.",
-        "what_to_do": "Review your data privacy practices and consider the ethical implications of digital surveillance when reporting or creating content."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
+        "what_changed": "A top Morgan Stanley tech banker described the current AI landscape for software as 'wartime,' indicating a period of intense disruption and change.",
+        "why_care": "This signals that AI is rapidly reshaping the tech tools and platforms you use daily, requiring you to adapt quickly to new functionalities and challenges.",
+        "what_to_do": "Actively research new AI-powered software tools relevant to your role and identify how they could streamline or transform your content creation process."
       }
     ],
     "creative_entertainment": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents for End-to-End Content Generation",
-        "what_changed": "Luma introduced Luma Agents, powered by new 'Unified Intelligence' models, to coordinate multiple AI systems for creative work across text, images, video, and audio.",
-        "why_care": "This means you could soon use a single AI system to generate complete creative projects, from script to final video, saving significant production time.",
-        "what_to_do": "Explore Luma's website to understand the capabilities of their new AI agents and how they might integrate into your workflow."
+        "headline": "Liquid AI Releases LocalCowork for Private, On-Device AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI workflows entirely on your device.",
+        "why_care": "This allows you to use AI tools for sensitive projects without sending your creative assets or data to external servers, protecting your intellectual property.",
+        "what_to_do": "Explore the Liquid4All GitHub Cookbook to see how you can implement privacy-focused AI agents for your production pipeline this week."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Can Now Operate Your Computer for Creative Tasks",
-        "what_changed": "OpenAI launched GPT-5.4, an updated AI model with native computer use capabilities, allowing it to operate your computer and complete tasks across different applications.",
-        "why_care": "This could automate repetitive tasks in your creative software, like organizing project files, generating initial edits, or managing asset libraries, freeing you for more creative work.",
-        "what_to_do": "Research GPT-5.4's specific functionalities to identify potential automation opportunities within your video editing or motion graphics workflows."
+        "headline": "UK Lords Committee Urges Protection for Creative Works from AI Exploitation",
+        "what_changed": "A UK House of Lords committee urged the government to create a licensing system for AI use of creative works, rejecting proposals to allow tech firms to use content without permission.",
+        "why_care": "This directly impacts your ability to control how your video, animation, and design work is used by AI, potentially securing your intellectual property rights and fair compensation.",
+        "what_to_do": "Stay informed on UK copyright law developments, as they may influence similar protections for your creative work in other regions."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, an Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework designed to manage autonomous AI coding agents through structured 'implementation runs' for software development tasks.",
-        "why_care": "While focused on coding, this framework could eventually lead to AI agents that automate complex scripting or plugin development within your creative applications, streamlining your technical pipeline.",
-        "what_to_do": "Keep an eye on Symphony's development for any future integrations or community projects that could impact creative tool development or automation."
+        "headline": "Microsoft Confirms Continued Use of Anthropic AI Models Despite Pentagon Blacklist",
+        "what_changed": "Microsoft stated it will continue to use Anthropic's AI models in its products, despite the Pentagon blacklisting Anthropic.",
+        "why_care": "If you rely on Microsoft tools that integrate Anthropic AI, your workflows will remain uninterrupted, ensuring continuity in your creative production.",
+        "what_to_do": "If you use Microsoft products with AI features, verify which AI models are integrated to understand potential future impacts on your tools."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI Concept",
-        "what_changed": "Yann LeCun and other researchers propose replacing the concept of 'AGI' with 'Superhuman Adaptable Intelligence,' arguing that human intelligence is specialized, not general.",
-        "why_care": "This shift in thinking suggests future AI development might focus on highly specialized, powerful tools tailored for specific creative tasks, rather than a single, all-encompassing AI.",
-        "what_to_do": "Consider how specialized AI tools are already enhancing your specific creative tasks and anticipate further focused advancements in your field."
+        "headline": "Meta Workers Report Viewing Private Footage from Ray-Ban Meta Smart Glasses",
+        "what_changed": "Workers reportedly viewed footage from Ray-Ban Meta smart glasses, including sensitive private moments, raising concerns about user privacy.",
+        "why_care": "This highlights significant privacy risks if you or your team use smart glasses for capturing content, especially in public or private settings, impacting trust and ethical considerations.",
+        "what_to_do": "Review your team's policies on using smart glasses for content capture, ensuring clear guidelines are in place to protect privacy and avoid misuse."
       },
       {
         "id": 4,
-        "headline": "The Guardian Explores Rise of Interpersonal Surveillance in Digital Age",
-        "what_changed": "The Guardian published an article discussing the increasing normalization of interpersonal digital surveillance, where individuals track and monitor each other using readily available tools and apps.",
-        "why_care": "As creative professionals, your work often involves public-facing content and digital collaboration, making awareness of privacy implications and data usage crucial for protecting your projects and personal information.",
-        "what_to_do": "Review your privacy settings on all social media and collaboration platforms, and educate your team on best practices for digital security and consent when sharing information."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
+        "what_changed": "A top Morgan Stanley tech banker described the current software industry climate as 'wartime' due to the disruptive impact of AI.",
+        "why_care": "This signals that the tools and platforms you use for video editing, motion graphics, and animation will likely undergo rapid, significant changes as companies adapt to AI.",
+        "what_to_do": "Actively research new AI-powered features and tools emerging in your creative software to stay competitive and efficient."
       }
     ],
     "operations_supply": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents for End-to-End Content Generation",
-        "what_changed": "Luma introduced Luma Agents, powered by its new \"Unified Intelligence\" models, to coordinate multiple AI systems and generate complete creative work across text, images, video, and audio.",
-        "why_care": "This could streamline your marketing and training content creation, reducing the time and resources needed for visual and textual assets.",
-        "what_to_do": "Investigate how Luma Agents could automate your internal communications or training material development workflows this quarter."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First AI Agent Workflows",
+        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent app.",
+        "why_care": "You can now run AI-powered enterprise workflows directly on your devices, ensuring data privacy and reducing reliance on external services.",
+        "what_to_do": "Investigate if LocalCowork can be used to automate sensitive, on-site operational tasks without sending data externally."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous Computer Use",
-        "what_changed": "OpenAI launched GPT-5.4, its latest AI model, which improves reasoning, coding, and professional tasks, and can now operate a computer to complete tasks across different applications.",
-        "why_care": "This means future AI tools could directly manage your inventory systems, update logistics spreadsheets, or automate report generation without constant human oversight.",
-        "what_to_do": "Identify one repetitive, data-entry task in your supply chain operations that an autonomous AI agent could potentially handle in the next six months."
+        "headline": "UK Lords Committee Urges Licensing for AI Use of Creative Works",
+        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI to use creative works, opposing plans for permission-free use.",
+        "why_care": "This debate impacts the future cost and availability of data for AI training, which could affect the development of AI tools you might use.",
+        "what_to_do": "Monitor UK copyright law developments, as they could influence global standards for AI data usage and impact your future AI tool investments."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework built with Elixir and Erlang/BEAM, designed to manage autonomous AI coding agents and automate software development tasks by connecting issue trackers to LLM-based agents.",
-        "why_care": "This framework could help your team automate the development and maintenance of custom software tools used in your operations, like warehouse management system integrations or data analytics scripts.",
-        "what_to_do": "Discuss with your IT or development team how an open-source framework like Symphony could accelerate the creation of internal operational tools."
+        "headline": "Microsoft Confirms Continued Use of Anthropic AI Models",
+        "what_changed": "Microsoft stated that Anthropic's AI products remain available to its customers, despite a recent Pentagon blacklist.",
+        "why_care": "This confirms the stability of your access to specific AI capabilities within Microsoft's ecosystem, even if the underlying model provider faces external scrutiny.",
+        "what_to_do": "Review your current or planned use of Microsoft AI tools to ensure they align with your operational needs and any internal compliance policies."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI",
-        "what_changed": "Researchers, including Yann LeCun, propose replacing the concept of AGI with 'Superhuman Adaptable Intelligence,' arguing that human intelligence is specialized, not general.",
-        "why_care": "This shift in thinking suggests that future AI tools will be highly specialized for tasks like optimizing specific supply chain routes or predicting demand for particular products, rather than being a single, all-purpose intelligence.",
-        "what_to_do": "Focus your AI adoption strategy on specialized AI solutions that directly address specific operational challenges, rather than waiting for a general-purpose AI."
+        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses",
+        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses that included people in private situations, raising privacy concerns.",
+        "why_care": "This highlights the critical privacy risks associated with wearable smart devices in operational environments, especially regarding data capture and employee consent.",
+        "what_to_do": "Immediately review your company's policy on smart glasses and other wearable tech in the workplace to prevent privacy violations and ensure compliance."
       },
       {
         "id": 4,
-        "headline": "Interpersonal Surveillance: The Growing Comfort with Digital Tracking",
-        "what_changed": "The article highlights a growing societal comfort with digital tracking and monitoring, extending from government and corporate surveillance to individuals tracking friends, partners, and strangers.",
-        "why_care": "While this article focuses on personal surveillance, it underscores the increasing prevalence of data collection and tracking technologies, which could impact your employees' privacy perceptions and your company's data handling policies.",
-        "what_to_do": "Review your company's data privacy policies and employee monitoring practices to ensure they align with ethical standards and legal requirements, given the public's evolving views on digital tracking."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
+        "what_changed": "A top Morgan Stanley tech banker described the current software industry environment as 'wartime' due to the impact of AI.",
+        "why_care": "This signals that software vendors you rely on are rapidly adapting to AI, which could lead to significant changes in their products, pricing, and support.",
+        "what_to_do": "Engage with your key software vendors to understand their AI strategy and how it will impact the tools and services you use for operations."
       }
     ],
     "real_estate_construction": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents for End-to-End Content Generation",
-        "what_changed": "Luma introduced Luma Agents, powered by its new 'Unified Intelligence' models, to create full creative works across text, images, video, and audio.",
-        "why_care": "You can use these agents to quickly generate marketing materials, property walkthrough videos, or architectural visualizations without needing multiple tools.",
-        "what_to_do": "Explore Luma's platform to see how its AI agents can automate your content creation for property listings or project proposals."
+        "headline": "Liquid AI's LocalCowork Runs AI Workflows On Your Device, Boosting Privacy",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop application, and the LFM2-24B-A2B model, allowing AI workflows to run entirely on your device.",
+        "why_care": "This means you can use AI tools for sensitive data, like client lists or proprietary designs, without worrying about information leaving your computer.",
+        "what_to_do": "Investigate how LocalCowork could secure your firm's sensitive data processing by reviewing its GitHub documentation this week."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents",
-        "what_changed": "OpenAI launched GPT-5.4, an updated AI model with improved reasoning, coding, and professional work capabilities, including the ability to operate a computer on your behalf.",
-        "why_care": "This model could soon automate complex tasks like drafting contracts, analyzing market data in spreadsheets, or generating detailed project reports across different software.",
-        "what_to_do": "Research how GPT-5.4's new capabilities could integrate with your existing software for property management, design, or construction planning."
+        "headline": "UK Peers Warn Against Sacrificing Arts for AI, Urge Licensing for Creative Works",
+        "what_changed": "A UK House of Lords committee urged ministers to create a licensing system for AI to use creative works, rather than allowing tech firms free access.",
+        "why_care": "This could impact the cost and availability of AI tools that generate architectural designs, marketing content, or virtual staging using existing creative assets.",
+        "what_to_do": "Monitor UK copyright law developments to understand potential future costs or restrictions on AI tools you use for design and marketing."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony: Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI released Symphony, an open-source framework designed to manage autonomous AI coding agents for automating software development tasks.",
-        "why_care": "This framework could lead to more efficient custom software solutions for your business, automating tasks like data integration or creating specialized tools for project management.",
-        "what_to_do": "Consult with your IT team or software developers to understand how Symphony could be leveraged to streamline your custom application development or automation needs."
+        "headline": "Microsoft Continues Using Anthropic AI Models Despite Pentagon Blacklist",
+        "what_changed": "Microsoft confirmed it will continue to offer Anthropic's AI products to its customers, despite the Pentagon blacklisting the company.",
+        "why_care": "This ensures the continuity of AI tools and features you might use within Microsoft products that rely on Anthropic's technology for tasks like document analysis or report generation.",
+        "what_to_do": "Review your current use of Microsoft AI tools to identify if they leverage Anthropic models and assess any potential impact on your workflows."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI",
-        "what_changed": "Researchers, including Yann LeCun, suggest replacing the concept of 'AGI' with 'Superhuman Adaptable Intelligence,' arguing human intelligence is specialized, not general.",
-        "why_care": "This shift in understanding AI's potential means future AI tools will likely be highly specialized and powerful for specific industry tasks, rather than a single general intelligence.",
-        "what_to_do": "Focus on adopting AI tools that are specifically designed for real estate, architecture, or construction tasks, as these will likely offer the most impactful benefits."
+        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses Footage",
+        "what_changed": "Reports surfaced that Meta employees viewed footage from Ray-Ban Meta smart glasses, including sensitive private moments, raising privacy concerns.",
+        "why_care": "This highlights significant privacy risks associated with smart glasses and similar wearable tech for site inspections, property tours, or client interactions, potentially exposing sensitive information.",
+        "what_to_do": "Re-evaluate your firm's policies on using smart glasses or wearable recording devices in professional settings to protect client and employee privacy."
       },
       {
         "id": 4,
-        "headline": "The Rise of Interpersonal Surveillance and Digital Tracking",
-        "what_changed": "The article highlights how digital tracking and monitoring of individuals, once shocking, is now increasingly common and accepted in personal lives.",
-        "why_care": "This trend raises important privacy concerns for your clients and employees, especially regarding location data, property viewing habits, or project site monitoring.",
-        "what_to_do": "Review your company's data privacy policies and ensure you are transparent with clients and employees about how their digital information is collected and used."
+        "headline": "Morgan Stanley Banker: AI Signals 'Wartime' for Software Industry",
+        "what_changed": "Morgan Stanley's top tech banker stated that the software industry is in a 'wartime' phase due to the rapid advancements and impact of AI.",
+        "why_care": "This indicates a period of intense innovation and disruption in the software tools you rely on, from CAD programs to property management systems, requiring you to adapt quickly.",
+        "what_to_do": "Dedicate time this month to research new AI-powered software solutions emerging in real estate and construction to stay competitive."
       }
     ],
     "science_research": [
       {
         "id": 0,
-        "headline": "Luma Launches Creative AI Agents with New 'Unified Intelligence' Models",
-        "what_changed": "Luma introduced Luma Agents, which are AI systems designed to coordinate multiple AI tools to create complete text, images, video, and audio.",
-        "why_care": "This could streamline your research workflows by automating the generation of diverse content, from scientific visualizations to presentation materials.",
-        "what_to_do": "Explore Luma's website to see if their new creative AI agents offer tools relevant to your current research or communication needs."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Agent Workflows",
+        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent application.",
+        "why_care": "This allows you to run AI workflows entirely on your device, ensuring data privacy and eliminating external API calls for sensitive research.",
+        "what_to_do": "Explore the Liquid4All GitHub Cookbook to see how you can implement privacy-preserving AI agents in your lab or research environment."
       },
       {
         "id": 1,
-        "headline": "OpenAI's GPT-5.4 Advances Toward Autonomous AI Agents",
-        "what_changed": "OpenAI released GPT-5.4, an AI model with improved reasoning, coding, and the new ability to operate a computer and complete tasks across applications.",
-        "why_care": "This model could automate complex data analysis, experimental setup, or literature review tasks directly on your computer, freeing up your time.",
-        "what_to_do": "Investigate OpenAI's documentation for GPT-5.4 to understand its new computer interaction capabilities and potential applications in your field."
+        "headline": "UK Lords Committee Urges Licensing for AI Use of Creative Works",
+        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI to use creative works, opposing plans for permission-free use.",
+        "why_care": "This impacts how AI models are trained and how you might need to license data for your own research, especially if using creative datasets.",
+        "what_to_do": "Monitor UK policy developments on AI and copyright, as these changes could affect data sourcing and ethical considerations for your AI projects."
       },
       {
         "id": 2,
-        "headline": "OpenAI Releases Symphony, an Open-Source Framework for AI Coding Agents",
-        "what_changed": "OpenAI launched Symphony, an open-source framework built with Elixir and BEAM, to manage autonomous AI coding agents for software development tasks.",
-        "why_care": "This framework could help you automate repetitive coding tasks, manage experimental scripts, or even develop custom AI tools for your lab more efficiently.",
-        "what_to_do": "Review the Symphony project on GitHub to see if its architecture and features can be integrated into your current research software development practices."
+        "headline": "Microsoft Confirms Continued Support for Anthropic AI Products Post-Pentagon Blacklist",
+        "what_changed": "Microsoft stated that Anthropic's AI products remain available to its customers, despite the Pentagon's recent blacklist.",
+        "why_care": "This indicates that despite government concerns, major tech companies may continue to integrate and offer these AI models, impacting your access to tools.",
+        "what_to_do": "If you use Microsoft services with Anthropic models, verify the specific compliance and security implications for your research data."
       },
       {
         "id": 3,
-        "headline": "Yann LeCun Proposes 'Superhuman Adaptable Intelligence' Over AGI",
-        "what_changed": "Researchers, including Yann LeCun, suggest replacing the term 'AGI' with 'Superhuman Adaptable Intelligence,' arguing human intelligence is specialized, not general.",
-        "why_care": "This shift in terminology impacts how you define and pursue advanced AI research, emphasizing specialized, adaptable systems over a single 'general' intelligence.",
-        "what_to_do": "Read the paper by LeCun and colleagues to understand the proposed definition and consider its implications for your AI research or application design."
+        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses Footage",
+        "what_changed": "Workers reviewing footage from Ray-Ban Meta smart glasses reported seeing recordings of people in private settings, including bathrooms.",
+        "why_care": "This highlights significant privacy risks associated with wearable recording devices and the ethical challenges of data collection in public and private spaces.",
+        "what_to_do": "Review your lab's data collection protocols and ethical guidelines, especially when using or considering wearable technology that records personal data."
       },
       {
         "id": 4,
-        "headline": "Interpersonal Surveillance Normalizes Digital Tracking in Society",
-        "what_changed": "The article highlights how digital tracking and monitoring, once shocking, are now common in personal relationships, mirroring corporate and government surveillance.",
-        "why_care": "Understanding the normalization of digital surveillance is crucial for your research into data privacy, ethical AI development, and the societal impact of tracking technologies.",
-        "what_to_do": "Reflect on your research practices involving personal data and ensure you are adhering to the highest ethical standards and privacy regulations."
+        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' Environment for Software Industry",
+        "what_changed": "A top Morgan Stanley tech banker described the current AI landscape as 'wartime' for the software industry, indicating rapid, intense change.",
+        "why_care": "This perspective signals a period of aggressive innovation and competition in AI, which will rapidly change the tools and platforms available for your research.",
+        "what_to_do": "Prioritize evaluating new AI software and tools as they emerge to ensure your research stays at the forefront of technological capabilities."
       }
     ]
   }
