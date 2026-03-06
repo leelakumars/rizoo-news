@@ -1,11 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-03-06T07:42:45.287470+00:00",
-  "run_id": "20260306_074123",
+  "generated_at": "2026-03-06T13:56:10.105589+00:00",
+  "run_id": "20260306_135447",
   "articles": [
     {
-      "id": "b9295b34d740",
+      "id": "41c6dc4b9f03",
       "index": 0,
+      "headline": "OpenAI's new GPT-5.4 model powers ChatGPT for Excel with finance-optimized reasoning",
+      "description": "OpenAI is launching \"ChatGPT for Excel,\" a beta add-in that lets users create, edit, and analyze spreadsheets through natural language. The article OpenAI's new GPT-5.4 model powers ChatGPT for Excel with finance-optimized reasoning appeared first on The Decoder.",
+      "link": "https://the-decoder.com/openais-new-gpt-5-4-model-powers-chatgpt-for-excel-with-finance-optimized-reasoning/",
+      "source": "The Decoder",
+      "topic": "AI Tools",
+      "published_at": "2026-03-06T13:45:38+00:00"
+    },
+    {
+      "id": "4472ef663668",
+      "index": 1,
+      "headline": "Samsung reveals first details of its AI smart glasses to CNBC",
+      "description": "Samsung's AI smart glasses will be launched in 2026 and will mark the company's first foray into the product category.",
+      "link": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
+      "source": "CNBC",
+      "topic": "AI Industry",
+      "published_at": "2026-03-06T13:15:43+00:00"
+    },
+    {
+      "id": "b9295b34d740",
+      "index": 2,
       "headline": "Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP)",
       "description": "Liquid AI has released LFM2-24B-A2B, a model optimized for local, low-latency tool dispatch, alongside LocalCowork, an open-source desktop agent application available in their Liquid4All GitHub Cookbook. The release provides a deployable architecture for running enterprise workflows entirely on-device, eliminating API calls and data egress for privacy-sensitive environments. Architecture and Serving Configuration To achieve low-latency execution […] The post Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP) appeared first on MarkTechPost.",
       "link": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/",
@@ -15,7 +35,7 @@
     },
     {
       "id": "b08db49ab907",
-      "index": 1,
+      "index": 3,
       "headline": "UK arts must not be sacrificed for speculative AI gains, peers say",
       "description": "Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permissionThe UK’s creative industries must not be sacrificed in the pursuit of speculative gains in AI technology, a House of Lords committee has warned, as the government prepares to reveal the economic cost of proposals to change copyright rules.A report by peers has urged ministers to develop a licensing regime for the use of creative works in AI products and abandon proposals to let tech firms use the work of novelists, artists, writers and journalists without permission. Continue reading...",
       "link": "https://www.theguardian.com/technology/2026/mar/06/uk-arts-must-not-be-sacrificed-for-speculative-ai-gains-peers-say",
@@ -24,706 +44,681 @@
       "published_at": "2026-03-06T06:00:13+00:00"
     },
     {
-      "id": "571bd417ce1b",
-      "index": 2,
-      "headline": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
-      "description": "Microsoft is the first major company to say it will keep using Anthropic models in its products.",
-      "link": "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html",
-      "source": "CNBC",
-      "topic": "AI Industry",
-      "published_at": "2026-03-06T01:49:28+00:00"
-    },
-    {
-      "id": "fd2bf1aad341",
-      "index": 3,
-      "headline": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-      "description": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
-      "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-      "source": "Ars Technica",
-      "topic": "AI Industry",
-      "published_at": "2026-03-05T23:36:04+00:00"
-    },
-    {
-      "id": "c3598988ab36",
+      "id": "f7487560eadc",
       "index": 4,
-      "headline": "Morgan Stanley's top tech banker: It's 'wartime, not peacetime' for software",
-      "description": "AI is delivering a reality check to Wall Street — and it’s clear from the vibe shift at the Morgan Stanley Tech, Media and Telecom conference.",
-      "link": "https://www.cnbc.com/2026/03/05/morgan-stanleys-david-chen-its-wartime-not-peacetime-for-software.html",
-      "source": "CNBC",
+      "headline": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
+      "description": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
+      "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
+      "source": "TechCrunch",
       "topic": "AI Industry",
-      "published_at": "2026-03-05T23:17:52+00:00"
+      "published_at": "2026-03-06T13:20:43+00:00"
     }
   ],
   "rewrites": {
     "software_engineering": [
       {
         "id": 0,
-        "headline": "Liquid AI Releases LocalCowork with LFM2-24B-A2B for On-Device AI Workflows",
-        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent for privacy-first, on-device AI workflows.",
-        "why_care": "This allows you to build and deploy AI agents that process sensitive data locally, eliminating external API calls and improving data privacy and security.",
-        "what_to_do": "Explore the Liquid4All GitHub Cookbook to understand how to implement these local AI agent architectures in your projects."
+        "headline": "OpenAI's GPT-5.4 powers ChatGPT for Excel, optimized for finance tasks",
+        "what_changed": "OpenAI launched 'ChatGPT for Excel,' a beta add-in allowing natural language interaction with spreadsheets.",
+        "why_care": "This could change how you build data analysis tools and integrate AI into business applications.",
+        "what_to_do": "Explore the beta add-in to understand its capabilities for automating spreadsheet tasks and data analysis."
       },
       {
         "id": 1,
-        "headline": "UK Peers Urge Licensing for AI Use of Creative Works, Rejecting Unrestricted Access",
-        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI use of creative works, opposing government plans for tech firms to use content without permission.",
-        "why_care": "Potential changes to copyright law could impact the data available for training AI models you use or develop, affecting model capabilities and legal compliance.",
-        "what_to_do": "Monitor UK intellectual property law developments, especially regarding AI and copyright, to understand future data sourcing implications for your AI projects."
+        "headline": "Samsung to launch AI smart glasses in 2026, entering new product category",
+        "what_changed": "Samsung revealed plans to launch its first AI smart glasses in 2026.",
+        "why_care": "This signals a new platform for application development, potentially creating demand for spatial computing and augmented reality skills.",
+        "what_to_do": "Start researching augmented reality (AR) development frameworks and consider how your applications could extend to smart glasses."
       },
       {
         "id": 2,
-        "headline": "Microsoft Confirms Continued Use of Anthropic Products Despite Pentagon Blacklist",
-        "what_changed": "Microsoft stated it will continue to offer Anthropic's AI products to its customers, despite the Pentagon blacklisting Anthropic.",
-        "why_care": "This confirms that Anthropic's models remain available within Microsoft's ecosystem, ensuring continuity for your projects that rely on these integrations.",
-        "what_to_do": "Assess your current or planned use of Anthropic models through Microsoft services to ensure alignment with your organization's compliance and vendor policies."
+        "headline": "Liquid AI releases LocalCowork for privacy-first, on-device AI agent workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent application, powered by LFM2-24B-A2B, for local AI workflows.",
+        "why_care": "This enables you to build and deploy AI agents that run entirely on-device, eliminating data egress and enhancing privacy for sensitive applications.",
+        "what_to_do": "Download LocalCowork from Liquid AI's GitHub Cookbook and experiment with building a privacy-focused AI agent workflow."
       },
       {
         "id": 3,
-        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses Footage",
-        "what_changed": "Workers reported viewing footage from Ray-Ban Meta smart glasses showing people in private settings, raising concerns about user privacy.",
-        "why_care": "This highlights critical privacy and data governance challenges in consumer tech, which are important considerations when you design or integrate systems involving user-generated content or IoT devices.",
-        "what_to_do": "Review your current or planned projects involving data collection from user devices to ensure robust privacy safeguards and clear consent mechanisms are in place."
+        "headline": "UK peers warn against sacrificing arts for speculative AI gains, urge licensing",
+        "what_changed": "A UK House of Lords committee urged ministers to abandon plans allowing tech firms to use creative works without permission for AI.",
+        "why_care": "Potential copyright changes could impact how you source and use data for training AI models, especially for content generation.",
+        "what_to_do": "Stay informed on UK copyright law developments and consider ethical data sourcing practices for your AI projects."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker Declares 'Wartime' for Software Amid AI Shift",
-        "what_changed": "Morgan Stanley's top tech banker described the current environment for software as 'wartime,' signaling a significant shift driven by AI.",
-        "why_care": "This indicates a heightened competitive landscape and accelerated innovation in the software industry due to AI, requiring you to adapt quickly and integrate AI into your development strategies.",
-        "what_to_do": "Evaluate how AI can enhance your current software projects and identify new opportunities for AI-driven development within your team this quarter."
+        "headline": "WhatsApp expands chatbot access to rival AI companies in Brazil",
+        "what_changed": "Meta is now allowing other AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar move in Europe.",
+        "why_care": "This opens up new integration opportunities for your AI services and chatbots to reach a massive user base directly within WhatsApp.",
+        "what_to_do": "Investigate the WhatsApp Business Platform API and explore how your AI solutions could integrate as chatbots for Brazilian users."
       }
     ],
     "data_ai": [
       {
         "id": 0,
-        "headline": "Liquid AI Releases LFM2-24B-A2B Model and LocalCowork for On-Device AI Agents",
-        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent application.",
-        "why_care": "This allows you to build and deploy AI agent workflows that run entirely on-device, enhancing data privacy and reducing latency for sensitive applications.",
-        "what_to_do": "Explore the Liquid4All GitHub Cookbook this week to understand how to implement these privacy-first agent architectures."
+        "headline": "OpenAI Launches ChatGPT for Excel Beta, Powered by GPT-5.4 for Finance Reasoning",
+        "what_changed": "OpenAI released a beta add-in, 'ChatGPT for Excel,' which uses GPT-5.4 to enable spreadsheet creation, editing, and analysis via natural language.",
+        "why_care": "This tool could significantly streamline your data analysis and manipulation workflows directly within Excel, especially for financial data.",
+        "what_to_do": "Explore the 'ChatGPT for Excel' beta to understand its capabilities for automating your data tasks."
       },
       {
         "id": 1,
-        "headline": "UK Peers Urge Licensing for AI Training Data, Rejecting Copyright Exemptions",
-        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI use of creative works, opposing proposals to let tech firms use content without permission.",
-        "why_care": "This impacts the future availability and cost of diverse datasets for training your AI models, especially for models trained on copyrighted material.",
-        "what_to_do": "Monitor UK policy developments on AI and copyright this month, as these decisions could influence global data sourcing strategies."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026, Entering New Product Category",
+        "what_changed": "Samsung announced it will launch its first AI smart glasses in 2026.",
+        "why_care": "This signals a new frontier for AI application in wearable technology, potentially creating new data streams and interaction paradigms you might work with.",
+        "what_to_do": "Monitor Samsung's developments in AI smart glasses to anticipate future data and AI integration opportunities."
       },
       {
         "id": 2,
-        "headline": "Microsoft Confirms Continued Anthropic Model Access Despite Pentagon Blacklist",
-        "what_changed": "Microsoft stated that Anthropic's products remain available to its customers, despite the Pentagon blacklisting Anthropic.",
-        "why_care": "This ensures your access to Anthropic's models through Microsoft's platforms is unaffected, maintaining continuity for your projects relying on these models.",
-        "what_to_do": "Review your current and planned use of Anthropic models via Microsoft to ensure alignment with any internal or client-specific compliance requirements."
+        "headline": "Liquid AI Releases LocalCowork with LFM2-24B-A2B for Local, Privacy-First AI Agents",
+        "what_changed": "Liquid AI launched LocalCowork, an open-source desktop agent application, powered by LFM2-24B-A2B for on-device, privacy-first AI workflows.",
+        "why_care": "This provides a framework for deploying AI agents locally, eliminating data egress and API calls, which is crucial for privacy-sensitive enterprise applications you might develop.",
+        "what_to_do": "Investigate Liquid AI's Liquid4All GitHub Cookbook to understand how to implement privacy-first AI agent workflows on-device."
       },
       {
         "id": 3,
-        "headline": "Ray-Ban Meta Smart Glasses Raise Privacy Concerns Over Bathroom Footage",
-        "what_changed": "Workers reported viewing footage from Ray-Ban Meta smart glasses showing people using the bathroom, raising privacy concerns.",
-        "why_care": "This highlights critical ethical and privacy challenges in deploying AI-enabled wearable devices, which you must consider in your own product development.",
-        "what_to_do": "Re-evaluate the privacy implications and ethical guidelines for any AI products you are developing that involve data collection from personal devices."
+        "headline": "UK Peers Urge Licensing for AI Use of Creative Works, Rejecting Unrestricted Access",
+        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI use of creative works, urging ministers to abandon plans for unrestricted access.",
+        "why_care": "This decision could impact the availability and cost of creative data for training your AI models in the UK, requiring licensed datasets.",
+        "what_to_do": "Stay informed on UK copyright law changes regarding AI to ensure your data acquisition strategies remain compliant."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
-        "what_changed": "Morgan Stanley's top tech banker described the current software industry environment as 'wartime, not peacetime' due to the impact of AI.",
-        "why_care": "This signals a significant shift in investment and strategic priorities within the tech sector, directly impacting funding and demand for your AI projects and skills.",
-        "what_to_do": "Assess how your current AI projects align with aggressive, innovation-focused 'wartime' strategies to ensure their continued relevance and funding."
+        "headline": "WhatsApp Expands Third-Party AI Chatbot Integration to Brazil After Europe",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar move in Europe.",
+        "why_care": "This opens up WhatsApp as a platform for deploying and interacting with your AI chatbots, expanding their reach to a large user base.",
+        "what_to_do": "Research the technical requirements and business models for integrating your AI chatbots with WhatsApp in these regions."
       }
     ],
     "cybersecurity": [
       {
         "id": 0,
-        "headline": "Liquid AI Releases LocalCowork with LFM2-24B-A2B for On-Device AI Workflows",
-        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent for on-device enterprise AI workflows.",
-        "why_care": "This allows you to run privacy-sensitive AI tasks locally without sending data to external APIs, reducing data egress risks.",
-        "what_to_do": "Investigate LocalCowork from Liquid AI's GitHub Cookbook to see if it can secure your internal AI-driven processes this week.",
-        "source": "MarkTechPost"
+        "headline": "OpenAI's GPT-5.4 Powers ChatGPT for Excel Beta Add-in",
+        "what_changed": "OpenAI launched a beta add-in, 'ChatGPT for Excel,' allowing users to interact with spreadsheets using natural language, powered by their new GPT-5.4 model.",
+        "why_care": "This tool could increase data exposure risks if sensitive information is processed through an external AI, potentially leading to data leakage or compliance issues.",
+        "what_to_do": "Assess your organization's policies on using AI add-ins with sensitive data and communicate guidelines to your finance and data analysis teams this week."
       },
       {
         "id": 1,
-        "headline": "UK Lords Committee Urges Licensing for AI Use of Creative Works",
-        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI use of creative works and opposed plans to allow tech firms to use them without permission.",
-        "why_care": "Changes in copyright law for AI could impact the legality and ethical considerations of data sources used to train AI models you might deploy or analyze.",
-        "what_to_do": "Monitor UK legislative developments on AI and copyright to understand potential future legal risks for AI model training data.",
-        "source": "The Guardian"
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung revealed it will launch its first AI smart glasses in 2026.",
+        "why_care": "New AI-powered wearable devices introduce novel attack surfaces and potential privacy concerns, especially regarding data collection and processing in your environment.",
+        "what_to_do": "Begin researching the security implications of AI wearables and consider how your organization will manage these devices if they enter your ecosystem."
       },
       {
         "id": 2,
-        "headline": "Microsoft Continues Anthropic Product Availability Despite Pentagon Blacklist",
-        "what_changed": "Microsoft confirmed that Anthropic's products remain available to its customers, despite the Pentagon blacklisting Anthropic.",
-        "why_care": "This indicates that some major tech providers may continue to offer services from vendors deemed high-risk by government entities, which could affect your supply chain security assessments.",
-        "what_to_do": "Review your organization's vendor risk management policies to ensure they account for discrepancies between government advisories and vendor offerings.",
-        "source": "CNBC"
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Agent Workflows",
+        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent application, enabling on-device enterprise workflows without API calls.",
+        "why_care": "This allows for privacy-focused AI agent deployment on-device, reducing data egress risks, but requires you to secure the local environment where these agents operate.",
+        "what_to_do": "Evaluate LocalCowork's architecture for potential use in your organization's privacy-sensitive workflows and assess its local security requirements this week."
       },
       {
         "id": 3,
-        "headline": "Workers Report Viewing Private Footage from Ray-Ban Meta Smart Glasses",
-        "what_changed": "Workers have reported viewing footage, including sensitive content, recorded by Ray-Ban Meta smart glasses.",
-        "why_care": "This highlights significant privacy vulnerabilities and potential data misuse risks associated with smart devices that can record and transmit personal data.",
-        "what_to_do": "Educate your organization about the privacy risks of smart glasses and similar wearable devices in the workplace and enforce clear usage policies.",
-        "source": "Ars Technica"
+        "headline": "UK Peers Warn Against Sacrificing Arts for AI Gains, Urge Licensing",
+        "what_changed": "A UK House of Lords committee urged ministers to create a licensing regime for AI to use creative works, opposing plans to allow tech firms to use content without permission.",
+        "why_care": "While not directly technical, this debate highlights the growing legal and ethical complexities around AI data sourcing, which could impact your organization's compliance and acceptable use policies for AI tools.",
+        "what_to_do": "Monitor developments in AI copyright law, especially concerning data training, to ensure your organization's AI usage remains compliant with evolving regulations."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
-        "what_changed": "A top Morgan Stanley tech banker described the current software industry environment as 'wartime' due to the impact of AI.",
-        "why_care": "This shift indicates rapid, disruptive changes in the software landscape, which means you will see new tools and attack surfaces emerge quickly.",
-        "what_to_do": "Prioritize continuous learning about new AI-driven software developments and their potential security implications for your systems.",
-        "source": "CNBC"
+        "headline": "WhatsApp to Offer Rival AI Chatbots in Brazil After Europe Rollout",
+        "what_changed": "Meta will allow rival AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar decision for European users.",
+        "why_care": "This expansion introduces more third-party AI services into a widely used communication platform, increasing potential attack vectors and data privacy risks for your users.",
+        "what_to_do": "Educate your employees on the risks of interacting with third-party AI chatbots on platforms like WhatsApp and reinforce secure communication practices this week."
       }
     ],
     "design_ux": [
       {
         "id": 0,
-        "headline": "Liquid AI Launches LocalCowork for Privacy-First AI Agent Workflows",
-        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent application.",
-        "why_care": "This allows you to design and test AI-powered workflows that run entirely on-device, protecting user data and privacy.",
-        "what_to_do": "Explore the Liquid4All GitHub Cookbook to understand how to build privacy-focused AI agent experiences."
+        "headline": "OpenAI's ChatGPT for Excel: New GPT-5.4 powers spreadsheet AI",
+        "what_changed": "OpenAI launched a beta add-in, 'ChatGPT for Excel,' allowing you to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool could streamline data organization and content planning, freeing up your time for creative design tasks.",
+        "what_to_do": "Explore the beta add-in to see how it might automate parts of your project management or data visualization preparation."
       },
       {
         "id": 1,
-        "headline": "UK Peers Warn Against Sacrificing Arts for AI Gains, Urge Licensing",
-        "what_changed": "A UK House of Lords committee urged the government to create a licensing regime for AI use of creative works, opposing free use.",
-        "why_care": "This directly impacts how your creative work, designs, and visual assets might be used or protected in AI training.",
-        "what_to_do": "Familiarize yourself with current copyright laws and advocate for fair compensation and attribution for your creative output."
+        "headline": "Samsung to launch AI smart glasses in 2026, CNBC reports",
+        "what_changed": "Samsung confirmed to CNBC that it will launch its first AI smart glasses in 2026.",
+        "why_care": "This signals a major new platform for design, requiring innovative UX and UI solutions for augmented reality experiences.",
+        "what_to_do": "Start researching current AR/VR design principles and emerging interaction patterns for wearable technology."
       },
       {
         "id": 2,
-        "headline": "Microsoft Confirms Continued Use of Anthropic AI Products",
-        "what_changed": "Microsoft stated it will continue to use Anthropic models in its products, despite a Pentagon blacklist.",
-        "why_care": "This signals Microsoft's ongoing commitment to integrating Anthropic's AI capabilities into tools you might use.",
-        "what_to_do": "Monitor updates from Microsoft regarding new AI features powered by Anthropic that could impact your design workflows."
+        "headline": "Liquid AI releases LocalCowork for privacy-first, local AI agent workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent application, powered by LFM2-24B-A2B, enabling privacy-focused AI workflows directly on your device.",
+        "why_care": "This allows you to integrate AI tools into your design process with enhanced data privacy, keeping your creative work secure.",
+        "what_to_do": "Investigate LocalCowork to see if it can be integrated into your design workflow for tasks requiring local data processing."
       },
       {
         "id": 3,
-        "headline": "Ray-Ban Meta Smart Glasses Raise Privacy Concerns Over Footage",
-        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses showing people in private settings, raising privacy concerns.",
-        "why_care": "This highlights critical ethical and privacy considerations you must address when designing products that capture user data or content.",
-        "what_to_do": "Review your design processes to ensure robust privacy-by-design principles are integrated into any product involving user data capture."
+        "headline": "UK peers warn against sacrificing arts for AI gains, urge copyright protection",
+        "what_changed": "A UK House of Lords committee urged ministers to protect creative industries by developing a licensing regime for AI use of copyrighted works, opposing plans to allow tech firms to use content without permission.",
+        "why_care": "This directly impacts your intellectual property rights and the value of your creative work in the age of AI-generated content.",
+        "what_to_do": "Stay informed on copyright discussions in your region and consider advocating for policies that protect creators' rights."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
-        "what_changed": "Morgan Stanley's top tech banker described the current software industry climate as 'wartime' due to AI's impact.",
-        "why_care": "This indicates a rapid, competitive shift in the software industry, meaning your design skills will be crucial for innovation and adaptation.",
-        "what_to_do": "Assess how AI tools can enhance your design efficiency and explore new design paradigms driven by AI capabilities."
+        "headline": "WhatsApp expands rival AI chatbot access to Brazil after Europe",
+        "what_changed": "Meta is now allowing other AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar rollout in Europe.",
+        "why_care": "This creates new opportunities for designing conversational interfaces and integrating AI-powered tools directly into widely used communication platforms.",
+        "what_to_do": "Explore how AI chatbots are being designed for messaging apps and consider how your design skills could apply to this growing field."
       }
     ],
     "product_project": [
       {
         "id": 0,
-        "headline": "Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP)",
-        "what_changed": "Liquid AI has released LFM2-24B-A2B, a model optimized for local, low-latency tool dispatch, alongside LocalCowork, an open-source desktop agent application available in their Liquid4All GitHub Cookbook. The release provides a deployable architecture for running enterprise workflows entirely on-device, eliminating API calls and data egress for privacy-sensitive environments. Architecture and Serving Configuration To achieve low-latency execution […] The post Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP) appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "OpenAI Launches ChatGPT for Excel Beta, Powered by GPT-5.4 for Finance",
+        "what_changed": "OpenAI released a beta add-in, 'ChatGPT for Excel,' which allows you to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool can significantly speed up data analysis, reporting, and spreadsheet management for your projects.",
+        "what_to_do": "Explore the beta add-in to understand how it can automate your team's Excel-based tasks and reporting workflows."
       },
       {
         "id": 1,
-        "headline": "UK arts must not be sacrificed for speculative AI gains, peers say",
-        "what_changed": "Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permissionThe UK’s creative industries must not be sacrificed in the pursuit of speculative gains in AI technology, a House of Lords committee has warned, as the government prepares to reveal the economic cost of proposals to change copyright rules.A report by peers has urged ministers to develop a licensing regime for the use of creative works in AI products and abandon proposals to let tech firms use the work of novelists, artists, writers and journalists without permission. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "Samsung to Launch First AI Smart Glasses in 2026",
+        "what_changed": "Samsung announced it will launch its first AI smart glasses in 2026, marking its entry into this product category.",
+        "why_care": "This signals a future shift in how users interact with technology and access information, potentially impacting product design and user experience.",
+        "what_to_do": "Begin researching the potential applications of smart glasses in your industry to anticipate future product opportunities or challenges."
       },
       {
         "id": 2,
-        "headline": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
-        "what_changed": "Microsoft is the first major company to say it will keep using Anthropic models in its products.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Workflows",
+        "what_changed": "Liquid AI launched LocalCowork, an open-source desktop agent application, and LFM2-24B-A2B, a model optimized for running enterprise AI workflows entirely on-device.",
+        "why_care": "This solution enables you to implement AI agents for sensitive data without external API calls, ensuring privacy and compliance for your projects.",
+        "what_to_do": "Investigate LocalCowork to see if it can be integrated into your team's workflows to handle confidential data processing securely."
       },
       {
         "id": 3,
-        "headline": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-        "what_changed": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "UK Peers Urge Protection for Arts in AI Copyright Debate",
+        "what_changed": "A UK House of Lords committee urged ministers to create a licensing regime for AI use of creative works and abandon plans to allow tech firms to use them without permission.",
+        "why_care": "Potential changes in copyright law could impact how your team sources and uses creative content for AI training or product development.",
+        "what_to_do": "Monitor UK copyright law developments to understand potential restrictions or costs for using creative works in your AI-powered products."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley's top tech banker: It's 'wartime, not peacetime' for software",
-        "what_changed": "AI is delivering a reality check to Wall Street — and it’s clear from the vibe shift at the Morgan Stanley Tech, Media and Telecom conference.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "WhatsApp Expands Third-Party AI Chatbot Access to Brazil",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar decision in Europe.",
+        "why_care": "This opens new avenues for integrating AI-powered customer support or engagement tools directly into a widely used communication platform.",
+        "what_to_do": "Evaluate how third-party AI chatbots on WhatsApp could enhance your product's customer service or user engagement strategies in relevant markets."
       }
     ],
     "marketing": [
       {
         "id": 0,
-        "headline": "Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP)",
-        "what_changed": "Liquid AI has released LFM2-24B-A2B, a model optimized for local, low-latency tool dispatch, alongside LocalCowork, an open-source desktop agent application available in their Liquid4All GitHub Cookbook. The release provides a deployable architecture for running enterprise workflows entirely on-device, eliminating API calls and data egress for privacy-sensitive environments. Architecture and Serving Configuration To achieve low-latency execution […] The post Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP) appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "OpenAI's ChatGPT for Excel: New AI Add-in for Spreadsheet Analysis",
+        "what_changed": "OpenAI launched a beta add-in, 'ChatGPT for Excel,' which allows you to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool can help you quickly analyze marketing campaign data, track budgets, and generate reports without complex formulas.",
+        "what_to_do": "Explore the beta add-in to see how it can streamline your data analysis for marketing campaigns and reporting."
       },
       {
         "id": 1,
-        "headline": "UK arts must not be sacrificed for speculative AI gains, peers say",
-        "what_changed": "Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permissionThe UK’s creative industries must not be sacrificed in the pursuit of speculative gains in AI technology, a House of Lords committee has warned, as the government prepares to reveal the economic cost of proposals to change copyright rules.A report by peers has urged ministers to develop a licensing regime for the use of creative works in AI products and abandon proposals to let tech firms use the work of novelists, artists, writers and journalists without permission. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung announced it will release its first AI smart glasses in 2026.",
+        "why_care": "This signals a new frontier for immersive advertising and content delivery, potentially changing how you engage with your audience.",
+        "what_to_do": "Start brainstorming how augmented reality experiences could integrate into your future marketing strategies."
       },
       {
         "id": 2,
-        "headline": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
-        "what_changed": "Microsoft is the first major company to say it will keep using Anthropic models in its products.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent application, and LFM2-24B-A2B, a model for running enterprise AI workflows locally.",
+        "why_care": "This allows you to execute privacy-sensitive marketing tasks, like analyzing customer data, directly on your device without sending information to external servers.",
+        "what_to_do": "Investigate LocalCowork for secure, on-device processing of sensitive customer data in your marketing analytics."
       },
       {
         "id": 3,
-        "headline": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-        "what_changed": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "UK Peers Urge Protection for Arts in AI Copyright Debate",
+        "what_changed": "A UK House of Lords committee urged ministers to create a licensing regime for AI use of creative works and abandon plans to allow tech firms to use content without permission.",
+        "why_care": "This debate directly impacts how you can legally use AI to generate content, affecting your content creation workflows and potential licensing costs.",
+        "what_to_do": "Stay informed on evolving copyright laws in your region to ensure your AI-generated content complies with intellectual property regulations."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley's top tech banker: It's 'wartime, not peacetime' for software",
-        "what_changed": "AI is delivering a reality check to Wall Street — and it’s clear from the vibe shift at the Morgan Stanley Tech, Media and Telecom conference.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role."
+        "headline": "WhatsApp Expands Third-Party AI Chatbots to Brazil",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar move in Europe.",
+        "why_care": "This opens new avenues for you to integrate diverse AI-powered customer service and engagement tools directly into your WhatsApp marketing strategies.",
+        "what_to_do": "Research third-party AI chatbot options available on WhatsApp to enhance your customer support and engagement in relevant markets."
       }
     ],
     "sales": [
       {
         "id": 0,
-        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Workflows",
-        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI tasks directly on your device.",
-        "why_care": "This allows your prospects in highly regulated industries to use AI tools without their sensitive data leaving their systems, addressing a major privacy concern.",
-        "what_to_do": "Research which of your target accounts have strict data privacy needs and how this technology could solve their compliance issues."
+        "headline": "OpenAI's GPT-5.4 powers new ChatGPT for Excel add-in",
+        "what_changed": "OpenAI launched a beta add-in, 'ChatGPT for Excel,' which allows users to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool can help you quickly analyze sales data, build forecasts, and generate reports without complex formulas, freeing up your time for selling.",
+        "what_to_do": "Explore the 'ChatGPT for Excel' add-in to see how it can automate your weekly sales reporting and data analysis tasks."
       },
       {
         "id": 1,
-        "headline": "UK Lords Committee Urges AI Copyright Protection for Creative Works",
-        "what_changed": "A UK House of Lords committee recommended that the government require licensing for creative works used in AI, rather than allowing free use.",
-        "why_care": "This could impact how AI tools are developed and priced, potentially affecting the features and costs of sales enablement tools you use.",
-        "what_to_do": "Monitor news on AI copyright laws, especially if your company uses AI-powered content generation tools, to understand future compliance needs."
+        "headline": "Samsung to launch AI smart glasses in 2026",
+        "what_changed": "Samsung revealed it will launch its first AI smart glasses in 2026.",
+        "why_care": "These glasses could eventually offer new ways to access client information, present products, or even record meeting notes hands-free during sales calls.",
+        "what_to_do": "Research current smart glasses technology to understand potential future applications for sales, like augmented reality product demos."
       },
       {
         "id": 2,
-        "headline": "Microsoft Continues Using Anthropic AI Despite Pentagon Blacklist",
-        "what_changed": "Microsoft confirmed it will continue to offer Anthropic's AI products to its customers, even after the Pentagon blacklisted the company.",
-        "why_care": "This shows that major tech partners are committed to their AI integrations, providing stability for sales tools built on these platforms.",
-        "what_to_do": "Review your current tech stack to see if any of your sales tools rely on Anthropic models and understand their continued availability."
+        "headline": "Liquid AI releases LocalCowork for privacy-first AI workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent application, and LFM2-24B-A2B, a model for running enterprise AI workflows entirely on-device without API calls.",
+        "why_care": "This allows you to use AI tools for sensitive client data or internal sales strategies without worrying about data leaving your company's secure environment.",
+        "what_to_do": "Ask your IT department if your company is exploring on-device AI solutions for sales tools to enhance data privacy."
       },
       {
         "id": 3,
-        "headline": "Ray-Ban Meta Smart Glasses Raise Privacy Concerns Over Footage Misuse",
-        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses showing people in private settings, raising serious privacy questions.",
-        "why_care": "This highlights growing privacy concerns around wearable tech, which could make your prospects hesitant to adopt new tools that involve recording or data collection.",
-        "what_to_do": "Be prepared to address privacy and data security questions from prospects when discussing any sales tools that involve data capture or recording."
+        "headline": "UK peers warn against sacrificing arts for AI gains, urge licensing",
+        "what_changed": "A UK House of Lords committee urged ministers to abandon plans allowing tech firms to use creative works without permission and to develop a licensing regime for AI products.",
+        "why_care": "This debate impacts the future of content creation, which could affect how you access or use marketing materials, sales collateral, and training content generated by AI.",
+        "what_to_do": "Stay aware of copyright developments in AI, especially regarding how your company sources or creates content for sales and marketing."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
-        "what_changed": "Morgan Stanley's top tech banker stated that AI is creating a 'wartime' environment for the software industry, indicating significant disruption.",
-        "why_care": "This means your software prospects are likely facing intense pressure to adapt, creating both urgency and potential budget shifts for new solutions.",
-        "what_to_do": "Research how AI is impacting your key accounts' industries and tailor your sales pitch to address their specific challenges and opportunities related to AI."
+        "headline": "WhatsApp to allow rival AI chatbots in Brazil, following Europe",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots on WhatsApp to users in Brazil, similar to a recent decision for European users.",
+        "why_care": "This expands the ways your prospects and clients might interact with businesses through WhatsApp, potentially streamlining lead qualification or customer support.",
+        "what_to_do": "Consider how integrating AI chatbots into your WhatsApp business communications could improve your response times or lead engagement in relevant markets."
       }
     ],
     "customer_support": [
       {
         "id": 0,
-        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Support Workflows",
-        "what_changed": "Liquid AI released LocalCowork, an open-source desktop application, and LFM2-24B-A2B, a new AI model, that allow AI agent workflows to run entirely on your computer.",
-        "why_care": "This means your customer data can stay private and secure on your device, avoiding external servers and protecting sensitive customer information.",
-        "what_to_do": "Research LocalCowork to understand how on-device AI could enhance privacy in your support operations."
+        "headline": "OpenAI's GPT-5.4 Powers ChatGPT for Excel, Enhancing Spreadsheet Analysis",
+        "what_changed": "OpenAI launched a beta add-in, 'ChatGPT for Excel,' which uses GPT-5.4 to let you create, edit, and analyze spreadsheets with natural language.",
+        "why_care": "This tool could help you quickly analyze customer data in spreadsheets, identify trends, or generate reports more efficiently.",
+        "what_to_do": "Explore if your company's Excel usage could benefit from this add-in and discuss potential pilot programs with your IT department this week."
       },
       {
         "id": 1,
-        "headline": "UK Lords Warn Against Sacrificing Arts for AI Gains, Urge Licensing",
-        "what_changed": "A UK House of Lords committee urged the government to create a licensing system for AI companies to use creative works, rather than allowing free use.",
-        "why_care": "This discussion impacts how AI tools you might use are trained, potentially affecting the quality and ethical sourcing of their content generation.",
-        "what_to_do": "Stay informed about copyright and AI regulations, as they may influence the tools and content you use in customer interactions."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung revealed it will launch its first AI smart glasses in 2026.",
+        "why_care": "These glasses could eventually offer new ways to access information or communicate with customers hands-free, potentially improving your efficiency.",
+        "what_to_do": "Keep an eye on future announcements about these devices to understand their potential impact on customer interaction and support tools."
       },
       {
         "id": 2,
-        "headline": "Microsoft Confirms Continued Use of Anthropic AI Despite Pentagon Blacklist",
-        "what_changed": "Microsoft stated it will continue to offer Anthropic's AI products to its customers, even after the Pentagon blacklisted Anthropic.",
-        "why_care": "This shows that major tech partners are committed to specific AI providers, which could impact the stability and features of AI tools you use through Microsoft products.",
-        "what_to_do": "If you use Microsoft products with integrated AI, monitor announcements about Anthropic's future availability and features."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop application, and LFM2-24B-A2B, a model for running AI workflows directly on your device without sending data externally.",
+        "why_care": "This technology allows you to use AI tools for sensitive customer information without privacy concerns, as data stays on your local machine.",
+        "what_to_do": "Discuss with your IT and security teams if local AI solutions like LocalCowork could enhance privacy for your customer support operations."
       },
       {
         "id": 3,
-        "headline": "Workers Report Privacy Concerns with Ray-Ban Meta Smart Glasses Footage",
-        "what_changed": "Reports surfaced that workers viewed footage from Ray-Ban Meta smart glasses, including sensitive private moments, raising privacy concerns.",
-        "why_care": "This highlights the critical importance of customer privacy and data handling, especially when using new technologies that capture personal information.",
-        "what_to_do": "Review your company's privacy policies and ensure all team members understand the ethical implications of using recording devices in customer-facing roles."
+        "headline": "UK Peers Urge Protection for Arts Amidst AI Copyright Debate",
+        "what_changed": "A UK House of Lords committee urged ministers to create a licensing system for AI to use creative works, rather than allowing tech firms to use them without permission.",
+        "why_care": "This debate impacts the ethical use of content for AI training, which could affect the quality and legality of AI tools you use for customer support content generation.",
+        "what_to_do": "Stay informed about copyright and AI regulations, as they may influence the tools and content you can ethically use in your support role."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker Says AI Creates 'Wartime' for Software Industry",
-        "what_changed": "A top Morgan Stanley tech banker described the current software industry climate as 'wartime' due to the disruptive impact of AI.",
-        "why_care": "This indicates a rapid shift in the software landscape, meaning the tools and platforms you use for customer support will likely evolve quickly with new AI capabilities.",
-        "what_to_do": "Actively explore new AI-powered customer support tools and features to understand how they can improve your efficiency and customer experience."
+        "headline": "WhatsApp to Allow Rival AI Chatbots in Brazil After Europe Rollout",
+        "what_changed": "WhatsApp will now let other AI companies offer their chatbots to users in Brazil for a fee, following a similar decision in Europe.",
+        "why_care": "This means customers might interact with a wider range of AI chatbots on WhatsApp, potentially changing how they seek support and information.",
+        "what_to_do": "Monitor how customers in your region use WhatsApp for support and be prepared for potential changes in how they interact with AI chatbots."
       }
     ],
     "finance": [
       {
         "id": 0,
-        "headline": "Liquid AI Launches LocalCowork for Privacy-First AI Agent Workflows",
-        "what_changed": "Liquid AI released LFM2-24B-A2B and LocalCowork, enabling AI agent workflows to run entirely on your device without sending data externally.",
-        "why_care": "This allows you to use AI tools for sensitive financial data analysis and automation while maintaining strict data privacy and compliance.",
-        "what_to_do": "Investigate how LocalCowork could be integrated into your firm's secure data environments for internal financial analysis this week."
+        "headline": "OpenAI Launches ChatGPT for Excel with Finance-Optimized GPT-5.4 Model",
+        "what_changed": "OpenAI released a beta add-in, 'ChatGPT for Excel,' powered by its new GPT-5.4 model, allowing you to use natural language for spreadsheet tasks.",
+        "why_care": "This tool could significantly speed up your data analysis, financial modeling, and report generation directly within Excel.",
+        "what_to_do": "Explore the beta add-in for ChatGPT for Excel to understand its capabilities for your daily tasks."
       },
       {
         "id": 1,
-        "headline": "UK Lords Committee Warns Against Sacrificing Arts for AI Gains, Urges Licensing",
-        "what_changed": "A UK House of Lords committee recommended against allowing AI firms to use creative works without permission, urging a new licensing regime instead.",
-        "why_care": "This debate impacts the valuation of intellectual property and could influence future regulations on data usage for AI models, affecting your firm's investment strategies and risk assessments.",
-        "what_to_do": "Monitor upcoming UK government announcements on AI copyright rules to understand potential impacts on your firm's digital asset valuations and investment portfolios."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung announced it will launch its first AI smart glasses in 2026, entering a new product category.",
+        "why_care": "This signals a future where financial data and tools could be accessed and interacted with through augmented reality, changing how you work.",
+        "what_to_do": "Research the potential applications of AI smart glasses in finance to anticipate future technological shifts."
       },
       {
         "id": 2,
-        "headline": "Microsoft Confirms Continued Use of Anthropic Products Despite Pentagon Blacklist",
-        "what_changed": "Microsoft stated it will continue to make Anthropic's AI products available to its customers, despite a recent Pentagon blacklist.",
-        "why_care": "This indicates Microsoft's commitment to its AI partnerships, which could influence your firm's technology stack decisions and vendor risk assessments.",
-        "what_to_do": "Review your firm's current or planned use of Microsoft and Anthropic AI services to understand any potential implications of this decision on your operations."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent application, and LFM2-24B-A2B, a model for running enterprise AI workflows entirely on-device.",
+        "why_care": "This technology allows you to process sensitive financial data with AI locally, eliminating privacy concerns related to cloud-based API calls.",
+        "what_to_do": "Investigate how LocalCowork could be used to enhance data privacy for your firm's internal AI applications."
       },
       {
         "id": 3,
-        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses Footage",
-        "what_changed": "Reports surfaced that workers viewed private footage, including people using bathrooms, captured by Ray-Ban Meta smart glasses.",
-        "why_care": "This highlights significant privacy and data security risks associated with wearable AI devices, which could impact your firm's employee privacy policies and data governance frameworks.",
-        "what_to_do": "Re-evaluate your firm's policies on wearable technology in the workplace to ensure compliance with privacy regulations and protect sensitive information this week."
+        "headline": "UK Peers Urge Licensing for AI Use of Creative Works, Reject Free Use",
+        "what_changed": "A UK House of Lords committee urged ministers to create a licensing regime for AI use of creative works, opposing plans to let tech firms use them without permission.",
+        "why_care": "This debate impacts intellectual property rights, which could influence the valuation of creative assets and the cost of AI development for your firm.",
+        "what_to_do": "Monitor developments in AI copyright law, as changes could affect your firm's investment strategies in technology and media."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker Declares 'Wartime' for Software Amid AI Shift",
-        "what_changed": "Morgan Stanley's top tech banker described the current software landscape as 'wartime,' signaling a major shift driven by AI.",
-        "why_care": "This reflects a significant re-evaluation of software company valuations and investment strategies, directly impacting your firm's technology sector investments and financial models.",
-        "what_to_do": "Assess your firm's technology investment portfolio for companies that may be vulnerable or poised for growth in this AI-driven 'wartime' environment."
+        "headline": "WhatsApp Expands AI Chatbot Access to Brazil After Europe Rollout",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar move in Europe.",
+        "why_care": "This expansion means more AI-powered communication tools will be available, potentially impacting how you interact with clients and access financial information.",
+        "what_to_do": "Evaluate how the increased availability of AI chatbots on platforms like WhatsApp might affect your client communication strategies."
       }
     ],
     "legal": [
       {
         "id": 0,
-        "headline": "Liquid AI Launches LocalCowork for Privacy-First AI Agent Workflows",
-        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI workflows entirely on your device without external API calls.",
-        "why_care": "This allows you to use AI tools for sensitive legal work, like contract review or case analysis, while keeping all data private and on-premise, addressing major data security and compliance concerns.",
-        "what_to_do": "Investigate how LocalCowork's on-device processing could be integrated into your firm's secure legal tech stack for privacy-sensitive tasks."
+        "headline": "OpenAI Launches ChatGPT for Excel Beta, Powered by GPT-5.4",
+        "what_changed": "OpenAI released a beta add-in, 'ChatGPT for Excel,' allowing users to create, edit, and analyze spreadsheets using natural language, powered by its new GPT-5.4 model.",
+        "why_care": "This tool could streamline your data analysis for legal operations, financial reporting, or case management by simplifying complex spreadsheet tasks.",
+        "what_to_do": "Explore the 'ChatGPT for Excel' beta to understand its capabilities for your firm's data management."
       },
       {
         "id": 1,
-        "headline": "UK Lords Urge Licensing for AI Use of Creative Works, Rejecting Unrestricted Access",
-        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI to use creative works and urged ministers to abandon plans allowing tech firms to use such works without permission.",
-        "why_care": "This directly impacts copyright law and intellectual property rights, shaping how AI models are trained and how you advise clients on protecting their creative assets or using AI ethically.",
-        "what_to_do": "Review your firm's current IP protection strategies and prepare to advise clients on potential new licensing requirements for AI-generated content or AI training data."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung announced it will release its first AI smart glasses in 2026.",
+        "why_care": "These glasses could impact how you conduct legal research, client meetings, or courtroom presentations by offering new ways to access information hands-free.",
+        "what_to_do": "Begin researching the potential legal and ethical implications of smart glasses in professional settings, such as privacy and data security."
       },
       {
         "id": 2,
-        "headline": "Microsoft Continues Using Anthropic AI Products Despite Pentagon Blacklist",
-        "what_changed": "Microsoft confirmed it will continue to make Anthropic's AI products available to its customers, even after the Pentagon blacklisted Anthropic.",
-        "why_care": "This highlights the complex and sometimes conflicting regulatory landscape surrounding AI vendors, which could affect your firm's technology choices and compliance obligations.",
-        "what_to_do": "Assess your firm's AI vendor contracts and internal policies to ensure they account for potential supply chain risks or regulatory actions against AI providers."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Workflows",
+        "what_changed": "Liquid AI launched LocalCowork, an open-source desktop agent application powered by LFM2-24B-A2B, enabling privacy-focused enterprise workflows to run entirely on-device without API calls.",
+        "why_care": "This technology offers a solution for you to use AI tools for sensitive legal work, ensuring client confidentiality and data privacy by keeping all operations local.",
+        "what_to_do": "Investigate how LocalCowork's on-device processing could enhance your firm's data security protocols for AI tool adoption."
       },
       {
         "id": 3,
-        "headline": "Meta Accused of Concealing Privacy Risks of Ray-Ban Smart Glasses",
-        "what_changed": "Workers reported viewing footage from Ray-Ban Meta smart glasses showing people in private settings, leading to accusations that Meta is concealing user privacy facts.",
-        "why_care": "This raises significant privacy and surveillance concerns, impacting your advice on data protection, consent, and the responsible use of wearable technology in professional or public settings.",
-        "what_to_do": "Advise clients on the legal implications of recording and data collection by smart devices, emphasizing consent and privacy policies for their employees and customers."
+        "headline": "UK Peers Urge Copyright Protection for Creative Works in AI Training",
+        "what_changed": "A UK House of Lords committee urged ministers to abandon plans allowing tech firms to use creative works without permission for AI training and instead develop a licensing regime.",
+        "why_care": "This debate directly impacts your understanding of intellectual property rights in the age of AI, particularly concerning copyright infringement and fair use for content used in AI models.",
+        "what_to_do": "Monitor UK legislative developments on AI and copyright to understand potential changes to intellectual property law that may affect your clients."
       },
       {
-        "id_": 4,
-        "headline": "Morgan Stanley Banker Declares 'Wartime' for Software Amid AI Shift",
-        "what_changed": "Morgan Stanley's top tech banker stated that the software industry is in a 'wartime, not peacetime' phase due to the disruptive impact of AI.",
-        "why_care": "This signifies a rapid, fundamental shift in the tech industry, meaning your legal tech vendors and clients will face intense pressure to innovate or adapt, affecting their legal needs and your service offerings.",
-        "what_to_do": "Evaluate how AI disruption might impact your firm's software vendors and legal tech investments, preparing for potential shifts in product offerings or company stability."
+        "id": 4,
+        "headline": "WhatsApp Expands Third-Party AI Chatbot Access to Brazil",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots to WhatsApp users in Brazil for a fee, following a similar rollout in Europe.",
+        "why_care": "This expansion means you may encounter more AI chatbots on platforms you use for client communication, raising new questions about data privacy, security, and professional conduct.",
+        "what_to_do": "Review your firm's policies on using third-party communication tools and AI chatbots to ensure compliance with data privacy regulations and professional ethics."
       }
     ],
     "hr": [
       {
         "id": 0,
-        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Workflows",
-        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and the LFM2-24B-A2B model, enabling AI workflows to run entirely on your device without sending data externally.",
-        "why_care": "This technology allows your organization to use AI for sensitive HR tasks, like reviewing performance data or compensation plans, while maintaining strict data privacy and compliance.",
-        "what_to_do": "Investigate how LocalCowork could be piloted for secure, on-device processing of confidential HR documents or data within your organization this week."
+        "headline": "OpenAI Launches ChatGPT for Excel Beta, Powered by New GPT-5.4 Model",
+        "what_changed": "OpenAI released a beta add-in, 'ChatGPT for Excel,' allowing users to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool can simplify data analysis for HR metrics, compensation planning, and talent analytics, making your work more efficient.",
+        "what_to_do": "Explore the 'ChatGPT for Excel' beta to see how it can automate your HR data tasks and reporting."
       },
       {
         "id": 1,
-        "headline": "UK Lords Warn Against Sacrificing Arts for AI, Urge Licensing",
-        "what_changed": "A UK House of Lords committee urged the government to create a licensing system for using creative works in AI, opposing plans to let tech firms use content without permission.",
-        "why_care": "This debate impacts how your organization sources and uses content for AI training, especially for learning and development materials or internal communications, affecting copyright compliance and costs.",
-        "what_to_do": "Review your current content acquisition policies for AI training and development to ensure they align with potential future copyright regulations this week."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung announced it will launch its first AI smart glasses in 2026.",
+        "why_care": "These smart glasses could transform how you deliver training, conduct virtual meetings, or onboard new employees in the future.",
+        "what_to_do": "Research emerging AR/VR technologies to understand their potential impact on future HR training and collaboration methods."
       },
       {
         "id": 2,
-        "headline": "Microsoft Continues Using Anthropic Models Despite Pentagon Blacklist",
-        "what_changed": "Microsoft confirmed it will continue to use Anthropic's AI models in its products, despite the Pentagon blacklisting Anthropic.",
-        "why_care": "This decision by a major tech provider like Microsoft signals confidence in Anthropic's technology, which could influence your organization's AI tool selection and vendor risk assessments.",
-        "what_to_do": "Assess your organization's vendor risk management framework to ensure it accounts for evolving government blacklists or endorsements of AI providers this week."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Workflows",
+        "what_changed": "Liquid AI launched LocalCowork, an open-source desktop agent application, and LFM2-24B-A2B, a model for running enterprise AI workflows entirely on-device.",
+        "why_care": "This technology allows you to use AI for sensitive HR tasks, like compensation analysis or performance reviews, without data leaving your local systems, ensuring privacy.",
+        "what_to_do": "Investigate how local AI solutions like LocalCowork could be securely implemented for privacy-sensitive HR data processing within your organization."
       },
       {
         "id": 3,
-        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses",
-        "what_changed": "Workers reported instances of people using Ray-Ban Meta smart glasses to record others in private spaces, raising concerns about user privacy.",
-        "why_care": "This highlights the growing privacy risks associated with wearable tech in the workplace, which could lead to employee discomfort, legal issues, and a need for clear policy updates.",
-        "what_to_do": "Draft an updated workplace policy on the use of smart glasses and other recording devices to address privacy concerns and employee expectations this week."
+        "headline": "UK Peers Urge Protection for Arts Amidst AI Copyright Debate",
+        "what_changed": "A UK House of Lords committee urged ministers to create a licensing regime for AI use of creative works, opposing plans to allow tech firms to use them without permission.",
+        "why_care": "This debate highlights the ethical and legal complexities of AI, which will impact your policies on content creation, intellectual property, and employee training materials.",
+        "what_to_do": "Review your organization's policies on AI tool usage and content creation to ensure compliance with evolving copyright laws and ethical guidelines."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
-        "what_changed": "A top Morgan Stanley tech banker stated that the software industry is in 'wartime, not peacetime' due to the impact of AI.",
-        "why_care": "This shift indicates rapid changes in the tech landscape, requiring your HR team to adapt talent strategies, skill development, and workforce planning to support evolving software needs.",
-        "what_to_do": "Begin an internal audit of your current software development and IT teams' AI skill gaps and future training needs this week."
+        "headline": "WhatsApp Expands AI Chatbot Integration to Brazil, Following Europe",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots on WhatsApp to users in Brazil, similar to a recent decision for Europe.",
+        "why_care": "This expansion means more AI-powered communication tools will become mainstream, potentially impacting how you manage internal communications, employee support, or recruitment outreach.",
+        "what_to_do": "Assess how AI chatbots on platforms like WhatsApp could enhance or complicate your HR communication strategies and employee engagement efforts."
       }
     ],
     "healthcare": [
       {
         "id": 0,
-        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Workflows",
-        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI tasks directly on your device.",
-        "why_care": "This technology allows you to use AI tools for sensitive patient data or administrative tasks without sending information outside your secure network, protecting patient privacy.",
-        "what_to_do": "Investigate if LocalCowork can be integrated into your facility's existing IT infrastructure for secure, on-device AI applications."
+        "headline": "OpenAI's GPT-5.4 Powers ChatGPT for Excel, Enhancing Spreadsheet Analysis",
+        "what_changed": "OpenAI launched 'ChatGPT for Excel,' a beta add-in allowing you to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool could simplify data analysis, reporting, and administrative tasks, freeing up your time for patient care or complex clinical decisions.",
+        "what_to_do": "Explore the beta add-in if available to see how it can streamline your data management workflows."
       },
       {
         "id": 1,
-        "headline": "UK Peers Warn Against Sacrificing Arts for AI Gains, Urge Licensing",
-        "what_changed": "A UK House of Lords committee advised the government to create a licensing system for AI to use creative works, rather than allowing free use.",
-        "why_care": "This discussion impacts how AI models are trained, which could affect the quality and ethical sourcing of information used in AI tools you might rely on for clinical research or education.",
-        "what_to_do": "Review your institution's policies on AI tool usage to ensure they align with ethical data sourcing and intellectual property considerations."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung revealed it will launch its first AI smart glasses in 2026.",
+        "why_care": "Future versions of these glasses could offer hands-free access to patient data, surgical assistance, or remote consultations, changing how you deliver care.",
+        "what_to_do": "Keep an eye on developments in AI wearable technology to understand its potential impact on clinical practice."
       },
       {
         "id": 2,
-        "headline": "Microsoft Confirms Continued Use of Anthropic AI Models After Pentagon Blacklist",
-        "what_changed": "Microsoft stated it will continue to use Anthropic's AI models in its products, despite the Pentagon blacklisting the company.",
-        "why_care": "This means that AI tools you use through Microsoft platforms will still have access to Anthropic's capabilities, potentially impacting the features and performance of those tools.",
-        "what_to_do": "Stay informed about the specific AI models powering the Microsoft tools you use to understand their capabilities and any associated policy changes."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent application, and LFM2-24B-A2B, a model for running enterprise workflows entirely on-device without API calls.",
+        "why_care": "This technology allows you to use AI tools for sensitive patient data analysis and administrative tasks while maintaining strict privacy and avoiding data breaches.",
+        "what_to_do": "Investigate how on-device AI solutions like LocalCowork could enhance data security for your organization's AI initiatives."
       },
       {
         "id": 3,
-        "headline": "Workers Report Viewing Private Footage from Ray-Ban Meta Smart Glasses",
-        "what_changed": "Workers have reported seeing footage recorded by Ray-Ban Meta smart glasses, including sensitive private moments, raising concerns about user privacy.",
-        "why_care": "This highlights significant privacy risks with wearable recording devices in healthcare settings, where patient confidentiality is paramount.",
-        "what_to_do": "Ensure your facility has clear, enforced policies prohibiting the use of personal recording devices like smart glasses in patient care areas."
+        "headline": "UK Peers Urge Protection of Arts from Speculative AI Gains",
+        "what_changed": "A UK House of Lords committee urged ministers to develop a licensing regime for AI to use creative works and abandon plans to let tech firms use content without permission.",
+        "why_care": "While not directly healthcare, this debate highlights the broader ethical and legal considerations of AI, which will also impact how AI uses medical data and intellectual property in healthcare.",
+        "what_to_do": "Stay informed about AI copyright and data usage regulations, as these frameworks will influence how AI tools are developed and deployed in healthcare."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' Environment for Software Industry",
-        "what_changed": "A top Morgan Stanley tech banker described the current software industry climate as 'wartime' due to the rapid advancements and impact of AI.",
-        "why_care": "This signals that software companies are intensely focused on integrating AI, meaning you can expect rapid changes and new AI-powered features in the healthcare software you use.",
-        "what_to_do": "Actively participate in training and updates for your clinical and administrative software to leverage new AI features as they become available."
+        "headline": "WhatsApp to Allow Rival AI Chatbots in Brazil After Europe Rollout",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar decision in Europe.",
+        "why_care": "This expansion means you might soon have access to a wider range of AI-powered communication tools within familiar platforms, potentially improving patient engagement or information sharing.",
+        "what_to_do": "Consider how integrating AI chatbots into secure communication platforms could enhance patient education or appointment management in your practice."
       }
     ],
     "education": [
       {
         "id": 0,
-        "headline": "Liquid AI Releases LocalCowork for Privacy-First AI Workflows on Your Device",
-        "what_changed": "Liquid AI released LFM2-24B-A2B, a new model, and LocalCowork, an open-source desktop agent, enabling AI workflows to run entirely on your local device.",
-        "why_care": "This allows you to use AI tools with sensitive student data or proprietary curriculum without worrying about data leaving your institution's control.",
-        "what_to_do": "Investigate how LocalCowork could be used for secure, on-device AI assistance in your instructional design or administrative tasks."
+        "headline": "OpenAI's GPT-5.4 Powers ChatGPT for Excel, Enhancing Spreadsheet Analysis",
+        "what_changed": "OpenAI launched 'ChatGPT for Excel,' a beta add-in that allows you to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool can simplify data analysis for tracking grades, managing budgets, or organizing educational resources, making complex tasks more accessible.",
+        "what_to_do": "Explore the beta add-in if available to see how it can streamline your data management tasks in Excel."
       },
       {
         "id": 1,
-        "headline": "UK Peers Urge Protection for Arts in AI Copyright Debate",
-        "what_changed": "A UK House of Lords committee recommended that ministers create a licensing system for AI to use creative works, opposing plans to allow free use without permission.",
-        "why_care": "This debate directly impacts how AI tools you use might access and potentially plagiarize copyrighted educational materials, textbooks, and artistic works.",
-        "what_to_do": "Review your institution's policies on AI tool usage to ensure they address copyright and intellectual property, especially when generating content."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung revealed it will release its first AI smart glasses in 2026.",
+        "why_care": "These smart glasses could offer new ways to deliver interactive lessons, provide augmented reality experiences, or support remote learning in the future.",
+        "what_to_do": "Consider how augmented reality or hands-free computing might integrate into your teaching methods over the next few years."
       },
       {
         "id": 2,
-        "headline": "Microsoft Continues Using Anthropic AI After Pentagon Blacklist",
-        "what_changed": "Microsoft confirmed it will continue to offer and use Anthropic's AI models in its products, despite the Pentagon blacklisting the company.",
-        "why_care": "This decision shows that major tech partners may continue using specific AI models even when other government entities raise concerns, impacting the tools you rely on.",
-        "what_to_do": "Stay informed about the specific AI models powering the educational tools you use and any controversies surrounding their developers or data practices."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent application powered by LFM2-24B-A2B, enabling privacy-focused AI workflows directly on your device.",
+        "why_care": "This technology allows you to use AI tools for tasks like content generation or administrative support without sending sensitive student data or proprietary course materials to external servers.",
+        "what_to_do": "Investigate LocalCowork to see if it can help you implement AI tools for your work while maintaining strict data privacy standards."
       },
       {
         "id": 3,
-        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses",
-        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses showing people in private settings, raising serious privacy concerns.",
-        "why_care": "This highlights the significant privacy risks associated with wearable recording devices in educational environments, impacting student and staff safety.",
-        "what_to_do": "Communicate clear guidelines to students and staff about the prohibition of recording devices like smart glasses in classrooms and private campus spaces."
+        "headline": "UK Peers Urge Protection for Arts Against Unlicensed AI Use",
+        "what_changed": "A UK House of Lords committee urged ministers to protect creative works from being used by AI without permission and to develop a licensing regime.",
+        "why_care": "This discussion impacts how you can ethically use AI tools for creating educational content, ensuring that original works are respected and properly attributed.",
+        "what_to_do": "Stay informed about copyright laws and AI usage, ensuring you model ethical AI practices when creating or using AI-generated materials in your classroom."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker Declares 'Wartime' for Software Due to AI",
-        "what_changed": "Morgan Stanley's top tech banker stated that the software industry is in a 'wartime' phase, indicating a rapid and disruptive shift driven by AI.",
-        "why_care": "This signals that the educational software and technology you use will undergo significant, fast-paced changes, requiring you to adapt quickly.",
-        "what_to_do": "Prioritize professional development opportunities that focus on integrating new AI-powered educational software and understanding its implications for your role."
+        "headline": "WhatsApp to Allow Rival AI Chatbots in Brazil After Europe Rollout",
+        "what_changed": "Meta will now allow rival AI companies to offer their chatbots to WhatsApp users in Brazil, similar to a recent decision for European users.",
+        "why_care": "This expansion means you might soon have access to a wider range of AI-powered assistants directly within a platform many of your students already use, potentially enhancing communication and learning support.",
+        "what_to_do": "Explore the types of AI chatbots becoming available on messaging platforms to understand their potential for student engagement and support."
       }
     ],
     "media_content": [
       {
         "id": 0,
-        "headline": "Liquid AI Launches LocalCowork for Private, On-Device AI Workflows",
-        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI tasks entirely on your device.",
-        "why_care": "This allows you to use AI tools for sensitive content creation or fact-checking without your data leaving your computer, enhancing privacy.",
-        "what_to_do": "Explore Liquid AI's GitHub Cookbook for LocalCowork to see how you can run AI agents locally for private projects."
+        "headline": "OpenAI Launches ChatGPT for Excel Beta, Powered by GPT-5.4",
+        "what_changed": "OpenAI released a beta add-in called 'ChatGPT for Excel' that allows users to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool could help you quickly organize data, generate story ideas from spreadsheets, or analyze research findings without complex formulas.",
+        "what_to_do": "Explore how ChatGPT for Excel could automate data organization for your research or content planning this week."
       },
       {
         "id": 1,
-        "headline": "UK Peers Urge Protection for Creators Against Unlicensed AI Use",
-        "what_changed": "A UK House of Lords committee urged the government to abandon plans allowing tech firms to use creative works without permission for AI training.",
-        "why_care": "This directly impacts your copyright and ability to control how your articles, scripts, or podcasts are used by AI systems.",
-        "what_to_do": "Monitor UK copyright law developments and consider joining industry groups advocating for fair licensing of creative works for AI."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung confirmed to CNBC that its first AI smart glasses will be released in 2026.",
+        "why_care": "These glasses could change how you gather information, conduct interviews, or even record content hands-free in the future.",
+        "what_to_do": "Consider how hands-free recording and real-time information access could impact your content creation workflows in the next few years."
       },
       {
         "id": 2,
-        "headline": "Microsoft Continues Using Anthropic AI Despite Pentagon Blacklist",
-        "what_changed": "Microsoft confirmed it will continue to offer and use Anthropic's AI models in its products, despite a Pentagon blacklist.",
-        "why_care": "This shows major tech companies are committed to specific AI partners, which could affect the tools and features available to you.",
-        "what_to_do": "Assess if your current or planned AI tools rely on Anthropic models via Microsoft and understand potential implications for your workflows."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Workflows",
+        "what_changed": "Liquid AI launched LocalCowork, an open-source desktop agent application, and LFM2-24B-A2B, a model for running enterprise AI workflows entirely on-device.",
+        "why_care": "This allows you to use AI tools for sensitive tasks like fact-checking or script analysis without sending your data to external servers, protecting your sources and drafts.",
+        "what_to_do": "Investigate LocalCowork to see if it can help you process sensitive research or interview transcripts securely on your local machine."
       },
       {
         "id": 3,
-        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses",
-        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses showing people in private moments, raising serious privacy concerns.",
-        "why_care": "This highlights the ethical and privacy issues surrounding wearable recording devices, which you might encounter in public or professional settings.",
-        "what_to_do": "Be aware of the recording capabilities of smart glasses in public and consider how you would report or address privacy violations if you witnessed them."
+        "headline": "UK Peers Urge Protection for Arts from AI Copyright Changes",
+        "what_changed": "A UK House of Lords committee urged ministers to abandon plans that would allow tech firms to use creative works without permission for AI training.",
+        "why_care": "This directly impacts your rights as a creator, as it seeks to protect your work from being used by AI without proper licensing or consent.",
+        "what_to_do": "Stay informed on UK copyright law developments and consider how they might affect your rights as a content creator."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
-        "what_changed": "A top Morgan Stanley tech banker described the current AI landscape for software as 'wartime,' indicating a period of intense disruption and change.",
-        "why_care": "This signals that AI is rapidly reshaping the tech tools and platforms you use daily, requiring you to adapt quickly to new functionalities and challenges.",
-        "what_to_do": "Actively research new AI-powered software tools relevant to your role and identify how they could streamline or transform your content creation process."
+        "headline": "WhatsApp Expands Third-Party AI Chatbot Access to Brazil",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar move in Europe.",
+        "why_care": "This could change how you interact with audiences or sources, as more AI tools become integrated directly into widely used communication platforms.",
+        "what_to_do": "Explore the types of third-party AI chatbots available on WhatsApp in your region and consider their potential for audience engagement or research."
       }
     ],
     "creative_entertainment": [
       {
         "id": 0,
-        "headline": "Liquid AI Releases LocalCowork for Private, On-Device AI Workflows",
-        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent, and LFM2-24B-A2B, a model for running AI workflows entirely on your device.",
-        "why_care": "This allows you to use AI tools for sensitive projects without sending your creative assets or data to external servers, protecting your intellectual property.",
-        "what_to_do": "Explore the Liquid4All GitHub Cookbook to see how you can implement privacy-focused AI agents for your production pipeline this week."
+        "headline": "OpenAI Launches ChatGPT for Excel Beta, Powered by New GPT-5.4 Model",
+        "what_changed": "OpenAI released a beta add-in, 'ChatGPT for Excel,' which allows you to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This could streamline your production budgeting, scheduling, and asset management by letting you manage data with simple text commands.",
+        "what_to_do": "Explore the beta add-in to see how it can simplify your project management and financial tracking workflows."
       },
       {
         "id": 1,
-        "headline": "UK Lords Committee Urges Protection for Creative Works from AI Exploitation",
-        "what_changed": "A UK House of Lords committee urged the government to create a licensing system for AI use of creative works, rejecting proposals to allow tech firms to use content without permission.",
-        "why_care": "This directly impacts your ability to control how your video, animation, and design work is used by AI, potentially securing your intellectual property rights and fair compensation.",
-        "what_to_do": "Stay informed on UK copyright law developments, as they may influence similar protections for your creative work in other regions."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026, Entering New Product Category",
+        "what_changed": "Samsung announced it will launch its first AI smart glasses in 2026.",
+        "why_care": "These glasses could offer new ways to interact with your creative tools, view augmented reality content, or even assist in live production environments.",
+        "what_to_do": "Keep an eye on Samsung's developments to understand how this technology might integrate into your future creative workflows."
       },
       {
         "id": 2,
-        "headline": "Microsoft Confirms Continued Use of Anthropic AI Models Despite Pentagon Blacklist",
-        "what_changed": "Microsoft stated it will continue to use Anthropic's AI models in its products, despite the Pentagon blacklisting Anthropic.",
-        "why_care": "If you rely on Microsoft tools that integrate Anthropic AI, your workflows will remain uninterrupted, ensuring continuity in your creative production.",
-        "what_to_do": "If you use Microsoft products with AI features, verify which AI models are integrated to understand potential future impacts on your tools."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Agent Workflows",
+        "what_changed": "Liquid AI launched LocalCowork, an open-source desktop agent application, and LFM2-24B-A2B, a model for running AI workflows entirely on your device without external API calls.",
+        "why_care": "This allows you to use AI for sensitive project data, script generation, or asset organization directly on your machine, ensuring your creative work remains private.",
+        "what_to_do": "Investigate Liquid AI's GitHub Cookbook to see if LocalCowork can enhance your secure, local AI-driven creative processes."
       },
       {
         "id": 3,
-        "headline": "Meta Workers Report Viewing Private Footage from Ray-Ban Meta Smart Glasses",
-        "what_changed": "Workers reportedly viewed footage from Ray-Ban Meta smart glasses, including sensitive private moments, raising concerns about user privacy.",
-        "why_care": "This highlights significant privacy risks if you or your team use smart glasses for capturing content, especially in public or private settings, impacting trust and ethical considerations.",
-        "what_to_do": "Review your team's policies on using smart glasses for content capture, ensuring clear guidelines are in place to protect privacy and avoid misuse."
+        "headline": "UK Peers Urge Protection for Arts, Not Sacrifice for Speculative AI Gains",
+        "what_changed": "A UK House of Lords committee urged the government to protect creative industries and develop a licensing regime for AI use of copyrighted works, rather than allowing tech firms to use them without permission.",
+        "why_care": "This directly impacts your intellectual property rights, ensuring your original video, animation, and design work is not used by AI without proper compensation or consent.",
+        "what_to_do": "Stay informed on copyright law changes in your region and consider joining industry groups advocating for creator rights in the age of AI."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
-        "what_changed": "A top Morgan Stanley tech banker described the current software industry climate as 'wartime' due to the disruptive impact of AI.",
-        "why_care": "This signals that the tools and platforms you use for video editing, motion graphics, and animation will likely undergo rapid, significant changes as companies adapt to AI.",
-        "what_to_do": "Actively research new AI-powered features and tools emerging in your creative software to stay competitive and efficient."
+        "headline": "WhatsApp Expands AI Chatbot Integration to Brazil After Europe Rollout",
+        "what_changed": "Meta is now allowing rival AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar rollout in Europe.",
+        "why_care": "This could open new avenues for you to integrate AI-powered tools directly into your communication with clients, collaborators, or esports teams for quick information retrieval or content generation.",
+        "what_to_do": "Explore the types of AI chatbots becoming available on WhatsApp to see if any can streamline your project communication or client interactions."
       }
     ],
     "operations_supply": [
       {
         "id": 0,
-        "headline": "Liquid AI Releases LocalCowork for Privacy-First AI Agent Workflows",
-        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent app.",
-        "why_care": "You can now run AI-powered enterprise workflows directly on your devices, ensuring data privacy and reducing reliance on external services.",
-        "what_to_do": "Investigate if LocalCowork can be used to automate sensitive, on-site operational tasks without sending data externally."
+        "headline": "OpenAI Launches ChatGPT for Excel with GPT-5.4 for Spreadsheet Analysis",
+        "what_changed": "OpenAI released a beta add-in, 'ChatGPT for Excel,' which allows you to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool could significantly speed up data analysis, inventory management, and demand forecasting tasks in your operations.",
+        "what_to_do": "Investigate the beta add-in's capabilities and consider how it could automate your current spreadsheet-based workflows."
       },
       {
         "id": 1,
-        "headline": "UK Lords Committee Urges Licensing for AI Use of Creative Works",
-        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI to use creative works, opposing plans for permission-free use.",
-        "why_care": "This debate impacts the future cost and availability of data for AI training, which could affect the development of AI tools you might use.",
-        "what_to_do": "Monitor UK copyright law developments, as they could influence global standards for AI data usage and impact your future AI tool investments."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung announced it will release its first AI smart glasses in 2026.",
+        "why_care": "These smart glasses could eventually offer hands-free access to information, improve accuracy in warehousing, or streamline maintenance procedures for your teams.",
+        "what_to_do": "Research current industrial applications of smart glasses to understand potential future uses in your operations."
       },
       {
         "id": 2,
-        "headline": "Microsoft Confirms Continued Use of Anthropic AI Models",
-        "what_changed": "Microsoft stated that Anthropic's AI products remain available to its customers, despite a recent Pentagon blacklist.",
-        "why_care": "This confirms the stability of your access to specific AI capabilities within Microsoft's ecosystem, even if the underlying model provider faces external scrutiny.",
-        "what_to_do": "Review your current or planned use of Microsoft AI tools to ensure they align with your operational needs and any internal compliance policies."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Workflows",
+        "what_changed": "Liquid AI launched LocalCowork, an open-source desktop agent application powered by LFM2-24B-A2B, designed to run enterprise workflows entirely on your device without sending data externally.",
+        "why_care": "This allows you to use AI for sensitive operational data analysis and workflow automation without privacy concerns or data egress risks.",
+        "what_to_do": "Explore the Liquid4All GitHub Cookbook to see if LocalCowork can be applied to your privacy-sensitive operational data tasks."
       },
       {
         "id": 3,
-        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses",
-        "what_changed": "Workers reported seeing footage from Ray-Ban Meta smart glasses that included people in private situations, raising privacy concerns.",
-        "why_care": "This highlights the critical privacy risks associated with wearable smart devices in operational environments, especially regarding data capture and employee consent.",
-        "what_to_do": "Immediately review your company's policy on smart glasses and other wearable tech in the workplace to prevent privacy violations and ensure compliance."
+        "headline": "UK Lords Committee Urges Protection of Arts in AI Copyright Debate",
+        "what_changed": "A UK House of Lords committee advised the government to create a licensing system for using creative works in AI, rather than allowing tech firms to use them without permission.",
+        "why_care": "This discussion impacts the legal framework for AI development, which could affect the availability and cost of AI tools that rely on large datasets for training, including those used in supply chain optimization.",
+        "what_to_do": "Stay informed on global AI copyright and intellectual property discussions, as they may influence future AI tool development and usage policies."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' for Software Industry",
-        "what_changed": "A top Morgan Stanley tech banker described the current software industry environment as 'wartime' due to the impact of AI.",
-        "why_care": "This signals that software vendors you rely on are rapidly adapting to AI, which could lead to significant changes in their products, pricing, and support.",
-        "what_to_do": "Engage with your key software vendors to understand their AI strategy and how it will impact the tools and services you use for operations."
+        "headline": "WhatsApp Expands Rival AI Chatbot Access to Brazil",
+        "what_changed": "Meta is now allowing other AI companies to offer their chatbots to WhatsApp users in Brazil for a fee, following a similar move in Europe.",
+        "why_care": "This expansion could lead to more integrated AI tools within communication platforms you use, potentially streamlining customer service, order tracking, or internal logistics coordination.",
+        "what_to_do": "Assess how integrated AI chatbots on platforms like WhatsApp could enhance your customer communication or internal operational support."
       }
     ],
     "real_estate_construction": [
       {
         "id": 0,
-        "headline": "Liquid AI's LocalCowork Runs AI Workflows On Your Device, Boosting Privacy",
-        "what_changed": "Liquid AI released LocalCowork, an open-source desktop application, and the LFM2-24B-A2B model, allowing AI workflows to run entirely on your device.",
-        "why_care": "This means you can use AI tools for sensitive data, like client lists or proprietary designs, without worrying about information leaving your computer.",
-        "what_to_do": "Investigate how LocalCowork could secure your firm's sensitive data processing by reviewing its GitHub documentation this week."
+        "headline": "OpenAI's ChatGPT for Excel: New GPT-5.4 Add-in for Spreadsheet Analysis",
+        "what_changed": "OpenAI launched 'ChatGPT for Excel,' a beta add-in powered by GPT-5.4, allowing you to create, edit, and analyze spreadsheets using natural language.",
+        "why_care": "This tool can help you quickly analyze property data, manage project budgets, or generate reports without complex formulas, saving you time on administrative tasks.",
+        "what_to_do": "Explore the beta add-in to see how it can simplify your financial modeling or data analysis for real estate projects this week."
       },
       {
         "id": 1,
-        "headline": "UK Peers Warn Against Sacrificing Arts for AI, Urge Licensing for Creative Works",
-        "what_changed": "A UK House of Lords committee urged ministers to create a licensing system for AI to use creative works, rather than allowing tech firms free access.",
-        "why_care": "This could impact the cost and availability of AI tools that generate architectural designs, marketing content, or virtual staging using existing creative assets.",
-        "what_to_do": "Monitor UK copyright law developments to understand potential future costs or restrictions on AI tools you use for design and marketing."
+        "headline": "Samsung to Launch AI Smart Glasses in 2026",
+        "what_changed": "Samsung announced it will release its first AI smart glasses in 2026.",
+        "why_care": "These glasses could offer new ways to visualize property tours, overlay architectural designs on-site, or provide augmented reality views for clients and construction teams.",
+        "what_to_do": "Research current smart glass applications in your industry to understand potential future uses for property viewing or construction planning."
       },
       {
         "id": 2,
-        "headline": "Microsoft Continues Using Anthropic AI Models Despite Pentagon Blacklist",
-        "what_changed": "Microsoft confirmed it will continue to offer Anthropic's AI products to its customers, despite the Pentagon blacklisting the company.",
-        "why_care": "This ensures the continuity of AI tools and features you might use within Microsoft products that rely on Anthropic's technology for tasks like document analysis or report generation.",
-        "what_to_do": "Review your current use of Microsoft AI tools to identify if they leverage Anthropic models and assess any potential impact on your workflows."
+        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Workflows",
+        "what_changed": "Liquid AI released LocalCowork, an open-source desktop agent application, and LFM2-24B-A2B, a model for running enterprise AI workflows entirely on your device, ensuring data privacy.",
+        "why_care": "This allows you to use AI for sensitive tasks like client data management or confidential project bids without sending information to external servers, protecting your privacy.",
+        "what_to_do": "Investigate how LocalCowork could be used for secure, on-device processing of your confidential real estate or construction data this month."
       },
       {
         "id": 3,
-        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses Footage",
-        "what_changed": "Reports surfaced that Meta employees viewed footage from Ray-Ban Meta smart glasses, including sensitive private moments, raising privacy concerns.",
-        "why_care": "This highlights significant privacy risks associated with smart glasses and similar wearable tech for site inspections, property tours, or client interactions, potentially exposing sensitive information.",
-        "what_to_do": "Re-evaluate your firm's policies on using smart glasses or wearable recording devices in professional settings to protect client and employee privacy."
+        "headline": "UK Lords Committee Urges Protection for Creative Works in AI Development",
+        "what_changed": "A UK House of Lords committee urged ministers to create a licensing regime for using creative works in AI and abandon plans to let tech firms use content without permission.",
+        "why_care": "This discussion impacts how AI tools might use existing architectural designs, property photos, or marketing materials, potentially affecting copyright and licensing for your work.",
+        "what_to_do": "Stay informed about evolving copyright laws related to AI to ensure your intellectual property, like building plans or property listings, remains protected."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Signals 'Wartime' for Software Industry",
-        "what_changed": "Morgan Stanley's top tech banker stated that the software industry is in a 'wartime' phase due to the rapid advancements and impact of AI.",
-        "why_care": "This indicates a period of intense innovation and disruption in the software tools you rely on, from CAD programs to property management systems, requiring you to adapt quickly.",
-        "what_to_do": "Dedicate time this month to research new AI-powered software solutions emerging in real estate and construction to stay competitive."
+        "headline": "WhatsApp to Offer Rival AI Chatbots in Brazil After European Rollout",
+        "what_changed": "Meta will now allow rival AI companies to offer their chatbots on WhatsApp to users in Brazil, following a similar rollout in Europe.",
+        "why_care": "This expansion means you might soon have more AI chatbot options within WhatsApp to automate client communication, answer property inquiries, or manage scheduling.",
+        "what_to_do": "Explore how AI chatbots on messaging platforms could streamline your client interactions or property management tasks in the coming months."
       }
     ],
     "science_research": [
       {
         "id": 0,
-        "headline": "Liquid AI Releases LocalCowork for Privacy-First Local AI Agent Workflows",
-        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent application.",
-        "why_care": "This allows you to run AI workflows entirely on your device, ensuring data privacy and eliminating external API calls for sensitive research.",
-        "what_to_do": "Explore the Liquid4All GitHub Cookbook to see how you can implement privacy-preserving AI agents in your lab or research environment."
+        "headline": "OpenAI's GPT-5.4 powers ChatGPT for Excel, optimized for reasoning.",
+        "what_changed": "OpenAI launched 'ChatGPT for Excel,' a beta add-in allowing users to create, edit, and analyze spreadsheets using natural language, powered by GPT-5.4.",
+        "why_care": "This could streamline data analysis, experimental design, and report generation within your research workflows, making complex tasks more accessible.",
+        "what_to_do": "Explore the beta add-in for ChatGPT for Excel to see how it can assist with your data management and analysis tasks this week."
       },
       {
         "id": 1,
-        "headline": "UK Lords Committee Urges Licensing for AI Use of Creative Works",
-        "what_changed": "A UK House of Lords committee recommended a licensing regime for AI to use creative works, opposing plans for permission-free use.",
-        "why_care": "This impacts how AI models are trained and how you might need to license data for your own research, especially if using creative datasets.",
-        "what_to_do": "Monitor UK policy developments on AI and copyright, as these changes could affect data sourcing and ethical considerations for your AI projects."
+        "headline": "Samsung to launch AI smart glasses in 2026.",
+        "what_changed": "Samsung revealed it will launch its first AI smart glasses in 2026.",
+        "why_care": "These glasses could offer new ways to visualize data, interact with instruments, or provide augmented reality overlays for field research and lab work.",
+        "what_to_do": "Monitor Samsung's announcements for specific features that could benefit your research applications and consider potential use cases."
       },
       {
         "id": 2,
-        "headline": "Microsoft Confirms Continued Support for Anthropic AI Products Post-Pentagon Blacklist",
-        "what_changed": "Microsoft stated that Anthropic's AI products remain available to its customers, despite the Pentagon's recent blacklist.",
-        "why_care": "This indicates that despite government concerns, major tech companies may continue to integrate and offer these AI models, impacting your access to tools.",
-        "what_to_do": "If you use Microsoft services with Anthropic models, verify the specific compliance and security implications for your research data."
+        "headline": "Liquid AI releases LocalCowork for privacy-first, on-device AI agent workflows.",
+        "what_changed": "Liquid AI released LFM2-24B-A2B, a model for local tool dispatch, and LocalCowork, an open-source desktop agent application, enabling privacy-sensitive enterprise workflows entirely on-device.",
+        "why_care": "You can now run AI agent workflows locally without sending sensitive research data to external servers, enhancing data privacy and security for your projects.",
+        "what_to_do": "Investigate Liquid AI's Liquid4All GitHub Cookbook to see if LocalCowork can be integrated into your lab's privacy-sensitive data processing workflows this week."
       },
       {
         "id": 3,
-        "headline": "Workers Report Privacy Breaches from Ray-Ban Meta Smart Glasses Footage",
-        "what_changed": "Workers reviewing footage from Ray-Ban Meta smart glasses reported seeing recordings of people in private settings, including bathrooms.",
-        "why_care": "This highlights significant privacy risks associated with wearable recording devices and the ethical challenges of data collection in public and private spaces.",
-        "what_to_do": "Review your lab's data collection protocols and ethical guidelines, especially when using or considering wearable technology that records personal data."
+        "headline": "UK peers warn against sacrificing creative industries for AI gains.",
+        "what_changed": "A UK House of Lords committee urged ministers to develop a licensing regime for AI's use of creative works and abandon plans to let tech firms use such work without permission.",
+        "why_care": "This discussion impacts the ethical sourcing and use of data for training AI models, which is crucial for ensuring fairness and avoiding bias in scientific AI applications.",
+        "what_to_do": "Review your institution's guidelines on data sourcing for AI model training to ensure compliance with evolving copyright and ethical standards."
       },
       {
         "id": 4,
-        "headline": "Morgan Stanley Banker: AI Creates 'Wartime' Environment for Software Industry",
-        "what_changed": "A top Morgan Stanley tech banker described the current AI landscape as 'wartime' for the software industry, indicating rapid, intense change.",
-        "why_care": "This perspective signals a period of aggressive innovation and competition in AI, which will rapidly change the tools and platforms available for your research.",
-        "what_to_do": "Prioritize evaluating new AI software and tools as they emerge to ensure your research stays at the forefront of technological capabilities."
+        "headline": "WhatsApp to allow rival AI chatbots in Brazil, following Europe.",
+        "what_changed": "Meta will now permit rival AI companies to offer their chatbots to WhatsApp users in Brazil for a fee, mirroring a recent decision for European users.",
+        "why_care": "This expansion of AI chatbot availability on widely used platforms could create new avenues for disseminating scientific information or conducting public engagement.",
+        "what_to_do": "Consider how secure, verified AI chatbots on platforms like WhatsApp could be used for public outreach or citizen science initiatives in your field."
       }
     ]
   }
