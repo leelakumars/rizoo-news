@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-03-09T13:23:51.952970+00:00",
-  "run_id": "20260309_132350",
+  "generated_at": "2026-03-09T13:25:32.685004+00:00",
+  "run_id": "20260309_132530",
   "articles": [
     {
       "id": "0833e7465967",
@@ -11,11 +11,61 @@
       "link": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
       "source": "CNBC",
       "topic": "AI Industry",
-      "published_at": "2026-03-09T13:23:51.952875+00:00"
+      "published_at": "2026-03-09T13:25:32.684909+00:00"
     }
   ],
   "rewrites": {
-    "healthcare": [
+    "education": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "operations_supply": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "science_research": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "finance": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "legal": [
       {
         "id": 0,
         "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
@@ -35,7 +85,67 @@
         "source": "CNBC"
       }
     ],
+    "media_content": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "creative_entertainment": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
     "real_estate_construction": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "software_engineering": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "sales": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "healthcare": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "cybersecurity": [
       {
         "id": 0,
         "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
@@ -65,117 +175,7 @@
         "source": "CNBC"
       }
     ],
-    "customer_support": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
     "data_ai": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "sales": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "finance": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "education": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "creative_entertainment": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "software_engineering": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "science_research": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "cybersecurity": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "media_content": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "operations_supply": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      }
-    ],
-    "legal": [
       {
         "id": 0,
         "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
