@@ -1,739 +1,814 @@
 {
   "version": 1,
-  "generated_at": "2026-03-09T07:53:34.943596+00:00",
-  "run_id": "20260309_075213",
+  "generated_at": "2026-03-09T13:19:38.268933+00:00",
+  "run_id": "20260309_131936",
   "articles": [
     {
-      "id": "4bcb0d877ade",
+      "id": "0833e7465967",
       "index": 0,
-      "headline": "Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experiments on Single GPUs",
-      "description": "Andrej Karpathy released autoresearch, a minimalist Python tool designed to enable AI agents to autonomously conduct machine learning experiments. The project is a stripped-down version of the nanochat LLM training core, condensed into a single-file repository of approximately ~630 lines of code. It is optimized for execution on a single NVIDIA GPU. The Autonomous Iteration […] The post Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experiments on Single GPUs appeared first on MarkTechPost.",
-      "link": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/",
+      "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+      "description": "Nscale has become a key player in the AI infrastructure buildout",
+      "link": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
+      "source": "CNBC",
+      "topic": "AI Industry",
+      "published_at": "2026-03-09T13:19:38.268693+00:00"
+    },
+    {
+      "id": "2c39831bda2a",
+      "index": 1,
+      "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+      "description": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+      "link": "https://www.marktechpost.com/2026/03/09/the-bayesian-upgrade-why-google-ais-new-teaching-method-is-the-key-to-llm-reasoning/",
       "source": "MarkTechPost",
       "topic": "AI Research",
-      "published_at": "2026-03-09T02:47:38+00:00"
+      "published_at": "2026-03-09T13:19:38.268693+00:00"
     },
     {
-      "id": "ff364df8de26",
-      "index": 1,
-      "headline": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-      "description": "The facial recognition question is where things get more tangled.",
-      "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-      "source": "TechCrunch",
-      "topic": "AI Industry",
-      "published_at": "2026-03-09T04:35:06+00:00"
-    },
-    {
-      "id": "7b1dcacd77c2",
+      "id": "e8c372c86e06",
       "index": 2,
-      "headline": "Tech oligarchs reshape humanity while billionaires of old seem quaint",
-      "description": "From Gates to Musk and Altman, today’s ultra-rich steer AI and tech, raising questions about who decides the futureWhen Bill Gates became the first modern IT mogul to reach the apex of wealth and power in 1992, the world was a very different place. Gates joined the top 10 on Forbes magazine’s billionaires list alongside Japanese, German, Canadian, South Korean and Swedish billionaires, including those with family fortunes from Britain and America. A broad mix of industries was on the list: Retail and media, property management and packaging, an investment firm and a couple of industrial conglomerates. Their fortunes almost added up to $100bn – equivalent to about 0.4% of the US’s GDP that year.The oligarchy has changed drastically since then. Bernard Arnault, of French luxury group LVMH, Amancio Ortega, the Spanish clothing mogul, and Warren Buffett, the US investor, were the only old-school billionaires among the top 10 in 2025. The rest largely made their money from high-tech: Elon Musk, Jeff Bezos, Mark Zuckerberg, Larry Ellison, Steve Ballmer and Google’s Sergey Brin and Larry Page. The top 10 amassed over $16trn, which is about 8% of US GDP. Continue reading...",
-      "link": "https://www.theguardian.com/technology/2026/mar/08/billionaires-tech-oligarchs",
+      "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+      "description": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+      "link": "https://www.theguardian.com/technology/2026/mar/09/liverpool-and-manchester-united-complain-to-x-over-sickening-grok-ai-posts",
       "source": "The Guardian",
       "topic": "AI Industry",
-      "published_at": "2026-03-08T10:00:16+00:00"
+      "published_at": "2026-03-09T13:19:38.268693+00:00"
     },
     {
-      "id": "1466930419f0",
+      "id": "28dd4451e769",
       "index": 3,
-      "headline": "Trump administration drafts AI contract rules requiring companies to license systems for \"all lawful use\"",
-      "description": "New US guidelines for AI contracts would force companies to grant the government an irrevocable license for \"all lawful use\" and ban ideological bias in AI outputs, which is itself an ideological requirement with striking parallels to China's approach. The article Trump administration drafts AI contract rules requiring companies to license systems for \"all lawful use\" appeared first on The Decoder.",
-      "link": "https://the-decoder.com/trump-administration-drafts-ai-contract-rules-requiring-companies-to-license-systems-for-all-lawful-use/",
+      "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+      "description": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+      "link": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/",
+      "source": "Wired",
+      "topic": "AI Industry",
+      "published_at": "2026-03-09T13:19:38.268693+00:00"
+    },
+    {
+      "id": "3789b1f6deab",
+      "index": 4,
+      "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+      "description": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+      "link": "https://the-decoder.com/anthropics-claude-opus-4-6-saw-through-an-ai-test-cracked-the-encryption-and-grabbed-the-answers-itself/",
       "source": "The Decoder",
       "topic": "AI Tools",
-      "published_at": "2026-03-07T18:09:33+00:00"
-    },
-    {
-      "id": "da31c9258d44",
-      "index": 4,
-      "headline": "The OpenClaw superfan meetup serves optimism and lobster",
-      "description": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor […]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
-      "source": "The Verge",
-      "topic": "AI Industry",
-      "published_at": "2026-03-07T09:00:00-05:00"
+      "published_at": "2026-03-09T13:19:38.268693+00:00"
     }
   ],
   "rewrites": {
-    "software_engineering": [
+    "science_research": [
       {
         "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' for Autonomous ML Experiments on Single GPUs",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool enabling AI agents to autonomously run machine learning experiments on a single NVIDIA GPU.",
-        "why_care": "This tool offers a streamlined way for you to automate and accelerate your machine learning experiment workflows, potentially reducing development time.",
-        "what_to_do": "Explore the 'autoresearch' GitHub repository this week to understand its architecture and potential use cases for your projects."
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Ring CEO Addresses Ongoing Privacy Concerns, Especially Around Facial Recognition",
-        "what_changed": "Ring's CEO, Jamie Siminoff, continues to address privacy concerns, particularly regarding the company's use of facial recognition technology.",
-        "why_care": "Your work on any system involving user data or surveillance requires careful consideration of privacy implications and potential public scrutiny.",
-        "what_to_do": "Review your current projects for any features that might raise privacy concerns and ensure robust data protection measures are in place."
-      },
-      {
-        "id": 2,
-        "headline": "Modern Tech Billionaires Reshape Humanity Through AI, Unlike Past Industrialists",
-        "what_changed": "Today's ultra-rich, primarily from the tech sector, are steering the future of AI and technology, contrasting with the diverse industries of past billionaires.",
-        "why_care": "The increasing influence of tech leaders on AI development directly impacts the tools, platforms, and ethical considerations you will encounter in your work.",
-        "what_to_do": "Stay informed about the ethical guidelines and policy discussions surrounding AI development from major tech companies and industry leaders."
-      },
-      {
-        "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules Requiring 'All Lawful Use' Licenses",
-        "what_changed": "New US government guidelines for AI contracts would mandate companies grant an irrevocable license for 'all lawful use' of their AI systems and prohibit ideological bias in outputs.",
-        "why_care": "These proposed contract rules could significantly impact how you develop, license, and deploy AI systems, especially for government-related projects.",
-        "what_to_do": "Familiarize yourself with the implications of 'all lawful use' clauses and potential bias requirements in AI development and deployment."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Community and Optimism",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan for a community event.",
-        "why_care": "While not directly technical, community events like this highlight the importance of user engagement and ecosystem building for any successful software or platform you develop.",
-        "what_to_do": "Consider how you can foster a stronger community around your own open-source projects or internal tools to encourage adoption and feedback."
-      }
-    ],
-    "data_ai": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' for Autonomous ML Experiments on Single GPUs",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool for AI agents to run autonomous machine learning experiments.",
-        "why_care": "This tool allows you to automate ML experiment iteration on a single NVIDIA GPU, potentially accelerating your research and development workflows.",
-        "what_to_do": "Explore the 'autoresearch' GitHub repository this week to understand its architecture and potential applications for your projects."
-      },
-      {
-        "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Facial Recognition Privacy Concerns",
-        "what_changed": "Ring CEO Jamie Siminoff has been trying to alleviate privacy concerns, particularly regarding facial recognition technology.",
-        "why_care": "As AI professionals, you should be aware of the public and regulatory scrutiny surrounding facial recognition to ensure ethical and compliant AI development.",
-        "what_to_do": "Review current best practices and ethical guidelines for facial recognition technology to inform your project designs."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Influence",
-        "what_changed": "Today's wealthiest individuals, primarily from high-tech, are increasingly steering AI and technology development, unlike past billionaires.",
-        "why_care": "The concentration of wealth and influence in tech leaders directly impacts funding, direction, and ethical considerations for AI research and deployment.",
-        "what_to_do": "Stay informed about major investments and strategic shifts by leading tech figures, as these can signal future trends and opportunities in AI."
-      },
-      {
-        "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Licensing and Bias",
-        "what_changed": "New US government guidelines for AI contracts would require companies to grant an irrevocable license for 'all lawful use' and ban 'ideological bias' in AI outputs.",
-        "why_care": "These proposed rules could significantly impact how you license and develop AI systems for government contracts, particularly regarding data usage and bias mitigation.",
-        "what_to_do": "Familiarize yourself with the implications of 'all lawful use' licensing and the definition of 'ideological bias' as these rules develop."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates AI Community and Optimism",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan for a community event.",
-        "why_care": "While not directly technical, community events like ClawCon highlight the growing public engagement and enthusiasm around specific AI projects and tools, which can influence adoption and collaboration.",
-        "what_to_do": "Engage with relevant AI communities and forums to stay connected with broader industry sentiment and emerging trends."
-      }
-    ],
-    "cybersecurity": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Open-Sources 'Autoresearch' for Autonomous ML Experiments on GPUs",
-        "what_changed": "Andrej Karpathy released 'autoresearch,' a 630-line Python tool that allows AI agents to run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could enable more rapid development of AI capabilities, potentially leading to new attack vectors or advanced defensive tools you will need to understand.",
-        "what_to_do": "Investigate the 'autoresearch' codebase to identify potential security implications or opportunities for defensive automation in your environment."
-      },
-      {
-        "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Facial Recognition Privacy Concerns",
-        "what_changed": "Ring CEO Jamie Siminoff has been attempting to alleviate privacy fears, particularly regarding facial recognition technology, since the Super Bowl.",
-        "why_care": "Your organization's use of smart devices, including those with facial recognition, introduces data privacy and security risks that you must manage.",
-        "what_to_do": "Review your organization's policies on smart device usage and facial recognition technology to ensure compliance and mitigate privacy risks."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Influence",
-        "what_changed": "Today's ultra-rich, primarily from the tech industry, are steering AI and technology development, significantly increasing their wealth and influence compared to past billionaires.",
-        "why_care": "The rapid advancement of AI by these powerful entities will introduce new cybersecurity challenges and opportunities that you must anticipate and address.",
-        "what_to_do": "Monitor the strategic directions of major tech companies and their AI initiatives to predict future threat landscapes and defensive requirements."
-      },
-      {
-        "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US guidelines for AI contracts would require companies to grant the government an irrevocable license for 'all lawful use' and prohibit ideological bias in AI outputs.",
-        "why_care": "These regulations could impact how your organization develops or procures AI systems, especially regarding data access, licensing, and potential bias vulnerabilities.",
-        "what_to_do": "Familiarize yourself with the proposed AI contract rules to assess their potential impact on your organization's AI strategy and compliance obligations."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Community and Optimism",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, took place in Manhattan, bringing together enthusiasts in a vibrant, themed event.",
-        "why_care": "This event is not directly relevant to your work as a cybersecurity professional.",
-        "what_to_do": "Focus on cybersecurity-specific news and updates that directly impact your role and organization's security posture."
-      }
-    ],
-    "design_ux": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' for Autonomous AI Experimentation",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool enabling AI agents to run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could accelerate the development of AI features, potentially leading to more sophisticated design tools and user experiences faster.",
-        "what_to_do": "Explore how autonomous AI experimentation might impact the development cycles of design software you use or create.",
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
         "source": "MarkTechPost"
       },
       {
-        "id": 1,
-        "headline": "Ring Founder Addresses Privacy Concerns Over Facial Recognition",
-        "what_changed": "Ring's founder, Jamie Siminoff, is attempting to alleviate privacy fears, particularly regarding facial recognition technology.",
-        "why_care": "Your designs for smart home devices or any product using facial recognition must prioritize clear communication about data usage and privacy to build user trust.",
-        "what_to_do": "Review your current or upcoming projects involving personal data to ensure privacy implications are clearly communicated in your designs.",
-        "source": "TechCrunch"
-      },
-      {
         "id": 2,
-        "headline": "Tech Billionaires Drive AI Future, Reshaping Global Wealth and Influence",
-        "what_changed": "Today's tech billionaires, unlike past industry leaders, are heavily investing in and steering the future of AI and technology, significantly impacting global wealth distribution.",
-        "why_care": "The decisions made by these tech leaders directly influence the tools, platforms, and ethical considerations that will shape your design work and the digital products you create.",
-        "what_to_do": "Stay informed about major AI advancements and ethical discussions driven by tech leaders to anticipate future design challenges and opportunities.",
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
         "source": "The Guardian"
       },
       {
         "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US government guidelines for AI contracts would require companies to grant an irrevocable license for 'all lawful use' and prohibit ideological bias in AI outputs.",
-        "why_care": "These rules could influence the design and ethical guidelines for AI tools you use or develop, especially regarding data licensing and bias in AI-generated content.",
-        "what_to_do": "Familiarize yourself with potential government regulations on AI to understand how they might affect the ethical considerations and legal requirements of your design projects.",
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
         "source": "The Decoder"
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Community and Optimism",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan for a community event.",
-        "why_care": "Understanding how communities form around specific tools or platforms can inspire you to design more engaging and user-centric experiences that foster strong user loyalty.",
-        "what_to_do": "Consider how you can design features or experiences that encourage community building and user engagement around your products or services.",
-        "source": "The Verge"
-      }
-    ],
-    "product_project": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' for Autonomous ML Experiments on Single GPUs",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool enabling AI agents to autonomously run machine learning experiments on a single NVIDIA GPU.",
-        "why_care": "This tool could automate parts of your product's ML development lifecycle, freeing up your team for strategic work and faster iteration.",
-        "what_to_do": "Investigate how 'autoresearch' could be piloted within your current ML development process to automate experiment execution this week."
-      },
-      {
-        "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Ongoing Privacy Concerns Since Super Bowl",
-        "what_changed": "Ring's CEO, Jamie Siminoff, continues to address privacy concerns, particularly regarding facial recognition technology, following the Super Bowl.",
-        "why_care": "Your product's privacy features and data handling practices are critical for user trust and adoption, directly impacting your product's success.",
-        "what_to_do": "Review your product's privacy policy and data usage disclosures to ensure they are clear, transparent, and easily understandable by users this week."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Influence",
-        "what_changed": "Today's wealthiest individuals are predominantly tech billionaires who are actively shaping the future through AI and other advanced technologies.",
-        "why_care": "Understanding the direction and priorities of these major tech players helps you anticipate market shifts and align your product strategy with emerging trends.",
-        "what_to_do": "Allocate time this week to read industry reports or analyses on the strategic investments and initiatives of major tech leaders in AI and related fields."
-      },
-      {
-        "id": 3,
-        "headline": "New US AI Contract Rules Mandate 'All Lawful Use' Licensing for Government",
-        "what_changed": "The Trump administration is drafting new US guidelines for AI contracts that would require companies to grant the government an irrevocable license for 'all lawful use' of their AI systems.",
-        "why_care": "These potential contract requirements could significantly impact your product's licensing models, intellectual property rights, and development for government clients.",
-        "what_to_do": "Consult with your legal and sales teams this week to understand the potential implications of these proposed AI contract rules on your product's government sales strategy and IP."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Community and Optimism in Manhattan",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan for a community event focused on optimism and shared interests.",
-        "why_care": "Engaging with your product's most passionate users can provide invaluable feedback, foster community, and drive organic growth for your product.",
-        "what_to_do": "Plan a small, informal virtual or in-person meetup with a segment of your most engaged users this quarter to gather direct feedback and strengthen community ties."
-      }
-    ],
-    "marketing": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous AI Experiments",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool that allows AI agents to run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could help you automate the testing and optimization of AI models used in your marketing campaigns, saving time and resources.",
-        "what_to_do": "Explore the 'autoresearch' tool on GitHub to understand its potential for automating your AI-driven marketing tasks."
-      },
-      {
-        "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Ongoing Privacy Concerns",
-        "what_changed": "Ring's CEO, Jamie Siminoff, has been attempting to alleviate privacy fears, particularly regarding facial recognition technology, since the Super Bowl.",
-        "why_care": "Your brand's use of customer data and AI, especially facial recognition, directly impacts consumer trust and perception.",
-        "what_to_do": "Review your current and planned AI implementations to ensure they align with customer privacy expectations and clearly communicate your data policies."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Influence",
-        "what_changed": "Today's wealthiest individuals, like Elon Musk and Mark Zuckerberg, are primarily tech oligarchs who steer AI and other technologies, unlike past billionaires from diverse industries.",
-        "why_care": "The increasing concentration of power in tech and AI means these companies and their leaders will heavily influence the platforms and tools you use daily.",
-        "what_to_do": "Stay informed about the strategic directions and ethical considerations of major tech companies, as their decisions will impact your marketing strategies and available tools."
-      },
-      {
-        "id": 3,
-        "headline": "New US Draft Rules for AI Contracts Mandate 'All Lawful Use' Licensing",
-        "what_changed": "The Trump administration is drafting new AI contract guidelines that would require companies to grant the US government an irrevocable license for 'all lawful use' of their AI systems and ban ideological bias in AI outputs.",
-        "why_care": "These potential regulations could impact how you develop, license, and deploy AI tools, especially concerning data usage and content moderation for your marketing campaigns.",
-        "what_to_do": "Monitor developments in AI regulation to understand how future policies might affect your use of AI in marketing and ensure compliance."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Community and Optimism",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan for an event filled with themed decor and community spirit.",
-        "why_care": "This event highlights the power of community building and niche marketing, which you can apply to foster engagement with your own brand's audience.",
-        "what_to_do": "Consider how you can create unique, engaging experiences or communities for your most loyal customers to deepen their connection with your brand."
-      }
-    ],
-    "sales": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous AI Experiments",
-        "what_changed": "Andrej Karpathy open-sourced 'Autoresearch,' a 630-line Python tool that lets AI agents run machine learning experiments on single NVIDIA GPUs.",
-        "why_care": "This tool could accelerate how new AI features are developed and integrated into the sales tools you use, potentially improving their effectiveness faster.",
-        "what_to_do": "Research how your current sales tech vendors are using AI to automate tasks and ask your reps for feedback on what's working and what's not."
-      },
-      {
-        "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Facial Recognition Privacy Concerns",
-        "what_changed": "Ring's CEO, Jamie Siminoff, is trying to calm privacy fears regarding facial recognition technology, but his answers may not be fully reassuring.",
-        "why_care": "Customer privacy concerns, especially around facial recognition, can impact your sales conversations if your products or clients use similar technologies.",
-        "what_to_do": "Review your company's privacy policies and be prepared to clearly explain how your products handle customer data to address potential client concerns."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Drive AI Future, Reshaping Global Wealth and Influence",
-        "what_changed": "Today's top billionaires, like Musk and Altman, are primarily from tech and AI, holding significantly more wealth and influence over the future than past industry leaders.",
-        "why_care": "The increasing concentration of wealth and power in tech means these companies will continue to shape the tools and markets you operate in.",
-        "what_to_do": "Stay informed on major announcements and product releases from leading tech companies, as they often dictate future market trends and client needs."
-      },
-      {
-        "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US guidelines for AI contracts would require companies to grant the government an irrevocable license for 'all lawful use' and ban ideological bias in AI outputs.",
-        "why_care": "These rules could set precedents for how AI is licensed and used, potentially impacting your company's contracts and product development if you sell to the government or other regulated industries.",
-        "what_to_do": "Consult with your legal team to understand potential implications of these proposed AI contract rules on your current or future government sales."
-      },
-      {
-        "id": 4,
-        "headline": "The OpenClaw Superfan Meetup Serves Optimism and Lobster",
-        "what_changed": "A superfan meetup for 'OpenClaw' called ClawCon took place in Manhattan, featuring a vibrant atmosphere and lobster-themed accessories.",
-        "why_care": "This article is not relevant to sales professionals, as it describes a niche fan event with no direct business implications for your role.",
-        "what_to_do": "Focus your attention on industry news that directly impacts your sales strategies, customer relationships, or product offerings."
-      }
-    ],
-    "customer_support": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous AI Experiments",
-        "what_changed": "Andrej Karpathy open-sourced 'Autoresearch,' a 630-line Python tool that lets AI agents run machine learning experiments by themselves on a single NVIDIA GPU.",
-        "why_care": "This tool shows how AI can automate complex tasks, which could eventually lead to more sophisticated AI tools that help you resolve customer issues faster.",
-        "what_to_do": "Research how AI automation is currently being used in customer support to understand its potential impact on your daily tasks."
-      },
-      {
-        "id": 1,
-        "headline": "Ring's CEO Addresses Privacy Concerns About Facial Recognition",
-        "what_changed": "Ring's CEO, Jamie Siminoff, has been trying to calm privacy fears regarding the company's use of facial recognition technology.",
-        "why_care": "Your customers care deeply about their privacy, so understanding how companies address these concerns helps you build trust and answer their questions effectively.",
-        "what_to_do": "Review your company's privacy policy regarding customer data and AI use so you can clearly explain it to customers."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Wealth and Influence",
-        "what_changed": "Today's wealthiest individuals, like Elon Musk and Mark Zuckerberg, are primarily tech and AI moguls, unlike past billionaires who came from diverse industries.",
-        "why_care": "The increasing influence of tech leaders on AI means the tools you use for customer support will continue to evolve rapidly, driven by these powerful figures.",
-        "what_to_do": "Follow major announcements from leading tech companies to anticipate new AI features that might impact your support tools."
-      },
-      {
-        "id": 3,
-        "headline": "US Drafts AI Contract Rules: Government Seeks 'All Lawful Use' Licenses",
-        "what_changed": "New US government guidelines for AI contracts would require companies to give the government an 'irrevocable license for all lawful use' of their AI systems.",
-        "why_care": "These rules could affect the AI tools your company uses, potentially influencing how customer data is handled and the capabilities of your support systems.",
-        "what_to_do": "Ask your manager or IT department if these new government guidelines will impact the AI tools you use for customer support."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Optimism and Community",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan for an event filled with themed decorations and community spirit.",
-        "why_care": "This event highlights the power of community and shared enthusiasm, which is important for building strong customer relationships and fostering loyalty.",
-        "what_to_do": "Think about how you can create a more positive and engaging experience for your customers, similar to how communities form around shared interests."
-      }
-    ],
-    "finance": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' for Autonomous ML Experiments on GPUs",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool enabling AI agents to run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could help automate complex data analysis and modeling tasks, potentially improving efficiency in financial forecasting and risk assessment.",
-        "what_to_do": "Investigate how similar autonomous AI tools could be applied to your firm's data analysis workflows to identify potential efficiency gains."
-      },
-      {
-        "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Facial Recognition Privacy Concerns",
-        "what_changed": "Ring's CEO, Jamie Siminoff, has been attempting to alleviate privacy concerns related to facial recognition technology since the Super Bowl.",
-        "why_care": "Increased scrutiny on data privacy and facial recognition impacts how financial institutions handle customer data and comply with regulations.",
-        "what_to_do": "Review your firm's data privacy policies and ensure compliance with evolving regulations, especially concerning biometric data."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Wealth and Influence",
-        "what_changed": "Today's wealthiest individuals, largely from the tech sector, are increasingly steering AI and technological advancements, shifting global economic power.",
-        "why_care": "The concentration of wealth and influence in tech impacts investment trends, market dynamics, and the future economic landscape you operate within.",
-        "what_to_do": "Analyze the investment portfolios and strategic directions of major tech companies and their leaders to anticipate future market shifts."
-      },
-      {
-        "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US guidelines for AI contracts would require companies to grant the government an irrevocable license for 'all lawful use' of AI systems and ban ideological bias in AI outputs.",
-        "why_care": "These proposed rules could set precedents for AI contract terms and ethical AI usage, impacting your firm's procurement and deployment of AI technologies.",
-        "what_to_do": "Familiarize yourself with the draft AI contract rules to understand potential implications for your firm's AI strategy and vendor agreements."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Optimism and Community",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, was held in Manhattan, featuring a themed atmosphere and community gathering.",
-        "why_care": "While not directly financial, understanding community engagement and brand loyalty in various sectors can offer insights into market trends and consumer behavior.",
-        "what_to_do": "Consider how strong community engagement and brand loyalty, as seen in events like ClawCon, can influence the valuation and market position of companies you analyze."
-      }
-    ],
-    "legal": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous AI Experiments",
-        "what_changed": "Andrej Karpathy open-sourced 'Autoresearch,' a 630-line Python tool enabling AI agents to autonomously run machine learning experiments on a single NVIDIA GPU.",
-        "why_care": "This development shows how AI tools are becoming more self-sufficient, which could impact how your firm uses AI for legal research, e-discovery, or contract analysis.",
-        "what_to_do": "Investigate if your current AI vendors are exploring autonomous agent capabilities and how they might integrate into your legal tech stack."
-      },
-      {
-        "id": 1,
-        "headline": "Ring CEO Addresses Ongoing Privacy Concerns Over Facial Recognition",
-        "what_changed": "Ring CEO Jamie Siminoff has been attempting to alleviate privacy fears regarding the company's facial recognition capabilities since the Super Bowl.",
-        "why_care": "Your clients, especially those in real estate or technology, may face increased scrutiny over privacy practices related to facial recognition, requiring your legal guidance.",
-        "what_to_do": "Review your firm's privacy policies and client advisories regarding biometric data and facial recognition technology to ensure compliance and best practices."
-      },
-      {
-        "id": 2,
-        "headline": "AI and Tech Moguls Reshape Global Wealth and Influence",
-        "what_changed": "Today's top billionaires, including Elon Musk and Jeff Bezos, primarily made their fortunes in high-tech and AI, significantly increasing their share of global wealth compared to past oligarchs.",
-        "why_care": "The concentration of wealth and power in AI and tech leaders will shape future regulations, antitrust actions, and intellectual property landscapes that directly affect your practice.",
-        "what_to_do": "Monitor legislative and regulatory proposals related to AI, antitrust, and data governance, as these will impact your clients in the tech sector."
-      },
-      {
-        "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US guidelines for AI contracts would require companies to grant the government an irrevocable license for 'all lawful use' and ban ideological bias in AI outputs.",
-        "why_care": "These proposed contract terms could significantly impact your clients who develop or provide AI systems to the government, affecting licensing, intellectual property, and compliance.",
-        "what_to_do": "Advise clients who contract with the government about these potential new AI contract clauses and their implications for intellectual property and usage rights."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates AI Community",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, was held in Manhattan, featuring a vibrant community event for AI enthusiasts.",
-        "why_care": "While seemingly niche, these community events highlight the growing public engagement and enthusiasm around specific AI projects, which can influence public perception and future regulatory discussions.",
-        "what_to_do": "Stay aware of emerging AI communities and their focus areas, as they can indicate future trends and potential legal challenges or opportunities."
-      }
-    ],
-    "hr": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous ML Experiments",
-        "what_changed": "Andrej Karpathy open-sourced 'Autoresearch,' a 630-line Python tool that lets AI agents run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This development shows how AI tools are becoming more self-sufficient, which could impact the skills needed for future technical roles and how your teams collaborate with AI.",
-        "what_to_do": "Discuss with your L&D team how autonomous AI tools might change skill requirements for your technical roles in the next 12-18 months."
-      },
-      {
-        "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Facial Recognition Privacy Concerns",
-        "what_changed": "Ring's CEO, Jamie Siminoff, has been trying to calm public privacy fears regarding facial recognition technology.",
-        "why_care": "As facial recognition technology advances, you need to understand the privacy implications for employee monitoring, access control, and data protection policies.",
-        "what_to_do": "Review your company's privacy policies and employee data handling guidelines to ensure they address emerging facial recognition technologies."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Influence",
-        "what_changed": "Today's wealthiest individuals, like Elon Musk and Jeff Bezos, are primarily tech oligarchs steering AI and other technologies, unlike the diverse industries of past billionaires.",
-        "why_care": "The concentration of wealth and influence in tech means these leaders will heavily shape the future of work and the tools your employees use, impacting talent strategies.",
-        "what_to_do": "Research the long-term visions of prominent tech leaders to anticipate future trends in AI and automation that could affect your workforce planning."
-      },
-      {
-        "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US guidelines for AI contracts would require companies to grant the government an irrevocable license for 'all lawful use' of AI systems and ban ideological bias in AI outputs.",
-        "why_care": "These potential regulations could influence how AI tools are developed and procured, impacting your organization's ability to use certain AI solutions and requiring compliance checks.",
-        "what_to_do": "Consult with your legal and procurement teams to understand how potential government AI contract regulations might affect your company's use or development of AI tools."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Optimism and Community",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan for a community event.",
-        "why_care": "While not directly AI-related, this highlights the importance of community building and engagement, which can be applied to fostering internal innovation or adoption of new technologies within your organization.",
-        "what_to_do": "Consider how you can create engaging, community-focused events or initiatives to boost morale and foster collaboration within your teams."
-      }
-    ],
-    "healthcare": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous AI Experiments",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool that allows AI agents to run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could help you quickly test and develop AI models for healthcare applications, potentially speeding up research and development of new diagnostic or treatment tools.",
-        "what_to_do": "Explore the 'autoresearch' tool's capabilities to see if it can streamline your organization's AI model development or testing processes this week.",
-        "": ""
-      },
-      {
-        "id": 1,
-        "headline": "Ring Addresses Privacy Concerns Over Facial Recognition Technology",
-        "what_changed": "Jamie Siminoff, from Ring, has been trying to ease privacy fears related to their facial recognition technology since the Super Bowl.",
-        "why_care": "Your patients' privacy is paramount, and understanding how widely used technologies like Ring handle facial recognition can inform your advice on personal data security.",
-        "what_to_do": "Review your organization's policies on patient data privacy and consider how emerging facial recognition technologies might impact them this week.",
-        " ": ""
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Wealth and Influence",
-        "what_changed": "Today's ultra-rich, including Elon Musk and Jeff Bezos, primarily made their fortunes in high-tech and AI, unlike past billionaires from diverse industries.",
-        "why_care": "The increasing influence of tech leaders on AI development means they will significantly shape the future of healthcare technology and its ethical implications.",
-        "what_to_do": "Stay informed about major AI advancements and policy discussions led by these tech figures to anticipate future impacts on healthcare this week.",
-        "  ": ""
-      },
-      {
-        "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US guidelines for AI contracts would require companies to license systems for 'all lawful use' by the government and ban ideological bias in AI outputs.",
-        "why_care": "These rules could influence the types of AI tools available for healthcare, affecting how you access and use AI systems in your practice.",
-        "what_to_do": "Familiarize yourself with potential government regulations on AI to understand how they might affect your organization's future AI procurement and usage this week.",
-        "   ": ""
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates AI Community and Optimism",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan to celebrate the AI community with an optimistic atmosphere.",
-        "why_care": "While not directly clinical, understanding the broader AI community's enthusiasm and culture can provide context for the rapid advancements you see in healthcare AI.",
-        "what_to_do": "Consider exploring online communities or forums related to AI in healthcare to connect with others and stay updated on trends this week.",
-        "    ": ""
-      }
-    ],
-    "education": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' for Autonomous AI Experimentation",
-        "what_changed": "Andrej Karpathy open-sourced 'Autoresearch,' a 630-line Python tool that lets AI agents run machine learning experiments autonomously on a single GPU.",
-        "why_care": "This tool could help you understand how AI agents can independently explore and solve problems, which is a valuable concept for teaching computational thinking or AI ethics.",
-        "what_to_do": "Explore the 'Autoresearch' GitHub repository to see how a minimalist AI agent is structured and operates.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 1,
-        "headline": "Ring Founder Addresses Ongoing Privacy Concerns About Facial Recognition",
-        "what_changed": "Jamie Siminoff, Ring's founder, is attempting to alleviate public privacy fears, particularly regarding facial recognition technology.",
-        "why_care": "Your students and colleagues may have concerns about privacy and surveillance in educational settings, making this a relevant discussion point.",
-        "what_to_do": "Review your institution's policies on data privacy and facial recognition technology to ensure they are current and transparent.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 2,
-        "headline": "Modern Tech Billionaires Reshape Society Through AI and Technology",
-        "what_changed": "Today's wealthiest individuals, largely from the tech sector, are significantly influencing the future through their investments in AI and technology.",
-        "why_care": "Understanding the influence of these tech leaders helps you contextualize the rapid changes in educational technology and the broader societal impact of AI.",
-        "what_to_do": "Discuss with your colleagues how the increasing influence of tech billionaires might shape future educational policies and resource allocation.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "US Drafts AI Contract Rules Requiring 'All Lawful Use' Licensing",
-        "what_changed": "New US guidelines for AI contracts would mandate that companies grant the government an irrevocable license for 'all lawful use' of their AI systems and prohibit ideological bias in AI outputs.",
-        "why_care": "These rules could impact the AI tools and platforms available for educational use, especially concerning data rights and content moderation.",
-        "what_to_do": "Stay informed about evolving government regulations on AI, as they may influence the procurement and use of AI tools in your educational institution.",
-        "source": "The Decoder"
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates AI Community and Optimism",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan to celebrate the community and express optimism about AI.",
-        "why_care": "This event highlights the growing enthusiasm and community around specific AI projects, which can inspire your students and colleagues to engage with AI.",
-        "what_to_do": "Explore online communities or local meetups related to AI to connect with other enthusiasts and learn about emerging trends.",
-        "source": "The Verge"
-      }
-    ],
-    "media_content": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous AI Experiments",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool that lets AI agents run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could help automate parts of your research process, allowing AI to quickly test content ideas or analyze audience engagement patterns.",
-        "what_to_do": "Explore the 'autoresearch' tool on GitHub to see if its autonomous experiment capabilities can be adapted for your content analysis or ideation workflows."
-      },
-      {
-        "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Facial Recognition Privacy Concerns",
-        "what_changed": "Ring CEO Jamie Siminoff has been trying to calm privacy fears regarding facial recognition technology since the Super Bowl.",
-        "why_care": "Your audience is increasingly concerned about privacy and facial recognition, so understanding company responses helps you report accurately and address reader questions.",
-        "what_to_do": "Research Ring's specific statements on facial recognition to inform your reporting on privacy issues in consumer technology."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Reshape Humanity with AI, Unlike Past Oligarchs",
-        "what_changed": "Today's ultra-rich, like Musk and Altman, primarily from tech and AI, are steering humanity's future, a shift from the diverse industries of past billionaires.",
-        "why_care": "The increasing influence of tech billionaires on AI development directly impacts the tools you use, the content you create, and the ethical considerations in your industry.",
-        "what_to_do": "Follow the public statements and investments of key tech billionaires in AI to anticipate future trends and their impact on media and content creation."
-      },
-      {
-        "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for 'All Lawful Use' Licensing",
-        "what_changed": "New US guidelines for AI contracts would require companies to grant the government an irrevocable license for 'all lawful use' and ban ideological bias in AI outputs.",
-        "why_care": "These rules could affect how AI tools you use are developed and licensed, potentially influencing content moderation, bias in AI-generated text, and intellectual property rights.",
-        "what_to_do": "Monitor the progress of these proposed AI contract rules to understand potential impacts on your organization's use and licensing of AI technologies."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Optimism and Lobster",
-        "what_changed": "A superfan meetup for OpenClaw, called ClawCon, took place in Manhattan, featuring lobster-themed attire and an optimistic atmosphere.",
-        "why_care": "This event highlights how niche communities form around specific technologies or brands, offering you a case study in audience engagement and community building.",
-        "what_to_do": "Analyze the community-building strategies of OpenClaw to find inspiration for engaging your own audience or covering niche tech cultures."
-      }
-    ],
-    "creative_entertainment": [
-      {
-        "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' for Autonomous ML Experiments on Single GPUs",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool that lets AI agents run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could help you automate parts of your AI-driven creative workflows, like optimizing rendering settings or animation parameters, without needing massive computing power.",
-        "what_to_do": "Investigate 'autoresearch' to see if its autonomous experiment capabilities can streamline your current AI-assisted production tasks."
-      },
-      {
-        "id": 1,
-        "headline": "Ring CEO Addresses Facial Recognition Privacy Concerns Amidst Super Bowl Fallout",
-        "what_changed": "Ring's CEO, Jamie Siminoff, has been attempting to alleviate user privacy fears, especially regarding facial recognition technology, following recent public scrutiny.",
-        "why_care": "As you integrate more AI and smart tech into your productions, understanding privacy implications, especially with facial recognition, is crucial for ethical content creation and talent agreements.",
-        "what_to_do": "Review your current and planned use of AI tools that involve facial recognition to ensure compliance with privacy best practices and legal standards."
-      },
-      {
-        "id": 2,
-        "headline": "Tech Billionaires Reshape Humanity with AI, Dwarfing Old-School Fortunes",
-        "what_changed": "Today's wealthiest individuals, like Elon Musk and Mark Zuckerberg, are primarily tech and AI moguls, steering the future in ways that traditional billionaires never did.",
-        "why_care": "The increasing influence of tech leaders on AI development directly impacts the tools and platforms you use, shaping the future of creative production and distribution.",
-        "what_to_do": "Stay informed about the major AI initiatives and investments from these tech leaders, as they will likely dictate future industry trends and available creative technologies."
-      },
-      {
-        "id": 3,
-        "headline": "New US AI Contract Rules May Force 'All Lawful Use' Licensing for Government",
-        "what_changed": "The Trump administration is drafting new AI contract guidelines that would require companies to grant the US government an irrevocable license for 'all lawful use' of their AI systems.",
-        "why_care": "If you develop or use AI tools that might be contracted by the government, these rules could impact your intellectual property rights and how your AI outputs are used.",
-        "what_to_do": "Consult with legal counsel to understand how these proposed AI contract rules could affect your intellectual property and future government-related projects."
-      },
-      {
-        "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Optimism and Community",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan for a community event filled with themed decorations and sponsor presence.",
-        "why_care": "While not directly AI-related, this highlights the power of community and fan engagement, which is vital for building audiences around your creative projects and esports endeavors.",
-        "what_to_do": "Consider how you can foster a strong, engaged community around your own creative work or esports teams, drawing inspiration from successful fan events."
       }
     ],
     "operations_supply": [
       {
         "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous ML Experiments",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool that lets AI agents run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could help you automate testing and optimization of AI models used in forecasting, inventory management, or predictive maintenance, reducing manual effort.",
-        "what_to_do": "Investigate how 'autoresearch' could be applied to automate model validation for your operational AI tools this quarter."
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Facial Recognition Privacy Concerns",
-        "what_changed": "Ring's CEO, Jamie Siminoff, is trying to calm privacy fears, especially regarding facial recognition technology, but his explanations may not be sufficient.",
-        "why_care": "Your use of surveillance or monitoring systems in warehouses or facilities could face increased scrutiny over data privacy and facial recognition capabilities.",
-        "what_to_do": "Review your current facility monitoring systems to ensure compliance with privacy regulations and transparent communication about data collection."
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
       },
       {
         "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Economy",
-        "what_changed": "Today's top billionaires, like Musk and Altman, primarily made their fortunes in high-tech and AI, unlike past billionaires from diverse industries.",
-        "why_care": "The increasing influence of tech leaders on AI development means their priorities will heavily shape the tools and technologies available for your supply chain operations.",
-        "what_to_do": "Monitor the strategic directions of major tech companies to anticipate future AI tools and their potential impact on your operational workflows."
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
       },
       {
         "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US guidelines for AI contracts would require companies to grant the government an irrevocable license for 'all lawful use' of their AI systems and ban ideological bias.",
-        "why_care": "These rules could impact the terms and conditions for AI software you procure, especially if your company supplies AI solutions to government entities or uses government-developed AI.",
-        "what_to_do": "Consult with your legal team to understand how these proposed AI contract rules might affect your current or future AI software procurement and usage."
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
       },
       {
         "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Community and Optimism",
-        "what_changed": "The OpenClaw superfan meetup, ClawCon, brought together enthusiasts in Manhattan for an event focused on community and optimism.",
-        "why_care": "This event is not directly relevant to your daily operations or supply chain management.",
-        "what_to_do": "Focus on industry-specific news and developments that directly impact your supply chain and operational efficiency this week."
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "product_project": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "cybersecurity": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "legal": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "data_ai": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "design_ux": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "software_engineering": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "creative_entertainment": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
       }
     ],
     "real_estate_construction": [
       {
         "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous AI Experiments",
-        "what_changed": "Andrej Karpathy open-sourced 'Autoresearch,' a 630-line Python tool that allows AI agents to run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could help you automate complex data analysis or design simulations, speeding up project planning and property valuation.",
-        "what_to_do": "Research how autonomous AI tools like 'Autoresearch' could be integrated into your current data analysis workflows for property or construction projects."
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Privacy Concerns Over Facial Recognition",
-        "what_changed": "Ring's CEO, Jamie Siminoff, has been attempting to alleviate privacy fears, particularly regarding facial recognition capabilities, since the Super Bowl.",
-        "why_care": "Your clients and tenants may have increasing privacy concerns about smart home devices and surveillance technology used in properties you manage or sell.",
-        "what_to_do": "Review your current use of smart security devices and prepare clear explanations for clients about data privacy and facial recognition features."
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
       },
       {
         "id": 2,
-        "headline": "Tech Billionaires Now Dominate Wealth, Reshaping Humanity with AI",
-        "what_changed": "The top 10 billionaires in 2025 are predominantly tech moguls, including Elon Musk and Jeff Bezos, who are steering AI and other advanced technologies, unlike the diverse industry leaders of 1992.",
-        "why_care": "The increasing influence of tech leaders on AI development will directly impact the tools and technologies available for your real estate and construction projects.",
-        "what_to_do": "Identify key AI trends driven by major tech companies that could impact property development, smart buildings, or construction management in the next 12-24 months."
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
       },
       {
         "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US guidelines for AI contracts would require companies to grant the government an irrevocable license for 'all lawful use' of their AI systems and prohibit ideological bias in AI outputs.",
-        "why_care": "These proposed rules could influence how AI tools are developed and licensed, potentially affecting the availability and terms of AI software you use for design, planning, or property management.",
-        "what_to_do": "Stay informed about government regulations on AI, as they may impact the terms and conditions for using AI software in your professional practice."
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
       },
       {
         "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Optimism and Community",
-        "what_changed": "OpenClaw superfans gathered at a Manhattan event venue for 'ClawCon,' a meetup characterized by a vibrant atmosphere and community spirit.",
-        "why_care": "This article does not contain information relevant to Real Estate & Construction Professionals.",
-        "what_to_do": "No action is needed based on this article."
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
       }
     ],
-    "science_research": [
+    "sales": [
       {
         "id": 0,
-        "headline": "Andrej Karpathy Releases 'Autoresearch' Tool for Autonomous ML Experiments on GPUs",
-        "what_changed": "Andrej Karpathy open-sourced 'autoresearch,' a 630-line Python tool that allows AI agents to run machine learning experiments autonomously on a single NVIDIA GPU.",
-        "why_care": "This tool could help you automate repetitive experimental tasks, freeing up your time for more complex research questions and accelerating your project timelines.",
-        "what_to_do": "Explore the 'autoresearch' GitHub repository this week to see if its minimalist design fits your current ML experiment automation needs."
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Ring's Jamie Siminoff Addresses Facial Recognition Privacy Concerns",
-        "what_changed": "Ring's CEO, Jamie Siminoff, has been attempting to alleviate privacy concerns, particularly regarding facial recognition technology.",
-        "why_care": "Your research involving image or video data, especially in public spaces or with human subjects, requires careful consideration of privacy implications and public perception.",
-        "what_to_do": "Review your current data collection and usage protocols this week to ensure they align with evolving privacy expectations and regulations."
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
       },
       {
         "id": 2,
-        "headline": "Tech Billionaires Drive AI and Tech, Reshaping Global Influence",
-        "what_changed": "Today's wealthiest individuals, primarily from the tech sector, are significantly influencing the direction of AI and technology, unlike past billionaires who came from diverse industries.",
-        "why_care": "The concentration of power and funding in AI development by a few tech leaders directly impacts the research priorities, ethical frameworks, and accessibility of advanced AI tools for your scientific work.",
-        "what_to_do": "Engage with policy discussions or industry forums this month to advocate for research transparency and ethical AI development that benefits the broader scientific community."
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
       },
       {
         "id": 3,
-        "headline": "Trump Administration Drafts AI Contract Rules for Government Use",
-        "what_changed": "New US government guidelines for AI contracts would require companies to grant an irrevocable license for 'all lawful use' of their AI systems and prohibit ideological bias in AI outputs.",
-        "why_care": "These proposed rules could impact how you license or develop AI tools for government-funded research, potentially affecting intellectual property rights and the design of unbiased AI systems.",
-        "what_to_do": "If you work with government contracts or AI development, review the draft guidelines this week to understand potential implications for your projects and intellectual property."
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
       },
       {
         "id": 4,
-        "headline": "OpenClaw Superfan Meetup Celebrates Community and Optimism",
-        "what_changed": "The OpenClaw superfan meetup, 'ClawCon,' brought together enthusiasts in Manhattan for a community event.",
-        "why_care": "While this specific event may not directly impact your scientific work, fostering strong communities around open-source tools or research areas can accelerate collaboration and knowledge sharing in your field.",
-        "what_to_do": "Identify an open-source project or research community relevant to your work this month and consider how you can contribute or engage more actively."
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "healthcare": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "education": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "media_content": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "finance": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "hr": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
+      }
+    ],
+    "marketing": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 2,
+        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Guardian"
+      },
+      {
+        "id": 3,
+        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "Wired"
+      },
+      {
+        "id": 4,
+        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
+        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "The Decoder"
       }
     ]
   }
