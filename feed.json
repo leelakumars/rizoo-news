@@ -1,11 +1,21 @@
 {
   "version": 1,
-  "generated_at": "2026-03-09T20:36:38.141343+00:00",
-  "run_id": "20260309_203505",
+  "generated_at": "2026-03-09T21:30:22.864613+00:00",
+  "run_id": "20260309_212828",
   "articles": [
     {
-      "id": "cf03e5ca9395",
+      "id": "85fd24bc3b85",
       "index": 0,
+      "headline": "Andrew Ng’s Team Releases Context Hub: An Open Source Tool that Gives Your Coding Agent the Up-to-Date API Documentation It Needs",
+      "description": "In the fast-moving world of agentic workflows, the most powerful AI model is still only as good as its documentation. Today, Andrew Ng and his team at DeepLearning.AI officially launched Context Hub, an open-source tool designed to bridge the gap between an agent’s static training data and the rapidly evolving reality of modern APIs. You […] The post Andrew Ng’s Team Releases Context Hub: An Open Source Tool that Gives Your Coding Agent the Up-to-Date API Documentation It Needs appeared first on MarkTechPost.",
+      "link": "https://www.marktechpost.com/2026/03/09/andrew-ngs-team-releases-context-hub-an-open-source-tool-that-gives-your-coding-agent-the-up-to-date-api-documentation-it-needs/",
+      "source": "MarkTechPost",
+      "topic": "AI Research",
+      "published_at": "2026-03-09T21:30:22.864382+00:00"
+    },
+    {
+      "id": "cf03e5ca9395",
+      "index": 1,
       "headline": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried",
       "description": "Anthropic's partnerships with Amazon Web Services and Palantir helped it make inroads into the DOD.",
       "link": "https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html",
@@ -15,7 +25,7 @@
     },
     {
       "id": "1cea09325423",
-      "index": 1,
+      "index": 2,
       "headline": "Qualcomm’s partnership with Neura Robotics is just the beginning",
       "description": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
       "link": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
@@ -25,7 +35,7 @@
     },
     {
       "id": "f517e191882a",
-      "index": 2,
+      "index": 3,
       "headline": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
       "description": "New age-verification laws and tools are designed for child safety on social media and the internet, but adults are in the crosshairs, say privacy experts.",
       "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
@@ -35,7 +45,7 @@
     },
     {
       "id": "629258eed7c1",
-      "index": 3,
+      "index": 4,
       "headline": "British AI datacentre firm Nscale raises $2bn as Sheryl Sandberg and Nick Clegg join board",
       "description": "London-based startup, which is vital to the government’s artificial intelligence ambitions, is now valued at $14.6bn UK’s multibillion AI drive is built on ‘phantom investments’The Essex supercomputer that’s still a scaffolding yardBusiness live – latest updatesNscale, a UK company vital to the government’s AI ambitions, has raised $2bn (£1.5bn) in a funding round and appointed the former Meta executives Sheryl Sandberg and Nick Clegg to its board of directors.It brings the valuation of the London-based startup, which is backed by the US tech company Nvidia, to $14.6bn, it said in a statement, and follows a $1.1bn funding round the company raised last September. Continue reading...",
       "link": "https://www.theguardian.com/business/2026/mar/09/ai-nscale-raises-2bn-sheryl-sandberg-nick-clegg-board-value",
@@ -45,7 +55,7 @@
     },
     {
       "id": "b5d8adb7ff55",
-      "index": 4,
+      "index": 5,
       "headline": "Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents",
       "description": "A BCG study of nearly 1,500 workers shows that simultaneously overseeing too many AI tools triggers cognitive exhaustion. The consequences are measurable, from higher error rates to increased intent to quit. The article Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents appeared first on The Decoder.",
       "link": "https://the-decoder.com/study-warns-of-ai-brain-fry-as-workers-hit-cognitive-limits-overseeing-ai-agents/",
@@ -55,7 +65,7 @@
     },
     {
       "id": "a41f6b0e3908",
-      "index": 5,
+      "index": 6,
       "headline": "U.S. Military strikes 3,000 targets in Iran with AI support, but oversight remains \"underinvested\"",
       "description": "The Wall Street Journal confirms and expands on previous reports about the massive use of generative AI in the U.S. military campaign against Iran. New details reveal how deeply AI is already embedded in intelligence, targeting, and logistics. The article U.S. Military strikes 3,000 targets in Iran with AI support, but oversight remains \"underinvested\" appeared first on The Decoder.",
       "link": "https://the-decoder.com/u-s-military-strikes-3000-targets-in-iran-with-ai-support-but-oversight-remains-underinvested/",
@@ -65,168 +75,83 @@
     }
   ],
   "rewrites": {
-    "marketing": [
+    "cybersecurity": [
       {
         "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Tech's Future",
-        "what_changed": "The Pentagon has banned the use of Anthropic's AI technology, despite its prior selection for defense projects.",
-        "why_care": "This event highlights the evolving regulatory landscape and trust issues around AI, which could influence the public's acceptance of AI-generated content and tools you use.",
-        "what_to_do": "Begin researching the ethical guidelines and transparency features of the AI tools you currently use or plan to adopt for your marketing efforts.",
-        "source": "CNBC"
+        "headline": "Andrew Ng's Team Launches Context Hub: Open-Source Tool for AI Agent API Docs",
+        "what_changed": "Andrew Ng's DeepLearning.AI team released Context Hub, an open-source tool to provide AI coding agents with current API documentation.",
+        "why_care": "This tool could improve AI agents used in development, potentially making them more efficient but also requiring you to assess new security implications for API access.",
+        "what_to_do": "Investigate how Context Hub could be used in your organization's development pipelines and assess its security implications for API interactions.",
+        "source": "MarkTechPost"
       },
       {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI After Initial Partnership",
-        "what_changed": "The Pentagon has banned Anthropic's AI, despite earlier partnerships with Amazon Web Services and Palantir.",
-        "why_care": "This situation shows how quickly trust in AI tools can change, affecting public perception and your brand's decisions about using AI.",
-        "what_to_do": "Review the data security and ethical guidelines of any AI tools your team currently uses or plans to adopt this week.",
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for DOD Security",
+        "what_changed": "The Pentagon has banned the use of Anthropic's AI, despite its previous selection for Department of Defense projects.",
+        "why_care": "This ban signals potential security vulnerabilities or policy conflicts within AI systems that could impact your organization's AI adoption and risk assessment.",
+        "what_to_do": "Review your organization's policies on AI tool usage, especially those with DOD or government ties, and assess their security implications.",
         "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Qualcomm Partners with Neura Robotics for New AI-Powered Robots",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This partnership could lead to more sophisticated robotic solutions for marketing tasks, such as in-store promotions or automated content creation, impacting your future strategies.",
-        "what_to_do": "Explore current robotic applications in marketing and brainstorm how advanced AI robots could enhance your brand's customer experience or content delivery in the next year."
+        "headline": "Pentagon bans Anthropic AI, raising security concerns for defense contractors.",
+        "what_changed": "The Pentagon has banned Anthropic's AI, despite its previous selection and partnerships with Amazon Web Services and Palantir.",
+        "why_care": "This ban highlights potential security and compliance risks associated with AI adoption, which could impact your organization's supply chain or internal AI initiatives.",
+        "what_to_do": "Review your organization's current and planned AI vendor contracts and internal AI usage policies for potential security and compliance vulnerabilities.",
+        "source": "CNBC"
       },
       {
         "id": 2,
-        "headline": "New Age-Verification Tools Raise Privacy Concerns for Adults",
-        "what_changed": "New age-verification laws and tools, designed for child safety online, are now raising privacy concerns for adults due to potential surveillance.",
-        "why_care": "Increased age verification and surveillance could impact how you collect user data, target audiences, and ensure compliance with evolving privacy regulations.",
-        "what_to_do": "Review your current data collection practices and privacy policies to ensure compliance with new age-verification mandates, especially regarding adult user data."
+        "headline": "Qualcomm Partners with Neura Robotics for New AI Robot Development",
+        "what_changed": "Neura Robotics will develop new robots utilizing Qualcomm's recently released IQ10 processors.",
+        "why_care": "The integration of advanced AI processors into robotics introduces new potential attack vectors and supply chain risks for your industrial control systems.",
+        "what_to_do": "Review your organization's operational technology (OT) security policies to account for emerging AI-powered robotic systems this week.",
+        "source": "TechCrunch"
       },
       {
         "id": 3,
-        "headline": "Nscale Raises $2bn, Valued at $14.6bn; Sheryl Sandberg, Nick Clegg Join Board",
-        "what_changed": "Nscale, a UK AI datacentre firm, secured $2bn in funding, bringing its valuation to $14.6bn, and added Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This significant investment and high-profile board appointments signal growing confidence and major advancements in AI infrastructure, which will impact the tools and platforms you use.",
-        "what_to_do": "Research how enhanced AI infrastructure could improve the performance and capabilities of your current marketing AI tools this quarter."
+        "headline": "Age-Verification Tools Spread, Raising Adult Surveillance Concerns",
+        "what_changed": "New age-verification laws and tools, intended for child safety, are being implemented across the U.S., leading to increased surveillance of adults.",
+        "why_care": "These tools collect extensive personal data, creating new privacy risks and potential data breach targets that could impact your organization's employees and customers.",
+        "what_to_do": "Evaluate the privacy implications of any age-verification tools your organization uses or plans to use, ensuring compliance with data protection regulations this week.",
+        "source": "CNBC"
       },
       {
         "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
-        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
-        "why_care": "As you integrate more AI into your marketing workflows, managing too many tools can reduce your team's efficiency and increase burnout, impacting productivity.",
-        "what_to_do": "Evaluate your team's current AI tool stack and identify opportunities to consolidate tools or streamline workflows to prevent cognitive overload this month."
+        "headline": "Nscale Raises $2B, Valued at $14.6B, Adds Sandberg and Clegg to Board",
+        "what_changed": "Nscale, a UK AI datacentre firm, raised $2 billion in funding, increasing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment in AI infrastructure indicates a growing attack surface and potential for supply chain vulnerabilities you need to monitor.",
+        "what_to_do": "Assess your organization's exposure to third-party AI infrastructure providers and their security postures this week.",
+        "source": "The Guardian"
       },
       {
         "id": 5,
-        "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, with new details revealing its deep integration into intelligence and targeting, but oversight remains 'underinvested'.",
-        "why_care": "While not directly marketing-related, the rapid, large-scale deployment of AI in critical operations highlights the technology's growing power and the urgent need for ethical oversight, which will eventually influence public perception and regulation of AI in all sectors.",
-        "what_to_do": "Stay informed about broader AI ethics discussions and consider how your brand can proactively address ethical AI use in your marketing practices to build trust."
-      }
-    ],
-    "product_project": [
-      {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Raising Project Management Concerns",
-        "what_changed": "The Pentagon has banned Anthropic's AI, reversing its previous choice for Department of Defense projects.",
-        "why_care": "This highlights the importance of vendor risk assessment and compliance planning for your AI-driven projects.",
-        "what_to_do": "Review your current AI vendor contracts and project plans this week to assess potential compliance and supply chain risks.",
-        "source": "CNBC"
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
+        "what_changed": "A BCG study found that overseeing multiple AI tools simultaneously leads to cognitive exhaustion in workers, increasing error rates and intent to quit.",
+        "why_care": "Cognitive overload from managing too many AI tools can lead to human errors, creating new security vulnerabilities and increasing the risk of incidents you need to mitigate.",
+        "what_to_do": "Assess your team's workload and the number of AI tools they manage, implementing strategies to reduce cognitive burden and potential for error this week.",
+        "source": "The Decoder"
       },
       {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Impacting Defense Project Planning",
-        "what_changed": "The Pentagon has banned Anthropic's AI, despite its prior selection and partnerships with Amazon Web Services and Palantir for defense projects.",
-        "why_care": "This highlights the critical need for your project's vendor risk assessment and adaptability when integrating AI solutions, especially in sensitive sectors.",
-        "what_to_do": "This week, review your project's AI vendor contracts and contingency plans for potential regulatory or security-driven bans.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Qualcomm Partners with Neura Robotics for New Robot Development",
-        "what_changed": "Neura Robotics will build new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This partnership shows how specialized AI processors are enabling new robotics, which could impact your product development in automation or manufacturing.",
-        "what_to_do": "Investigate the capabilities of Qualcomm's IQ10 processors and Neura Robotics' platform to identify potential applications for your product roadmap."
-      },
-      {
-        "id": 2,
-        "headline": "New Age-Verification Tools for Child Safety Raise Adult Privacy Concerns",
-        "what_changed": "New age-verification laws and tools, designed for child safety online, are raising concerns about adult privacy due to increased surveillance.",
-        "why_care": "As you develop products, you must consider the privacy implications of age verification and data collection, especially with evolving regulations.",
-        "what_to_do": "Review your product's data collection and age-verification processes to ensure compliance with privacy regulations and ethical standards."
-      },
-      {
-        "id": 3,
-        "headline": "Nscale Raises $2bn, Valued at $14.6bn, Adds Sandberg and Clegg to Board",
-        "what_changed": "Nscale, a UK AI datacentre firm, raised $2bn in funding, valuing it at $14.6bn, and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This significant investment and leadership addition signal growing infrastructure and strategic direction in the AI sector, impacting your future project planning and resource availability.",
-        "what_to_do": "Research Nscale's technology and service offerings to understand potential future infrastructure options for your AI-driven projects."
-      },
-      {
-        "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
-        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
-        "why_care": "This directly impacts your team's productivity and well-being, requiring you to optimize how your teams interact with AI tools to prevent burnout.",
-        "what_to_do": "Assess your team's current AI tool usage and implement strategies, like tool consolidation or phased adoption, to reduce cognitive load."
-      },
-      {
-        "id": 5,
-        "headline": "U.S. Military Uses AI for 3,000 Targets in Iran, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, with new details revealing its deep integration in intelligence, targeting, and logistics, but oversight is 'underinvested'.",
-        "why_care": "The military's experience highlights the power of AI in complex operations but also the critical need for robust oversight, a lesson relevant to your AI-driven project governance.",
-        "what_to_do": "Establish clear governance frameworks and ethical guidelines for AI implementation in your projects, ensuring adequate human oversight and accountability."
-      }
-    ],
-    "healthcare": [
-      {
-        "id": 0,
-        "headline": "Anthropic, a key AI partner, is now banned by the Pentagon.",
-        "what_changed": "The Pentagon has banned Anthropic, an AI company that previously partnered with Amazon Web Services and Palantir for defense projects.",
-        "why_care": "This ban highlights the importance of vetting AI partners and understanding potential risks, which is crucial as your organization considers AI tools.",
-        "what_to_do": "Review your organization's current policies for evaluating AI vendors and their security protocols this week.",
-        "source": "CNBC"
-      },
-      {
-        "id": 0,
-        "headline": "Anthropic, a key AI developer, banned by Pentagon; experts concerned.",
-        "what_changed": "The Pentagon has banned Anthropic, an AI company it previously selected, from its systems.",
-        "why_care": "This shows that even leading AI developers can face unexpected restrictions, which is important as you evaluate AI tools for your healthcare organization.",
-        "what_to_do": "Review your organization's vendor vetting process to ensure it includes robust evaluation of AI company stability and compliance.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Qualcomm and Neura Robotics Partner on New AI-Powered Robots",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This partnership could lead to advanced robotics that assist with patient care, surgical procedures, or administrative tasks in your healthcare setting.",
-        "what_to_do": "Explore current robotic applications in healthcare and consider how more intelligent robots could improve efficiency or patient outcomes in your department."
-      },
-      {
-        "id": 2,
-        "headline": "Age-Verification Tools Raise Adult Privacy Concerns Across U.S.",
-        "what_changed": "New age-verification laws and tools, designed for child safety online, are also collecting data on adults, raising privacy concerns.",
-        "why_care": "As healthcare professionals, you handle sensitive patient data, and understanding broader privacy implications of new technologies is crucial for protecting patient information.",
-        "what_to_do": "Review your organization's data privacy policies and ensure you are up-to-date on best practices for protecting patient and personal information."
-      },
-      {
-        "id": 3,
-        "headline": "Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
-        "what_changed": "Nscale, a UK AI data center firm, raised $2 billion in funding and appointed Sheryl Sandberg and Nick Clegg to its board, valuing the company at $14.6 billion.",
-        "why_care": "Increased investment in AI infrastructure could lead to more robust and secure platforms for your healthcare data and AI-driven tools.",
-        "what_to_do": "Research how your current healthcare systems leverage AI infrastructure and identify potential future integration points."
-      },
-      {
-        "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
-        "what_changed": "A BCG study of nearly 1,500 workers found that managing too many AI tools simultaneously causes cognitive exhaustion, leading to more errors and higher intent to quit.",
-        "why_care": "As AI tools become more common in healthcare, managing multiple systems could lead to burnout and errors in your clinical or administrative work.",
-        "what_to_do": "Evaluate the number of AI tools you currently use and discuss with your team how to optimize their integration to prevent cognitive overload."
-      },
-      {
-        "id": 5,
-        "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, with new details revealing deep AI integration in intelligence, targeting, and logistics, but oversight remains 'underinvested'.",
-        "why_care": "While not directly healthcare, this highlights the rapid deployment of AI in critical operations and the importance of robust oversight, which is also vital for ethical AI use in patient care and data management.",
-        "what_to_do": "Advocate for clear ethical guidelines and strong oversight mechanisms for AI tools used within your healthcare organization."
+        "id": 6,
+        "headline": "U.S. Military Strikes 3,000 Targets in Iran with AI Support, Oversight Lags",
+        "what_changed": "The U.S. military has extensively used generative AI to strike 3,000 targets in Iran, with AI deeply embedded in intelligence, targeting, and logistics, but oversight remains underinvested.",
+        "why_care": "The widespread deployment of AI in critical military operations highlights the urgent need for robust AI security and ethical oversight, which directly impacts your understanding of advanced persistent threats.",
+        "what_to_do": "Research the security implications of AI in military applications to better anticipate sophisticated state-sponsored cyber threats this week.",
+        "source": "The Decoder"
       }
     ],
     "design_ux": [
       {
         "id": 0,
+        "headline": "DeepLearning.AI Launches Context Hub, an Open-Source Tool for AI Agent APIs",
+        "what_changed": "Andrew Ng's DeepLearning.AI released Context Hub, an open-source tool to give AI coding agents current API documentation.",
+        "why_care": "This could lead to more reliable AI-powered design tools and faster development of the products you design.",
+        "what_to_do": "Discuss Context Hub with your development team to understand how more reliable AI agents could impact your design projects.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
         "headline": "Anthropic, Pentagon's AI Choice, Now Banned, Raising Concerns",
         "what_changed": "Anthropic, once a key AI partner for the Pentagon, has now been banned from use within the Department of Defense.",
         "why_care": "This situation highlights the critical importance of ethical AI development and responsible deployment, directly impacting the tools you might design or use.",
@@ -234,7 +159,7 @@
         "source": "CNBC"
       },
       {
-        "id": 0,
+        "id": 1,
         "headline": "Anthropic, a key AI developer, is now banned by the Pentagon.",
         "what_changed": "The Pentagon has banned Anthropic, an AI developer it previously partnered with.",
         "why_care": "This highlights the evolving ethical and security landscape for AI, which could affect your design tool choices.",
@@ -242,44 +167,357 @@
         "source": "CNBC"
       },
       {
-        "id": 1,
+        "id": 2,
         "headline": "Qualcomm’s partnership with Neura Robotics is just the beginning",
         "what_changed": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
-        "id": 2,
+        "id": 3,
         "headline": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
         "what_changed": "New age-verification laws and tools are designed for child safety on social media and the internet, but adults are in the crosshairs, say privacy experts.",
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
-        "id": 3,
+        "id": 4,
         "headline": "British AI datacentre firm Nscale raises $2bn as Sheryl Sandberg and Nick Clegg join board",
         "what_changed": "London-based startup, which is vital to the government’s artificial intelligence ambitions, is now valued at $14.6bn UK’s multibillion AI drive is built on ‘phantom investments’The Essex supercomputer that’s still a scaffolding yardBusiness live – latest updatesNscale, a UK company vital to the government’s AI ambitions, has raised $2bn (£1.5bn) in a funding round and appointed the former Meta executives Sheryl Sandberg and Nick Clegg to its board of directors.It brings the valuation of the London-based startup, which is backed by the US tech company Nvidia, to $14.6bn, it said in a statement, and follows a $1.1bn funding round the company raised last September. Continue reading...",
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
-        "id": 4,
+        "id": 5,
         "headline": "Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents",
         "what_changed": "A BCG study of nearly 1,500 workers shows that simultaneously overseeing too many AI tools triggers cognitive exhaustion. The consequences are measurable, from higher error rates to increased intent to quit. The article Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents appeared first on The Decoder.",
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role."
       },
       {
-        "id": 5,
+        "id": 6,
         "headline": "U.S. Military strikes 3,000 targets in Iran with AI support, but oversight remains \"underinvested\"",
         "what_changed": "The Wall Street Journal confirms and expands on previous reports about the massive use of generative AI in the U.S. military campaign against Iran. New details reveal how deeply AI is already embedded in intelligence, targeting, and logistics. The article U.S. Military strikes 3,000 targets in Iran with AI support, but oversight remains \"underinvested\" appeared first on The Decoder.",
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role."
       }
     ],
+    "operations_supply": [
+      {
+        "id": 0,
+        "headline": "Andrew Ng's Team Releases Context Hub: Open-Source Tool for AI Agent API Docs",
+        "what_changed": "Andrew Ng's team at DeepLearning.AI officially launched Context Hub, an open-source tool that provides up-to-date API documentation for AI coding agents.",
+        "why_care": "This matters because accurate, real-time data is critical for your AI tools to effectively manage inventory, optimize logistics, and automate supply chain processes without errors.",
+        "what_to_do": "Discuss with your IT or AI development team how Context Hub could improve the reliability of your AI agents by ensuring they use current API information.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Prompting Industry Concerns",
+        "what_changed": "The Pentagon has banned the use of Anthropic's AI technology.",
+        "why_care": "This action by the Pentagon could signal broader security or compliance concerns for AI tools in your operations.",
+        "what_to_do": "Assess your current AI tools and partnerships for potential security and compliance vulnerabilities.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Impacting Defense Supply Chains",
+        "what_changed": "The Pentagon has banned Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for defense projects.",
+        "why_care": "This ban could signal future restrictions on AI tools, potentially impacting the stability and availability of AI solutions you use in your supply chain operations.",
+        "what_to_do": "Review your current AI vendor contracts and assess potential risks if similar government bans were to affect your chosen providers.",
+        "source": "CNBC"
+      },
+      {
+        "id": 2,
+        "headline": "Qualcomm and Neura Robotics Partner on New AI-Powered Robots",
+        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This partnership could lead to more advanced and efficient robots becoming available for your warehouse automation, material handling, and manufacturing processes.",
+        "what_to_do": "Investigate the specifications of Qualcomm's IQ10 processors to understand potential future robot capabilities for your facilities."
+      },
+      {
+        "id": 3,
+        "headline": "Age-Verification Tools Spread, Raising Adult Privacy Concerns",
+        "what_changed": "New age-verification laws and tools, designed for child safety online, are raising privacy concerns for adults.",
+        "why_care": "While not directly operational, increased digital privacy regulations could impact how you collect and use data from employees or customers in your supply chain systems.",
+        "what_to_do": "Review your company's data privacy policies to ensure compliance with evolving regulations, especially concerning employee or customer data."
+      },
+      {
+        "id": 4,
+        "headline": "Nscale Raises $2B, Adds Sandberg & Clegg to Board, Valued at $14.6B",
+        "what_changed": "Nscale, a UK AI datacentre firm, raised $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This investment signals growing infrastructure for AI, which will impact the computing power available for your supply chain optimization and automation tools.",
+        "what_to_do": "Research how increased AI infrastructure could support new forecasting or inventory management software in your operations."
+      },
+      {
+        "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "This directly impacts your team's productivity and morale if you are implementing multiple AI tools for tasks like demand forecasting, route optimization, or quality control.",
+        "what_to_do": "Assess the number of AI tools your team members are currently managing and consider consolidating or simplifying their AI-related responsibilities."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI for 3,000 Strikes in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military extensively used generative AI for intelligence, targeting, and logistics in striking 3,000 targets in Iran, but oversight remains insufficient.",
+        "why_care": "The military's use of AI for logistics and targeting highlights the potential for AI to optimize complex operational planning, but also warns about the critical need for robust oversight in your own AI implementations.",
+        "what_to_do": "Evaluate your current AI systems for logistics and planning to ensure you have clear human oversight protocols and accountability measures in place."
+      }
+    ],
+    "science_research": [
+      {
+        "id": 0,
+        "headline": "Context Hub: Andrew Ng's Open-Source Tool Updates AI Agent API Documentation",
+        "what_changed": "Andrew Ng's DeepLearning.AI team released Context Hub, an open-source tool that provides up-to-date API documentation for coding agents.",
+        "why_care": "This tool helps your AI agents stay current with rapidly changing APIs, preventing errors in your research code or automated workflows.",
+        "what_to_do": "Explore Context Hub's open-source repository to see if it can improve your AI agent's coding accuracy.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Research Applications",
+        "what_changed": "The Pentagon has banned Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for defense projects.",
+        "why_care": "This ban suggests potential concerns about AI reliability or security, which could impact your research integrity or future collaborations involving similar AI models.",
+        "what_to_do": "If you use or plan to use Anthropic's AI, investigate the specific reasons for the Pentagon's ban to assess potential risks to your projects.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "Anthropic AI Banned by Pentagon, Experts Concerned for Future Use",
+        "what_changed": "The Pentagon has banned the use of Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for defense applications.",
+        "why_care": "This ban suggests potential security or ethical concerns with advanced AI models, which could influence your research access or funding for similar technologies.",
+        "what_to_do": "Review your institution's guidelines and security protocols for using third-party AI models in your research this week.",
+        "source": "CNBC"
+      },
+      {
+        "id": 2,
+        "headline": "Qualcomm Partners with Neura Robotics for New Robot Development",
+        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This collaboration could lead to more advanced and efficient robotics for lab automation, field research, and hazardous environment exploration.",
+        "what_to_do": "Research the specifications of Qualcomm's IQ10 processors and Neura Robotics' new platforms to assess their potential for your lab or field work."
+      },
+      {
+        "id": 3,
+        "headline": "Age-Verification Tools Expand in U.S., Raising Adult Privacy Concerns",
+        "what_changed": "New age-verification laws and tools, intended for child safety online, are now being widely implemented across the U.S., raising privacy concerns for adults.",
+        "why_care": "These tools could impact how you access scientific platforms, collaborate online, and share research data, potentially introducing new privacy considerations.",
+        "what_to_do": "Review the privacy policies of scientific platforms and collaboration tools you use to understand how new age-verification measures might affect your data."
+      },
+      {
+        "id": 4,
+        "headline": "Nscale Raises $2 Billion, Valued at $14.6 Billion, Adds Sandberg & Clegg to Board",
+        "what_changed": "Nscale, a UK AI datacenter firm, secured $2 billion in funding, increasing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This investment signals a major expansion in AI infrastructure, which could provide more computing resources for your research and data analysis needs.",
+        "what_to_do": "Investigate Nscale's datacenter capabilities and consider how their expanding infrastructure might support your future computational requirements."
+      },
+      {
+        "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
+        "what_changed": "A BCG study of nearly 1,500 workers found that managing multiple AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "If you use AI for data analysis, simulations, or experimental design, over-reliance or poor management of multiple AI agents could reduce your accuracy and increase stress.",
+        "what_to_do": "Evaluate your current workflow to ensure you are not overseeing too many AI tools simultaneously, and consider strategies to optimize your interaction with AI."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI in 3,000 Strikes, Oversight Remains 'Underinvested'",
+        "what_changed": "The U.S. military has extensively used generative AI to support 3,000 strikes in Iran, but oversight mechanisms for this AI use are reportedly insufficient.",
+        "why_care": "The rapid deployment of AI in critical operations without adequate oversight highlights the urgent need for robust AI safety and ethics research, which directly impacts your field.",
+        "what_to_do": "Engage with discussions and research on AI ethics and safety, considering how your scientific expertise can contribute to developing better oversight for AI systems."
+      }
+    ],
+    "sales": [
+      {
+        "id": 0,
+        "headline": "Andrew Ng's DeepLearning.AI Launches Context Hub for Better AI Agent Data",
+        "what_changed": "Andrew Ng and his team at DeepLearning.AI officially launched Context Hub, an open-source tool designed to give AI coding agents up-to-date API documentation.",
+        "why_care": "This means AI tools you use or sell could become more accurate and effective by having access to the most current information, not outdated data.",
+        "what_to_do": "Ask your sales tech vendors how their AI tools ensure they are using the most current data and documentation.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Affecting AWS and Palantir Deals",
+        "what_changed": "The Pentagon has banned Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for Department of Defense projects.",
+        "why_care": "This highlights how quickly major client relationships can change, even for established vendors, potentially affecting your customers or prospects.",
+        "what_to_do": "Check if your key accounts or prospects use Anthropic, Amazon Web Services, or Palantir to assess potential risks or new opportunities.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic: What This Means for Your Government Deals",
+        "what_changed": "The Pentagon has banned Anthropic, a key AI provider, from its operations.",
+        "why_care": "This shows how quickly a major client can ban a vendor, impacting your sales strategies and competitive landscape in large accounts.",
+        "what_to_do": "Review your key accounts for any changing vendor policies or competitive shifts that could impact your current or future deals.",
+        "source": "CNBC"
+      },
+      {
+        "id": 2,
+        "headline": "Qualcomm Partners with Neura Robotics for New AI-Powered Robots",
+        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This partnership means more advanced AI robotics are coming, which could automate tasks or create new operational efficiencies for your future clients.",
+        "what_to_do": "Explore how AI-powered robotics might impact your target industries and prepare talking points on how your solutions complement or integrate with these advancements."
+      },
+      {
+        "id": 3,
+        "headline": "New Age-Verification Tools for Child Safety Raise Adult Privacy Concerns",
+        "what_changed": "New laws and tools for online age verification, aimed at child safety, are also raising concerns about adult privacy and surveillance.",
+        "why_care": "Increased privacy regulations and data collection concerns could impact how you gather and use customer data, potentially affecting your sales outreach strategies.",
+        "what_to_do": "Review your current data collection and usage practices to ensure compliance with evolving privacy standards and clearly communicate your data handling policies to prospects."
+      },
+      {
+        "id": 4,
+        "headline": "Nscale Raises $2bn, Valued at $14.6bn, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK AI datacenter firm, raised $2bn in funding, increasing its valuation to $14.6bn, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment and leadership addition signal strong growth in AI infrastructure, which will drive demand for AI-powered sales tools and solutions you might sell.",
+        "what_to_do": "Research Nscale's partners and customers to identify potential new markets or integration opportunities for your product offerings."
+      },
+      {
+        "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Tools",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "Your prospects may be hesitant to adopt multiple new AI tools if they fear 'AI Brain Fry,' so you need to emphasize ease of use and integration for your solutions.",
+        "what_to_do": "Prepare to address potential 'AI fatigue' concerns by highlighting how your product simplifies workflows or consolidates functions, rather than adding complexity."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI to Strike 3,000 Targets, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military has extensively used generative AI in its campaign against Iran, striking 3,000 targets, but oversight of these AI systems remains 'underinvested'.",
+        "why_care": "The widespread use of AI in critical operations, even with oversight gaps, shows AI's growing power and potential, which will influence your customers' AI adoption strategies.",
+        "what_to_do": "Stay informed on the ethical implications and governance discussions around AI, as these will increasingly shape your customers' purchasing decisions and risk assessments."
+      }
+    ],
+    "product_project": [
+      {
+        "id": 0,
+        "headline": "Andrew Ng's DeepLearning.AI launches Context Hub for AI coding agent API docs",
+        "what_changed": "Andrew Ng's team at DeepLearning.AI officially launched Context Hub, an open-source tool that provides up-to-date API documentation for AI coding agents.",
+        "why_care": "This tool can improve the reliability and efficiency of your AI-driven projects by ensuring coding agents use current API information, reducing development hurdles.",
+        "what_to_do": "Discuss Context Hub with your development or AI teams to assess its potential for improving your current or upcoming AI agent projects.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Raising Project Management Concerns",
+        "what_changed": "The Pentagon has banned Anthropic's AI, reversing its previous choice for Department of Defense projects.",
+        "why_care": "This highlights the importance of vendor risk assessment and compliance planning for your AI-driven projects.",
+        "what_to_do": "Review your current AI vendor contracts and project plans this week to assess potential compliance and supply chain risks.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Impacting Defense Project Planning",
+        "what_changed": "The Pentagon has banned Anthropic's AI, despite its prior selection and partnerships with Amazon Web Services and Palantir for defense projects.",
+        "why_care": "This highlights the critical need for your project's vendor risk assessment and adaptability when integrating AI solutions, especially in sensitive sectors.",
+        "what_to_do": "This week, review your project's AI vendor contracts and contingency plans for potential regulatory or security-driven bans.",
+        "source": "CNBC"
+      },
+      {
+        "id": 2,
+        "headline": "Qualcomm Partners with Neura Robotics for New Robot Development",
+        "what_changed": "Neura Robotics will build new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This partnership shows how specialized AI processors are enabling new robotics, which could impact your product development in automation or manufacturing.",
+        "what_to_do": "Investigate the capabilities of Qualcomm's IQ10 processors and Neura Robotics' platform to identify potential applications for your product roadmap."
+      },
+      {
+        "id": 3,
+        "headline": "New Age-Verification Tools for Child Safety Raise Adult Privacy Concerns",
+        "what_changed": "New age-verification laws and tools, designed for child safety online, are raising concerns about adult privacy due to increased surveillance.",
+        "why_care": "As you develop products, you must consider the privacy implications of age verification and data collection, especially with evolving regulations.",
+        "what_to_do": "Review your product's data collection and age-verification processes to ensure compliance with privacy regulations and ethical standards."
+      },
+      {
+        "id": 4,
+        "headline": "Nscale Raises $2bn, Valued at $14.6bn, Adds Sandberg and Clegg to Board",
+        "what_changed": "Nscale, a UK AI datacentre firm, raised $2bn in funding, valuing it at $14.6bn, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment and leadership addition signal growing infrastructure and strategic direction in the AI sector, impacting your future project planning and resource availability.",
+        "what_to_do": "Research Nscale's technology and service offerings to understand potential future infrastructure options for your AI-driven projects."
+      },
+      {
+        "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "This directly impacts your team's productivity and well-being, requiring you to optimize how your teams interact with AI tools to prevent burnout.",
+        "what_to_do": "Assess your team's current AI tool usage and implement strategies, like tool consolidation or phased adoption, to reduce cognitive load."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI for 3,000 Targets in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, with new details revealing its deep integration in intelligence, targeting, and logistics, but oversight is 'underinvested'.",
+        "why_care": "The military's experience highlights the power of AI in complex operations but also the critical need for robust oversight, a lesson relevant to your AI-driven project governance.",
+        "what_to_do": "Establish clear governance frameworks and ethical guidelines for AI implementation in your projects, ensuring adequate human oversight and accountability."
+      }
+    ],
+    "real_estate_construction": [
+      {
+        "id": 0,
+        "headline": "Andrew Ng's Team Launches Context Hub: Open-Source Tool for AI Agents",
+        "what_changed": "Andrew Ng's team at DeepLearning.AI released Context Hub, an open-source tool to keep AI coding agents updated with the latest API documentation.",
+        "why_care": "This matters because AI tools you use for tasks like market analysis or design need accurate, up-to-date information to be effective.",
+        "what_to_do": "Inquire with your AI software providers about how they keep their tools updated with the latest industry data and APIs.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Raising Questions for Enterprise Adoption",
+        "what_changed": "The Pentagon has banned the use of AI tools from Anthropic, a company previously chosen for its AI solutions.",
+        "why_care": "This signals potential risks or reliability concerns with AI providers, urging you to carefully vet any AI tools considered for your projects.",
+        "what_to_do": "Review the security and reliability policies of any AI vendors you currently use or plan to adopt this week.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Tech Adoption",
+        "what_changed": "The Pentagon has banned Anthropic's AI technology, reversing its previous decision to partner with the company.",
+        "why_care": "This event highlights potential security and reliability concerns with AI tools, which you might consider when evaluating new software for your projects or property management.",
+        "what_to_do": "Review the security and data privacy policies of any AI tools you currently use or plan to adopt in your real estate or construction business.",
+        "source": "CNBC"
+      },
+      {
+        "id": 2,
+        "headline": "Qualcomm and Neura Robotics Partner on New AI-Powered Robots",
+        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This partnership could lead to more advanced robotics for construction sites, improving efficiency and safety for your projects.",
+        "what_to_do": "Investigate current robotic solutions available for construction tasks, like surveying or material handling, to understand their capabilities and limitations."
+      },
+      {
+        "id": 3,
+        "headline": "New Age-Verification Tools Raise Adult Privacy Concerns Across U.S.",
+        "what_changed": "New age-verification laws and tools, designed for child safety online, are now raising privacy concerns for adults.",
+        "why_care": "Increased digital surveillance measures could impact how you market properties online or manage client data, requiring stricter privacy protocols.",
+        "what_to_do": "Review your company's data privacy policies and ensure compliance with evolving digital privacy regulations."
+      },
+      {
+        "id": 4,
+        "headline": "Nscale Raises $2bn, Adds Sandberg & Clegg to Board, Valued at $14.6bn",
+        "what_changed": "Nscale, a UK AI data center firm, raised $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This investment signals a major expansion in AI infrastructure, which will increase demand for specialized data center properties and construction services.",
+        "what_to_do": "Research local and national plans for new data center developments to identify potential land acquisition or construction opportunities."
+      },
+      {
+        "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Tools",
+        "what_changed": "A BCG study found that workers supervising too many AI tools simultaneously experience cognitive exhaustion, leading to more errors and higher intent to quit.",
+        "why_care": "Over-reliance on AI tools without proper human oversight can reduce productivity and increase errors in your project management or design processes.",
+        "what_to_do": "Evaluate your team's current use of AI tools to ensure a balanced workload and provide training on effective AI integration without overload."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, but oversight for these AI systems remains underfunded.",
+        "why_care": "The rapid deployment of AI in critical operations highlights the need for robust ethical guidelines and oversight, which applies to AI use in your industry for tasks like design or risk assessment.",
+        "what_to_do": "Establish clear ethical guidelines and review processes for any AI tools you implement in your real estate or construction operations."
+      }
+    ],
     "hr": [
       {
         "id": 0,
+        "headline": "DeepLearning.AI's Context Hub helps AI tools stay current with new information.",
+        "what_changed": "Andrew Ng's team at DeepLearning.AI launched Context Hub, an open-source tool to keep AI agents' information current.",
+        "why_care": "This ensures that any AI tools you use in HR, from recruiting to analytics, operate with the most current and accurate information.",
+        "what_to_do": "Assess how your current or planned HR AI tools receive and update their information to ensure they use the most current data.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
         "headline": "Pentagon Bans Anthropic AI, Raising Questions for Enterprise AI Adoption",
         "what_changed": "The Pentagon has banned the use of Anthropic's AI, despite its prior selection and partnerships with Amazon Web Services and Palantir.",
         "why_care": "This highlights the critical need for your HR team to thoroughly vet AI vendors for security, compliance, and long-term viability before integrating new tools.",
@@ -287,7 +525,7 @@
         "source": "CNBC"
       },
       {
-        "id": 0,
+        "id": 1,
         "headline": "Pentagon Bans Anthropic AI: What This Means for Your HR Tech Strategy",
         "what_changed": "The Pentagon, which previously selected Anthropic for AI projects, has now banned its use.",
         "why_care": "This ban signals potential concerns about AI vendor reliability and security, which you must consider when evaluating AI tools for HR functions like recruiting or learning.",
@@ -295,44 +533,174 @@
         "source": "CNBC"
       },
       {
-        "id": 1,
+        "id": 2,
         "headline": "Qualcomm and Neura Robotics Partner to Build New Robots on IQ10 Processors",
         "what_changed": "Neura Robotics will develop new robots utilizing Qualcomm's recently released IQ10 processors.",
         "why_care": "This partnership indicates a continued advancement in robotics, which could lead to more automated tasks in workplaces and impact future job roles and training needs.",
         "what_to_do": "Assess current roles in your organization that involve repetitive physical tasks to identify areas where robotics might be implemented in the next 3-5 years."
       },
       {
-        "id": 2,
+        "id": 3,
         "headline": "New Age-Verification Tools Raise Adult Privacy Concerns Across the U.S.",
         "what_changed": "New age-verification laws and tools, designed for child safety online, are now raising privacy concerns for adults.",
         "why_care": "The expansion of age-verification tools could impact how your employees access online resources and raise new questions about data privacy in the workplace.",
         "what_to_do": "Review your organization's data privacy policies and employee guidelines for internet use to ensure they address evolving age-verification and surveillance technologies."
       },
       {
-        "id": 3,
+        "id": 4,
         "headline": "Nscale Raises $2bn, Valued at $14.6bn, Adds Sheryl Sandberg and Nick Clegg to Board",
         "what_changed": "Nscale, a UK AI datacentre firm, raised $2bn in funding, increasing its valuation to $14.6bn, and appointed Sheryl Sandberg and Nick Clegg to its board.",
         "why_care": "This significant investment and leadership addition signal a growing, well-funded AI infrastructure market that will impact future talent needs and technology adoption.",
         "what_to_do": "Research Nscale's technology to understand potential future infrastructure impacts on your organization's AI capabilities and talent requirements."
       },
       {
-        "id": 4,
+        "id": 5,
         "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
         "what_changed": "A BCG study found that workers overseeing too many AI tools experience cognitive exhaustion, leading to higher error rates and increased intent to quit.",
         "why_care": "This research highlights the importance of managing AI tool integration to prevent employee burnout and maintain productivity and retention within your workforce.",
         "what_to_do": "Evaluate how many AI tools your employees are currently managing and consider implementing guidelines for AI workload to prevent cognitive overload."
       },
       {
-        "id": 5,
+        "id": 6,
         "headline": "U.S. Military Uses AI for Targeting, Oversight Remains 'Underinvested'",
         "what_changed": "The U.S. military is extensively using generative AI for intelligence, targeting, and logistics, but oversight of these AI systems is considered 'underinvested'.",
         "why_care": "While military-focused, this news underscores the critical need for robust AI governance and ethical oversight, which is a growing concern for all organizations adopting AI.",
         "what_to_do": "Initiate a discussion with your leadership and legal teams about establishing clear ethical guidelines and oversight mechanisms for any AI tools your organization uses or plans to implement."
       }
     ],
+    "finance": [
+      {
+        "id": 0,
+        "headline": "Andrew Ng's DeepLearning.AI Launches Context Hub for AI Agent Accuracy",
+        "what_changed": "Andrew Ng's DeepLearning.AI team launched Context Hub, an open-source tool to provide AI coding agents with current API documentation.",
+        "why_care": "This tool helps ensure your AI agents use the most current data for financial analysis and compliance, reducing errors from outdated information.",
+        "what_to_do": "Investigate how Context Hub could enhance the reliability of AI tools used for your firm's financial modeling or compliance tasks.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
+        "headline": "Anthropic Banned by Pentagon After Prior Selection, Raising Concerns",
+        "what_changed": "Anthropic, an AI company, has been banned by the Pentagon despite its prior selection for defense projects.",
+        "why_care": "This ban could impact Anthropic's valuation, its partners like Amazon Web Services and Palantir, and signal increased regulatory risk for AI investments.",
+        "what_to_do": "Review your portfolio for exposure to Anthropic or its key partners, assessing potential risks from government contract changes.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Tech Partnerships",
+        "what_changed": "The Pentagon has banned Anthropic's AI, reversing its earlier adoption of the technology.",
+        "why_care": "This ban could signal increased regulatory risk for AI companies and impact valuations of firms like Anthropic, Amazon Web Services, and Palantir.",
+        "what_to_do": "Review your investment portfolio for exposure to AI companies and their partners, assessing potential regulatory risks.",
+        "source": "CNBC"
+      },
+      {
+        "id": 2,
+        "headline": "Qualcomm Partners with Neura Robotics for New Robot Development",
+        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This collaboration could lead to more advanced automation tools becoming available, potentially impacting your firm's operational efficiency and staffing needs in the future.",
+        "what_to_do": "Research the capabilities of Qualcomm's IQ10 processors and Neura Robotics' existing products to understand potential future applications in finance."
+      },
+      {
+        "id": 3,
+        "headline": "Age-Verification Tools Expand in U.S., Raising Adult Privacy Concerns",
+        "what_changed": "New age-verification laws and tools, designed for child safety online, are also collecting data on adults, raising privacy concerns.",
+        "why_care": "Increased data collection through age-verification tools could lead to new compliance requirements and data privacy risks for your firm.",
+        "what_to_do": "Review your firm's data privacy policies and ensure compliance with evolving regulations related to online age verification and data collection."
+      },
+      {
+        "id": 4,
+        "headline": "Nscale Raises $2 Billion, Valued at $14.6 Billion, Adds Sandberg and Clegg to Board",
+        "what_changed": "Nscale, a UK AI data center firm, raised $2 billion in funding, increasing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment and high valuation in AI infrastructure indicate a growing market that may impact your firm's technology investments and operational costs.",
+        "what_to_do": "Assess your firm's current and projected AI infrastructure needs and budget for potential future investments in similar technologies."
+      },
+      {
+        "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Tools",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "This finding suggests that over-reliance on AI without proper human oversight can decrease productivity and increase operational risks for your finance team.",
+        "what_to_do": "Evaluate your team's current AI tool usage to ensure employees are not overburdened, and consider training on effective AI integration and oversight."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI Extensively in Operations, Oversight Lags",
+        "what_changed": "The U.S. military is extensively using generative AI in intelligence, targeting, and logistics for operations, but oversight remains underinvested.",
+        "why_care": "The rapid deployment of AI with insufficient oversight in critical operations highlights the importance of robust governance and ethical frameworks for AI implementation in your firm.",
+        "what_to_do": "Assess your firm's AI governance framework to ensure adequate oversight, ethical guidelines, and risk management protocols are in place for all AI applications."
+      }
+    ],
+    "data_ai": [
+      {
+        "id": 0,
+        "headline": "Andrew Ng's DeepLearning.AI Releases Context Hub for Agent API Docs",
+        "what_changed": "Andrew Ng's team at DeepLearning.AI launched Context Hub, an open-source tool to provide up-to-date API documentation to coding agents.",
+        "why_care": "This tool can improve the performance of your AI agents by ensuring they always have the latest API information, reducing errors and outdated responses.",
+        "what_to_do": "Investigate Context Hub on GitHub this week to see if it can enhance your coding agents' ability to use current APIs.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI After Prior Selection, Raising Concerns",
+        "what_changed": "Anthropic, once a Pentagon AI partner with ties to Amazon Web Services and Palantir, is now banned from defense projects.",
+        "why_care": "This highlights the complex regulatory and security challenges for deploying AI models in sensitive government or enterprise environments.",
+        "what_to_do": "Review your organization's compliance and security protocols for deploying AI models, especially in regulated industries.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Impacting Government AI Projects",
+        "what_changed": "The Pentagon has banned Anthropic's AI, affecting its prior defense partnerships with Amazon Web Services and Palantir.",
+        "why_care": "This highlights the significant scrutiny and potential restrictions on AI models, especially large language models, within government and sensitive applications.",
+        "what_to_do": "Research the compliance and security frameworks of the AI models you use or plan to use for sensitive projects.",
+        "source": "CNBC"
+      },
+      {
+        "id": 2,
+        "headline": "Qualcomm Partners with Neura Robotics for New Robot Development",
+        "what_changed": "Neura Robotics will build new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This collaboration highlights the increasing integration of specialized AI processors into robotics, which could influence future hardware choices for your edge AI and robotics projects.",
+        "what_to_do": "Investigate Qualcomm's IQ10 processors to understand their capabilities for on-device AI and robotics applications."
+      },
+      {
+        "id": 3,
+        "headline": "Age-Verification Tools Spread, Raising Adult Privacy Concerns",
+        "what_changed": "New age-verification laws and tools are being implemented across the U.S. for child safety, but privacy experts are concerned about adult surveillance.",
+        "why_care": "The expansion of age-verification technologies could lead to new data collection methods and privacy regulations that impact how you handle user data in your AI applications.",
+        "what_to_do": "Review your organization's data privacy policies and ensure compliance with evolving regulations related to user verification and data collection."
+      },
+      {
+        "id": 4,
+        "headline": "Nscale Raises $2bn, Valued at $14.6bn; Sheryl Sandberg, Nick Clegg Join Board",
+        "what_changed": "Nscale, a UK AI datacenter firm, raised $2bn in funding, increasing its valuation to $14.6bn, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment and leadership addition could accelerate AI infrastructure development, potentially impacting the availability and cost of compute resources for your projects.",
+        "what_to_do": "Research Nscale's datacenter offerings to understand potential future compute resource options for your AI workloads."
+      },
+      {
+        "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Agents",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "As you integrate more AI agents into workflows, managing cognitive load is crucial to maintain productivity and prevent burnout for yourself and your team.",
+        "what_to_do": "Evaluate your current AI tool usage and consider strategies like staggered implementation or specialized roles to manage cognitive load effectively."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, with new details revealing its deep integration into intelligence, targeting, and logistics.",
+        "why_care": "The large-scale deployment of AI in critical military operations underscores the importance of robust AI ethics, explainability, and governance in all your AI systems.",
+        "what_to_do": "Advocate for and implement strong ethical AI frameworks, explainability tools, and rigorous oversight processes in your AI development and deployment."
+      }
+    ],
     "legal": [
       {
         "id": 0,
+        "headline": "Andrew Ng's Team Releases Context Hub: Open-Source Tool for AI Agent Accuracy",
+        "what_changed": "Andrew Ng's team at DeepLearning.AI released Context Hub, an open-source tool that provides AI agents with up-to-date API documentation.",
+        "why_care": "This tool helps ensure AI systems you use are working with the most current information, reducing risks of errors from outdated data in legal analysis or compliance tasks.",
+        "what_to_do": "Ask your legal tech vendors how their AI tools ensure they are using the most current information for critical legal tasks.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
         "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Legal Tech Adoption",
         "what_changed": "The Pentagon has banned Anthropic's AI tools, despite its prior partnerships with Amazon Web Services and Palantir for defense projects.",
         "why_care": "This ban signals potential security or compliance risks associated with AI tools, which you must evaluate carefully before integrating them into your legal workflows.",
@@ -340,7 +708,7 @@
         "source": "CNBC"
       },
       {
-        "id": 0,
+        "id": 1,
         "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Government Contracts",
         "what_changed": "The Pentagon has banned Anthropic's AI tools, despite its previous partnerships with Amazon Web Services and Palantir for Department of Defense projects.",
         "why_care": "This ban signals potential compliance and security risks with AI tools, impacting your firm's due diligence and contract negotiations for AI integration.",
@@ -348,35 +716,35 @@
         "source": "CNBC"
       },
       {
-        "id": 1,
+        "id": 2,
         "headline": "Qualcomm Partners with Neura Robotics for New AI-Powered Robots",
         "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
         "why_care": "This partnership indicates a trend towards more sophisticated and specialized AI hardware in robotics, which could lead to new automation tools relevant to legal operations.",
         "what_to_do": "Investigate how advanced robotics and AI processors might automate physical tasks in legal offices or data centers in the next 3-5 years."
       },
       {
-        "id": 2,
+        "id": 3,
         "headline": "Age-Verification Tools for Child Safety Raise Adult Privacy Concerns",
         "what_changed": "New age-verification laws and tools, designed for child safety online, are raising concerns about increased surveillance of adults.",
         "why_care": "Your firm needs to understand the evolving landscape of privacy laws and data collection methods as these tools become more widespread, impacting client data and compliance.",
         "what_to_do": "Review your firm's privacy policies and data handling procedures to ensure compliance with new age-verification mandates and broader data surveillance implications."
       },
       {
-        "id": 3,
+        "id": 4,
         "headline": "Nscale Raises $2bn, Valued at $14.6bn, Adds Sandberg and Clegg to Board",
         "what_changed": "Nscale, a UK AI datacentre firm, raised $2bn in funding, increasing its valuation to $14.6bn, and appointed Sheryl Sandberg and Nick Clegg to its board.",
         "why_care": "This significant investment and high-profile board appointments signal growing confidence and rapid expansion in the AI infrastructure sector, which will impact the tools and services you use.",
         "what_to_do": "Research Nscale's technology and its potential impact on cloud computing and data storage for legal AI applications."
       },
       {
-        "id": 4,
+        "id": 5,
         "headline": "Study Warns of 'AI Brain Fry' From Overseeing Too Many AI Agents",
         "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
         "why_care": "As your firm integrates more AI tools, you must manage their deployment to avoid burnout and maintain accuracy among your legal professionals.",
         "what_to_do": "Assess your team's current AI tool usage and consider implementing guidelines or training to prevent cognitive overload and optimize AI integration."
       },
       {
-        "id": 5,
+        "id": 6,
         "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight Remains 'Underinvested'",
         "what_changed": "The U.S. military has extensively used generative AI to strike 3,000 targets in Iran, with AI deeply embedded in intelligence, targeting, and logistics, but oversight is lacking.",
         "why_care": "This highlights the rapid, large-scale deployment of AI in critical operations and the ethical and regulatory challenges of AI governance, which will influence future legal frameworks.",
@@ -386,6 +754,14 @@
     "media_content": [
       {
         "id": 0,
+        "headline": "Andrew Ng's Team Launches Context Hub: Keeping AI Agents Accurate",
+        "what_changed": "Andrew Ng's DeepLearning.AI released Context Hub, an open-source tool designed to give AI agents current information.",
+        "why_care": "This development highlights that AI models, even powerful ones, require constant updates to deliver accurate, current information for your content.",
+        "what_to_do": "Investigate how the AI tools you currently use for research or content creation are updated to ensure their data remains current.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
         "headline": "Pentagon Bans Anthropic AI: Experts Raise Concerns Over Trust and Use",
         "what_changed": "The Pentagon, which previously selected Anthropic for AI initiatives, has now banned the company's technology.",
         "why_care": "This ban signals growing scrutiny over AI reliability and ethics, impacting how you cover AI adoption and its societal implications.",
@@ -393,7 +769,7 @@
         "source": "CNBC"
       },
       {
-        "id": 0,
+        "id": 1,
         "headline": "Pentagon Bans Anthropic AI, Sparking Expert Concerns on Trust",
         "what_changed": "The Pentagon has banned Anthropic, an AI company it previously partnered with, from its systems.",
         "why_care": "This ban highlights growing concerns about AI reliability and ethics, which could impact public trust in AI-generated content and tools you use.",
@@ -401,97 +777,113 @@
         "source": "CNBC"
       },
       {
-        "id": 1,
+        "id": 2,
         "headline": "Qualcomm and Neura Robotics Partner for New AI Robots",
         "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
         "why_care": "This partnership could lead to more advanced robotic tools for content creation, automation, or even physical reporting in the future.",
         "what_to_do": "Investigate how current robotics are used in media production and consider potential future applications for your specific role."
       },
       {
-        "id": 2,
+        "id": 3,
         "headline": "Age Verification Spreads, Raising Adult Privacy Concerns",
         "what_changed": "New age-verification laws and tools are being implemented across the U.S. for child safety, but privacy experts warn of adult surveillance.",
         "why_care": "These tools could impact how you access information, conduct research, and protect your sources' anonymity online.",
         "what_to_do": "Review the privacy policies of platforms you use and understand how new age-verification methods might affect your data and access."
       },
       {
-        "id": 3,
+        "id": 4,
         "headline": "Nscale Raises $2bn, Adds Sheryl Sandberg and Nick Clegg to Board",
         "what_changed": "Nscale, a UK AI data center company, raised $2bn in funding and appointed Sheryl Sandberg and Nick Clegg to its board.",
         "why_care": "This signals significant investment and influential leadership entering the AI infrastructure space, which will impact the tools and platforms you use.",
         "what_to_do": "Research Nscale's technology and how it might influence the future availability and cost of AI services relevant to your work."
       },
       {
-        "id": 4,
+        "id": 5,
         "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
         "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
         "why_care": "Relying on too many AI tools for writing, editing, or fact-checking could reduce your accuracy and lead to burnout.",
         "what_to_do": "Evaluate your current use of AI tools and consider consolidating or streamlining your workflow to avoid cognitive overload."
       },
       {
-        "id": 5,
+        "id": 6,
         "headline": "U.S. Military Uses AI in 3,000 Strikes, Oversight 'Underinvested'",
         "what_changed": "The U.S. military used generative AI to support 3,000 strikes in Iran, with new details revealing deep AI integration in intelligence and targeting.",
         "why_care": "This highlights the growing, often opaque, role of AI in critical global events, which impacts how you report on conflicts and technology.",
         "what_to_do": "Research the ethical implications and potential biases of AI in military applications to inform your reporting and analysis."
       }
     ],
-    "sales": [
+    "marketing": [
       {
         "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Affecting AWS and Palantir Deals",
-        "what_changed": "The Pentagon has banned Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for Department of Defense projects.",
-        "why_care": "This highlights how quickly major client relationships can change, even for established vendors, potentially affecting your customers or prospects.",
-        "what_to_do": "Check if your key accounts or prospects use Anthropic, Amazon Web Services, or Palantir to assess potential risks or new opportunities.",
-        "source": "CNBC"
+        "headline": "Andrew Ng's Context Hub: Open-Source Tool for Smarter AI Agents",
+        "what_changed": "Andrew Ng's DeepLearning.AI team launched Context Hub, an open-source tool that provides AI coding agents with current API documentation.",
+        "why_care": "This tool helps ensure the AI agents powering your marketing tools, like content generators or ad optimizers, have the most current information, leading to better results for your campaigns.",
+        "what_to_do": "Ask your AI tool providers or internal development teams if their AI agents leverage up-to-date API documentation for optimal performance.",
+        "source": "MarkTechPost"
       },
       {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic: What This Means for Your Government Deals",
-        "what_changed": "The Pentagon has banned Anthropic, a key AI provider, from its operations.",
-        "why_care": "This shows how quickly a major client can ban a vendor, impacting your sales strategies and competitive landscape in large accounts.",
-        "what_to_do": "Review your key accounts for any changing vendor policies or competitive shifts that could impact your current or future deals.",
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Tech's Future",
+        "what_changed": "The Pentagon has banned the use of Anthropic's AI technology, despite its prior selection for defense projects.",
+        "why_care": "This event highlights the evolving regulatory landscape and trust issues around AI, which could influence the public's acceptance of AI-generated content and tools you use.",
+        "what_to_do": "Begin researching the ethical guidelines and transparency features of the AI tools you currently use or plan to adopt for your marketing efforts.",
         "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Qualcomm Partners with Neura Robotics for New AI-Powered Robots",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This partnership means more advanced AI robotics are coming, which could automate tasks or create new operational efficiencies for your future clients.",
-        "what_to_do": "Explore how AI-powered robotics might impact your target industries and prepare talking points on how your solutions complement or integrate with these advancements."
+        "headline": "Pentagon Bans Anthropic AI After Initial Partnership",
+        "what_changed": "The Pentagon has banned Anthropic's AI, despite earlier partnerships with Amazon Web Services and Palantir.",
+        "why_care": "This situation shows how quickly trust in AI tools can change, affecting public perception and your brand's decisions about using AI.",
+        "what_to_do": "Review the data security and ethical guidelines of any AI tools your team currently uses or plans to adopt this week.",
+        "source": "CNBC"
       },
       {
         "id": 2,
-        "headline": "New Age-Verification Tools for Child Safety Raise Adult Privacy Concerns",
-        "what_changed": "New laws and tools for online age verification, aimed at child safety, are also raising concerns about adult privacy and surveillance.",
-        "why_care": "Increased privacy regulations and data collection concerns could impact how you gather and use customer data, potentially affecting your sales outreach strategies.",
-        "what_to_do": "Review your current data collection and usage practices to ensure compliance with evolving privacy standards and clearly communicate your data handling policies to prospects."
+        "headline": "Qualcomm Partners with Neura Robotics for New AI-Powered Robots",
+        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This partnership could lead to more sophisticated robotic solutions for marketing tasks, such as in-store promotions or automated content creation, impacting your future strategies.",
+        "what_to_do": "Explore current robotic applications in marketing and brainstorm how advanced AI robots could enhance your brand's customer experience or content delivery in the next year."
       },
       {
         "id": 3,
-        "headline": "Nscale Raises $2bn, Valued at $14.6bn, Adds Sheryl Sandberg and Nick Clegg to Board",
-        "what_changed": "Nscale, a UK AI datacenter firm, raised $2bn in funding, increasing its valuation to $14.6bn, and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This significant investment and leadership addition signal strong growth in AI infrastructure, which will drive demand for AI-powered sales tools and solutions you might sell.",
-        "what_to_do": "Research Nscale's partners and customers to identify potential new markets or integration opportunities for your product offerings."
+        "headline": "New Age-Verification Tools Raise Privacy Concerns for Adults",
+        "what_changed": "New age-verification laws and tools, designed for child safety online, are now raising privacy concerns for adults due to potential surveillance.",
+        "why_care": "Increased age verification and surveillance could impact how you collect user data, target audiences, and ensure compliance with evolving privacy regulations.",
+        "what_to_do": "Review your current data collection practices and privacy policies to ensure compliance with new age-verification mandates, especially regarding adult user data."
       },
       {
         "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Tools",
-        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
-        "why_care": "Your prospects may be hesitant to adopt multiple new AI tools if they fear 'AI Brain Fry,' so you need to emphasize ease of use and integration for your solutions.",
-        "what_to_do": "Prepare to address potential 'AI fatigue' concerns by highlighting how your product simplifies workflows or consolidates functions, rather than adding complexity."
+        "headline": "Nscale Raises $2bn, Valued at $14.6bn; Sheryl Sandberg, Nick Clegg Join Board",
+        "what_changed": "Nscale, a UK AI datacentre firm, secured $2bn in funding, bringing its valuation to $14.6bn, and added Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment and high-profile board appointments signal growing confidence and major advancements in AI infrastructure, which will impact the tools and platforms you use.",
+        "what_to_do": "Research how enhanced AI infrastructure could improve the performance and capabilities of your current marketing AI tools this quarter."
       },
       {
         "id": 5,
-        "headline": "U.S. Military Uses AI to Strike 3,000 Targets, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military has extensively used generative AI in its campaign against Iran, striking 3,000 targets, but oversight of these AI systems remains 'underinvested'.",
-        "why_care": "The widespread use of AI in critical operations, even with oversight gaps, shows AI's growing power and potential, which will influence your customers' AI adoption strategies.",
-        "what_to_do": "Stay informed on the ethical implications and governance discussions around AI, as these will increasingly shape your customers' purchasing decisions and risk assessments."
+        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "As you integrate more AI into your marketing workflows, managing too many tools can reduce your team's efficiency and increase burnout, impacting productivity.",
+        "what_to_do": "Evaluate your team's current AI tool stack and identify opportunities to consolidate tools or streamline workflows to prevent cognitive overload this month."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, with new details revealing its deep integration into intelligence and targeting, but oversight remains 'underinvested'.",
+        "why_care": "While not directly marketing-related, the rapid, large-scale deployment of AI in critical operations highlights the technology's growing power and the urgent need for ethical oversight, which will eventually influence public perception and regulation of AI in all sectors.",
+        "what_to_do": "Stay informed about broader AI ethics discussions and consider how your brand can proactively address ethical AI use in your marketing practices to build trust."
       }
     ],
     "creative_entertainment": [
       {
         "id": 0,
+        "headline": "Context Hub: Andrew Ng's Open-Source Tool Keeps AI Agents Updated",
+        "what_changed": "Andrew Ng's team at DeepLearning.AI released Context Hub, an open-source tool that helps AI coding agents access the latest API documentation.",
+        "why_care": "This tool ensures your AI assistants or custom scripts, which might automate tasks or integrate creative software, always use the most current information, preventing errors and improving efficiency.",
+        "what_to_do": "If you use AI agents for scripting, automation, or custom tool development, investigate how Context Hub could keep your AI updated with the latest software APIs.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
         "headline": "Pentagon Bans Anthropic AI, Sparking Concerns About AI Reliability",
         "what_changed": "The Pentagon, after initially selecting Anthropic for AI projects, has now banned the company's AI tools.",
         "why_care": "This event underscores potential reliability and security concerns with AI models, which could affect your trust in new creative AI tools.",
@@ -499,7 +891,7 @@
         "source": "CNBC"
       },
       {
-        "id": 0,
+        "id": 1,
         "headline": "Pentagon Bans Anthropic AI, Impacting AWS and Palantir Partnerships",
         "what_changed": "The Pentagon has banned Anthropic, an AI company that previously partnered with Amazon Web Services and Palantir.",
         "why_care": "This ban, especially given Anthropic's AWS ties, signals potential security and data privacy concerns that could influence the AI tools and cloud services you use for creative projects.",
@@ -507,420 +899,52 @@
         "source": "CNBC"
       },
       {
-        "id": 1,
+        "id": 2,
         "headline": "Qualcomm Partners with Neura Robotics for New AI-Powered Robots",
         "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
         "why_care": "This partnership could lead to more advanced robotics for set design, camera operation, or even interactive installations in entertainment, impacting how you produce content.",
         "what_to_do": "Explore current robotic camera systems and consider how more intelligent, AI-driven robots could enhance your future production capabilities."
       },
       {
-        "id": 2,
+        "id": 3,
         "headline": "Age-Verification Tools Spread in U.S., Raising Adult Privacy Concerns",
         "what_changed": "New age-verification laws and tools are being implemented across the U.S. for child safety online, but privacy experts are concerned about adult surveillance.",
         "why_care": "These tools could affect how you access or distribute content, potentially adding friction to your professional platforms or impacting audience engagement if not handled carefully.",
         "what_to_do": "Review the privacy policies of your primary social media and content distribution platforms to understand how new age-verification measures might impact your data."
       },
       {
-        "id": 3,
+        "id": 4,
         "headline": "Nscale Raises $2B, Valued at $14.6B; Sheryl Sandberg, Nick Clegg Join Board",
         "what_changed": "Nscale, a UK AI data center firm, raised $2 billion, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
         "why_care": "Increased investment in AI infrastructure means more powerful tools and services will become available for your creative workflows, potentially speeding up rendering or complex effects.",
         "what_to_do": "Research how major cloud providers like AWS or Google Cloud are integrating Nscale's technology to anticipate future improvements in AI-powered creative tools."
       },
       {
-        "id": 4,
+        "id": 5,
         "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
         "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
         "why_care": "As you integrate more AI into your editing, animation, or production pipelines, managing too many AI tools could reduce your efficiency and increase stress.",
         "what_to_do": "Evaluate your current AI tool usage and consider consolidating or streamlining your AI workflows to avoid cognitive overload and maintain productivity."
       },
       {
-        "id": 5,
+        "id": 6,
         "headline": "U.S. Military Uses AI for 3,000 Targets in Iran, Oversight 'Underinvested'",
         "what_changed": "The U.S. military has used generative AI to strike 3,000 targets in Iran, deeply embedding AI in intelligence, targeting, and logistics, but oversight is lacking.",
         "why_care": "While not directly related to creative work, the rapid, large-scale deployment of AI in other sectors highlights the growing power and potential ethical challenges of AI, which could influence public perception and future regulations affecting your tools.",
         "what_to_do": "Stay informed about broader AI ethics discussions and consider how the responsible use of AI in your own projects can build trust with your audience and clients."
       }
     ],
-    "science_research": [
-      {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Research Applications",
-        "what_changed": "The Pentagon has banned Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for defense projects.",
-        "why_care": "This ban suggests potential concerns about AI reliability or security, which could impact your research integrity or future collaborations involving similar AI models.",
-        "what_to_do": "If you use or plan to use Anthropic's AI, investigate the specific reasons for the Pentagon's ban to assess potential risks to your projects.",
-        "source": "CNBC"
-      },
-      {
-        "id": 0,
-        "headline": "Anthropic AI Banned by Pentagon, Experts Concerned for Future Use",
-        "what_changed": "The Pentagon has banned the use of Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for defense applications.",
-        "why_care": "This ban suggests potential security or ethical concerns with advanced AI models, which could influence your research access or funding for similar technologies.",
-        "what_to_do": "Review your institution's guidelines and security protocols for using third-party AI models in your research this week.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Qualcomm Partners with Neura Robotics for New Robot Development",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This collaboration could lead to more advanced and efficient robotics for lab automation, field research, and hazardous environment exploration.",
-        "what_to_do": "Research the specifications of Qualcomm's IQ10 processors and Neura Robotics' new platforms to assess their potential for your lab or field work."
-      },
-      {
-        "id": 2,
-        "headline": "Age-Verification Tools Expand in U.S., Raising Adult Privacy Concerns",
-        "what_changed": "New age-verification laws and tools, intended for child safety online, are now being widely implemented across the U.S., raising privacy concerns for adults.",
-        "why_care": "These tools could impact how you access scientific platforms, collaborate online, and share research data, potentially introducing new privacy considerations.",
-        "what_to_do": "Review the privacy policies of scientific platforms and collaboration tools you use to understand how new age-verification measures might affect your data."
-      },
-      {
-        "id": 3,
-        "headline": "Nscale Raises $2 Billion, Valued at $14.6 Billion, Adds Sandberg & Clegg to Board",
-        "what_changed": "Nscale, a UK AI datacenter firm, secured $2 billion in funding, increasing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This investment signals a major expansion in AI infrastructure, which could provide more computing resources for your research and data analysis needs.",
-        "what_to_do": "Investigate Nscale's datacenter capabilities and consider how their expanding infrastructure might support your future computational requirements."
-      },
-      {
-        "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
-        "what_changed": "A BCG study of nearly 1,500 workers found that managing multiple AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
-        "why_care": "If you use AI for data analysis, simulations, or experimental design, over-reliance or poor management of multiple AI agents could reduce your accuracy and increase stress.",
-        "what_to_do": "Evaluate your current workflow to ensure you are not overseeing too many AI tools simultaneously, and consider strategies to optimize your interaction with AI."
-      },
-      {
-        "id": 5,
-        "headline": "U.S. Military Uses AI in 3,000 Strikes, Oversight Remains 'Underinvested'",
-        "what_changed": "The U.S. military has extensively used generative AI to support 3,000 strikes in Iran, but oversight mechanisms for this AI use are reportedly insufficient.",
-        "why_care": "The rapid deployment of AI in critical operations without adequate oversight highlights the urgent need for robust AI safety and ethics research, which directly impacts your field.",
-        "what_to_do": "Engage with discussions and research on AI ethics and safety, considering how your scientific expertise can contribute to developing better oversight for AI systems."
-      }
-    ],
-    "data_ai": [
-      {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI After Prior Selection, Raising Concerns",
-        "what_changed": "Anthropic, once a Pentagon AI partner with ties to Amazon Web Services and Palantir, is now banned from defense projects.",
-        "why_care": "This highlights the complex regulatory and security challenges for deploying AI models in sensitive government or enterprise environments.",
-        "what_to_do": "Review your organization's compliance and security protocols for deploying AI models, especially in regulated industries.",
-        "source": "CNBC"
-      },
-      {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Impacting Government AI Projects",
-        "what_changed": "The Pentagon has banned Anthropic's AI, affecting its prior defense partnerships with Amazon Web Services and Palantir.",
-        "why_care": "This highlights the significant scrutiny and potential restrictions on AI models, especially large language models, within government and sensitive applications.",
-        "what_to_do": "Research the compliance and security frameworks of the AI models you use or plan to use for sensitive projects.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Qualcomm Partners with Neura Robotics for New Robot Development",
-        "what_changed": "Neura Robotics will build new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This collaboration highlights the increasing integration of specialized AI processors into robotics, which could influence future hardware choices for your edge AI and robotics projects.",
-        "what_to_do": "Investigate Qualcomm's IQ10 processors to understand their capabilities for on-device AI and robotics applications."
-      },
-      {
-        "id": 2,
-        "headline": "Age-Verification Tools Spread, Raising Adult Privacy Concerns",
-        "what_changed": "New age-verification laws and tools are being implemented across the U.S. for child safety, but privacy experts are concerned about adult surveillance.",
-        "why_care": "The expansion of age-verification technologies could lead to new data collection methods and privacy regulations that impact how you handle user data in your AI applications.",
-        "what_to_do": "Review your organization's data privacy policies and ensure compliance with evolving regulations related to user verification and data collection."
-      },
-      {
-        "id": 3,
-        "headline": "Nscale Raises $2bn, Valued at $14.6bn; Sheryl Sandberg, Nick Clegg Join Board",
-        "what_changed": "Nscale, a UK AI datacenter firm, raised $2bn in funding, increasing its valuation to $14.6bn, and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This significant investment and leadership addition could accelerate AI infrastructure development, potentially impacting the availability and cost of compute resources for your projects.",
-        "what_to_do": "Research Nscale's datacenter offerings to understand potential future compute resource options for your AI workloads."
-      },
-      {
-        "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Agents",
-        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
-        "why_care": "As you integrate more AI agents into workflows, managing cognitive load is crucial to maintain productivity and prevent burnout for yourself and your team.",
-        "what_to_do": "Evaluate your current AI tool usage and consider strategies like staggered implementation or specialized roles to manage cognitive load effectively."
-      },
-      {
-        "id": 5,
-        "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, with new details revealing its deep integration into intelligence, targeting, and logistics.",
-        "why_care": "The large-scale deployment of AI in critical military operations underscores the importance of robust AI ethics, explainability, and governance in all your AI systems.",
-        "what_to_do": "Advocate for and implement strong ethical AI frameworks, explainability tools, and rigorous oversight processes in your AI development and deployment."
-      }
-    ],
-    "software_engineering": [
-      {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Impacting AWS and Palantir Partnerships",
-        "what_changed": "The Pentagon has banned the use of Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for defense projects.",
-        "why_care": "This ban could impact your work on government or defense-related projects that leverage Anthropic's AI, especially if integrated with AWS or Palantir platforms.",
-        "what_to_do": "Review your current or upcoming projects to identify any reliance on Anthropic's AI, particularly in sensitive or regulated environments.",
-        "source": "CNBC"
-      },
-      {
-        "id": 0,
-        "headline": "Pentagon bans Anthropic AI, raising questions for AWS and Palantir users.",
-        "what_changed": "The Pentagon has banned Anthropic, an AI company that previously partnered with Amazon Web Services and Palantir for Department of Defense projects.",
-        "why_care": "This could impact your projects if you use Anthropic's AI models or integrate with AWS and Palantir solutions that leverage their technology for sensitive applications.",
-        "what_to_do": "Review your current or planned projects for any reliance on Anthropic's AI or related integrations with AWS and Palantir, and explore alternative solutions if necessary.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Qualcomm Partners with Neura Robotics for New IQ10 Processor-Based Robots",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This partnership signals a push for more powerful, AI-driven edge devices, which could expand the scope of embedded systems and real-time processing you might integrate with.",
-        "what_to_do": "Investigate the specifications and SDKs for Qualcomm's IQ10 processors to understand their capabilities for future robotics or IoT projects."
-      },
-      {
-        "id": 2,
-        "headline": "New Age-Verification Tools for Child Safety Raise Adult Surveillance Concerns",
-        "what_changed": "New age-verification laws and tools, designed for child safety online, are raising privacy concerns for adults.",
-        "why_care": "These tools could introduce new authentication layers or data collection requirements into your applications, impacting user experience and privacy compliance.",
-        "what_to_do": "Review current and upcoming data privacy regulations, like GDPR or CCPA, to ensure your applications comply with new age-verification and data handling standards."
-      },
-      {
-        "id": 3,
-        "headline": "Nscale Raises $2 Billion, Valued at $14.6 Billion, Adds Sandberg and Clegg to Board",
-        "what_changed": "British AI datacentre firm Nscale raised $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This significant investment in AI infrastructure indicates a growing demand for robust, scalable compute resources that your applications may rely on.",
-        "what_to_do": "Research Nscale's datacentre offerings and consider how their infrastructure might impact future cloud service availability or pricing for your projects."
-      },
-      {
-        "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
-        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, increased errors, and higher intent to quit among workers.",
-        "why_care": "As you integrate AI into your workflows, managing multiple AI agents could impact your productivity and increase the risk of errors in your development or operations tasks.",
-        "what_to_do": "Evaluate your current AI tool usage and consider consolidating or streamlining AI-assisted workflows to prevent cognitive overload and maintain efficiency."
-      },
-      {
-        "id": 5,
-        "headline": "U.S. Military Uses AI for 3,000 Strikes in Iran, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military extensively used generative AI to support 3,000 strikes in Iran, with intelligence, targeting, and logistics deeply embedded with AI, but oversight remains 'underinvested'.",
-        "why_care": "The widespread, yet under-regulated, deployment of AI in critical systems highlights the ethical and reliability challenges you might face when developing or deploying AI-powered solutions.",
-        "what_to_do": "Prioritize implementing robust monitoring, logging, and human-in-the-loop mechanisms for any AI systems you develop or deploy to ensure accountability and prevent unintended consequences."
-      }
-    ],
-    "operations_supply": [
-      {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Prompting Industry Concerns",
-        "what_changed": "The Pentagon has banned the use of Anthropic's AI technology.",
-        "why_care": "This action by the Pentagon could signal broader security or compliance concerns for AI tools in your operations.",
-        "what_to_do": "Assess your current AI tools and partnerships for potential security and compliance vulnerabilities.",
-        "source": "CNBC"
-      },
-      {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Impacting Defense Supply Chains",
-        "what_changed": "The Pentagon has banned Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for defense projects.",
-        "why_care": "This ban could signal future restrictions on AI tools, potentially impacting the stability and availability of AI solutions you use in your supply chain operations.",
-        "what_to_do": "Review your current AI vendor contracts and assess potential risks if similar government bans were to affect your chosen providers.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Qualcomm and Neura Robotics Partner on New AI-Powered Robots",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This partnership could lead to more advanced and efficient robots becoming available for your warehouse automation, material handling, and manufacturing processes.",
-        "what_to_do": "Investigate the specifications of Qualcomm's IQ10 processors to understand potential future robot capabilities for your facilities."
-      },
-      {
-        "id": 2,
-        "headline": "Age-Verification Tools Spread, Raising Adult Privacy Concerns",
-        "what_changed": "New age-verification laws and tools, designed for child safety online, are raising privacy concerns for adults.",
-        "why_care": "While not directly operational, increased digital privacy regulations could impact how you collect and use data from employees or customers in your supply chain systems.",
-        "what_to_do": "Review your company's data privacy policies to ensure compliance with evolving regulations, especially concerning employee or customer data."
-      },
-      {
-        "id": 3,
-        "headline": "Nscale Raises $2B, Adds Sandberg & Clegg to Board, Valued at $14.6B",
-        "what_changed": "Nscale, a UK AI datacentre firm, raised $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This investment signals growing infrastructure for AI, which will impact the computing power available for your supply chain optimization and automation tools.",
-        "what_to_do": "Research how increased AI infrastructure could support new forecasting or inventory management software in your operations."
-      },
-      {
-        "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
-        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
-        "why_care": "This directly impacts your team's productivity and morale if you are implementing multiple AI tools for tasks like demand forecasting, route optimization, or quality control.",
-        "what_to_do": "Assess the number of AI tools your team members are currently managing and consider consolidating or simplifying their AI-related responsibilities."
-      },
-      {
-        "id": 5,
-        "headline": "U.S. Military Uses AI for 3,000 Strikes in Iran, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military extensively used generative AI for intelligence, targeting, and logistics in striking 3,000 targets in Iran, but oversight remains insufficient.",
-        "why_care": "The military's use of AI for logistics and targeting highlights the potential for AI to optimize complex operational planning, but also warns about the critical need for robust oversight in your own AI implementations.",
-        "what_to_do": "Evaluate your current AI systems for logistics and planning to ensure you have clear human oversight protocols and accountability measures in place."
-      }
-    ],
-    "customer_support": [
-      {
-        "id": 0,
-        "headline": "Major AI Provider Anthropic Banned by Pentagon, Raising Concerns",
-        "what_changed": "Anthropic, a leading AI company, has been banned by the Pentagon after previously making inroads with its partnerships.",
-        "why_care": "This news shows that even well-known AI providers can face significant restrictions, which could affect the reliability or future availability of AI tools you might use.",
-        "what_to_do": "Review the AI tools your team currently uses or plans to adopt, and understand the providers behind them this week.",
-        "source": "CNBC"
-      },
-      {
-        "id": 0,
-        "headline": "Pentagon bans Anthropic AI, sparking concerns about AI reliability.",
-        "what_changed": "The Pentagon has banned the use of Anthropic's AI technology after initially selecting it for defense projects.",
-        "why_care": "This situation highlights the importance of carefully evaluating the reliability and security of any AI tools you might use in your customer support operations.",
-        "what_to_do": "Review your company's guidelines on AI tool usage and ask your IT or management team about the security and reliability of any AI tools currently used in your support workflows.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Qualcomm and Neura Robotics Partner to Build New Robots",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This partnership could lead to more sophisticated service robots that might assist or interact with customers in the future, changing how you provide support.",
-        "what_to_do": "Consider how automated physical assistants could impact your daily tasks and customer interactions."
-      },
-      {
-        "id": 2,
-        "headline": "Age-Verification Tools for Child Safety Raise Adult Privacy Concerns",
-        "what_changed": "New age-verification laws and tools, designed for child safety online, are also collecting data on adults, raising privacy concerns.",
-        "why_care": "Increased data collection and privacy regulations could affect how you gather customer information and the tools you use for verification.",
-        "what_to_do": "Review your company's data privacy policies and ensure you understand how customer data is collected and protected."
-      },
-      {
-        "id": 3,
-        "headline": "Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
-        "what_changed": "Nscale, a UK AI data center firm, raised $2 billion in funding and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This investment shows continued growth in AI infrastructure, which will power more advanced tools you might use in customer support.",
-        "what_to_do": "Research how new AI tools are being developed to improve customer interaction and support efficiency."
-      },
-      {
-        "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
-        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
-        "why_care": "Managing multiple AI tools in your support role could lead to burnout and reduced effectiveness, impacting your well-being and customer service quality.",
-        "what_to_do": "Evaluate your current use of AI tools and discuss with your manager if your workload is manageable and effective."
-      },
-      {
-        "id": 5,
-        "headline": "U.S. Military Uses AI in Operations, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military is extensively using generative AI for intelligence, targeting, and logistics in operations, but oversight of these AI systems is lacking.",
-        "why_care": "While not directly related to customer support, this highlights the rapid deployment of AI in critical areas, emphasizing the need for ethical guidelines and proper oversight in any AI application, including those you use.",
-        "what_to_do": "Advocate for clear guidelines and ethical considerations for any AI tools implemented in your customer support workflows."
-      }
-    ],
-    "finance": [
-      {
-        "id": 0,
-        "headline": "Anthropic Banned by Pentagon After Prior Selection, Raising Concerns",
-        "what_changed": "Anthropic, an AI company, has been banned by the Pentagon despite its prior selection for defense projects.",
-        "why_care": "This ban could impact Anthropic's valuation, its partners like Amazon Web Services and Palantir, and signal increased regulatory risk for AI investments.",
-        "what_to_do": "Review your portfolio for exposure to Anthropic or its key partners, assessing potential risks from government contract changes.",
-        "source": "CNBC"
-      },
-      {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Tech Partnerships",
-        "what_changed": "The Pentagon has banned Anthropic's AI, reversing its earlier adoption of the technology.",
-        "why_care": "This ban could signal increased regulatory risk for AI companies and impact valuations of firms like Anthropic, Amazon Web Services, and Palantir.",
-        "what_to_do": "Review your investment portfolio for exposure to AI companies and their partners, assessing potential regulatory risks.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Qualcomm Partners with Neura Robotics for New Robot Development",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This collaboration could lead to more advanced automation tools becoming available, potentially impacting your firm's operational efficiency and staffing needs in the future.",
-        "what_to_do": "Research the capabilities of Qualcomm's IQ10 processors and Neura Robotics' existing products to understand potential future applications in finance."
-      },
-      {
-        "id": 2,
-        "headline": "Age-Verification Tools Expand in U.S., Raising Adult Privacy Concerns",
-        "what_changed": "New age-verification laws and tools, designed for child safety online, are also collecting data on adults, raising privacy concerns.",
-        "why_care": "Increased data collection through age-verification tools could lead to new compliance requirements and data privacy risks for your firm.",
-        "what_to_do": "Review your firm's data privacy policies and ensure compliance with evolving regulations related to online age verification and data collection."
-      },
-      {
-        "id": 3,
-        "headline": "Nscale Raises $2 Billion, Valued at $14.6 Billion, Adds Sandberg and Clegg to Board",
-        "what_changed": "Nscale, a UK AI data center firm, raised $2 billion in funding, increasing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This significant investment and high valuation in AI infrastructure indicate a growing market that may impact your firm's technology investments and operational costs.",
-        "what_to_do": "Assess your firm's current and projected AI infrastructure needs and budget for potential future investments in similar technologies."
-      },
-      {
-        "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Tools",
-        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
-        "why_care": "This finding suggests that over-reliance on AI without proper human oversight can decrease productivity and increase operational risks for your finance team.",
-        "what_to_do": "Evaluate your team's current AI tool usage to ensure employees are not overburdened, and consider training on effective AI integration and oversight."
-      },
-      {
-        "id": 5,
-        "headline": "U.S. Military Uses AI Extensively in Operations, Oversight Lags",
-        "what_changed": "The U.S. military is extensively using generative AI in intelligence, targeting, and logistics for operations, but oversight remains underinvested.",
-        "why_care": "The rapid deployment of AI with insufficient oversight in critical operations highlights the importance of robust governance and ethical frameworks for AI implementation in your firm.",
-        "what_to_do": "Assess your firm's AI governance framework to ensure adequate oversight, ethical guidelines, and risk management protocols are in place for all AI applications."
-      }
-    ],
-    "cybersecurity": [
-      {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for DOD Security",
-        "what_changed": "The Pentagon has banned the use of Anthropic's AI, despite its previous selection for Department of Defense projects.",
-        "why_care": "This ban signals potential security vulnerabilities or policy conflicts within AI systems that could impact your organization's AI adoption and risk assessment.",
-        "what_to_do": "Review your organization's policies on AI tool usage, especially those with DOD or government ties, and assess their security implications.",
-        "source": "CNBC"
-      },
-      {
-        "id": 0,
-        "headline": "Pentagon bans Anthropic AI, raising security concerns for defense contractors.",
-        "what_changed": "The Pentagon has banned Anthropic's AI, despite its previous selection and partnerships with Amazon Web Services and Palantir.",
-        "why_care": "This ban highlights potential security and compliance risks associated with AI adoption, which could impact your organization's supply chain or internal AI initiatives.",
-        "what_to_do": "Review your organization's current and planned AI vendor contracts and internal AI usage policies for potential security and compliance vulnerabilities.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Qualcomm Partners with Neura Robotics for New AI Robot Development",
-        "what_changed": "Neura Robotics will develop new robots utilizing Qualcomm's recently released IQ10 processors.",
-        "why_care": "The integration of advanced AI processors into robotics introduces new potential attack vectors and supply chain risks for your industrial control systems.",
-        "what_to_do": "Review your organization's operational technology (OT) security policies to account for emerging AI-powered robotic systems this week.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 2,
-        "headline": "Age-Verification Tools Spread, Raising Adult Surveillance Concerns",
-        "what_changed": "New age-verification laws and tools, intended for child safety, are being implemented across the U.S., leading to increased surveillance of adults.",
-        "why_care": "These tools collect extensive personal data, creating new privacy risks and potential data breach targets that could impact your organization's employees and customers.",
-        "what_to_do": "Evaluate the privacy implications of any age-verification tools your organization uses or plans to use, ensuring compliance with data protection regulations this week.",
-        "source": "CNBC"
-      },
-      {
-        "id": 3,
-        "headline": "Nscale Raises $2B, Valued at $14.6B, Adds Sandberg and Clegg to Board",
-        "what_changed": "Nscale, a UK AI datacentre firm, raised $2 billion in funding, increasing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This significant investment in AI infrastructure indicates a growing attack surface and potential for supply chain vulnerabilities you need to monitor.",
-        "what_to_do": "Assess your organization's exposure to third-party AI infrastructure providers and their security postures this week.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
-        "what_changed": "A BCG study found that overseeing multiple AI tools simultaneously leads to cognitive exhaustion in workers, increasing error rates and intent to quit.",
-        "why_care": "Cognitive overload from managing too many AI tools can lead to human errors, creating new security vulnerabilities and increasing the risk of incidents you need to mitigate.",
-        "what_to_do": "Assess your team's workload and the number of AI tools they manage, implementing strategies to reduce cognitive burden and potential for error this week.",
-        "source": "The Decoder"
-      },
-      {
-        "id": 5,
-        "headline": "U.S. Military Strikes 3,000 Targets in Iran with AI Support, Oversight Lags",
-        "what_changed": "The U.S. military has extensively used generative AI to strike 3,000 targets in Iran, with AI deeply embedded in intelligence, targeting, and logistics, but oversight remains underinvested.",
-        "why_care": "The widespread deployment of AI in critical military operations highlights the urgent need for robust AI security and ethical oversight, which directly impacts your understanding of advanced persistent threats.",
-        "what_to_do": "Research the security implications of AI in military applications to better anticipate sophisticated state-sponsored cyber threats this week.",
-        "source": "The Decoder"
-      }
-    ],
     "education": [
       {
         "id": 0,
+        "headline": "Andrew Ng's Team Releases Context Hub: Open-Source Tool for Current AI Info",
+        "what_changed": "Andrew Ng's team at DeepLearning.AI officially launched Context Hub, an open-source tool designed to help AI models access the most current information.",
+        "why_care": "This matters because AI tools you use for teaching, learning, or administration must have current information to be accurate and reliable.",
+        "what_to_do": "This week, investigate the AI tools you currently use to understand how frequently their underlying data is updated.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
         "headline": "Anthropic, a leading AI developer, faces Pentagon ban, raising concerns.",
         "what_changed": "Anthropic, an AI company, was banned by the Pentagon after previously being a partner.",
         "why_care": "This shows that even major AI tools can face sudden restrictions, impacting your institution's long-term planning for AI use.",
@@ -928,7 +952,7 @@
         "source": "CNBC"
       },
       {
-        "id": 0,
+        "id": 1,
         "headline": "Anthropic, a leading AI developer, banned by Pentagon, raises concerns.",
         "what_changed": "Anthropic, an AI company previously chosen by the Pentagon, has now been banned from use within the Department of Defense.",
         "why_care": "This situation highlights the evolving security and trust concerns surrounding AI tools, which you should consider when evaluating AI for your educational settings.",
@@ -936,92 +960,222 @@
         "source": "CNBC"
       },
       {
-        "id": 1,
+        "id": 2,
         "headline": "Qualcomm and Neura Robotics Partner for New Robot Development",
         "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
         "why_care": "This partnership could lead to more advanced and accessible robotics for educational settings, offering new hands-on learning opportunities for your students.",
         "what_to_do": "Research current educational robotics programs and consider how more powerful, AI-driven robots could enhance your curriculum in the future."
       },
       {
-        "id": 2,
+        "id": 3,
         "headline": "Age-Verification Tools for Child Safety Raise Adult Privacy Concerns",
         "what_changed": "New age-verification laws and tools are being implemented across the U.S. to protect children online, but privacy experts are concerned about adult surveillance.",
         "why_care": "These tools could impact how you and your students access online educational resources, potentially adding barriers or raising privacy questions within your school's digital environment.",
         "what_to_do": "Review your institution's policies on online privacy and age verification, and discuss potential impacts with your IT department or school administration."
       },
       {
-        "id": 3,
+        "id": 4,
         "headline": "Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
         "what_changed": "Nscale, a UK AI datacentre firm, secured $2 billion in funding, increasing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
         "why_care": "This significant investment and high-profile board appointments signal growing infrastructure and leadership in AI, which will impact the tools and resources available for your educational technology.",
         "what_to_do": "Investigate how increased AI infrastructure might lead to new educational tools or platforms becoming available in the next 6-12 months."
       },
       {
-        "id": 4,
+        "id": 5,
         "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
         "what_changed": "A BCG study of nearly 1,500 workers found that simultaneously managing too many AI tools leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
         "why_care": "As you integrate AI into your teaching or administrative tasks, be aware that over-reliance or managing too many AI tools can lead to burnout and reduced effectiveness for you and your staff.",
         "what_to_do": "Assess your current use of AI tools and consider consolidating or streamlining your AI workflows to prevent cognitive overload this week."
       },
       {
-        "id": 5,
+        "id": 6,
         "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight Lags",
         "what_changed": "The U.S. military has used generative AI to strike 3,000 targets in Iran, with AI deeply embedded in intelligence, targeting, and logistics, but oversight remains 'underinvested'.",
         "why_care": "This highlights the rapid and extensive deployment of AI in critical operations, underscoring the urgent need for ethical AI discussions and responsible AI literacy in your classrooms.",
         "what_to_do": "Integrate discussions about the ethical implications and societal impact of AI into your curriculum or professional development sessions this month."
       }
     ],
-    "real_estate_construction": [
+    "software_engineering": [
       {
         "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Raising Questions for Enterprise Adoption",
-        "what_changed": "The Pentagon has banned the use of AI tools from Anthropic, a company previously chosen for its AI solutions.",
-        "why_care": "This signals potential risks or reliability concerns with AI providers, urging you to carefully vet any AI tools considered for your projects.",
-        "what_to_do": "Review the security and reliability policies of any AI vendors you currently use or plan to adopt this week.",
-        "source": "CNBC"
+        "headline": "Andrew Ng's Context Hub: Open-Source Tool for Up-to-Date API Docs for AI Agents",
+        "what_changed": "Andrew Ng's DeepLearning.AI team launched Context Hub, an open-source tool that provides up-to-date API documentation to AI coding agents.",
+        "why_care": "This tool helps your AI coding agents generate more accurate code by ensuring they always use the latest API documentation, reducing errors and rework.",
+        "what_to_do": "Explore the Context Hub GitHub repository to see how it can integrate with your AI development workflows for better code generation.",
+        "source": "MarkTechPost"
       },
       {
-        "id": 0,
-        "headline": "Pentagon Bans Anthropic AI, Raising Concerns for Tech Adoption",
-        "what_changed": "The Pentagon has banned Anthropic's AI technology, reversing its previous decision to partner with the company.",
-        "why_care": "This event highlights potential security and reliability concerns with AI tools, which you might consider when evaluating new software for your projects or property management.",
-        "what_to_do": "Review the security and data privacy policies of any AI tools you currently use or plan to adopt in your real estate or construction business.",
+        "id": 1,
+        "headline": "Pentagon Bans Anthropic AI, Impacting AWS and Palantir Partnerships",
+        "what_changed": "The Pentagon has banned the use of Anthropic's AI, despite its previous partnerships with Amazon Web Services and Palantir for defense projects.",
+        "why_care": "This ban could impact your work on government or defense-related projects that leverage Anthropic's AI, especially if integrated with AWS or Palantir platforms.",
+        "what_to_do": "Review your current or upcoming projects to identify any reliance on Anthropic's AI, particularly in sensitive or regulated environments.",
         "source": "CNBC"
       },
       {
         "id": 1,
-        "headline": "Qualcomm and Neura Robotics Partner on New AI-Powered Robots",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This partnership could lead to more advanced robotics for construction sites, improving efficiency and safety for your projects.",
-        "what_to_do": "Investigate current robotic solutions available for construction tasks, like surveying or material handling, to understand their capabilities and limitations."
+        "headline": "Pentagon bans Anthropic AI, raising questions for AWS and Palantir users.",
+        "what_changed": "The Pentagon has banned Anthropic, an AI company that previously partnered with Amazon Web Services and Palantir for Department of Defense projects.",
+        "why_care": "This could impact your projects if you use Anthropic's AI models or integrate with AWS and Palantir solutions that leverage their technology for sensitive applications.",
+        "what_to_do": "Review your current or planned projects for any reliance on Anthropic's AI or related integrations with AWS and Palantir, and explore alternative solutions if necessary.",
+        "source": "CNBC"
       },
       {
         "id": 2,
-        "headline": "New Age-Verification Tools Raise Adult Privacy Concerns Across U.S.",
-        "what_changed": "New age-verification laws and tools, designed for child safety online, are now raising privacy concerns for adults.",
-        "why_care": "Increased digital surveillance measures could impact how you market properties online or manage client data, requiring stricter privacy protocols.",
-        "what_to_do": "Review your company's data privacy policies and ensure compliance with evolving digital privacy regulations."
+        "headline": "Qualcomm Partners with Neura Robotics for New IQ10 Processor-Based Robots",
+        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This partnership signals a push for more powerful, AI-driven edge devices, which could expand the scope of embedded systems and real-time processing you might integrate with.",
+        "what_to_do": "Investigate the specifications and SDKs for Qualcomm's IQ10 processors to understand their capabilities for future robotics or IoT projects."
       },
       {
         "id": 3,
-        "headline": "Nscale Raises $2bn, Adds Sandberg & Clegg to Board, Valued at $14.6bn",
-        "what_changed": "Nscale, a UK AI data center firm, raised $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This investment signals a major expansion in AI infrastructure, which will increase demand for specialized data center properties and construction services.",
-        "what_to_do": "Research local and national plans for new data center developments to identify potential land acquisition or construction opportunities."
+        "headline": "New Age-Verification Tools for Child Safety Raise Adult Surveillance Concerns",
+        "what_changed": "New age-verification laws and tools, designed for child safety online, are raising privacy concerns for adults.",
+        "why_care": "These tools could introduce new authentication layers or data collection requirements into your applications, impacting user experience and privacy compliance.",
+        "what_to_do": "Review current and upcoming data privacy regulations, like GDPR or CCPA, to ensure your applications comply with new age-verification and data handling standards."
       },
       {
         "id": 4,
-        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Tools",
-        "what_changed": "A BCG study found that workers supervising too many AI tools simultaneously experience cognitive exhaustion, leading to more errors and higher intent to quit.",
-        "why_care": "Over-reliance on AI tools without proper human oversight can reduce productivity and increase errors in your project management or design processes.",
-        "what_to_do": "Evaluate your team's current use of AI tools to ensure a balanced workload and provide training on effective AI integration without overload."
+        "headline": "Nscale Raises $2 Billion, Valued at $14.6 Billion, Adds Sandberg and Clegg to Board",
+        "what_changed": "British AI datacentre firm Nscale raised $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment in AI infrastructure indicates a growing demand for robust, scalable compute resources that your applications may rely on.",
+        "what_to_do": "Research Nscale's datacentre offerings and consider how their infrastructure might impact future cloud service availability or pricing for your projects."
       },
       {
         "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, increased errors, and higher intent to quit among workers.",
+        "why_care": "As you integrate AI into your workflows, managing multiple AI agents could impact your productivity and increase the risk of errors in your development or operations tasks.",
+        "what_to_do": "Evaluate your current AI tool usage and consider consolidating or streamlining AI-assisted workflows to prevent cognitive overload and maintain efficiency."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI for 3,000 Strikes in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military extensively used generative AI to support 3,000 strikes in Iran, with intelligence, targeting, and logistics deeply embedded with AI, but oversight remains 'underinvested'.",
+        "why_care": "The widespread, yet under-regulated, deployment of AI in critical systems highlights the ethical and reliability challenges you might face when developing or deploying AI-powered solutions.",
+        "what_to_do": "Prioritize implementing robust monitoring, logging, and human-in-the-loop mechanisms for any AI systems you develop or deploy to ensure accountability and prevent unintended consequences."
+      }
+    ],
+    "healthcare": [
+      {
+        "id": 0,
+        "headline": "Andrew Ng's Team Launches Context Hub to Update AI Agents with Current API Data",
+        "what_changed": "Andrew Ng and his team at DeepLearning.AI officially launched Context Hub, an open-source tool.",
+        "why_care": "This tool helps ensure your AI-powered systems, like those for medical coding or clinical decision support, use the most current information.",
+        "what_to_do": "Ask your IT department or vendors how your current AI tools access and update their API documentation to ensure data accuracy.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
+        "headline": "Anthropic, a key AI partner, is now banned by the Pentagon.",
+        "what_changed": "The Pentagon has banned Anthropic, an AI company that previously partnered with Amazon Web Services and Palantir for defense projects.",
+        "why_care": "This ban highlights the importance of vetting AI partners and understanding potential risks, which is crucial as your organization considers AI tools.",
+        "what_to_do": "Review your organization's current policies for evaluating AI vendors and their security protocols this week.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "Anthropic, a key AI developer, banned by Pentagon; experts concerned.",
+        "what_changed": "The Pentagon has banned Anthropic, an AI company it previously selected, from its systems.",
+        "why_care": "This shows that even leading AI developers can face unexpected restrictions, which is important as you evaluate AI tools for your healthcare organization.",
+        "what_to_do": "Review your organization's vendor vetting process to ensure it includes robust evaluation of AI company stability and compliance.",
+        "source": "CNBC"
+      },
+      {
+        "id": 2,
+        "headline": "Qualcomm and Neura Robotics Partner on New AI-Powered Robots",
+        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This partnership could lead to advanced robotics that assist with patient care, surgical procedures, or administrative tasks in your healthcare setting.",
+        "what_to_do": "Explore current robotic applications in healthcare and consider how more intelligent robots could improve efficiency or patient outcomes in your department."
+      },
+      {
+        "id": 3,
+        "headline": "Age-Verification Tools Raise Adult Privacy Concerns Across U.S.",
+        "what_changed": "New age-verification laws and tools, designed for child safety online, are also collecting data on adults, raising privacy concerns.",
+        "why_care": "As healthcare professionals, you handle sensitive patient data, and understanding broader privacy implications of new technologies is crucial for protecting patient information.",
+        "what_to_do": "Review your organization's data privacy policies and ensure you are up-to-date on best practices for protecting patient and personal information."
+      },
+      {
+        "id": 4,
+        "headline": "Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK AI data center firm, raised $2 billion in funding and appointed Sheryl Sandberg and Nick Clegg to its board, valuing the company at $14.6 billion.",
+        "why_care": "Increased investment in AI infrastructure could lead to more robust and secure platforms for your healthcare data and AI-driven tools.",
+        "what_to_do": "Research how your current healthcare systems leverage AI infrastructure and identify potential future integration points."
+      },
+      {
+        "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
+        "what_changed": "A BCG study of nearly 1,500 workers found that managing too many AI tools simultaneously causes cognitive exhaustion, leading to more errors and higher intent to quit.",
+        "why_care": "As AI tools become more common in healthcare, managing multiple systems could lead to burnout and errors in your clinical or administrative work.",
+        "what_to_do": "Evaluate the number of AI tools you currently use and discuss with your team how to optimize their integration to prevent cognitive overload."
+      },
+      {
+        "id": 6,
         "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, but oversight for these AI systems remains underfunded.",
-        "why_care": "The rapid deployment of AI in critical operations highlights the need for robust ethical guidelines and oversight, which applies to AI use in your industry for tasks like design or risk assessment.",
-        "what_to_do": "Establish clear ethical guidelines and review processes for any AI tools you implement in your real estate or construction operations."
+        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, with new details revealing deep AI integration in intelligence, targeting, and logistics, but oversight remains 'underinvested'.",
+        "why_care": "While not directly healthcare, this highlights the rapid deployment of AI in critical operations and the importance of robust oversight, which is also vital for ethical AI use in patient care and data management.",
+        "what_to_do": "Advocate for clear ethical guidelines and strong oversight mechanisms for AI tools used within your healthcare organization."
+      }
+    ],
+    "customer_support": [
+      {
+        "id": 0,
+        "headline": "Andrew Ng's Team Launches Context Hub, Helping AI Tools Stay Up-to-Date",
+        "what_changed": "Andrew Ng's team at DeepLearning.AI released Context Hub, an open-source tool that helps AI agents get the latest API documentation.",
+        "why_care": "This matters because any AI tools you use in customer support must have the latest information to provide accurate help.",
+        "what_to_do": "This week, ask your IT or AI team how the AI tools your support team uses are kept current with new information.",
+        "source": "MarkTechPost"
+      },
+      {
+        "id": 1,
+        "headline": "Major AI Provider Anthropic Banned by Pentagon, Raising Concerns",
+        "what_changed": "Anthropic, a leading AI company, has been banned by the Pentagon after previously making inroads with its partnerships.",
+        "why_care": "This news shows that even well-known AI providers can face significant restrictions, which could affect the reliability or future availability of AI tools you might use.",
+        "what_to_do": "Review the AI tools your team currently uses or plans to adopt, and understand the providers behind them this week.",
+        "source": "CNBC"
+      },
+      {
+        "id": 1,
+        "headline": "Pentagon bans Anthropic AI, sparking concerns about AI reliability.",
+        "what_changed": "The Pentagon has banned the use of Anthropic's AI technology after initially selecting it for defense projects.",
+        "why_care": "This situation highlights the importance of carefully evaluating the reliability and security of any AI tools you might use in your customer support operations.",
+        "what_to_do": "Review your company's guidelines on AI tool usage and ask your IT or management team about the security and reliability of any AI tools currently used in your support workflows.",
+        "source": "CNBC"
+      },
+      {
+        "id": 2,
+        "headline": "Qualcomm and Neura Robotics Partner to Build New Robots",
+        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
+        "why_care": "This partnership could lead to more sophisticated service robots that might assist or interact with customers in the future, changing how you provide support.",
+        "what_to_do": "Consider how automated physical assistants could impact your daily tasks and customer interactions."
+      },
+      {
+        "id": 3,
+        "headline": "Age-Verification Tools for Child Safety Raise Adult Privacy Concerns",
+        "what_changed": "New age-verification laws and tools, designed for child safety online, are also collecting data on adults, raising privacy concerns.",
+        "why_care": "Increased data collection and privacy regulations could affect how you gather customer information and the tools you use for verification.",
+        "what_to_do": "Review your company's data privacy policies and ensure you understand how customer data is collected and protected."
+      },
+      {
+        "id": 4,
+        "headline": "Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK AI data center firm, raised $2 billion in funding and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This investment shows continued growth in AI infrastructure, which will power more advanced tools you might use in customer support.",
+        "what_to_do": "Research how new AI tools are being developed to improve customer interaction and support efficiency."
+      },
+      {
+        "id": 5,
+        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "Managing multiple AI tools in your support role could lead to burnout and reduced effectiveness, impacting your well-being and customer service quality.",
+        "what_to_do": "Evaluate your current use of AI tools and discuss with your manager if your workload is manageable and effective."
+      },
+      {
+        "id": 6,
+        "headline": "U.S. Military Uses AI in Operations, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military is extensively using generative AI for intelligence, targeting, and logistics in operations, but oversight of these AI systems is lacking.",
+        "why_care": "While not directly related to customer support, this highlights the rapid deployment of AI in critical areas, emphasizing the need for ethical guidelines and proper oversight in any AI application, including those you use.",
+        "what_to_do": "Advocate for clear guidelines and ethical considerations for any AI tools implemented in your customer support workflows."
       }
     ]
   }
