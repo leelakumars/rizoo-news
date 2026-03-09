@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-03-09T13:29:06.965184+00:00",
-  "run_id": "20260309_132753",
+  "generated_at": "2026-03-09T14:07:14.686167+00:00",
+  "run_id": "20260309_140547",
   "articles": [
     {
       "id": "0833e7465967",
@@ -11,188 +11,714 @@
       "link": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
       "source": "CNBC",
       "topic": "AI Industry",
-      "published_at": "2026-03-09T13:29:06.965079+00:00"
+      "published_at": "2026-03-09T12:25:11+00:00"
+    },
+    {
+      "id": "2c39831bda2a",
+      "index": 1,
+      "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+      "description": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+      "link": "https://www.marktechpost.com/2026/03/09/the-bayesian-upgrade-why-google-ais-new-teaching-method-is-the-key-to-llm-reasoning/",
+      "source": "MarkTechPost",
+      "topic": "AI Research",
+      "published_at": "2026-03-09T08:23:31+00:00"
+    },
+    {
+      "id": "629258eed7c1",
+      "index": 2,
+      "headline": "British AI datacentre firm Nscale raises $2bn as Sheryl Sandberg and Nick Clegg join board",
+      "description": "London-based startup, which is vital to the government’s artificial intelligence ambitions, is now valued at $14.6bnBusiness live – latest updatesNscale, a UK company vital to the government’s AI ambitions, has raised $2bn (£1.5bn) in a funding round and appointed the former Meta executives Sheryl Sandberg and Nick Clegg to its board of directors.It brings the valuation of the London-based startup, which is backed by the US tech company Nvidia, to $14.6bn, it said in a statement, and follows a $1.1bn funding round the company raised last September. Continue reading...",
+      "link": "https://www.theguardian.com/business/2026/mar/09/ai-nscale-raises-2bn-sheryl-sandberg-nick-clegg-board-value",
+      "source": "The Guardian",
+      "topic": "AI Industry",
+      "published_at": "2026-03-09T13:51:33+00:00"
+    },
+    {
+      "id": "b5d8adb7ff55",
+      "index": 3,
+      "headline": "Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents",
+      "description": "A BCG study of nearly 1,500 workers shows that simultaneously overseeing too many AI tools triggers cognitive exhaustion. The consequences are measurable, from higher error rates to increased intent to quit. The article Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents appeared first on The Decoder.",
+      "link": "https://the-decoder.com/study-warns-of-ai-brain-fry-as-workers-hit-cognitive-limits-overseeing-ai-agents/",
+      "source": "The Decoder",
+      "topic": "AI Tools",
+      "published_at": "2026-03-09T13:51:22+00:00"
+    },
+    {
+      "id": "a41f6b0e3908",
+      "index": 4,
+      "headline": "U.S. Military strikes 3,000 targets in Iran with AI support, but oversight remains \"underinvested\"",
+      "description": "The Wall Street Journal confirms and expands on previous reports about the massive use of generative AI in the U.S. military campaign against Iran. New details reveal how deeply AI is already embedded in intelligence, targeting, and logistics. The article U.S. Military strikes 3,000 targets in Iran with AI support, but oversight remains \"underinvested\" appeared first on The Decoder.",
+      "link": "https://the-decoder.com/u-s-military-strikes-3000-targets-in-iran-with-ai-support-but-oversight-remains-underinvested/",
+      "source": "The Decoder",
+      "topic": "AI Tools",
+      "published_at": "2026-03-09T13:48:36+00:00"
     }
   ],
   "rewrites": {
-    "operations_supply": [
+    "software_engineering": [
       {
         "id": 0,
-        "headline": "Nvidia Invests in AI Data Center Firm Nscale, Valued at $14.6 Billion",
-        "what_changed": "Nvidia has invested in Nscale, an AI data center startup now valued at $14.6 billion, which is building critical AI infrastructure.",
-        "why_care": "The rapid expansion of AI infrastructure, supported by major investments like this, will increase demand for specialized components, logistics, and skilled labor in your supply chain.",
-        "what_to_do": "Evaluate your current suppliers' capacity and lead times for components used in data centers and AI hardware, and explore how AI tools could optimize your own operations.",
-        "source": "CNBC"
-      }
-    ],
-    "finance": [
+        "headline": "Nvidia-backed Nscale, an AI data center startup, reaches $14.6 billion valuation.",
+        "what_changed": "Nscale, a key AI infrastructure provider, achieved a $14.6 billion valuation with Nvidia's backing.",
+        "why_care": "This signals growing investment in the physical infrastructure that will power the AI applications you develop and deploy.",
+        "what_to_do": "Research Nscale's offerings to understand potential future data center capabilities for your projects."
+      },
       {
-        "id": 0,
-        "headline": "Nvidia Invests in AI Data Center Startup Nscale, Valued at $14.6 Billion",
-        "what_changed": "Nscale, an AI data center startup, received investment from Nvidia and reached a $14.6 billion valuation.",
-        "why_care": "This highlights significant investment and valuation growth in the AI infrastructure sector, impacting your investment analysis and market outlook.",
-        "what_to_do": "Research Nscale's business model and its competitors to understand potential investment opportunities or risks in the AI infrastructure market.",
-        "source": "CNBC"
+        "id": 1,
+        "headline": "Google AI improves LLM reasoning with new 'Bayesian' teaching method.",
+        "what_changed": "Google AI researchers introduced a new teaching method to enhance Large Language Models' (LLMs) probabilistic reasoning abilities.",
+        "why_care": "Improved reasoning in LLMs means you can expect more reliable and logical outputs from AI tools you integrate into your workflows.",
+        "what_to_do": "Explore recent research papers on LLM reasoning to understand how these advancements might impact your AI-driven solutions."
+      },
+      {
+        "id": 2,
+        "headline": "British AI data center firm Nscale raises $2 billion, valued at $14.6 billion.",
+        "what_changed": "Nscale, a UK-based AI data center company, secured $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment in AI infrastructure indicates a rapid expansion of resources that will support your future AI development and deployment needs.",
+        "what_to_do": "Investigate Nscale's data center capabilities to anticipate future infrastructure options for your cloud and AI projects."
+      },
+      {
+        "id": 3,
+        "headline": "Study warns of 'AI Brain Fry' as workers face cognitive limits overseeing AI agents.",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "As you integrate more AI into your daily tasks, managing multiple AI agents can lead to burnout and reduced productivity.",
+        "what_to_do": "Evaluate your current AI tool usage and consider strategies for consolidating or streamlining AI oversight to prevent cognitive overload."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military uses AI for 3,000 targets in Iran, but oversight remains 'underinvested'.",
+        "what_changed": "The U.S. Military extensively used generative AI for intelligence, targeting, and logistics in strikes against 3,000 targets in Iran, with oversight identified as 'underinvested'.",
+        "why_care": "The widespread deployment of AI in critical systems highlights the urgent need for robust AI governance, testing, and ethical frameworks in all your AI applications.",
+        "what_to_do": "Review your team's AI development lifecycle for potential gaps in oversight, testing, and ethical considerations, especially for high-impact systems."
       }
     ],
     "data_ai": [
       {
         "id": 0,
-        "headline": "Nvidia Invests in Nscale, Valuing AI Data Center Startup at $14.6 Billion",
-        "what_changed": "Nvidia has invested in Nscale, an AI data center startup now valued at $14.6 billion.",
-        "why_care": "This investment signals growing support for the core infrastructure that powers your AI models and data processing.",
-        "what_to_do": "Review your current cloud or on-premise AI infrastructure costs and performance to identify potential optimization areas.",
-        "source": "CNBC"
-      }
-    ],
-    "software_engineering": [
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Valuation Hits $14.6 Billion",
+        "what_changed": "Nvidia has invested in Nscale, an AI data center startup, which is now valued at $14.6 billion.",
+        "why_care": "This indicates significant investment in the foundational infrastructure that powers your AI models and data processing.",
+        "what_to_do": "Research Nscale's offerings to understand potential future infrastructure options for your AI workloads."
+      },
       {
-        "id": 0,
-        "headline": "Nvidia Backs Nscale, an AI Data Center Startup Now Worth $14.6 Billion",
-        "what_changed": "Nvidia has invested in Nscale, an AI data center startup, pushing its valuation to $14.6 billion.",
-        "why_care": "This investment signals growing infrastructure for AI, which will affect the platforms and tools you use to build and deploy AI-powered applications.",
-        "what_to_do": "Explore how new AI infrastructure developments, like Nscale's, could impact your team's deployment strategies and resource planning.",
-        "source": "CNBC"
-      }
-    ],
-    "design_ux": [
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New Bayesian Teaching Method",
+        "what_changed": "Google AI researchers propose a new teaching method to enhance Large Language Models' (LLMs) probabilistic reasoning abilities.",
+        "why_care": "This research could lead to LLMs that are better at updating beliefs and making logical inferences, improving your model reliability.",
+        "what_to_do": "Review the Google AI research paper on Bayesian upgrades to understand how this method could be applied to your LLM projects."
+      },
       {
-        "id": 0,
-        "headline": "Nvidia Invests in Nscale, Valuing AI Data Center Startup at $14.6 Billion",
-        "what_changed": "Nvidia invested in the AI data center startup Nscale, which now has a $14.6 billion valuation.",
-        "why_care": "This investment signals more powerful AI tools are coming, which will change your design workflows and open new creative possibilities.",
-        "what_to_do": "Experiment with current AI-powered design tools to understand their capabilities and limitations in your workflow.",
-        "source": "CNBC"
+        "id": 2,
+        "headline": "British AI Data Center Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK AI data center company, raised $2 billion, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant funding and leadership expansion for an AI infrastructure provider could impact the availability and cost of compute resources for your projects.",
+        "what_to_do": "Monitor Nscale's expansion plans to anticipate new data center regions or services that could benefit your distributed AI operations."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Face Cognitive Limits Overseeing AI Agents",
+        "what_changed": "A BCG study found that overseeing too many AI tools leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "This highlights the importance of designing human-AI collaboration systems that prevent burnout and maintain accuracy in your AI-driven workflows.",
+        "what_to_do": "Evaluate your team's current AI oversight workload and explore strategies to optimize human-AI interaction to prevent cognitive overload."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Targets in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military extensively used generative AI for intelligence, targeting, and logistics in strikes against 3,000 targets in Iran, with oversight noted as 'underinvested'.",
+        "why_care": "This demonstrates the critical need for robust ethical AI frameworks and governance in high-stakes applications, which directly impacts your work in responsible AI development.",
+        "what_to_do": "Review your organization's AI ethics guidelines and contribute to discussions on responsible AI deployment, especially for sensitive applications."
       }
     ],
     "cybersecurity": [
       {
         "id": 0,
-        "headline": "Nvidia Invests in AI Data Center Startup Nscale, Valued at $14.6 Billion",
-        "what_changed": "Nvidia invested in Nscale, an AI data center infrastructure company, which now has a $14.6 billion valuation.",
-        "why_care": "The rapid expansion of AI data centers creates new attack surfaces and unique security challenges for your organization to defend.",
-        "what_to_do": "Review your current security posture for AI-related infrastructure and identify potential new threat vectors.",
-        "source": "CNBC"
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Now Valued at $14.6 Billion",
+        "what_changed": "Nscale, an AI infrastructure company, received investment from Nvidia and is now valued at $14.6 billion.",
+        "why_care": "The rapid growth of AI infrastructure like Nscale means more attack surface for you to consider in future threat models.",
+        "what_to_do": "Research Nscale's technology stack and potential security implications for your organization's AI adoption plans this week."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers developed a new teaching method to improve Large Language Models' (LLMs) probabilistic reasoning abilities.",
+        "why_care": "Better reasoning in LLMs could lead to more sophisticated AI-driven attacks and more convincing social engineering tactics you will face.",
+        "what_to_do": "Investigate how advanced LLM reasoning could impact your organization's phishing detection and incident response playbooks this week."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Datacenter Firm Nscale Raises $2 Billion, Valued at $14.6 Billion",
+        "what_changed": "Nscale, a UK-based AI datacenter firm, raised $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "The significant investment and high-profile board appointments signal a major expansion of AI infrastructure, increasing the potential for supply chain attacks you need to monitor.",
+        "what_to_do": "Assess your organization's exposure to third-party risks from AI infrastructure providers and update your vendor risk assessments this week."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
+        "what_changed": "A BCG study found that overseeing too many AI tools causes cognitive exhaustion in workers, leading to higher error rates and increased intent to quit.",
+        "why_care": "Cognitive overload from managing AI tools can lead to human errors that create security vulnerabilities or missed alerts you are responsible for.",
+        "what_to_do": "Evaluate the number of AI tools your security team members are managing and consider implementing AI governance policies to prevent burnout this week."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Strikes 3,000 Targets in Iran with AI Support, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military used generative AI to support strikes on 3,000 targets in Iran, with reports indicating oversight remains 'underinvested'.",
+        "why_care": "The extensive use of AI in critical operations, coupled with insufficient oversight, highlights potential risks of AI misuse or errors that could impact global stability and cyber warfare tactics you track.",
+        "what_to_do": "Research the ethical and security implications of AI in military applications to understand potential future threat landscapes for your organization this week."
       }
     ],
-    "legal": [
+    "design_ux": [
       {
         "id": 0,
-        "headline": "Nvidia Invests in AI Data Center Startup Nscale, Valued at $14.6 Billion",
-        "what_changed": "Nvidia has invested in Nscale, an AI data center startup now valued at $14.6 billion, highlighting the rapid growth in AI infrastructure.",
-        "why_care": "The expansion of AI infrastructure like Nscale's means your firm will face increasing legal challenges related to data privacy, intellectual property, and regulatory compliance.",
-        "what_to_do": "Review your firm's current data privacy policies and vendor contracts to ensure they adequately address the complexities of rapidly expanding AI infrastructure.",
-        "source": "CNBC"
+        "headline": "Nvidia Backs Nscale, AI Data Center Startup Valued at $14.6 Billion",
+        "what_changed": "Nscale, a key AI infrastructure company, received investment from Nvidia and is now valued at $14.6 billion.",
+        "why_care": "This investment signals continued rapid growth in AI infrastructure, which will power more sophisticated design tools and platforms you use.",
+        "what_to_do": "Explore new AI-powered design features in your current tools, as their capabilities will likely expand with this increased infrastructure."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers are developing a new teaching method to improve Large Language Models' (LLMs) ability to update beliefs based on new evidence, known as probabilistic reasoning.",
+        "why_care": "Better reasoning in LLMs means AI tools you use for content generation, ideation, and design feedback will become more logical and less prone to stubborn errors.",
+        "what_to_do": "Experiment with different prompts in your AI design tools this week, focusing on tasks that require logical progression or iterative refinement, to see if you notice improvements."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a London-based AI data center company, raised $2 billion, bringing its valuation to $14.6 billion, and appointed former Meta executives Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment and leadership addition will accelerate the development of AI infrastructure, leading to more powerful and accessible AI tools for your design workflows.",
+        "what_to_do": "Research emerging AI design tools and platforms to understand how these infrastructure advancements might translate into new capabilities for your work."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
+        "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "As designers, you will increasingly work alongside AI, and understanding your cognitive limits is crucial to avoid burnout and maintain the quality of your creative output.",
+        "what_to_do": "Assess your current use of AI tools this week and identify if you are managing too many simultaneously, then consider consolidating or delegating tasks."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Strikes, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, integrating AI deeply into intelligence, targeting, and logistics, but oversight remains 'underinvested'.",
+        "why_care": "This highlights the rapid deployment of AI in critical systems and the growing need for ethical AI design and robust oversight, which impacts public trust and future AI adoption in all sectors, including design.",
+        "what_to_do": "Engage in discussions about ethical AI design principles within your professional networks and advocate for responsible AI development in your industry."
       }
     ],
     "product_project": [
       {
         "id": 0,
-        "headline": "Nvidia-backed Nscale reaches $14.6B valuation, key for AI infrastructure",
-        "what_changed": "Nvidia has invested in Nscale, an AI data center startup, which is now valued at $14.6 billion.",
-        "why_care": "This growth signals increasing investment in the core infrastructure supporting future AI products and projects you might manage.",
-        "what_to_do": "Research how AI infrastructure developments, like Nscale's growth, could impact your product roadmaps or project timelines.",
-        "source": "CNBC"
-      }
-    ],
-    "customer_support": [
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Now Valued at $14.6 Billion",
+        "what_changed": "Nscale, an AI data center startup, secured investment from Nvidia and is now valued at $14.6 billion.",
+        "why_care": "This signals growing infrastructure for AI, which will impact the capabilities and timelines of your AI-driven projects.",
+        "what_to_do": "Assess if your current or upcoming projects rely on advanced AI infrastructure and research Nscale's offerings for future planning."
+      },
       {
-        "id": 0,
-        "headline": "Nvidia Backs Nscale, an AI Data Center Firm Valued at $14.6 Billion",
-        "what_changed": "Nvidia invested in Nscale, an AI data center startup, which is now valued at $14.6 billion and is crucial for building AI infrastructure.",
-        "why_care": "This investment means the AI tools you use for customer support, like chatbots and analytics, will likely become more powerful and reliable.",
-        "what_to_do": "Review your team's current AI tools, like chatbots or knowledge bases, to identify areas where future AI improvements could help.",
-        "source": "CNBC"
-      }
-    ],
-    "hr": [
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers developed a new 'Bayesian' teaching method to enhance Large Language Models' (LLMs) ability to update beliefs based on new evidence.",
+        "why_care": "Improved probabilistic reasoning in LLMs means more reliable AI tools for tasks like data analysis, decision support, and complex problem-solving in your projects.",
+        "what_to_do": "Investigate how future updates to AI tools you use, especially those from Google, might incorporate this improved reasoning for better project outcomes."
+      },
       {
-        "id": 0,
-        "headline": "Nvidia invests in Nscale, an AI data center startup now valued at $14.6 billion.",
-        "what_changed": "Nvidia has invested in Nscale, an AI data center startup now valued at $14.6 billion.",
-        "why_care": "This signals continued rapid growth in AI, increasing demand for specialized AI talent that your organization may need.",
-        "what_to_do": "Review your current talent acquisition strategy for AI-related roles and identify potential skill gaps within your workforce.",
-        "source": "CNBC"
-      }
-    ],
-    "real_estate_construction": [
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK AI data center company, raised $2 billion, reaching a $14.6 billion valuation, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment and leadership addition indicate a major push in AI infrastructure, which could accelerate AI tool development and availability for your projects.",
+        "what_to_do": "Monitor Nscale's developments and consider how increased AI infrastructure capacity might influence your project roadmaps and resource planning."
+      },
       {
-        "id": 0,
-        "headline": "Nvidia invests in Nscale, an AI data center firm now valued at $14.6 billion.",
-        "what_changed": "Nvidia invested in Nscale, an AI data center startup, which is now valued at $14.6 billion.",
-        "why_care": "This investment signals increasing demand for land, specialized construction, and facilities to house growing AI infrastructure.",
-        "what_to_do": "Research local zoning regulations and available land parcels that could support future data center development.",
-        "source": "CNBC"
-      }
-    ],
-    "healthcare": [
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "As you integrate AI into your teams, managing the cognitive load on your team members is crucial to prevent burnout and maintain productivity and quality.",
+        "what_to_do": "Evaluate your team's current and projected AI tool usage to ensure a balanced workload and consider implementing strategies to mitigate cognitive overload."
+      },
       {
-        "id": 0,
-        "headline": "Nvidia Invests in AI Data Center Startup Nscale, Valued at $14.6 Billion",
-        "what_changed": "Nvidia invested in Nscale, an AI data center startup, which is now valued at $14.6 billion.",
-        "why_care": "This investment helps build the essential infrastructure needed to power future AI tools and applications in your healthcare practice.",
-        "what_to_do": "Consider how robust AI infrastructure could support new diagnostic or administrative tools in your department.",
-        "source": "CNBC"
-      }
-    ],
-    "media_content": [
-      {
-        "id": 0,
-        "headline": "Nvidia Invests in Nscale, Valuing AI Data Center Startup at $14.6 Billion",
-        "what_changed": "Nvidia has invested in Nscale, an AI data center startup, pushing its valuation to $14.6 billion.",
-        "why_care": "This investment signals a growing foundation for the AI tools you will use to create, edit, and verify content.",
-        "what_to_do": "Research how AI infrastructure advancements could impact the speed and capability of your current content production tools.",
-        "source": "CNBC"
+        "id": 4,
+        "headline": "U.S. Military Uses AI in 3,000 Strikes, Oversight Remains Underinvested",
+        "what_changed": "The U.S. military extensively used generative AI in strikes against Iran, but oversight mechanisms for these AI applications are reportedly 'underinvested'.",
+        "why_care": "This highlights the critical need for robust oversight and ethical frameworks when deploying AI, a lesson directly applicable to your own AI project implementations.",
+        "what_to_do": "Review your current AI project governance and risk management plans to ensure adequate oversight, ethical considerations, and accountability are in place."
       }
     ],
     "marketing": [
       {
         "id": 0,
-        "headline": "Nvidia Invests in Nscale, Valued at $14.6B, Boosting AI Infrastructure",
-        "what_changed": "Nvidia invested in AI data center startup Nscale, pushing its valuation to $14.6 billion.",
-        "why_care": "This investment signals faster development of AI tools and infrastructure, which will enhance your marketing capabilities.",
-        "what_to_do": "Research how advancements in AI infrastructure could soon improve your current marketing tools or enable new strategies.",
-        "source": "CNBC"
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Valued at $14.6 Billion",
+        "what_changed": "Nvidia is investing in Nscale, an AI data center startup, which has now reached a $14.6 billion valuation.",
+        "why_care": "This investment signals a growing demand for the infrastructure that powers advanced AI tools, which will impact the capabilities of your marketing platforms.",
+        "what_to_do": "Research how your current marketing AI tools are leveraging advanced infrastructure to understand their future potential."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google researchers are enhancing Large Language Models (LLMs) with a 'Bayesian' teaching method to improve their logical reasoning and ability to update beliefs.",
+        "why_care": "Better reasoning in LLMs means your AI content generation, chatbot interactions, and data analysis tools will become more accurate and less prone to 'hallucinations'.",
+        "what_to_do": "Experiment with different prompts in your AI content tools to test if their logical consistency and factual accuracy are improving over time."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "London-based AI data center firm Nscale secured $2 billion in funding, bringing its valuation to $14.6 billion, and appointed former Meta executives Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "Significant investment and high-profile leadership in AI infrastructure indicate rapid advancements in the technology that underpins your digital marketing tools.",
+        "what_to_do": "Review your current AI tool subscriptions and consider if their underlying infrastructure can scale to meet your future marketing demands."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion in workers, increasing errors and intent to quit.",
+        "why_care": "Managing multiple AI tools in your marketing workflow can lead to burnout and reduced effectiveness, impacting your team's productivity and well-being.",
+        "what_to_do": "Evaluate your team's current AI tool usage to identify potential overload and streamline workflows or consolidate tools where possible."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Targets in Iran, Oversight Lags",
+        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, but oversight of these AI systems remains 'underinvested'.",
+        "why_care": "While not directly marketing-related, the military's advanced AI usage highlights the power and potential risks of AI, emphasizing the need for ethical considerations in your own AI marketing strategies.",
+        "what_to_do": "Establish clear guidelines and ethical frameworks for your team's use of AI in marketing to ensure responsible and transparent implementation."
       }
     ],
     "sales": [
       {
         "id": 0,
-        "headline": "Nvidia Invests in Nscale, Valuing AI Data Center Startup at $14.6 Billion",
-        "what_changed": "Nvidia has invested in Nscale, an AI data center startup, which is now valued at $14.6 billion.",
-        "why_care": "This signals growing investment in AI infrastructure, creating new sales opportunities for your products and services that support AI adoption.",
-        "what_to_do": "Research Nscale's current customers and partners to identify potential new leads or expansion opportunities for your offerings.",
-        "source": "CNBC"
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Now Valued at $14.6 Billion",
+        "what_changed": "Nscale, an AI data center startup, secured investment from Nvidia and is now valued at $14.6 billion.",
+        "why_care": "This shows significant investment in the core infrastructure that powers the AI tools you use daily, indicating continued growth and innovation in sales tech.",
+        "what_to_do": "Research Nscale to understand the foundational technology supporting your AI sales tools and how it might evolve."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers developed a new 'Bayesian' teaching method to improve Large Language Models' (LLMs) ability to update beliefs based on new evidence.",
+        "why_care": "This advancement means future AI sales tools will be better at understanding nuanced customer data and adapting their recommendations more logically.",
+        "what_to_do": "Explore how your current AI sales tools handle conflicting information and anticipate improvements in their reasoning capabilities."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK-based AI data center firm, raised $2 billion, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This massive investment and high-profile leadership signal strong confidence in the future of AI infrastructure, which will drive the development of more powerful sales tools.",
+        "what_to_do": "Follow Nscale's developments to understand the future landscape of AI infrastructure that will power your sales technology."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Tools",
+        "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "Relying on too many disparate AI sales tools can lead to burnout and reduced effectiveness for you and your team, impacting your sales performance.",
+        "what_to_do": "Evaluate your current AI tool stack, consolidate where possible, and ensure you are not over-relying on too many separate AI applications."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Targets in Iran, Oversight Lags",
+        "what_changed": "The U.S. military extensively used generative AI to strike 3,000 targets in Iran, embedding AI deeply in intelligence, targeting, and logistics, but oversight remains 'underinvested'.",
+        "why_care": "While not directly sales-related, this highlights the rapid, large-scale deployment of AI in critical operations, underscoring the importance of understanding AI's capabilities and limitations in your own sales processes.",
+        "what_to_do": "Review your company's guidelines and best practices for using AI in your sales workflow to ensure responsible and effective deployment."
       }
     ],
-    "science_research": [
+    "customer_support": [
       {
         "id": 0,
-        "headline": "Nvidia Invests in Nscale, Valuing AI Data Center Startup at $14.6 Billion",
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Now Valued at $14.6 Billion",
+        "what_changed": "Nscale, a key player in AI infrastructure, received investment from Nvidia and is now valued at $14.6 billion.",
+        "why_care": "This investment indicates a growing foundation for the AI tools you might use, making them more powerful and reliable.",
+        "what_to_do": "Research how your current support tools leverage AI infrastructure to understand future capabilities."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers are developing a new teaching method to help Large Language Models (LLMs) improve their ability to update beliefs based on new evidence.",
+        "why_care": "Better reasoning in LLMs means AI tools could provide more accurate and context-aware responses to customer inquiries, reducing errors.",
+        "what_to_do": "Keep an eye on updates from your AI tool providers regarding improved reasoning capabilities in their products."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK AI data center company, raised $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment and leadership talent will accelerate the development of AI infrastructure, potentially leading to more advanced and stable AI tools for customer support.",
+        "what_to_do": "Familiarize yourself with Nscale's role in AI infrastructure to understand the foundational technology supporting your future AI tools."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Tools",
+        "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "You might experience 'AI Brain Fry' if you are managing too many AI-powered support tools, impacting your performance and job satisfaction.",
+        "what_to_do": "Evaluate your current workload and discuss with your manager if you are overseeing too many AI tools, suggesting ways to streamline or prioritize."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Strikes, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military is extensively using generative AI in its campaign against Iran for intelligence, targeting, and logistics, but oversight remains 'underinvested'.",
+        "why_care": "While not directly related to customer support, this highlights the rapid deployment of AI in critical areas and the ongoing challenge of ensuring proper oversight, a lesson applicable to your AI tools.",
+        "what_to_do": "Advocate for clear guidelines and training on how to effectively oversee and validate the outputs of AI tools used in your customer support workflows."
+      }
+    ],
+    "finance": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
+      },
+      {
+        "id": 1,
+        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
+      },
+      {
+        "id": 2,
+        "headline": "British AI datacentre firm Nscale raises $2bn as Sheryl Sandberg and Nick Clegg join board",
+        "what_changed": "London-based startup, which is vital to the government’s artificial intelligence ambitions, is now valued at $14.6bnBusiness live – latest updatesNscale, a UK company vital to the government’s AI ambitions, has raised $2bn (£1.5bn) in a funding round and appointed the former Meta executives Sheryl Sandberg and Nick Clegg to its board of directors.It brings the valuation of the London-based startup, which is backed by the US tech company Nvidia, to $14.6bn, it said in a statement, and follows a $1.1bn funding round the company raised last September. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
+      },
+      {
+        "id": 3,
+        "headline": "Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents",
+        "what_changed": "A BCG study of nearly 1,500 workers shows that simultaneously overseeing too many AI tools triggers cognitive exhaustion. The consequences are measurable, from higher error rates to increased intent to quit. The article Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military strikes 3,000 targets in Iran with AI support, but oversight remains \"underinvested\"",
+        "what_changed": "The Wall Street Journal confirms and expands on previous reports about the massive use of generative AI in the U.S. military campaign against Iran. New details reveal how deeply AI is already embedded in intelligence, targeting, and logistics. The article U.S. Military strikes 3,000 targets in Iran with AI support, but oversight remains \"underinvested\" appeared first on The Decoder.",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role."
+      }
+    ],
+    "legal": [
+      {
+        "id": 0,
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Now Valued at $14.6 Billion",
+        "what_changed": "Nscale, an AI infrastructure company, has reached a $14.6 billion valuation with Nvidia's backing.",
+        "why_care": "This growth indicates increasing investment in the core infrastructure that powers the AI tools you might use or encounter.",
+        "what_to_do": "Research Nscale's technology to understand the underlying infrastructure supporting AI legal tools."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers are developing a new teaching method to improve Large Language Models' (LLMs) ability to update beliefs based on new evidence, known as probabilistic reasoning.",
+        "why_care": "Better reasoning in LLMs means AI tools could more accurately interpret complex legal precedents and adapt to new case information.",
+        "what_to_do": "Monitor Google AI's research for advancements in LLM reasoning that could impact the reliability of AI-powered legal analysis."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK-based AI data center company, raised $2 billion, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant investment and high-profile board appointments signal a major expansion in AI infrastructure, which will support the development and deployment of more powerful legal AI solutions.",
+        "what_to_do": "Evaluate how increased AI infrastructure capacity might enable new or enhanced AI tools relevant to your legal practice in the next 12-18 months."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Face Cognitive Overload Overseeing AI",
+        "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "As you integrate AI into your legal workflows, managing multiple AI tools could lead to burnout and errors, impacting your productivity and accuracy.",
+        "what_to_do": "Assess your current and planned AI tool usage to ensure you are not over-relying on AI oversight, potentially leading to 'AI Brain Fry'."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Targets in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military has used generative AI to strike 3,000 targets in Iran, with reports indicating that oversight of these AI applications remains 'underinvested'.",
+        "why_care": "This highlights the critical importance of robust oversight and ethical guidelines for AI deployment, a principle directly applicable to your use of AI in legal decision-making and compliance.",
+        "what_to_do": "Review your firm's current AI governance policies to ensure adequate human oversight and ethical considerations are in place for all AI tools you use."
+      }
+    ],
+    "hr": [
+      {
+        "id": 0,
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Now Valued at $14.6 Billion",
+        "what_changed": "Nscale, an AI data center startup, secured investment from Nvidia and is now valued at $14.6 billion.",
+        "why_care": "This investment signals continued rapid growth in AI infrastructure, impacting the demand for specialized tech talent you will need to recruit.",
+        "what_to_do": "Review your current tech talent pipeline and identify potential gaps for AI infrastructure roles in the next 6-12 months."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers developed a new 'Bayesian' teaching method to enhance Large Language Models' (LLMs) ability to update beliefs based on new evidence.",
+        "why_care": "Improved reasoning in LLMs means future AI tools you use for tasks like content generation or data analysis will be more accurate and reliable.",
+        "what_to_do": "Research how enhanced LLM reasoning could improve your HR tech stack, especially for tools supporting data-driven decision-making."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK-based AI data center firm, raised $2 billion, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "The addition of high-profile leaders to Nscale's board highlights the increasing importance of governance and experienced leadership in the rapidly expanding AI sector, which impacts your executive recruitment strategies.",
+        "what_to_do": "Assess your executive talent acquisition strategy to ensure it can attract leaders with experience navigating fast-growing, complex technology environments."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Overseeing AI Tools Face Cognitive Exhaustion",
+        "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "This directly impacts employee well-being, productivity, and retention within your organization as AI adoption increases, requiring you to manage the human-AI interface effectively.",
+        "what_to_do": "Collaborate with L&D and People Ops to develop guidelines and training for managing AI tools, focusing on preventing cognitive overload and promoting employee well-being."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI in 3,000 Strikes, But Oversight Remains 'Underinvested'",
+        "what_changed": "The U.S. Military extensively used generative AI in 3,000 strikes against Iran for intelligence, targeting, and logistics, but oversight of these AI systems is 'underinvested'.",
+        "why_care": "This highlights the critical need for robust ethical AI frameworks and governance, which will be essential for your organization to implement as AI becomes more integrated into sensitive operations.",
+        "what_to_do": "Begin discussions with your legal and compliance teams to establish or review ethical AI guidelines and oversight protocols for any AI tools used in your HR functions."
+      }
+    ],
+    "healthcare": [
+      {
+        "id": 0,
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Now Valued at $14.6 Billion",
         "what_changed": "Nvidia has invested in Nscale, an AI data center startup, which is now valued at $14.6 billion.",
-        "why_care": "This investment signals a boost in the underlying infrastructure that powers your AI research and large-scale data analysis.",
-        "what_to_do": "Evaluate your lab's current AI compute needs and explore how enhanced data center capabilities could accelerate your projects.",
-        "source": "CNBC"
+        "why_care": "This investment signals a growing infrastructure for AI, which will support more powerful healthcare AI tools you might use.",
+        "what_to_do": "Learn about the basic infrastructure needs for AI to understand how it impacts your facility's future technology."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers have developed a new teaching method to improve how Large Language Models (LLMs) update their beliefs based on new evidence.",
+        "why_care": "Better reasoning in LLMs means future AI tools could more accurately process complex patient data and clinical guidelines, directly impacting your decision-making.",
+        "what_to_do": "Stay informed about advancements in AI reasoning, as it will improve the reliability of AI tools in your clinical practice."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK AI data center company, raised $2 billion in funding and appointed Sheryl Sandberg and Nick Clegg to its board, bringing its valuation to $14.6 billion.",
+        "why_care": "Increased investment and leadership in AI infrastructure mean more robust and reliable AI systems will be available to support your healthcare operations.",
+        "what_to_do": "Discuss with your IT department how your facility plans to leverage advanced AI infrastructure for future healthcare applications."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Face Cognitive Limits Overseeing AI Tools",
+        "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "As you integrate AI into your daily tasks, managing too many AI tools could lead to burnout and errors in your critical healthcare work.",
+        "what_to_do": "Evaluate your current and future AI tool usage to ensure you are not overburdened, and advocate for manageable AI integration strategies."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Targets in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military is extensively using generative AI to strike 3,000 targets in Iran for intelligence, targeting, and logistics, but oversight of these AI systems is 'underinvested'.",
+        "why_care": "While not directly healthcare, this highlights the critical need for robust oversight in AI systems, a lesson that applies to AI tools you use in patient care to prevent errors.",
+        "what_to_do": "Advocate for clear guidelines and strong oversight mechanisms for all AI tools implemented in your healthcare setting to ensure patient safety and ethical use."
       }
     ],
     "education": [
       {
         "id": 0,
-        "headline": "Nvidia-backed Nscale reaches $14.6B valuation, strengthening AI infrastructure",
-        "what_changed": "Nvidia invested in Nscale, an AI data center startup, which is now valued at $14.6 billion.",
-        "why_care": "This investment means more robust AI infrastructure, which will power the educational tools and platforms you use.",
-        "what_to_do": "Consider how stronger AI infrastructure could enhance the educational technology you use or plan to adopt.",
-        "source": "CNBC"
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Now Valued at $14.6 Billion",
+        "what_changed": "Nscale, a key player in AI infrastructure, has reached a $14.6 billion valuation with Nvidia's backing.",
+        "why_care": "This investment signals continued rapid growth in the core infrastructure that powers the AI tools you use in education.",
+        "what_to_do": "Explore how your institution's current technology infrastructure supports or limits the use of advanced AI tools."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers have developed a new teaching method to improve Large Language Models' (LLMs) ability to update beliefs based on new evidence, known as probabilistic reasoning.",
+        "why_care": "This advancement means future AI tools could offer more accurate and logically sound responses, improving their reliability for creating educational content or assisting student learning.",
+        "what_to_do": "Experiment with current LLMs to identify areas where their reasoning falls short and consider how improved probabilistic reasoning could enhance your teaching materials."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Sheryl Sandberg and Nick Clegg Join Board",
+        "what_changed": "London-based AI data center firm Nscale raised $2 billion, bringing its valuation to $14.6 billion, and appointed former Meta executives Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "The significant investment and high-profile board appointments for Nscale highlight the increasing importance and rapid expansion of the infrastructure supporting AI, which directly impacts the availability and capability of educational AI tools.",
+        "what_to_do": "Research the computing power and data storage needs of the AI tools you currently use or plan to implement in your educational setting."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Face Cognitive Overload Overseeing AI",
+        "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "As you integrate more AI into your teaching and administrative tasks, it is crucial to manage your workload to prevent burnout and maintain effectiveness.",
+        "what_to_do": "Assess your current use of AI tools and identify strategies to streamline your workflow, perhaps by focusing on one or two key AI applications at a time."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Strikes in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. Military extensively used generative AI to strike 3,000 targets in Iran, integrating it into intelligence, targeting, and logistics, but oversight of these AI systems remains 'underinvested'.",
+        "why_care": "This demonstrates the powerful, yet potentially problematic, real-world application of AI when human oversight is not prioritized, a critical lesson for ethical AI integration in education.",
+        "what_to_do": "Review your institution's policies or develop guidelines for the ethical use and human oversight of AI tools in your classroom or curriculum development."
+      }
+    ],
+    "media_content": [
+      {
+        "id": 0,
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Valuation Hits $14.6 Billion",
+        "what_changed": "Nvidia invested in Nscale, an AI data center startup, increasing its valuation to $14.6 billion.",
+        "why_care": "This investment signals a growing demand for the infrastructure that powers AI tools you might use for content creation and analysis.",
+        "what_to_do": "Research how AI data center growth could impact the speed and accessibility of your preferred AI content tools."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers developed a new 'Bayesian' teaching method to enhance Large Language Models' (LLMs) ability to update beliefs based on new evidence.",
+        "why_care": "This improvement could lead to AI tools that are better at nuanced reasoning and less prone to 'hallucinations' or stubborn inaccuracies in content generation.",
+        "what_to_do": "Experiment with different LLMs this week, noting any improvements in their logical consistency or ability to handle complex, evolving information."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Sheryl Sandberg and Nick Clegg Join Board",
+        "what_changed": "Nscale, a UK AI data center firm, raised $2 billion, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "Increased funding and high-profile leadership for AI infrastructure suggest a rapid expansion of the underlying technology supporting your AI-powered content tools.",
+        "what_to_do": "Investigate how major investments in AI infrastructure might affect the cost or availability of AI services you rely on."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Overseeing AI Hit Cognitive Limits",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "As you integrate AI into your workflow, managing too many AI agents could reduce your accuracy and increase burnout when fact-checking or editing AI-generated content.",
+        "what_to_do": "Evaluate your current AI tool usage and consider consolidating or streamlining your AI-assisted tasks to avoid cognitive overload this week."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Targets in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military used generative AI to strike 3,000 targets in Iran, with reports indicating oversight of these AI systems remains 'underinvested'.",
+        "why_care": "This highlights the critical importance of human oversight and ethical considerations in AI deployment, which directly applies to the responsible use of AI in journalism and content creation.",
+        "what_to_do": "Review your organization's guidelines for AI use, focusing on human oversight protocols for AI-generated content, and advocate for stronger ethical frameworks."
       }
     ],
     "creative_entertainment": [
       {
         "id": 0,
-        "headline": "Nvidia Invests in Nscale, AI Data Center Firm Valued at $14.6 Billion",
-        "what_changed": "Nvidia has invested in Nscale, an AI data center startup now valued at $14.6 billion, boosting AI infrastructure development.",
-        "why_care": "This investment signals more powerful and accessible AI tools are coming, which will enhance your creative workflows and production capabilities.",
-        "what_to_do": "Explore how current AI-powered plugins or software features in your editing or animation suites are leveraging cloud AI for performance gains.",
-        "source": "CNBC"
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Valued at $14.6 Billion",
+        "what_changed": "Nvidia is investing in Nscale, an AI data center startup now valued at $14.6 billion.",
+        "why_care": "This investment signals a growing infrastructure for AI tools, which will power the creative software you use.",
+        "what_to_do": "Research how major creative software companies are leveraging AI to understand future tool developments."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers are using a new 'Bayesian' method to improve how Large Language Models (LLMs) update beliefs and reason with new evidence.",
+        "why_care": "Better reasoning in LLMs means future AI tools could generate more logical scripts, storyboards, or even edit suggestions for your projects.",
+        "what_to_do": "Experiment with current AI writing and idea generation tools to see their reasoning limitations and anticipate future improvements."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg and Nick Clegg to Board",
+        "what_changed": "Nscale, a UK AI data center company, raised $2 billion, reaching a $14.6 billion valuation, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "Increased funding and high-profile leadership for AI infrastructure means more robust and accessible AI tools for your creative workflows are on the horizon.",
+        "what_to_do": "Explore how cloud-based AI services are integrated into your existing creative software subscriptions."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Agents",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "As you integrate more AI into your editing, animation, or production tasks, managing too many AI agents could reduce your efficiency and increase stress.",
+        "what_to_do": "Evaluate your current AI tool usage and consider consolidating or streamlining your AI-assisted workflows to avoid overload."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Targets, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military used generative AI to support strikes on 3,000 targets in Iran, with concerns raised about underinvestment in oversight.",
+        "why_care": "While not directly in your industry, this highlights the rapid, widespread adoption of AI in critical operations, showing AI's growing capability and the importance of ethical oversight in any AI application.",
+        "what_to_do": "Familiarize yourself with ethical AI guidelines and consider how they apply to any AI tools you use in your creative work."
+      }
+    ],
+    "operations_supply": [
+      {
+        "id": 0,
+        "headline": "Nvidia-backed Nscale hits $14.6B valuation, boosting AI data center infrastructure",
+        "what_changed": "Nscale, an AI data center startup, reached a $14.6 billion valuation with Nvidia's backing.",
+        "why_care": "Your access to advanced AI tools for supply chain optimization depends on the growth of this underlying infrastructure.",
+        "what_to_do": "Research how your current and future AI tools rely on data center capabilities and infrastructure providers."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI improves LLM reasoning with new 'Bayesian' teaching method",
+        "what_changed": "Google AI researchers are developing a new teaching method to improve Large Language Models' (LLMs) ability to update beliefs based on new evidence.",
+        "why_care": "Better reasoning in LLMs means more reliable AI predictions and decision support for your complex operational challenges.",
+        "what_to_do": "Investigate how improved LLM reasoning could enhance your demand forecasting or inventory management systems."
+      },
+      {
+        "id": 2,
+        "headline": "British AI data center firm Nscale raises $2B, valued at $14.6B, adds Meta execs",
+        "what_changed": "Nscale, a UK AI data center company, raised $2 billion, reaching a $14.6 billion valuation, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This investment signals a major expansion in the AI infrastructure that powers the advanced analytics and automation tools you use.",
+        "what_to_do": "Review your current data infrastructure and consider if it can scale with the increasing demands of AI-driven operations."
+      },
+      {
+        "id": 3,
+        "headline": "Study warns of 'AI Brain Fry' as workers oversee too many AI tools",
+        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit among workers.",
+        "why_care": "Your team's efficiency and morale can suffer if they are overwhelmed by managing too many disparate AI systems in your operations.",
+        "what_to_do": "Assess your team's current AI tool workload and consolidate or streamline AI interfaces to prevent cognitive overload."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military uses AI for targeting and logistics, but oversight is 'underinvested'",
+        "what_changed": "The U.S. Military extensively uses generative AI for intelligence, targeting, and logistics, but oversight of these AI applications is lacking.",
+        "why_care": "The military's experience highlights the critical need for robust oversight and clear processes when integrating AI into your supply chain and logistics operations.",
+        "what_to_do": "Establish clear governance and human oversight protocols for any AI tools you implement in your critical operational processes."
+      }
+    ],
+    "real_estate_construction": [
+      {
+        "id": 0,
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Valued at $14.6 Billion",
+        "what_changed": "Nvidia has invested in Nscale, an AI data center startup, which is now valued at $14.6 billion.",
+        "why_care": "This investment signals a major expansion in the infrastructure needed for AI, which will drive demand for new data center construction and specialized real estate.",
+        "what_to_do": "Research local zoning and permitting requirements for large-scale data centers in your area."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers are using a new 'Bayesian' teaching method to improve how Large Language Models (LLMs) update beliefs based on new evidence.",
+        "why_care": "Better reasoning in AI means more reliable tools for tasks like property valuation, construction project management, and predictive maintenance.",
+        "what_to_do": "Explore current AI tools you use to see if they offer updates on their underlying reasoning capabilities."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Data Center Firm Nscale Raises $2 Billion, Adds Sheryl Sandberg to Board",
+        "what_changed": "Nscale, a UK AI data center company, raised $2 billion, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "This significant funding and leadership addition will accelerate the development of AI infrastructure, increasing demand for specialized commercial properties and construction services.",
+        "what_to_do": "Identify potential sites in your portfolio or market that could be suitable for future data center development."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Tools",
+        "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "Over-reliance on AI without proper human integration can reduce efficiency and increase mistakes in your real estate and construction projects.",
+        "what_to_do": "Review your team's AI tool usage to ensure a balanced workload and prevent cognitive overload."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Strikes in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. military used generative AI to support 3,000 strikes in Iran, but oversight of these AI applications remains 'underinvested'.",
+        "why_care": "While not directly related to your industry, this highlights the rapid deployment of AI and the critical need for robust oversight, a lesson applicable to AI tools in real estate and construction.",
+        "what_to_do": "Establish clear protocols and human oversight for any AI tools you implement in your business operations."
+      }
+    ],
+    "science_research": [
+      {
+        "id": 0,
+        "headline": "Nvidia Backs AI Data Center Startup Nscale, Now Valued at $14.6 Billion",
+        "what_changed": "Nvidia has invested in Nscale, an AI data center startup, which has now reached a $14.6 billion valuation.",
+        "why_care": "This investment signals growing infrastructure support for the intensive computational needs of advanced AI models relevant to your research.",
+        "what_to_do": "Assess your current data processing and storage needs to anticipate future AI infrastructure requirements for your projects."
+      },
+      {
+        "id": 1,
+        "headline": "Google AI Improves LLM Reasoning with New 'Bayesian' Teaching Method",
+        "what_changed": "Google AI researchers have developed a new teaching method to improve Large Language Models' (LLMs) ability to perform probabilistic reasoning.",
+        "why_care": "This advancement could lead to more reliable and logically sound AI tools for analyzing complex scientific data and updating hypotheses.",
+        "what_to_do": "Investigate how improved probabilistic reasoning in LLMs could enhance data interpretation or experimental design in your field."
+      },
+      {
+        "id": 2,
+        "headline": "British AI Data Center Firm Nscale Raises $2 Billion, Valued at $14.6 Billion",
+        "what_changed": "Nscale, a UK-based AI data center company, raised $2 billion in funding, bringing its valuation to $14.6 billion, and appointed Sheryl Sandberg and Nick Clegg to its board.",
+        "why_care": "Increased investment in AI data centers means more robust and accessible computing resources for your large-scale simulations and data analysis.",
+        "what_to_do": "Review your institution's access to high-performance computing and consider how new data center capacities might support your future research."
+      },
+      {
+        "id": 3,
+        "headline": "Study Warns of 'AI Brain Fry' as Workers Oversee Too Many AI Agents",
+        "what_changed": "A BCG study of nearly 1,500 workers found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
+        "why_care": "As you integrate more AI into your workflows, managing multiple AI agents could negatively impact your focus, accuracy, and well-being.",
+        "what_to_do": "Evaluate your current AI tool usage to ensure you are not overextending your cognitive load, potentially impacting research quality."
+      },
+      {
+        "id": 4,
+        "headline": "U.S. Military Uses AI for 3,000 Strikes in Iran, Oversight 'Underinvested'",
+        "what_changed": "The U.S. Military has extensively used generative AI to support strikes on 3,000 targets in Iran, with concerns raised about underinvestment in AI oversight.",
+        "why_care": "This highlights the critical need for robust AI safety and ethical oversight in real-world applications, a concern directly relevant to AI safety researchers.",
+        "what_to_do": "Engage with discussions on AI ethics and safety standards, particularly regarding autonomous systems, to contribute to responsible AI development."
       }
     ]
   }
