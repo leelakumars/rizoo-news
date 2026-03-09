@@ -399,6 +399,222 @@ def pick_top_articles(articles: list[dict], count: int = 3) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Writing Styles (10 distinct voices for variety)
+# ---------------------------------------------------------------------------
+
+STYLE_DEFINITIONS = {
+    "direct": {
+        "prompt_block": """STYLE "direct" (Direct & Punchy):
+- Short, declarative sentences. Under 15 words each.
+- Headline: bold statement, max 60 chars. Can end with a period.
+- what_changed: max 15 words. Drop unnecessary words.
+- why_care: starts with "This means" or "That means" or "Bottom line:".
+- what_to_do: starts with an imperative verb. No "Consider" or "Research". Use "Set up", "Switch to", "Test", "Add".
+- DO NOT use passive voice. DO NOT use "could" or "might".
+EXAMPLE:
+  headline: "Google just killed its code review tool."
+  what_changed: "Google deprecated Critique and moved teams to Copilot-based code reviews."
+  why_care: "This means AI code review is now table stakes, not optional."
+  what_to_do: "Set up Copilot code review on your main repo this week."
+""",
+    },
+    "analytical": {
+        "prompt_block": """STYLE "analytical" (Analytical & Data-Driven):
+- Measured tone. Use data framing and cause-effect structure.
+- Headline: includes a number or data point when possible.
+- what_changed: includes a specific number, comparison, or trend.
+- why_care: uses "which means" or "the implication is" connector.
+- what_to_do: two-part action with "then" connecting them.
+- DO NOT use exclamation marks. DO NOT use casual language.
+EXAMPLE:
+  headline: "OpenAI's 300M users signal a shift in enterprise adoption"
+  what_changed: "OpenAI reported 300 million weekly active users, up from 200 million in August, with enterprise seats growing 4x."
+  why_care: "The implication is that AI tools are no longer experimental, they are becoming standard workflow in your industry."
+  what_to_do: "Audit which AI tools your team already uses informally, then propose a formal adoption plan to leadership."
+""",
+    },
+    "conversational": {
+        "prompt_block": """STYLE "conversational" (Casual & Friendly):
+- Casual tone. Use contractions. Feels like a smart friend explaining over coffee.
+- Headline: can start with "So," or "Turns out" or drop the formal opener.
+- what_changed: uses "basically" or "essentially" or "in short".
+- why_care: addresses "for you" directly and personally.
+- what_to_do: uses "Try" or "Check out" or "Give X a look".
+- DO NOT use formal or corporate language. Write like you talk.
+EXAMPLE:
+  headline: "So Microsoft just made Copilot free for everyone"
+  what_changed: "Basically, Microsoft removed the paywall on Copilot and it now works across all Office apps for free."
+  why_care: "For you, this means every competitor just got a writing and coding assistant at no cost."
+  what_to_do: "Try using Copilot for one real task today and see where it actually saves you time."
+""",
+    },
+    "narrative": {
+        "prompt_block": """STYLE "narrative" (Story-Driven):
+- Opens with context or a "when X happened" frame. Creates a mini story arc.
+- Headline: narrative hook that makes you want to know what happened next.
+- what_changed: uses "When [actor] [action], [consequence]" structure.
+- why_care: connects to the reader's personal professional story.
+- what_to_do: frames the action as the reader's next chapter.
+- DO NOT use dry, factual framing. Make it feel like a story unfolding.
+EXAMPLE:
+  headline: "When Anthropic hired 200 safety researchers, the industry noticed"
+  what_changed: "When Anthropic announced its largest hiring wave of 200 AI safety researchers, it signaled that responsible AI is becoming a competitive advantage."
+  why_care: "If your company builds AI products, customers will start asking about safety the same way they ask about uptime."
+  what_to_do: "Start documenting your team's AI safety practices before clients and regulators ask for them."
+""",
+    },
+    "question": {
+        "prompt_block": """STYLE "question" (Question-Led & Socratic):
+- Opens with a provocative or thought-provoking question.
+- Headline: MUST be a question ending with "?".
+- what_changed: answers the question directly and factually.
+- why_care: asks a second, personal question that makes the reader think.
+- what_to_do: provides a direct, actionable answer to that personal question.
+- DO NOT use rhetorical questions with obvious answers. Make the reader genuinely think.
+EXAMPLE:
+  headline: "What happens when AI writes 90% of new code?"
+  what_changed: "A new study found that AI-generated code now accounts for over 90% of first-draft commits at top tech companies."
+  why_care: "If most code is AI-generated, what does your value as a developer actually become?"
+  what_to_do: "Shift 30 minutes of your learning time this week from syntax to system design and architecture."
+""",
+    },
+    "contrarian": {
+        "prompt_block": """STYLE "contrarian" (Challenges the Obvious Take):
+- Challenges the consensus. "Everyone says X, but actually..." energy.
+- Headline: contrarian framing that surprises. Can be two short sentences.
+- what_changed: states the consensus view, then the counterpoint or nuance.
+- why_care: starts with "But here's what most people miss:" or "The real story is:".
+- what_to_do: the non-obvious, smarter action most people won't take.
+- DO NOT be contrarian just for shock value. The counterpoint must be genuinely insightful.
+EXAMPLE:
+  headline: "Everyone's excited about this AI model. They shouldn't be."
+  what_changed: "Meta released a new open-source model that benchmarks well, but independent tests show it hallucinates 40% more than GPT-4."
+  why_care: "The real story is: most teams will rush to use it because it's free, but your error rates will spike in production."
+  what_to_do: "Run the model on your own test cases before trusting any third-party benchmark."
+""",
+    },
+    "mentor": {
+        "prompt_block": """STYLE "mentor" (Career Coach & Encouraging):
+- Warm but direct. Like a senior colleague giving career advice.
+- Headline: signals an opportunity or learning moment. Can start with "This is your signal to..."
+- what_changed: factual and clear.
+- why_care: uses "This is the kind of shift that..." or "Being early to this gives you...".
+- what_to_do: framed as a growth or career move, not just a task.
+- DO NOT be preachy or condescending. Be genuinely helpful and encouraging.
+EXAMPLE:
+  headline: "This is your signal to learn vector databases"
+  what_changed: "Pinecone raised $100M and reported 5x enterprise adoption in six months."
+  why_care: "This is the kind of growth that creates a skills gap, and being early gives you a real advantage."
+  what_to_do: "Complete one vector database tutorial this week, even a basic one puts you ahead."
+""",
+    },
+    "numbers": {
+        "prompt_block": """STYLE "numbers" (Numbers-First, Bloomberg Energy):
+- Leads with the most striking number. Financial newsletter energy.
+- Headline: MUST start with a number or dollar amount. Short and punchy.
+- what_changed: unpacks what the number means concretely.
+- why_care: puts the number in personal, professional context for the reader.
+- what_to_do: a quantified or time-boxed action (include a number or deadline).
+- DO NOT bury the number. It must be the first thing the reader sees.
+EXAMPLE:
+  headline: "$14.6 billion. That's Nscale's new valuation."
+  what_changed: "Nscale closed a massive round to build GPU cloud infrastructure, making it Europe's largest AI funding deal."
+  why_care: "When this much capital flows into AI infrastructure, compute costs drop for everyone building AI products."
+  what_to_do: "Compare your current cloud GPU costs against at least 2 new providers within 48 hours."
+""",
+    },
+    "context": {
+        "prompt_block": """STYLE "context" (Big Picture, Zooms Out):
+- Explains the bigger picture before diving into the news. Adds historical or industry context.
+- Headline: uses "Why X matters more than you think" or "The real significance of X" framing.
+- what_changed: the news itself plus one sentence of background context.
+- why_care: connects this event to a longer trend or pattern the reader should track.
+- what_to_do: strategic and forward-looking, not tactical.
+- DO NOT just restate the news. Add genuine context that makes the reader smarter.
+EXAMPLE:
+  headline: "Why Apple's M4 chip matters more than another iPhone launch"
+  what_changed: "Apple's new M4 iPad continues a three-year trend of bringing desktop-class AI processing to mobile devices."
+  why_care: "For five years AI required cloud GPUs, but on-device AI is closing that gap, which reshapes what you can build."
+  what_to_do: "Evaluate which of your AI features could run on-device instead of in the cloud."
+""",
+    },
+    "urgent": {
+        "prompt_block": """STYLE "urgent" (Time-Sensitive & Actionable):
+- High energy. Creates genuine urgency without being clickbait. Time-sensitive framing.
+- Headline: uses "now", "today", "this week", or "starting [date]".
+- what_changed: emphasizes speed, recency, or a deadline.
+- why_care: includes a timeframe like "within [X days/weeks]" or "before [event]".
+- what_to_do: specific and time-boxed with a clear deadline.
+- DO NOT create false urgency. Only use this style when there is genuine time pressure.
+EXAMPLE:
+  headline: "This regulation change affects your AI products starting next month"
+  what_changed: "The EU AI Act's first compliance deadline hits April 2026, requiring risk classification for all AI systems sold in Europe."
+  why_care: "If you ship AI products to European customers, you have less than 30 days to classify and document your systems."
+  what_to_do: "Download the EU AI Act checklist today and map your products against the four risk tiers."
+""",
+    },
+}
+
+# Maps impact types to 3 preferred writing styles (best fit first)
+STYLE_AFFINITY = {
+    "threat":        ["urgent", "contrarian", "direct"],
+    "opportunity":   ["mentor", "numbers", "conversational"],
+    "industryShift": ["context", "analytical", "narrative"],
+    "positive":      ["mentor", "conversational", "context"],
+    "skillDemand":   ["mentor", "urgent", "question"],
+    "toolRelease":   ["direct", "conversational", "numbers"],
+    "research":      ["analytical", "question", "context"],
+    "funding":       ["numbers", "analytical", "narrative"],
+    "roleChange":    ["question", "mentor", "urgent"],
+    "milestone":     ["narrative", "numbers", "direct"],
+}
+
+
+def classify_impact_for_style(article: dict) -> str:
+    """Classify article impact type for style selection (mirrors iOS logic)."""
+    text = (article["headline"] + " " + article["description"]).lower()
+    if any(kw in text for kw in ["launch", "release", "new tool", "new ai", "agent"]):
+        return "toolRelease"
+    if any(kw in text for kw in ["replace", "layoff", "cut jobs", "eliminate", "automate"]):
+        return "threat"
+    if any(kw in text for kw in ["funding", "acquisition", "acquires", "raises", "valuation", "billion", "investment"]):
+        return "funding"
+    if any(kw in text for kw in ["study", "research", "paper", "benchmark", "findings"]):
+        return "research"
+    if any(kw in text for kw in ["breakthrough", "record", "first ever", "milestone", "surpass"]):
+        return "milestone"
+    if any(kw in text for kw in ["new role", "job title", "role evolv", "responsibilities"]):
+        return "roleChange"
+    if any(kw in text for kw in ["opportunity", "salary", "demand", "hiring", "new jobs"]):
+        return "opportunity"
+    if any(kw in text for kw in ["skill", "upskill", "training", "certification", "learn"]):
+        return "skillDemand"
+    if any(kw in text for kw in ["protect", "safe", "regulation", "oversight"]):
+        return "positive"
+    return "industryShift"
+
+
+def assign_styles(articles: list[dict]) -> list[str]:
+    """Assign a writing style to each article. Hash-based, deterministic, no consecutive repeats."""
+    styles = []
+    for i, art in enumerate(articles):
+        impact = classify_impact_for_style(art)
+        pool = STYLE_AFFINITY.get(impact, ["direct", "analytical", "conversational"])
+
+        # Hash-based deterministic pick from affinity pool
+        headline_hash = int(hashlib.md5(art["headline"].encode()).hexdigest(), 16)
+        pick_index = headline_hash % len(pool)
+        chosen = pool[pick_index]
+
+        # Avoid consecutive repeats
+        if i > 0 and chosen == styles[-1]:
+            chosen = pool[(pick_index + 1) % len(pool)]
+
+        styles.append(chosen)
+    return styles
+
+
+# ---------------------------------------------------------------------------
 # AI Rewriting
 # ---------------------------------------------------------------------------
 
@@ -409,53 +625,63 @@ def clean_for_prompt(text: str) -> str:
     return text.strip()
 
 
-def build_prompt(articles: list[dict], cluster: dict) -> str:
-    """Build the rewrite prompt for a single cluster."""
+def build_prompt(articles: list[dict], cluster: dict, style_assignments: list[str]) -> str:
+    """Build the rewrite prompt for a single cluster with per-article style assignments."""
+    # Collect only the styles we need for this batch
+    styles_in_use = set(style_assignments)
+    style_block = "\n".join(
+        STYLE_DEFINITIONS[s]["prompt_block"] for s in styles_in_use
+    )
+
     articles_text = ""
     for i, art in enumerate(articles):
         headline = clean_for_prompt(art["headline"])
         snippet = clean_for_prompt(art["description"])
+        style_name = style_assignments[i]
         articles_text += f"""
-Article {i}:
+Article {i} (USE "{style_name}" STYLE):
 Headline: {headline}
 Snippet: {snippet}
 Source: {art['source']}
 """
 
-    return f"""You rewrite AI news for professionals in a specific industry.
+    return f"""You rewrite AI news for professionals. Each article MUST be written in a specific style.
+Your writing should feel like a premium newsletter (Morning Brew, The Skimm, Bloomberg), not a corporate report.
 
 Target audience: {cluster['name']} - {cluster['description']}
 
-RULES:
-- NEVER use em dashes (--). Use commas, periods, or rewrite.
-- Preserve company names, tool names, dollar amounts, dates exactly.
-- Write in plain language. No jargon. Use "you/your" to address the reader.
-- Each field must be exactly ONE sentence. Keep it punchy and specific.
-- The "what_to_do" must be a concrete, actionable step (not "stay informed").
+GLOBAL RULES:
+- NEVER use em dashes (--). Use commas, periods, or rewrite the sentence.
+- Preserve company names, tool names, dollar amounts, and dates exactly.
+- Use plain language. No jargon. Address the reader as "you/your".
+- CRITICAL: Each article has a DIFFERENT assigned style. Follow that style's rules EXACTLY.
 
-For each article below, provide:
-1. headline: Rewritten for this audience (max 80 chars, preserve key facts)
-2. what_changed: One sentence - what concretely happened
-3. why_care: One sentence - why this matters specifically for {cluster['name']}
-4. what_to_do: One sentence - specific action they should take this week
+SMART ACTION RULES for "what_to_do":
+- If this article has a GENUINE, SPECIFIC action for {cluster['name']}, write a concrete action step.
+- If this article is NOT directly relevant to {cluster['name']}'s daily work, write a perspective or takeaway instead.
+  Use framing like: "Worth knowing:", "The bigger picture:", or "Keep an eye on this:" followed by an insightful observation.
+- NEVER write generic filler like "Research how...", "Stay informed about...", "Consider the implications of...", or "Monitor developments in...".
+
+STYLE DEFINITIONS:
+{style_block}
 
 {articles_text}
 
 Respond with ONLY a JSON array, no markdown:
-[{{"id": 0, "headline": "...", "what_changed": "...", "why_care": "...", "what_to_do": "..."}}, ...]"""
+[{{"id": 0, "headline": "...", "what_changed": "...", "why_care": "...", "what_to_do": "...", "style": "..."}}, ...]"""
 
 
-def rewrite_gemini(articles: list[dict], cluster: dict) -> list[dict]:
+def rewrite_gemini(articles: list[dict], cluster: dict, style_assignments: list[str]) -> list[dict]:
     """Call Gemini Flash to rewrite articles for a cluster."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise ValueError("GEMINI_API_KEY not set")
 
-    prompt = build_prompt(articles, cluster)
+    prompt = build_prompt(articles, cluster, style_assignments)
     payload = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "temperature": 0.3,
+            "temperature": 0.5,
             "maxOutputTokens": 4096,
             "responseMimeType": "application/json",
         },
@@ -486,17 +712,17 @@ def rewrite_gemini(articles: list[dict], cluster: dict) -> list[dict]:
     return json.loads(text)
 
 
-def rewrite_haiku(articles: list[dict], cluster: dict) -> list[dict]:
+def rewrite_haiku(articles: list[dict], cluster: dict, style_assignments: list[str]) -> list[dict]:
     """Call Claude Haiku to rewrite articles for a cluster."""
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         raise ValueError("ANTHROPIC_API_KEY not set")
 
-    prompt = build_prompt(articles, cluster)
+    prompt = build_prompt(articles, cluster, style_assignments)
     payload = json.dumps({
         "model": "claude-haiku-4-5-20251001",
         "max_tokens": 1024,
-        "temperature": 0.3,
+        "temperature": 0.5,
         "messages": [{"role": "user", "content": prompt}],
     }).encode()
 
@@ -520,16 +746,39 @@ def rewrite_haiku(articles: list[dict], cluster: dict) -> list[dict]:
     return json.loads(text)
 
 
+def validate_style(rewrite: dict, expected_style: str) -> bool:
+    """Basic heuristic check that the rewrite matches its assigned style."""
+    headline = rewrite.get("headline", "")
+    if expected_style == "numbers" and not re.match(r'^[$\d]', headline):
+        return False
+    if expected_style == "question" and not headline.rstrip().endswith("?"):
+        return False
+    return True
+
+
 def generate_rewrites(articles: list[dict], provider: str = "gemini") -> dict:
-    """Generate rewrites for all 18 clusters."""
+    """Generate rewrites for all 18 clusters with varied writing styles."""
     rewrite_fn = rewrite_gemini if provider == "gemini" else rewrite_haiku
     all_rewrites = {}
+
+    # Assign styles once (same styles for all clusters, based on article content)
+    style_assignments = assign_styles(articles)
+    for i, (art, style) in enumerate(zip(articles, style_assignments)):
+        impact = classify_impact_for_style(art)
+        print(f"  Article {i}: impact={impact}, style={style}")
 
     for cluster in CLUSTERS:
         cluster_id = cluster["id"]
         print(f"  Rewriting for {cluster['name']}...")
         try:
-            rewrites = rewrite_fn(articles, cluster)
+            rewrites = rewrite_fn(articles, cluster, style_assignments)
+            # Log style validation
+            for rw in rewrites:
+                idx = rw.get("id", 0)
+                if idx < len(style_assignments):
+                    expected = style_assignments[idx]
+                    if not validate_style(rw, expected):
+                        print(f"    [WARN] Article {idx} style mismatch: expected={expected}, headline='{rw.get('headline', '')[:40]}'")
             all_rewrites[cluster_id] = rewrites
             time.sleep(0.5)  # Rate limiting
         except Exception as e:
@@ -542,6 +791,7 @@ def generate_rewrites(articles: list[dict], provider: str = "gemini") -> dict:
                     "what_changed": art["description"],
                     "why_care": "This AI development could affect how work gets done in your field.",
                     "what_to_do": "Read the full article to assess if this impacts your role.",
+                    "style": style_assignments[i] if i < len(style_assignments) else "direct",
                 }
                 for i, art in enumerate(articles)
             ]
