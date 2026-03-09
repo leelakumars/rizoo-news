@@ -594,7 +594,7 @@ def build_output(articles: list[dict], rewrites: dict, run_id: str, existing_fee
 
     # Sort newest first, cap at 50, re-index
     merged_articles.sort(key=lambda a: a.get("published_at", ""), reverse=True)
-    merged_articles = merged_articles[:50]
+    merged_articles = merged_articles[:168]  # 7 days x 24 articles/day
 
     # Build final index map: hash ID -> final index
     id_to_final_index = {}
