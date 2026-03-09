@@ -464,8 +464,15 @@ def rewrite_gemini(articles: list[dict], cluster: dict) -> list[dict]:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
     req = Request(url, data=payload, headers={"Content-Type": "application/json"}, method="POST")
 
-    with urlopen(req, timeout=30) as resp:
-        result = json.loads(resp.read())
+    try:
+        with urlopen(req, timeout=30) as resp:
+            result = json.loads(resp.read())
+    except Exception as e:
+        # Log the response body for debugging
+        if hasattr(e, 'read'):
+            body = e.read().decode('utf-8', errors='replace')
+            print(f"    Gemini error body: {body[:500]}")
+        raise
 
     # Gemini 2.5 thinking models may have multiple parts (thought + text)
     parts = result["candidates"][0]["content"]["parts"]
