@@ -458,11 +458,10 @@ def rewrite_gemini(articles: list[dict], cluster: dict) -> list[dict]:
             "temperature": 0.3,
             "maxOutputTokens": 4096,
             "responseMimeType": "application/json",
-            "thinkingConfig": {"thinkingBudget": 0},
         },
     }).encode()
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
     req = Request(url, data=payload, headers={"Content-Type": "application/json"}, method="POST")
 
     with urlopen(req, timeout=30) as resp:
