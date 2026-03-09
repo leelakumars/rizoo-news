@@ -701,8 +701,8 @@ def main():
                         help="AI provider for rewrites (default: gemini)")
     parser.add_argument("--dry-run", action="store_true",
                         help="Skip AI rewriting, output raw articles only")
-    parser.add_argument("--count", type=int, default=5,
-                        help="Number of articles to pick (default: 5)")
+    parser.add_argument("--count", type=int, default=1,
+                        help="Number of articles to pick (default: 1)")
     args = parser.parse_args()
 
     # Fetch all feeds
