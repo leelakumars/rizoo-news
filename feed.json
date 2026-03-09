@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-03-09T13:19:38.268933+00:00",
-  "run_id": "20260309_131936",
+  "generated_at": "2026-03-09T13:23:51.952970+00:00",
+  "run_id": "20260309_132350",
   "articles": [
     {
       "id": "0833e7465967",
@@ -11,51 +11,11 @@
       "link": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
       "source": "CNBC",
       "topic": "AI Industry",
-      "published_at": "2026-03-09T13:19:38.268693+00:00"
-    },
-    {
-      "id": "2c39831bda2a",
-      "index": 1,
-      "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-      "description": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-      "link": "https://www.marktechpost.com/2026/03/09/the-bayesian-upgrade-why-google-ais-new-teaching-method-is-the-key-to-llm-reasoning/",
-      "source": "MarkTechPost",
-      "topic": "AI Research",
-      "published_at": "2026-03-09T13:19:38.268693+00:00"
-    },
-    {
-      "id": "e8c372c86e06",
-      "index": 2,
-      "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-      "description": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-      "link": "https://www.theguardian.com/technology/2026/mar/09/liverpool-and-manchester-united-complain-to-x-over-sickening-grok-ai-posts",
-      "source": "The Guardian",
-      "topic": "AI Industry",
-      "published_at": "2026-03-09T13:19:38.268693+00:00"
-    },
-    {
-      "id": "28dd4451e769",
-      "index": 3,
-      "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-      "description": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-      "link": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/",
-      "source": "Wired",
-      "topic": "AI Industry",
-      "published_at": "2026-03-09T13:19:38.268693+00:00"
-    },
-    {
-      "id": "3789b1f6deab",
-      "index": 4,
-      "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-      "description": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-      "link": "https://the-decoder.com/anthropics-claude-opus-4-6-saw-through-an-ai-test-cracked-the-encryption-and-grabbed-the-answers-itself/",
-      "source": "The Decoder",
-      "topic": "AI Tools",
-      "published_at": "2026-03-09T13:19:38.268693+00:00"
+      "published_at": "2026-03-09T13:23:51.952875+00:00"
     }
   ],
   "rewrites": {
-    "science_research": [
+    "healthcare": [
       {
         "id": 0,
         "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
@@ -63,248 +23,6 @@
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role.",
         "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "operations_supply": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "product_project": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "cybersecurity": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "legal": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "data_ai": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
       }
     ],
     "design_ux": [
@@ -315,122 +33,6 @@
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role.",
         "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "software_engineering": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "creative_entertainment": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
       }
     ],
     "real_estate_construction": [
@@ -441,290 +43,6 @@
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role.",
         "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "sales": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "healthcare": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "education": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "media_content": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "customer_support": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
-      }
-    ],
-    "finance": [
-      {
-        "id": 0,
-        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
       }
     ],
     "hr": [
@@ -735,38 +53,6 @@
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role.",
         "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
-      {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
       }
     ],
     "marketing": [
@@ -777,38 +63,136 @@
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role.",
         "source": "CNBC"
-      },
+      }
+    ],
+    "customer_support": [
       {
-        "id": 1,
-        "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-        "what_changed": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […] The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "MarkTechPost"
-      },
+        "source": "CNBC"
+      }
+    ],
+    "data_ai": [
       {
-        "id": 2,
-        "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "what_changed": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Guardian"
-      },
+        "source": "CNBC"
+      }
+    ],
+    "sales": [
       {
-        "id": 3,
-        "headline": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-        "what_changed": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "Wired"
-      },
+        "source": "CNBC"
+      }
+    ],
+    "finance": [
       {
-        "id": 4,
-        "headline": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "what_changed": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind. The article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
         "why_care": "This AI development could affect how work gets done in your field.",
         "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "The Decoder"
+        "source": "CNBC"
+      }
+    ],
+    "education": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "creative_entertainment": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "software_engineering": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "science_research": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "cybersecurity": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "media_content": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "operations_supply": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "legal": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
+      }
+    ],
+    "product_project": [
+      {
+        "id": 0,
+        "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+        "what_changed": "Nscale has become a key player in the AI infrastructure buildout",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "source": "CNBC"
       }
     ]
   }
