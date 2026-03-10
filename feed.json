@@ -1,11 +1,21 @@
 {
   "version": 1,
-  "generated_at": "2026-03-10T19:47:06.932749+00:00",
-  "run_id": "20260310_194530",
+  "generated_at": "2026-03-10T19:55:56.523755+00:00",
+  "run_id": "20260310_195350",
   "articles": [
     {
-      "id": "aa19e2ba9db5",
+      "id": "fe230cba6a06",
       "index": 0,
+      "headline": "UK Society of Authors launches logo to identify books written by humans not AI",
+      "description": "Tracy Chevalier announces registration scheme at the London Book Fair as AI works flood marketThe Society of Authors (SoA) has launched a scheme to help identify works written by humans in a market increasingly flooded by AI-generated books.The scheme is the first of its kind launched by a UK trade association, and allows authors to register their books and download a “Human Authored” logo to display on their back cover. Continue reading...",
+      "link": "https://www.theguardian.com/technology/2026/mar/10/uk-society-authors-logo-identify-books-written-by-humans-not-ai",
+      "source": "The Guardian",
+      "topic": "AI Industry",
+      "published_at": "2026-03-10T19:55:56.523590+00:00"
+    },
+    {
+      "id": "aa19e2ba9db5",
+      "index": 1,
       "headline": "ChatGPT now explains math and physics with interactive visualizations",
       "description": "ChatGPT now displays interactive visualizations for math and physics topics where users can tweak variables and watch graphs update in real time. More than 70 concepts are available at launch. The article ChatGPT now explains math and physics with interactive visualizations appeared first on The Decoder.",
       "link": "https://the-decoder.com/chatgpt-now-explains-math-and-physics-with-interactive-visualizations/",
@@ -15,57 +25,22 @@
     }
   ],
   "rewrites": {
-    "customer_support": [
+    "software_engineering": [
       {
         "id": 0,
-        "headline": "ChatGPT now explains math and physics visually.",
-        "what_changed": "ChatGPT shows interactive math and physics visualizations.",
-        "why_care": "Bottom line: AI tools are getting more visual and interactive.",
-        "what_to_do": "Keep an eye on this: AI tools are evolving beyond text, adding visual aids.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "creative_entertainment": [
+        "headline": "So, a new logo wants to tell you if a book's human-written",
+        "what_changed": "Basically, the UK's Society of Authors just launched a new 'Human Authored' logo. Authors can register their books and put this logo on the back cover to show it wasn't written by AI, aiming to stand out in a market increasingly full of AI-generated books.",
+        "why_care": "For you, this is a pretty interesting move in the broader conversation about AI-generated content. While it's about books now, you can bet similar ideas might pop up for code or other creative outputs down the line.",
+        "what_to_do": "Keep an eye on this: It's a sign of how industries are starting to push back against AI-generated content. You might see similar 'authenticity' labels pop up in other creative fields, maybe even for code or documentation, as AI gets more sophisticated.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
       {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visuals.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
-        "why_care": "This means complex concepts are easier to understand visually.",
-        "what_to_do": "Keep an eye on this: AI tools are making complex information more accessible.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "education": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visuals.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
-        "why_care": "This means students learn complex concepts visually and interactively.",
-        "what_to_do": "Test ChatGPT's new math and physics visualizations in your lessons.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "legal": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math, physics visualizations.",
+        "id": 1,
+        "headline": "ChatGPT now visualizes math and physics concepts.",
         "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
-        "why_care": "Bottom line: AI tools are expanding their capabilities rapidly.",
-        "what_to_do": "Keep an eye on this: AI models are becoming more multimodal and interactive.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "real_estate_construction": [
-      {
-        "id": 0,
-        "headline": "ChatGPT explains math and physics with interactive visuals.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
-        "why_care": "This means complex data visualization is becoming mainstream.",
-        "what_to_do": "Keep an eye on this: Interactive data tools simplify complex information.",
+        "why_care": "Bottom line: AI tools now offer interactive learning experiences.",
+        "what_to_do": "Keep an eye on this: AI models are expanding into interactive educational tools.",
         "style": "direct",
         "source": "The Decoder"
       }
@@ -73,6 +48,15 @@
     "data_ai": [
       {
         "id": 0,
+        "headline": "Turns out, a new 'Human Authored' logo is coming for books",
+        "what_changed": "Basically, the UK's Society of Authors (SoA) just launched a new 'Human Authored' logo. Authors can register their books and put this logo on the cover to show it was written by a human, not AI. It's their way of tackling the surge of AI-generated books out there.",
+        "why_care": "For you, this really shows how much people are thinking about content authenticity as AI gets better at generating text. It's not just books; you might see similar pushes for transparency in data documentation, code, or even generated reports as AI becomes more common in those areas too.",
+        "what_to_do": "The bigger picture: This scheme is a pretty clear indicator of how industries are starting to react to the rise of generative AI. We'll likely see more of these 'authenticity' or 'human-verified' initiatives popping up across various content types as AI becomes more sophisticated.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
         "headline": "ChatGPT now explains math and physics with interactive visualizations.",
         "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
         "why_care": "Bottom line: AI-driven interactive learning is expanding.",
@@ -81,64 +65,18 @@
         "source": "The Decoder"
       }
     ],
-    "sales": [
-      {
-        "id": 0,
-        "headline": "ChatGPT now explains math and physics with interactive visuals.",
-        "what_changed": "ChatGPT now offers interactive math and physics visualizations. Users tweak variables, see real-time updates.",
-        "why_care": "Bottom line: AI is making complex information more accessible and engaging.",
-        "what_to_do": "Keep an eye on this: AI visualization capabilities will soon enhance business data presentations.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "healthcare": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visuals.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
-        "why_care": "This means AI can create dynamic, customizable learning tools.",
-        "what_to_do": "Keep an eye on this: AI will make complex medical data easier to visualize.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "product_project": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visuals.",
-        "what_changed": "ChatGPT added interactive math and physics visualizations.",
-        "why_care": "Bottom line: AI tools now offer dynamic learning experiences.",
-        "what_to_do": "Worth knowing: AI can now visualize complex data for users.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "operations_supply": [
-      {
-        "id": 0,
-        "headline": "ChatGPT now visualizes math and physics concepts.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
-        "why_care": "This means AI can simplify complex technical training.",
-        "what_to_do": "Keep an eye on this: AI tools will improve technical training.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "hr": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive learning tools.",
-        "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
-        "why_care": "This means AI can make complex learning more engaging.",
-        "what_to_do": "Keep an eye on this: AI will transform how your teams learn new skills.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
     "marketing": [
       {
         "id": 0,
+        "headline": "So, there's a new 'Human Authored' logo for books",
+        "what_changed": "Basically, the UK Society of Authors (SoA) just rolled out a new scheme where authors can register their books and put a 'Human Authored' logo on the cover. It's their way of helping readers tell the difference between books written by people and those made by AI, especially since there are so many AI-generated ones flooding the market now.",
+        "why_care": "For you, this is a big deal if you're creating content or managing brands. It highlights a growing consumer need for authenticity and transparency. People want to know if the content they're consuming, whether it's a book, an article, or a social media post, came from a human. This could totally change how you think about 'human-verified' content in your own marketing efforts.",
+        "what_to_do": "Try thinking about how you could apply a similar 'human-verified' concept to your own content. Are there ways to clearly signal to your audience that your brand's content is genuinely created by humans, not just AI? It's all about building trust.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
         "headline": "ChatGPT adds interactive visualizations for math and physics.",
         "what_changed": "ChatGPT now shows interactive visualizations for math and physics topics.",
         "why_care": "This means AI tools are getting more dynamic and visual.",
@@ -147,13 +85,102 @@
         "source": "The Decoder"
       }
     ],
-    "media_content": [
+    "customer_support": [
       {
         "id": 0,
-        "headline": "ChatGPT now visualizes math and physics.",
-        "what_changed": "ChatGPT adds interactive math and physics visualizations.",
-        "why_care": "Bottom line: AI tools are becoming powerful interactive educators.",
-        "what_to_do": "Keep an eye on this: AI will transform how complex topics are explained.",
+        "headline": "Turns out, you can now tell if a book was written by a human (or AI).",
+        "what_changed": "Basically, the UK's Society of Authors (SoA) created a new 'Human Authored' logo. Authors can now register their books and display this logo, making it clear to readers that a human wrote the book, not AI.",
+        "why_care": "For you, this really shows how important authenticity is becoming. As AI gets better at creating content, people are looking for ways to trust what they're reading. This trend could eventually impact how customers view your communications, wondering if they're talking to a real person or a bot.",
+        "what_to_do": "Keep an eye on this: As AI-generated content becomes more widespread, the value of genuine, human-created content and authentic interactions is likely to grow. This could mean customers will appreciate the human touch in your support conversations even more.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT now explains math and physics visually.",
+        "what_changed": "ChatGPT shows interactive math and physics visualizations.",
+        "why_care": "Bottom line: AI tools are getting more visual and interactive.",
+        "what_to_do": "Keep an eye on this: AI tools are evolving beyond text, adding visual aids.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "finance": [
+      {
+        "id": 0,
+        "headline": "So, authors are getting a 'human-written' badge for books",
+        "what_changed": "Basically, the UK Society of Authors launched a new scheme where authors can register their books and put a 'Human Authored' logo on the cover. It's their way of helping readers tell the difference between human-written and AI-generated books, especially since so many AI works are flooding the market.",
+        "why_care": "For you, this really highlights how quickly industries are trying to figure out what's human-made versus AI-made. It's a trend that could totally impact how you think about content authenticity or even intellectual property in your own field.",
+        "what_to_do": "The bigger picture: This isn't just about books. It's about proving authenticity in a world where AI can create so much. Try thinking about how your own industry might need to verify human-created content or data in the future.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT adds interactive math and physics visualizations.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
+        "why_care": "Bottom line: AI tools are becoming more interactive and visual.",
+        "what_to_do": "Worth knowing: AI models are adding sophisticated, interactive features beyond text.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "operations_supply": [
+      {
+        "id": 0,
+        "headline": "So, human authors are getting a new logo to fight AI books",
+        "what_changed": "Basically, the UK's Society of Authors just launched a new scheme where human authors can register their books and get a \"Human Authored\" logo. They're doing this because AI-generated books are flooding the market, making it hard to tell what's real.",
+        "why_care": "For you, this isn't directly about your supply chain, but it's another example of how AI is creating new challenges in distinguishing authentic products from AI-generated ones across different industries.",
+        "what_to_do": "Keep an eye on this: While it's about books now, the idea of verifying \"human-made\" versus \"AI-made\" could eventually pop up in other areas, like marketing materials, product descriptions, or even internal documentation that your teams rely on.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT now visualizes math and physics concepts.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
+        "why_care": "This means AI can simplify complex technical training.",
+        "what_to_do": "Keep an eye on this: AI tools will improve technical training.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "education": [
+      {
+        "id": 0,
+        "headline": "So, a new logo will help you spot human-written books",
+        "what_changed": "Basically, the UK Society of Authors just launched a 'Human Authored' logo. Authors can register their books and display this logo on the cover to show their work wasn't written by AI. This is a big move because AI-generated books are really starting to flood the market.",
+        "why_care": "For you, this shows how other industries are grappling with the same authenticity questions you're likely facing in your classroom or training programs. It's becoming harder to tell what's human-made versus AI-generated, and this is one way a professional group is trying to address it.",
+        "what_to_do": "Keep an eye on this: As AI content becomes more common, the value of clearly human-created work is rising. Think about how you might emphasize or certify human originality in your own educational materials or student projects.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT adds interactive math and physics visuals.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
+        "why_care": "This means students learn complex concepts visually and interactively.",
+        "what_to_do": "Test ChatGPT's new math and physics visualizations in your lessons.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "creative_entertainment": [
+      {
+        "id": 0,
+        "headline": "So, a new logo helps identify human-written books",
+        "what_changed": "Basically, the UK's Society of Authors just rolled out a new 'Human Authored' logo. It's for books written by actual people, not AI, and authors can register their work to display it on their back covers. They're doing this because AI-generated books are really starting to flood the market.",
+        "why_care": "For you, this is a big deal because it highlights the growing challenge of proving originality in creative work. As AI gets better, distinguishing human-made content from AI-generated content will become super important across *all* creative fields, not just books. It's about protecting the value of your unique human touch.",
+        "what_to_do": "Keep an eye on this: As AI tools become more common in video, animation, and design, expect similar conversations and potential solutions to pop up for verifying human authorship in your own industry. It's a sign of things to come for valuing authentic creative work.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT adds interactive math and physics visuals.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
+        "why_care": "This means complex concepts are easier to understand visually.",
+        "what_to_do": "Keep an eye on this: AI tools are making complex information more accessible.",
         "style": "direct",
         "source": "The Decoder"
       }
@@ -161,6 +188,15 @@
     "cybersecurity": [
       {
         "id": 0,
+        "headline": "So, authors are getting a \"Human Authored\" logo for their books.",
+        "what_changed": "Basically, the UK Society of Authors just launched a scheme where human writers can register their books and get a special \"Human Authored\" logo. It's meant to help readers spot real books in a market that's getting swamped with AI-generated stuff.",
+        "why_care": "For you, this isn't directly about your daily incident response, but it highlights a growing problem: how do you verify the origin and authenticity of digital content? We're seeing this in books now, but it's a bigger challenge for everything from news articles to code, and it's a trust issue that security professionals will increasingly face.",
+        "what_to_do": "The bigger picture: This \"Human Authored\" logo is an early attempt to establish provenance in a world where AI can generate convincing fakes. Think about what this means for verifying the integrity of documentation, code, or even threat intelligence reports in the future.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
         "headline": "ChatGPT adds interactive math, physics visualizations.",
         "what_changed": "ChatGPT now shows interactive visualizations for math and physics topics.",
         "why_care": "This means AI tools are enhancing their educational and explanatory features.",
@@ -169,9 +205,78 @@
         "source": "The Decoder"
       }
     ],
+    "real_estate_construction": [
+      {
+        "id": 0,
+        "headline": "Turns out, authors are launching a 'Human Authored' logo",
+        "what_changed": "Basically, the UK's Society of Authors just rolled out a new scheme for authors to put a 'Human Authored' logo on their books. It's their way of helping readers know if a book was written by a person, not an AI, especially since the market's getting flooded with AI-generated content.",
+        "why_care": "For you, while this isn't about your next project or property listing, it really highlights how quickly AI is impacting creative fields. It shows how industries are starting to react to protect and identify human-made work.",
+        "what_to_do": "Keep an eye on this: This idea of certifying 'human-made' content might not stay just in books. Imagine if clients start asking for proof that your architectural designs, marketing materials, or property descriptions weren't just churned out by an AI. It's a sign that authenticity could become a bigger deal across many professional services.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT explains math and physics with interactive visuals.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
+        "why_care": "This means complex data visualization is becoming mainstream.",
+        "what_to_do": "Keep an eye on this: Interactive data tools simplify complex information.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "legal": [
+      {
+        "id": 0,
+        "headline": "Turns out, there's a new logo for human-written books",
+        "what_changed": "Basically, the UK's Society of Authors just rolled out a new \"Human Authored\" logo. Authors can register their books and slap this logo on the back cover to show it wasn't written by AI, which is a big deal since there are so many AI-generated books out there now.",
+        "why_care": "For you, this highlights a growing problem around content authenticity and authorship, which is super relevant beyond just books. Think about legal documents, research, or even client communications. Knowing if content is human-generated or AI-generated could become really important for trust and liability.",
+        "what_to_do": "Keep an eye on this: As AI becomes more common in content creation, similar 'authenticity' markers could pop up in other industries, including legal. It's a reminder to consider the source and creation method of any critical information you rely on.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT adds interactive math, physics visualizations.",
+        "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
+        "why_care": "Bottom line: AI tools are expanding their capabilities rapidly.",
+        "what_to_do": "Keep an eye on this: AI models are becoming more multimodal and interactive.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "hr": [
+      {
+        "id": 0,
+        "headline": "Turns out, the UK is getting a 'human-authored' logo for books",
+        "what_changed": "Basically, the UK's Society of Authors (SoA) just launched a new scheme. Authors can now register their books and get a 'Human Authored' logo to put on their covers, helping readers know if a book was written by a person, not AI.",
+        "why_care": "For you, this highlights a growing concern about AI-generated content and the value of human originality. While this is about books, it shows how industries are starting to differentiate between human and AI work, which could eventually impact how we view job applications, written assessments, or even internal communications.",
+        "what_to_do": "Keep an eye on this: As AI content becomes more common, think about how your organization might want to distinguish human-created work, especially in areas like candidate essays, training materials, or internal policy documents.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT adds interactive learning tools.",
+        "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
+        "why_care": "This means AI can make complex learning more engaging.",
+        "what_to_do": "Keep an eye on this: AI will transform how your teams learn new skills.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
     "design_ux": [
       {
         "id": 0,
+        "headline": "Turns out, human authors are getting their own logo",
+        "what_changed": "Basically, the UK's Society of Authors (SoA) just launched a new scheme. Authors can now register their books and get a special \"Human Authored\" logo to put on their covers. It's a way to signal to readers that a book was written by a person, not AI, especially with so many AI-generated books popping up.",
+        "why_care": "For you, this is a cool look at how we're starting to visually mark human-created content in an AI-heavy world. You might find yourself designing similar 'trust signals' or authenticity badges for other creative works — think images, videos, or even design assets — as AI tools keep getting more sophisticated.",
+        "what_to_do": "Keep an eye on this: How might you design a similar visual identifier for human-created design work or digital art? Think about what makes a 'trust signal' effective and clear in a world where AI can generate so much.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
         "headline": "ChatGPT now explains math and physics with interactive visualizations.",
         "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
         "why_care": "This means AI can create dynamic, explorable content.",
@@ -183,6 +288,15 @@
     "science_research": [
       {
         "id": 0,
+        "headline": "Turns out, human authors are getting a new logo to fight AI.",
+        "what_changed": "Basically, the UK's Society of Authors (SoA) just started a new program. It lets authors register their books and use a 'Human Authored' logo on the cover. It's their way of showing readers a book wasn't written by AI, especially since so many AI-generated books are hitting the market.",
+        "why_care": "For you, this isn't just about novels. It's a sign of a growing challenge: how do we tell what's human-made from what's AI-generated? This problem isn't going away, and it'll likely pop up in your fields, too, whether it's in scientific papers, grant proposals, or even data analysis.",
+        "what_to_do": "The bigger picture: This initiative shows how quickly society is trying to adapt to the widespread use of generative AI. Expect to see similar 'authenticity' efforts emerge in other domains, including scientific publishing and data reporting, as the line between human and machine output blurs further.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
         "headline": "ChatGPT adds interactive math and physics visuals.",
         "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
         "why_care": "This means complex scientific concepts are now easier to visualize.",
@@ -191,24 +305,82 @@
         "source": "The Decoder"
       }
     ],
-    "software_engineering": [
+    "healthcare": [
       {
         "id": 0,
-        "headline": "ChatGPT now visualizes math and physics concepts.",
-        "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
-        "why_care": "Bottom line: AI tools now offer interactive learning experiences.",
-        "what_to_do": "Keep an eye on this: AI models are expanding into interactive educational tools.",
+        "headline": "Turns out, there's a new logo for human-written books",
+        "what_changed": "Basically, the UK's Society of Authors (SoA) just launched a new 'Human Authored' logo. Authors can register their books and put this logo on the back cover to show you it wasn't written by AI, which is a first for a UK trade association.",
+        "why_care": "For you, this might seem like it's just about books, but it really highlights a bigger issue: how do we know if content is human-made or AI-generated? In healthcare, where accuracy and human expertise are super important, you're going to see more and more discussions about verifying the source of information, whether it's a medical guideline or patient materials.",
+        "what_to_do": "Keep an eye on this: While it's about books, this trend of 'authenticity labeling' could pop up in other areas too. Think about how you might want to verify the source of health information or educational materials in the future, especially as AI tools get more sophisticated.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT adds interactive math and physics visuals.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
+        "why_care": "This means AI can create dynamic, customizable learning tools.",
+        "what_to_do": "Keep an eye on this: AI will make complex medical data easier to visualize.",
         "style": "direct",
         "source": "The Decoder"
       }
     ],
-    "finance": [
+    "media_content": [
       {
         "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visualizations.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
-        "why_care": "Bottom line: AI tools are becoming more interactive and visual.",
-        "what_to_do": "Worth knowing: AI models are adding sophisticated, interactive features beyond text.",
+        "headline": "UK Society of Authors launches logo to identify books written by humans not AI",
+        "what_changed": "Tracy Chevalier announces registration scheme at the London Book Fair as AI works flood marketThe Society of Authors (SoA) has launched a scheme to help identify works written by humans in a market increasingly flooded by AI-generated books.The scheme is the first of its kind launched by a UK trade association, and allows authors to register their books and download a “Human Authored” logo to display on their back cover. Continue reading...",
+        "why_care": "This AI development could affect how work gets done in your field.",
+        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT now visualizes math and physics.",
+        "what_changed": "ChatGPT adds interactive math and physics visualizations.",
+        "why_care": "Bottom line: AI tools are becoming powerful interactive educators.",
+        "what_to_do": "Keep an eye on this: AI will transform how complex topics are explained.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "product_project": [
+      {
+        "id": 0,
+        "headline": "So, there's a new logo for human-written books",
+        "what_changed": "Basically, the UK's Society of Authors just launched a new scheme. Authors can now register their books and get a 'Human Authored' logo to put on the back cover. It's their way of helping readers tell the difference as AI-generated books are flooding the market.",
+        "why_care": "For you, this highlights a growing trend: the need to verify authenticity in content. As AI gets better, it's not just books, but all sorts of content that'll need a 'human touch' stamp, and your projects might eventually deal with similar verification challenges.",
+        "what_to_do": "Keep an eye on this: The rise of AI-generated content means we'll see more discussions around content authenticity and verification. Think about how this might impact your own product's content strategy or user trust in the future.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT adds interactive math and physics visuals.",
+        "what_changed": "ChatGPT added interactive math and physics visualizations.",
+        "why_care": "Bottom line: AI tools now offer dynamic learning experiences.",
+        "what_to_do": "Worth knowing: AI can now visualize complex data for users.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "sales": [
+      {
+        "id": 0,
+        "headline": "Turns out, authors are getting a 'human-authored' logo for their books",
+        "what_changed": "Basically, the UK's Society of Authors (SoA) just launched a new scheme. Authors can now register their books and put a 'Human Authored' logo on the back cover to show it wasn't written by AI. It's their way of fighting back against all the AI-generated books flooding the market, a first for a UK trade association.",
+        "why_care": "For you, this isn't directly about sales, but it's a clear sign that people are getting serious about distinguishing human-created content from AI. It shows how much value folks are placing on authenticity and human touch, even in creative fields.",
+        "what_to_do": "Worth knowing: As AI gets better, customers will increasingly look for ways to verify authenticity and the human element in products, services, and even content. Think about where your own clients might value that human touch.",
+        "style": "conversational",
+        "source": "The Guardian"
+      },
+      {
+        "id": 1,
+        "headline": "ChatGPT now explains math and physics with interactive visuals.",
+        "what_changed": "ChatGPT now offers interactive math and physics visualizations. Users tweak variables, see real-time updates.",
+        "why_care": "Bottom line: AI is making complex information more accessible and engaging.",
+        "what_to_do": "Keep an eye on this: AI visualization capabilities will soon enhance business data presentations.",
         "style": "direct",
         "source": "The Decoder"
       }
