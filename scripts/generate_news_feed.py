@@ -961,17 +961,50 @@ def main():
                         help="Number of articles to pick (default: 1)")
     args = parser.parse_args()
 
+    # Load existing feed.json FIRST so we can skip already-covered articles
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    output_path = OUTPUT_DIR / "feed.json"
+    existing_feed = None
+    existing_headline_hashes = set()
+    if output_path.exists():
+        try:
+            with open(output_path) as f:
+                existing_feed = json.load(f)
+            existing_count = len(existing_feed.get("articles", []))
+            print(f"Loaded existing feed: {existing_count} articles")
+            # Build set of headline hashes already in the feed
+            for art in existing_feed.get("articles", []):
+                h = hashlib.md5(art.get("headline", "").encode()).hexdigest()[:12]
+                existing_headline_hashes.add(h)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"Could not load existing feed: {e}")
+
     # Fetch all feeds
     all_articles = fetch_all_feeds()
     if not all_articles:
         print("ERROR: No articles fetched from any feed!")
         sys.exit(1)
 
-    # Pick top articles
-    top = pick_top_articles(all_articles, count=args.count)
+    # Filter out articles already in the feed (by headline hash)
+    fresh_articles = []
+    for art in all_articles:
+        h = hashlib.md5(art["headline"].encode()).hexdigest()[:12]
+        if h not in existing_headline_hashes:
+            fresh_articles.append(art)
+    print(f"Fresh articles (not in feed yet): {len(fresh_articles)} / {len(all_articles)}")
+
+    # Pick top articles from fresh ones; fall back to all if no fresh articles
+    candidates = fresh_articles if fresh_articles else all_articles
+    top = pick_top_articles(candidates, count=args.count)
     print(f"\nTop {len(top)} articles selected:")
     for i, art in enumerate(top):
         print(f"  {i+1}. [{art['source']}] {art['headline'][:80]}")
+
+    # If the picked article is already in the feed (no fresh articles available), skip rewriting
+    picked_hash = hashlib.md5(top[0]["headline"].encode()).hexdigest()[:12] if top else ""
+    if picked_hash in existing_headline_hashes:
+        print("\nNo new articles found. Feed is up to date.")
+        sys.exit(0)
 
     # Generate run ID
     run_id = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
@@ -983,19 +1016,6 @@ def main():
         print(f"\nGenerating rewrites with {args.provider}...")
         rewrites = generate_rewrites(top, provider=args.provider)
         print(f"Done! {len(rewrites)} clusters rewritten")
-
-    # Load existing feed.json to merge with (rolling history)
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    output_path = OUTPUT_DIR / "feed.json"
-    existing_feed = None
-    if output_path.exists():
-        try:
-            with open(output_path) as f:
-                existing_feed = json.load(f)
-            existing_count = len(existing_feed.get("articles", []))
-            print(f"\nLoaded existing feed: {existing_count} articles")
-        except (json.JSONDecodeError, OSError) as e:
-            print(f"\nCould not load existing feed: {e}")
 
     # Build and save output (merges new + existing, keeps up to 50 articles)
     output = build_output(top, rewrites, run_id, existing_feed=existing_feed)
