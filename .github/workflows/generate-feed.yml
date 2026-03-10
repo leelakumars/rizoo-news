@@ -2,8 +2,8 @@ name: Generate News Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
-  workflow_dispatch: # Manual trigger
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -27,25 +27,32 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python3 scripts/generate_news_feed.py
 
-      - name: Copy output to root
+      - name: Deploy feed.json
         run: |
-          if [ -f news-feed/output/feed.json ]; then
-            cp news-feed/output/feed.json feed.json
+          if [ ! -f news-feed/output/feed.json ]; then
+            echo "No feed generated, skipping"
+            exit 0
           fi
 
-      - name: Commit and push
-        run: |
+          # Copy generated feed to repo root
+          cp news-feed/output/feed.json feed.json
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add feed.json
-          git diff --cached --quiet && echo "No changes" && exit 0
+          git diff --cached --quiet && echo "No changes to feed" && exit 0
+
           git commit -m "Update feed $(date -u +%Y-%m-%d_%H:%M)"
-          # Retry push with force-resolve on conflict (each run generates complete feed)
-          for i in 1 2 3; do
-            git pull --rebase -X theirs && git push && exit 0
-            echo "Push attempt $i failed, retrying..."
-            git rebase --abort 2>/dev/null || true
-            git pull --rebase -X theirs || true
-          done
-          echo "All push attempts failed"
-          exit 1
+
+          # Simple push with retry - if it fails, reset to remote and recommit
+          if ! git push; then
+            echo "Push failed (likely concurrent update), rebasing..."
+            git fetch origin main
+            git reset --soft origin/main
+            git checkout origin/main -- feed.json 2>/dev/null || true
+            cp news-feed/output/feed.json feed.json
+            git add feed.json
+            git diff --cached --quiet && echo "No diff after reset" && exit 0
+            git commit -m "Update feed $(date -u +%Y-%m-%d_%H:%M)"
+            git push
+          fi
