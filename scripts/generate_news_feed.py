@@ -176,7 +176,8 @@ STOP_WORDS = {
     "also", "than", "then", "very", "here", "there", "up", "out", "over",
 }
 
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "news-feed" / "output"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+OUTPUT_DIR = REPO_ROOT / "news-feed" / "output"
 
 # ---------------------------------------------------------------------------
 # RSS Fetching
@@ -961,18 +962,25 @@ def main():
                         help="Number of articles to pick (default: 1)")
     args = parser.parse_args()
 
-    # Load existing feed.json FIRST so we can skip already-covered articles
+    # Load existing feed.json FIRST so we can skip already-covered articles.
+    # In GitHub Actions, the repo root has feed.json from the git checkout,
+    # while news-feed/output/ is empty (freshly created). Check repo root first.
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     output_path = OUTPUT_DIR / "feed.json"
     existing_feed = None
     existing_headline_hashes = set()
-    if output_path.exists():
+    repo_root_feed = REPO_ROOT / "feed.json"
+    feed_source = None
+    if repo_root_feed.exists():
+        feed_source = repo_root_feed
+    elif output_path.exists():
+        feed_source = output_path
+    if feed_source:
         try:
-            with open(output_path) as f:
+            with open(feed_source) as f:
                 existing_feed = json.load(f)
             existing_count = len(existing_feed.get("articles", []))
-            print(f"Loaded existing feed: {existing_count} articles")
-            # Build set of headline hashes already in the feed
+            print(f"Loaded existing feed from {feed_source}: {existing_count} articles")
             for art in existing_feed.get("articles", []):
                 h = hashlib.md5(art.get("headline", "").encode()).hexdigest()[:12]
                 existing_headline_hashes.add(h)
@@ -1033,3 +1041,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
