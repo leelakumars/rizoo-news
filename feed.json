@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-03-10T19:37:56.212635+00:00",
-  "run_id": "20260310_193621",
+  "generated_at": "2026-03-10T19:47:06.932749+00:00",
+  "run_id": "20260310_194530",
   "articles": [
     {
       "id": "aa19e2ba9db5",
@@ -11,17 +11,17 @@
       "link": "https://the-decoder.com/chatgpt-now-explains-math-and-physics-with-interactive-visualizations/",
       "source": "The Decoder",
       "topic": "AI Tools",
-      "published_at": "2026-03-10T19:37:56.212532+00:00"
+      "published_at": "2026-03-10T19:47:06.932646+00:00"
     }
   ],
   "rewrites": {
-    "data_ai": [
+    "customer_support": [
       {
         "id": 0,
-        "headline": "ChatGPT now visualizes math and physics concepts.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
-        "why_care": "This means complex topics are now easier to grasp.",
-        "what_to_do": "Keep an eye on this: AI is making complex learning more accessible.",
+        "headline": "ChatGPT now explains math and physics visually.",
+        "what_changed": "ChatGPT shows interactive math and physics visualizations.",
+        "why_care": "Bottom line: AI tools are getting more visual and interactive.",
+        "what_to_do": "Keep an eye on this: AI tools are evolving beyond text, adding visual aids.",
         "style": "direct",
         "source": "The Decoder"
       }
@@ -29,41 +29,54 @@
     "creative_entertainment": [
       {
         "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visualizations.",
-        "what_changed": "ChatGPT now shows interactive math and physics visuals. You can tweak variables.",
-        "why_care": "This means AI tools are getting better at explaining complex ideas visually.",
-        "what_to_do": "Keep an eye on this: AI will increasingly visualize complex data for you.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "marketing": [
-      {
-        "id": 0,
-        "headline": "ChatGPT now visualizes math and physics concepts.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
-        "why_care": "This means AI tools are expanding interactive learning capabilities.",
-        "what_to_do": "Keep an eye on this: Interactive AI content creation is advancing rapidly.",
-        "style": "direct",
-        "source": "The Decoder"
-      },
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visualizations.",
+        "headline": "ChatGPT adds interactive math and physics visuals.",
         "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
-        "why_care": "This means AI models can now explain complex topics visually.",
-        "what_to_do": "Keep an eye on this: AI models are evolving beyond text to visual explanations.",
+        "why_care": "This means complex concepts are easier to understand visually.",
+        "what_to_do": "Keep an eye on this: AI tools are making complex information more accessible.",
         "style": "direct",
         "source": "The Decoder"
       }
     ],
-    "science_research": [
+    "education": [
+      {
+        "id": 0,
+        "headline": "ChatGPT adds interactive math and physics visuals.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
+        "why_care": "This means students learn complex concepts visually and interactively.",
+        "what_to_do": "Test ChatGPT's new math and physics visualizations in your lessons.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "legal": [
+      {
+        "id": 0,
+        "headline": "ChatGPT adds interactive math, physics visualizations.",
+        "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
+        "why_care": "Bottom line: AI tools are expanding their capabilities rapidly.",
+        "what_to_do": "Keep an eye on this: AI models are becoming more multimodal and interactive.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "real_estate_construction": [
+      {
+        "id": 0,
+        "headline": "ChatGPT explains math and physics with interactive visuals.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
+        "why_care": "This means complex data visualization is becoming mainstream.",
+        "what_to_do": "Keep an eye on this: Interactive data tools simplify complex information.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "data_ai": [
       {
         "id": 0,
         "headline": "ChatGPT now explains math and physics with interactive visualizations.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
-        "why_care": "This means you can explore complex concepts visually.",
-        "what_to_do": "Test ChatGPT's new math and physics visualization features.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
+        "why_care": "Bottom line: AI-driven interactive learning is expanding.",
+        "what_to_do": "Keep an eye on this: AI tools are evolving to explain complex subjects visually.",
         "style": "direct",
         "source": "The Decoder"
       }
@@ -71,19 +84,120 @@
     "sales": [
       {
         "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visualizations.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
-        "why_care": "This means AI tools are becoming more interactive and visual.",
-        "what_to_do": "Worth knowing: AI is improving complex topic explanations with dynamic visuals.",
+        "headline": "ChatGPT now explains math and physics with interactive visuals.",
+        "what_changed": "ChatGPT now offers interactive math and physics visualizations. Users tweak variables, see real-time updates.",
+        "why_care": "Bottom line: AI is making complex information more accessible and engaging.",
+        "what_to_do": "Keep an eye on this: AI visualization capabilities will soon enhance business data presentations.",
         "style": "direct",
         "source": "The Decoder"
-      },
+      }
+    ],
+    "healthcare": [
+      {
+        "id": 0,
+        "headline": "ChatGPT adds interactive math and physics visuals.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
+        "why_care": "This means AI can create dynamic, customizable learning tools.",
+        "what_to_do": "Keep an eye on this: AI will make complex medical data easier to visualize.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "product_project": [
+      {
+        "id": 0,
+        "headline": "ChatGPT adds interactive math and physics visuals.",
+        "what_changed": "ChatGPT added interactive math and physics visualizations.",
+        "why_care": "Bottom line: AI tools now offer dynamic learning experiences.",
+        "what_to_do": "Worth knowing: AI can now visualize complex data for users.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "operations_supply": [
+      {
+        "id": 0,
+        "headline": "ChatGPT now visualizes math and physics concepts.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
+        "why_care": "This means AI can simplify complex technical training.",
+        "what_to_do": "Keep an eye on this: AI tools will improve technical training.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "hr": [
+      {
+        "id": 0,
+        "headline": "ChatGPT adds interactive learning tools.",
+        "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
+        "why_care": "This means AI can make complex learning more engaging.",
+        "what_to_do": "Keep an eye on this: AI will transform how your teams learn new skills.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "marketing": [
+      {
+        "id": 0,
+        "headline": "ChatGPT adds interactive visualizations for math and physics.",
+        "what_changed": "ChatGPT now shows interactive visualizations for math and physics topics.",
+        "why_care": "This means AI tools are getting more dynamic and visual.",
+        "what_to_do": "Keep an eye on this: AI tools will continue to add rich, interactive content formats.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "media_content": [
+      {
+        "id": 0,
+        "headline": "ChatGPT now visualizes math and physics.",
+        "what_changed": "ChatGPT adds interactive math and physics visualizations.",
+        "why_care": "Bottom line: AI tools are becoming powerful interactive educators.",
+        "what_to_do": "Keep an eye on this: AI will transform how complex topics are explained.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "cybersecurity": [
+      {
+        "id": 0,
+        "headline": "ChatGPT adds interactive math, physics visualizations.",
+        "what_changed": "ChatGPT now shows interactive visualizations for math and physics topics.",
+        "why_care": "This means AI tools are enhancing their educational and explanatory features.",
+        "what_to_do": "Worth knowing: AI's ability to explain complex topics visually is rapidly improving.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "design_ux": [
+      {
+        "id": 0,
+        "headline": "ChatGPT now explains math and physics with interactive visualizations.",
+        "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
+        "why_care": "This means AI can create dynamic, explorable content.",
+        "what_to_do": "Analyze ChatGPT's interactive UI for learning new concepts.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "science_research": [
+      {
+        "id": 0,
+        "headline": "ChatGPT adds interactive math and physics visuals.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
+        "why_care": "This means complex scientific concepts are now easier to visualize.",
+        "what_to_do": "Test ChatGPT visuals for explaining your research data.",
+        "style": "direct",
+        "source": "The Decoder"
+      }
+    ],
+    "software_engineering": [
       {
         "id": 0,
         "headline": "ChatGPT now visualizes math and physics concepts.",
         "what_changed": "ChatGPT now offers interactive math and physics visualizations.",
-        "why_care": "This means complex topics become easier to understand.",
-        "what_to_do": "Worth knowing: AI models improve their explanation capabilities.",
+        "why_care": "Bottom line: AI tools now offer interactive learning experiences.",
+        "what_to_do": "Keep an eye on this: AI models are expanding into interactive educational tools.",
         "style": "direct",
         "source": "The Decoder"
       }
@@ -92,332 +206,9 @@
       {
         "id": 0,
         "headline": "ChatGPT adds interactive math and physics visualizations.",
-        "what_changed": "ChatGPT now shows interactive visualizations for math and physics concepts.",
-        "why_care": "This means AI tools can now explain complex topics visually.",
-        "what_to_do": "Keep an eye on this: AI will soon visualize complex financial models.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "real_estate_construction": [
-      {
-        "id": 0,
-        "headline": "ChatGPT offers interactive math and physics visuals.",
-        "what_changed": "ChatGPT shows interactive math and physics visualizations. Users tweak variables.",
-        "why_care": "Bottom line: AI tools are making complex topics easier to grasp.",
-        "what_to_do": "Keep an eye on this: Visual AI simplifies complex data for clients.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "healthcare": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visualizations.",
-        "what_changed": "ChatGPT now shows interactive visualizations for math and physics.",
-        "why_care": "This means AI tools improve their explanation capabilities.",
-        "what_to_do": "Keep an eye on this: Visual AI explanations will enhance medical education.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "education": [
-      {
-        "id": 0,
-        "headline": "ChatGPT now explains math, physics with interactive visuals.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
-        "why_care": "This means your students can explore complex topics visually.",
-        "what_to_do": "Test ChatGPT's new math and physics visualization features.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "media_content": [
-      {
-        "id": 0,
-        "headline": "ChatGPT now offers interactive math and physics visuals.",
-        "what_changed": "ChatGPT adds interactive math and physics visualizations.",
-        "why_care": "This means complex topics are now easier to explain visually.",
-        "what_to_do": "Keep an eye on this: AI is improving its ability to explain complex subjects.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "design_ux": [
-      {
-        "id": 0,
-        "headline": "ChatGPT now offers interactive math and physics visuals.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations.",
-        "why_care": "This means AI can now generate dynamic, interactive visual content.",
-        "what_to_do": "Keep an eye on this: AI's visual output is becoming more dynamic.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "software_engineering": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visuals.",
-        "what_changed": "ChatGPT now shows interactive math, physics graphs.",
-        "why_care": "This means AI explains complex topics visually.",
-        "what_to_do": "Keep an eye on this: AI models now offer interactive learning tools.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "legal": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visuals.",
-        "what_changed": "ChatGPT now shows interactive visualizations for math and physics topics.",
-        "why_care": "This means AI tools are expanding their educational capabilities rapidly.",
-        "what_to_do": "Keep an eye on this: AI's ability to simplify complex information is growing.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "product_project": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visualizations.",
-        "what_changed": "ChatGPT now offers interactive visualizations for math and physics topics.",
-        "why_care": "Bottom line: AI tools are becoming more capable for complex explanations.",
-        "what_to_do": "Keep an eye on this: AI tools are improving how users learn complex subjects.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "media_content": [
-      {
-        "id": 0,
-        "headline": "ChatGPT Adds Interactive Visualizations for Math and Physics Explanations",
-        "what_changed": "ChatGPT now displays interactive visualizations for over 70 math and physics topics, allowing users to tweak variables and see real-time graph updates.",
-        "why_care": "You can use these interactive tools to better understand complex subjects, verify visual data, or generate ideas for explaining difficult concepts in your own content.",
-        "what_to_do": "Experiment with ChatGPT's new visualization feature this week to explore how it can simplify complex explanations for your audience.",
-        "source": "The Decoder"
-      },
-      {
-        "id": 0,
-        "headline": "ChatGPT Now Visualizes Math and Physics Concepts",
-        "what_changed": "ChatGPT now offers interactive visualizations for over 70 math and physics concepts, allowing users to adjust variables and see real-time graph updates.",
-        "why_care": "You can now use ChatGPT to create dynamic visual explanations for complex scientific topics in your articles, podcasts, or scripts.",
-        "what_to_do": "Try using ChatGPT's new visualization feature to generate a visual explanation for a complex topic you are covering this week.",
-        "source": "The Decoder"
-      },
-      {
-        "id": 1,
-        "headline": "Swedish AI Firm Legora Hits $5 Billion Valuation Amid European Investment Boom",
-        "what_changed": "Swedish legaltech company Legora secured a $5 billion valuation, reflecting increased investment in European AI startups.",
-        "why_care": "This trend indicates a growing market for AI tools and services, which will increasingly impact your content creation workflows and the stories you cover.",
-        "what_to_do": "Research emerging European AI startups to identify potential new tools or story angles relevant to your industry.",
-        "source": "CNBC"
-      },
-      {
-        "id": 1,
-        "headline": "Legora, a Swedish AI company, reaches $5 billion valuation amidst European AI boom.",
-        "what_changed": "Swedish legaltech company Legora has reached a $5 billion valuation after significant investor funding.",
-        "why_care": "This investment surge signals more AI tools for your content creation and a growing demand for AI-related news coverage.",
-        "what_to_do": "Find one AI tool for content creation or research and test its features for 30 minutes this week.",
-        "source": "CNBC"
-      },
-      {
-        "id": 2,
-        "headline": "AI Legal Platform Legora Hits $5.55 Billion Valuation, Showing AI's Market Growth",
-        "what_changed": "Legora, an AI platform for lawyers, secured $550 million in Series D funding, raising its valuation to $5.55 billion.",
-        "why_care": "This investment signals AI's rapid expansion into specialized fields, suggesting similar AI tools and ethical considerations will soon impact your content creation and verification processes.",
-        "what_to_do": "Research how AI is being used for legal review or fact-checking in other industries to anticipate its impact on your own content workflows.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 3,
-        "headline": "Legora, an AI legal platform, hits $5.55 billion valuation after $550M funding.",
-        "what_changed": "Legora, an AI platform for lawyers, is now valued at $5.55 billion after securing $550 million in Series D funding.",
-        "why_care": "This signals continued massive investment in specialized AI, suggesting similar tools could soon transform legal research and fact-checking for your content.",
-        "what_to_do": "Research how AI tools are currently being used for legal research or fact-checking in your specific niche this week.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 4,
-        "headline": "Iran Bombs Gulf Datacenters, Marking New Warfare Target",
-        "what_changed": "Iran has begun bombing datacenters in the Gulf, making them a new target in warfare.",
-        "why_care": "Your access to news archives, content platforms, and production tools could be directly impacted by such attacks.",
-        "what_to_do": "Review your organization's data backup and disaster recovery plans for all critical content and tools.",
-        "source": "The Guardian"
-      },
-      {
-        "id": 5,
-        "headline": "Oracle's $300 Billion OpenAI Deal: Will Earnings Show AI Cloud Success?",
-        "what_changed": "Oracle secured a $300 billion deal with OpenAI, establishing itself as a major player in AI cloud computing.",
-        "why_care": "As AI infrastructure expands, you may see more diverse and powerful AI tools become available for content creation and verification.",
-        "what_to_do": "Research the major AI cloud providers, including Oracle, Amazon, Google, and Microsoft, to understand the infrastructure behind your AI tools.",
-        "source": "CNBC"
-      },
-      {
-        "id": 5,
-        "headline": "Oracle's OpenAI Deal: Earnings Report Reveals AI Cloud Impact",
-        "what_changed": "Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google, and Microsoft.",
-        "why_care": "As AI tools become central to content creation, the infrastructure powering them, like Oracle's, directly affects your access and capabilities.",
-        "what_to_do": "Research which AI tools you currently use, or plan to use, are powered by major cloud providers like Oracle, Amazon, Google, or Microsoft.",
-        "source": "CNBC"
-      },
-      {
-        "id": 6,
-        "headline": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-        "what_changed": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 6,
-        "headline": "Yann LeCun's AMI Labs secures $1.03 billion to develop new AI models",
-        "what_changed": "AMI Labs, cofounded by Turing Prize winner Yann LeCun, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-        "why_care": "This funding could lead to AI advancements that change how you research, create, and verify content.",
-        "what_to_do": "Explore Yann LeCun's previous work on AI to anticipate how future models might influence your content workflows.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 6,
-        "headline": "Yann LeCun's AMI Labs Secures $1.03 Billion for AI 'World Models'",
-        "what_changed": "Yann LeCun's new company, AMI Labs, raised $1.03 billion at a $3.5 billion pre-money valuation to develop AI \"world models.\"",
-        "why_care": "This funding could accelerate AI development, potentially leading to new tools for content creation, fact-checking, or even generating complex narratives.",
-        "what_to_do": "Research \"world models\" to understand how future AI might impact your content creation and verification processes.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 6,
-        "headline": "Yann LeCun's AMI Labs Raises $1.03 Billion for World Model AI",
-        "what_changed": "AMI Labs, cofounded by Turing Prize winner Yann LeCun, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-        "why_care": "This investment in \"world models\" could lead to AI that better understands context and predicts events, potentially changing how you research, fact-check, or create narratives.",
-        "what_to_do": "Explore current AI tools that offer predictive text or content generation to understand their present capabilities and limitations.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 6,
-        "headline": "Yann LeCun's AMI Labs secures $1.03 billion for new AI venture",
-        "what_changed": "Yann LeCun's new company, AMI Labs, secured $1.03 billion in funding at a $3.5 billion pre-money valuation.",
-        "why_care": "This significant investment could lead to advanced AI tools that will impact your content creation, editing, and fact-checking workflows.",
-        "what_to_do": "Keep an eye on AMI Labs' future announcements for AI tools that could change how you create or verify content.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 6,
-        "headline": "Yann LeCun's AMI Labs Secures $1.03 Billion for AI World Models",
-        "what_changed": "AMI Labs, cofounded by AI pioneer Yann LeCun, has raised $1.03 billion to develop AI \"world models.\"",
-        "why_care": "This funding could accelerate AI that understands context and generates more realistic content, impacting your writing and storytelling tools.",
-        "what_to_do": "Research \"world models\" to understand how future AI might generate or verify complex narratives.",
-        "source": "TechCrunch"
-      },
-      {
-        "id": 7,
-        "headline": "Apple Smart Display Launch Now Expected This Fall with iOS 27",
-        "what_changed": "Apple's rumored smart home display, a HomePod with a screen, is now expected to launch this fall instead of this spring.",
-        "why_care": "This new Apple device could create a dedicated screen for your news, podcasts, and video content in users' homes.",
-        "what_to_do": "Begin brainstorming how your existing or new content could be adapted for a smart home display interface.",
-        "source": "The Verge"
-      },
-      {
-        "id": 8,
-        "headline": "Andrew Ng's DeepLearning.AI Launches Context Hub for Up-to-Date AI Tools",
-        "what_changed": "Andrew Ng and his team at DeepLearning.AI officially launched Context Hub, an open-source tool to give AI agents current information from rapidly changing sources.",
-        "why_care": "This matters because AI tools you use for research, writing, or fact-checking can now access more current information, reducing errors from outdated data.",
-        "what_to_do": "Ask your AI tool providers how they ensure their models access the most current information, especially for breaking news or evolving topics.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 8,
-        "headline": "Andrew Ng's Team Releases Context Hub: Open-Source Tool for Up-to-Date AI Data",
-        "what_changed": "Andrew Ng and his team at DeepLearning.AI officially launched Context Hub, an open-source tool to give AI agents current information.",
-        "why_care": "This matters because AI tools you use need current data for accurate content.",
-        "what_to_do": "This week, double-check the timeliness of any facts generated by AI tools you use.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 8,
-        "headline": "Andrew Ng's Team Launches Context Hub for Up-to-Date AI Information",
-        "what_changed": "Andrew Ng's team at DeepLearning.AI released Context Hub, an open-source tool designed to give AI agents access to up-to-date information.",
-        "why_care": "This innovation could lead to AI tools that provide more current and accurate information for your research, writing, and fact-checking tasks.",
-        "what_to_do": "Investigate if the AI tools you currently use or plan to adopt are incorporating methods to access real-time, up-to-date information.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 8,
-        "headline": "Andrew Ng's Team Launches Context Hub: Keeping AI Agents Accurate",
-        "what_changed": "Andrew Ng's DeepLearning.AI released Context Hub, an open-source tool designed to give AI agents current information.",
-        "why_care": "This development highlights that AI models, even powerful ones, require constant updates to deliver accurate, current information for your content.",
-        "what_to_do": "Investigate how the AI tools you currently use for research or content creation are updated to ensure their data remains current.",
-        "source": "MarkTechPost"
-      },
-      {
-        "id": 9,
-        "headline": "Pentagon Bans Anthropic AI: Experts Raise Concerns Over Trust and Use",
-        "what_changed": "The Pentagon, which previously selected Anthropic for AI initiatives, has now banned the company's technology.",
-        "why_care": "This ban signals growing scrutiny over AI reliability and ethics, impacting how you cover AI adoption and its societal implications.",
-        "what_to_do": "Research the specific reasons cited for the Pentagon's ban on Anthropic to inform your future reporting on AI governance.",
-        "source": "CNBC"
-      },
-      {
-        "id": 9,
-        "headline": "Pentagon Bans Anthropic AI, Sparking Expert Concerns on Trust",
-        "what_changed": "The Pentagon has banned Anthropic, an AI company it previously partnered with, from its systems.",
-        "why_care": "This ban highlights growing concerns about AI reliability and ethics, which could impact public trust in AI-generated content and tools you use.",
-        "what_to_do": "Investigate the ethical guidelines and reliability claims of any AI tools you currently use or plan to adopt for content creation.",
-        "source": "CNBC"
-      },
-      {
-        "id": 10,
-        "headline": "Qualcomm and Neura Robotics Partner for New AI Robots",
-        "what_changed": "Neura Robotics will develop new robots using Qualcomm's recently released IQ10 processors.",
-        "why_care": "This partnership could lead to more advanced robotic tools for content creation, automation, or even physical reporting in the future.",
-        "what_to_do": "Investigate how current robotics are used in media production and consider potential future applications for your specific role."
-      },
-      {
-        "id": 11,
-        "headline": "Age Verification Spreads, Raising Adult Privacy Concerns",
-        "what_changed": "New age-verification laws and tools are being implemented across the U.S. for child safety, but privacy experts warn of adult surveillance.",
-        "why_care": "These tools could impact how you access information, conduct research, and protect your sources' anonymity online.",
-        "what_to_do": "Review the privacy policies of platforms you use and understand how new age-verification methods might affect your data and access."
-      },
-      {
-        "id": 12,
-        "headline": "Nscale Raises $2bn, Adds Sheryl Sandberg and Nick Clegg to Board",
-        "what_changed": "Nscale, a UK AI data center company, raised $2bn in funding and appointed Sheryl Sandberg and Nick Clegg to its board.",
-        "why_care": "This signals significant investment and influential leadership entering the AI infrastructure space, which will impact the tools and platforms you use.",
-        "what_to_do": "Research Nscale's technology and how it might influence the future availability and cost of AI services relevant to your work."
-      },
-      {
-        "id": 13,
-        "headline": "Study Warns of 'AI Brain Fry' from Overseeing Too Many AI Tools",
-        "what_changed": "A BCG study found that overseeing too many AI tools simultaneously leads to cognitive exhaustion, higher error rates, and increased intent to quit.",
-        "why_care": "Relying on too many AI tools for writing, editing, or fact-checking could reduce your accuracy and lead to burnout.",
-        "what_to_do": "Evaluate your current use of AI tools and consider consolidating or streamlining your workflow to avoid cognitive overload."
-      },
-      {
-        "id": 14,
-        "headline": "U.S. Military Uses AI in 3,000 Strikes, Oversight 'Underinvested'",
-        "what_changed": "The U.S. military used generative AI to support 3,000 strikes in Iran, with new details revealing deep AI integration in intelligence and targeting.",
-        "why_care": "This highlights the growing, often opaque, role of AI in critical global events, which impacts how you report on conflicts and technology.",
-        "what_to_do": "Research the ethical implications and potential biases of AI in military applications to inform your reporting and analysis."
-      }
-    ],
-    "customer_support": [
-      {
-        "id": 0,
-        "headline": "ChatGPT adds interactive math and physics visuals.",
-        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users can tweak variables.",
-        "why_care": "Bottom line: AI tools are becoming more interactive and visual for learning.",
-        "what_to_do": "Keep an eye on this: AI moves beyond text, explaining complex topics visually.",
-        "style": "direct",
-        "source": "The Decoder"
-      }
-    ],
-    "hr": [
-      {
-        "id": 0,
-        "headline": "ChatGPT now explains math and physics with interactive visualizations",
-        "what_changed": "ChatGPT now displays interactive visualizations for math and physics topics where users can tweak variables and watch graphs update in real time. More than 70 concepts are available at launch. The article ChatGPT now explains math and physics with interactive visualizations appeared first on The Decoder.",
-        "why_care": "This AI development could affect how work gets done in your field.",
-        "what_to_do": "Read the full article to assess if this impacts your role.",
+        "what_changed": "ChatGPT now shows interactive math and physics visualizations. Users tweak variables.",
+        "why_care": "Bottom line: AI tools are becoming more interactive and visual.",
+        "what_to_do": "Worth knowing: AI models are adding sophisticated, interactive features beyond text.",
         "style": "direct",
         "source": "The Decoder"
       }
